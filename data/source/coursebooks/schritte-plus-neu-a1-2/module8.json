@@ -1,0 +1,2344 @@
+[
+  {
+    "dictionaryId": "geschichte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Geschichte",
+    "plural": "Geschichten",
+    "translation": {
+      "ru": [
+        "история",
+        "рассказ"
+      ],
+      "en": [
+        "story",
+        "history"
+      ],
+      "ar": [
+        "قصة",
+        "تاريخ"
+      ]
+    },
+    "id": "geschichte"
+  },
+  {
+    "dictionaryId": "krankenhaus",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Krankenhaus",
+    "plural": "Krankenhäuser",
+    "translation": {
+      "ru": [
+        "больница"
+      ],
+      "en": [
+        "hospital"
+      ],
+      "ar": [
+        "مستشفى"
+      ]
+    },
+    "id": "krankenhaus"
+  },
+  {
+    "dictionaryId": "interview",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Interview",
+    "plural": "Interviews",
+    "translation": {
+      "ru": [
+        "интервью"
+      ],
+      "en": [
+        "interview"
+      ],
+      "ar": [
+        "مقابلة"
+      ]
+    },
+    "id": "interview"
+  },
+  {
+    "dictionaryId": "zeitung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zeitung",
+    "plural": "Zeitungen",
+    "translation": {
+      "ru": [
+        "газета"
+      ],
+      "en": [
+        "newspaper"
+      ],
+      "ar": [
+        "جريدة"
+      ]
+    },
+    "id": "zeitung"
+  },
+  {
+    "dictionaryId": "fernsehen",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Fernsehen",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "телевидение"
+      ],
+      "en": [
+        "television"
+      ],
+      "ar": [
+        "تلفزيون"
+      ]
+    },
+    "id": "fernsehen"
+  },
+  {
+    "dictionaryId": "ausbildung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ausbildung",
+    "plural": "Ausbildungen",
+    "translation": {
+      "ru": [
+        "образование",
+        "профессиональное обучение"
+      ],
+      "en": [
+        "training",
+        "vocational training",
+        "education"
+      ],
+      "ar": [
+        "تدريب مهني",
+        "تعليم"
+      ]
+    },
+    "id": "ausbildung"
+  },
+  {
+    "dictionaryId": "chef",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Chef",
+    "plural": "Chefs",
+    "translation": {
+      "ru": [
+        "начальник",
+        "шеф"
+      ],
+      "en": [
+        "boss",
+        "chief"
+      ],
+      "ar": [
+        "رئيس",
+        "مدير"
+      ]
+    },
+    "id": "chef"
+  },
+  {
+    "dictionaryId": "chefin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Chefin",
+    "plural": "Chefinnen",
+    "translation": {
+      "ru": [
+        "начальница",
+        "шефиня"
+      ],
+      "en": [
+        "female boss"
+      ],
+      "ar": [
+        "رئيسة",
+        "مديرة"
+      ]
+    },
+    "id": "chefin"
+  },
+  {
+    "dictionaryId": "patient",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Patient",
+    "plural": "Patienten",
+    "translation": {
+      "ru": [
+        "пациент"
+      ],
+      "en": [
+        "patient"
+      ],
+      "ar": [
+        "مريض"
+      ]
+    },
+    "id": "patient"
+  },
+  {
+    "dictionaryId": "patientin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Patientin",
+    "plural": "Patientinnen",
+    "translation": {
+      "ru": [
+        "пациентка"
+      ],
+      "en": [
+        "female patient"
+      ],
+      "ar": [
+        "مريضة"
+      ]
+    },
+    "id": "patientin"
+  },
+  {
+    "dictionaryId": "hausmeister",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Hausmeister",
+    "plural": "Hausmeister",
+    "translation": {
+      "ru": [
+        "завхоз",
+        "дворник",
+        "смотритель здания"
+      ],
+      "en": [
+        "caretaker",
+        "janitor"
+      ],
+      "ar": [
+        "حارس المبنى",
+        "عامل صيانة"
+      ]
+    },
+    "id": "hausmeister"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Hausmeisterin",
+    "plural": "Hausmeisterinnen",
+    "translation": {
+      "ru": [
+        "завхоз",
+        "дворничиха",
+        "смотрительница здания"
+      ],
+      "en": [
+        "female caretaker",
+        "female janitor"
+      ],
+      "ar": [
+        "حارسة المبنى",
+        "عاملة صيانة"
+      ]
+    },
+    "id": "hausmeisterin"
+  },
+  {
+    "dictionaryId": "journalist",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Journalist",
+    "plural": "Journalisten",
+    "translation": {
+      "ru": [
+        "журналист"
+      ],
+      "en": [
+        "journalist"
+      ],
+      "ar": [
+        "صحفي"
+      ]
+    },
+    "id": "journalist"
+  },
+  {
+    "dictionaryId": "journalistin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Journalistin",
+    "plural": "Journalistinnen",
+    "translation": {
+      "ru": [
+        "журналистка"
+      ],
+      "en": [
+        "female journalist"
+      ],
+      "ar": [
+        "صحفية"
+      ]
+    },
+    "id": "journalistin"
+  },
+  {
+    "dictionaryId": "thema",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Thema",
+    "plural": "Themen",
+    "translation": {
+      "ru": [
+        "тема"
+      ],
+      "en": [
+        "topic",
+        "subject"
+      ],
+      "ar": [
+        "موضوع"
+      ]
+    },
+    "id": "thema"
+  },
+  {
+    "dictionaryId": "eigen",
+    "type": "other",
+    "word": "eigen-",
+    "translation": {
+      "ru": [
+        "собственный"
+      ],
+      "en": [
+        "own"
+      ],
+      "ar": [
+        "خاص"
+      ]
+    },
+    "id": "eigen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Mechatroniker",
+    "plural": "Mechatroniker",
+    "translation": {
+      "ru": [
+        "мехатроник",
+        "техник-мехатроник"
+      ],
+      "en": [
+        "mechatronics technician"
+      ],
+      "ar": [
+        "فني ميكاترونكس"
+      ]
+    },
+    "id": "mechatroniker"
+  },
+  {
+    "dictionaryId": "hausmann",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Hausmann",
+    "plural": "Hausmänner",
+    "translation": {
+      "ru": [
+        "домохозяин"
+      ],
+      "en": [
+        "househusband"
+      ],
+      "ar": [
+        "رب منزل"
+      ]
+    },
+    "id": "hausmann"
+  },
+  {
+    "dictionaryId": "hausfrau",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Hausfrau",
+    "plural": "Hausfrauen",
+    "translation": {
+      "ru": [
+        "домохозяйка"
+      ],
+      "en": [
+        "housewife"
+      ],
+      "ar": [
+        "ربة منزل"
+      ]
+    },
+    "id": "hausfrau"
+  },
+  {
+    "dictionaryId": "polizist",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Polizist",
+    "plural": "Polizisten",
+    "translation": {
+      "ru": [
+        "полицейский"
+      ],
+      "en": [
+        "police officer",
+        "policeman"
+      ],
+      "ar": [
+        "شرطي"
+      ]
+    },
+    "id": "polizist"
+  },
+  {
+    "dictionaryId": "polizistin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Polizistin",
+    "plural": "Polizistinnen",
+    "translation": {
+      "ru": [
+        "полицейская"
+      ],
+      "en": [
+        "female police officer",
+        "policewoman"
+      ],
+      "ar": [
+        "شرطية"
+      ]
+    },
+    "id": "polizistin"
+  },
+  {
+    "dictionaryId": "krankenpfleger",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Krankenpfleger",
+    "plural": "Krankenpfleger",
+    "translation": {
+      "ru": [
+        "медбрат",
+        "санитар"
+      ],
+      "en": [
+        "male nurse",
+        "nurse"
+      ],
+      "ar": [
+        "ممرض"
+      ]
+    },
+    "id": "krankenpfleger"
+  },
+  {
+    "dictionaryId": "krankenschwester",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Krankenschwester",
+    "plural": "Krankenschwestern",
+    "translation": {
+      "ru": [
+        "медсестра"
+      ],
+      "en": [
+        "nurse"
+      ],
+      "ar": [
+        "ممرضة"
+      ]
+    },
+    "id": "krankenschwester"
+  },
+  {
+    "dictionaryId": "schüler",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schüler",
+    "plural": "Schüler",
+    "translation": {
+      "ru": [
+        "школьник",
+        "ученик"
+      ],
+      "en": [
+        "pupil",
+        "school student"
+      ],
+      "ar": [
+        "تلميذ"
+      ]
+    },
+    "id": "schüler"
+  },
+  {
+    "dictionaryId": "schülerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schülerin",
+    "plural": "Schülerinnen",
+    "translation": {
+      "ru": [
+        "школьница",
+        "ученица"
+      ],
+      "en": [
+        "female pupil",
+        "schoolgirl"
+      ],
+      "ar": [
+        "تلميذة"
+      ]
+    },
+    "id": "schülerin"
+  },
+  {
+    "dictionaryId": "student",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Student",
+    "plural": "Studenten",
+    "translation": {
+      "ru": [
+        "студент"
+      ],
+      "en": [
+        "student",
+        "university student"
+      ],
+      "ar": [
+        "طالب جامعي"
+      ]
+    },
+    "id": "student"
+  },
+  {
+    "dictionaryId": "studentin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Studentin",
+    "plural": "Studentinnen",
+    "translation": {
+      "ru": [
+        "студентка"
+      ],
+      "en": [
+        "female student",
+        "university student"
+      ],
+      "ar": [
+        "طالبة جامعية"
+      ]
+    },
+    "id": "studentin"
+  },
+  {
+    "dictionaryId": "studieren",
+    "type": "verb",
+    "infinitive": "studieren",
+    "praeteritum": "studierte",
+    "perfekt": "hat studiert",
+    "translation": {
+      "ru": [
+        "учиться в вузе",
+        "изучать"
+      ],
+      "en": [
+        "to study"
+      ],
+      "ar": [
+        "يدرس"
+      ]
+    },
+    "id": "studieren"
+  },
+  {
+    "dictionaryId": "job",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Job",
+    "plural": "Jobs",
+    "translation": {
+      "ru": [
+        "работа",
+        "подработка"
+      ],
+      "en": [
+        "job"
+      ],
+      "ar": [
+        "عمل",
+        "وظيفة"
+      ]
+    },
+    "id": "job"
+  },
+  {
+    "dictionaryId": "stelle",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Stelle",
+    "plural": "Stellen",
+    "translation": {
+      "ru": [
+        "должность",
+        "место работы",
+        "вакансия"
+      ],
+      "en": [
+        "position",
+        "job",
+        "vacancy"
+      ],
+      "ar": [
+        "وظيفة",
+        "منصب"
+      ]
+    },
+    "id": "stelle"
+  },
+  {
+    "dictionaryId": "selbstständig",
+    "type": "other",
+    "word": "selbstständig",
+    "translation": {
+      "ru": [
+        "самозанятый",
+        "самостоятельный"
+      ],
+      "en": [
+        "self-employed",
+        "independent"
+      ],
+      "ar": [
+        "مستقل",
+        "يعمل لحسابه"
+      ]
+    },
+    "id": "selbstständig"
+  },
+  {
+    "dictionaryId": "berufstätig",
+    "type": "other",
+    "word": "berufstätig",
+    "translation": {
+      "ru": [
+        "трудоустроенный",
+        "работающий"
+      ],
+      "en": [
+        "employed",
+        "working"
+      ],
+      "ar": [
+        "موظف",
+        "عامل"
+      ]
+    },
+    "id": "berufstätig"
+  },
+  {
+    "dictionaryId": "arbeitslos",
+    "type": "other",
+    "word": "arbeitslos",
+    "translation": {
+      "ru": [
+        "безработный"
+      ],
+      "en": [
+        "unemployed"
+      ],
+      "ar": [
+        "عاطل عن العمل"
+      ]
+    },
+    "id": "arbeitslos"
+  },
+  {
+    "dictionaryId": "zurzeit",
+    "type": "other",
+    "word": "zurzeit",
+    "translation": {
+      "ru": [
+        "в настоящее время",
+        "сейчас"
+      ],
+      "en": [
+        "currently",
+        "at the moment"
+      ],
+      "ar": [
+        "حاليًا"
+      ]
+    },
+    "id": "zurzeit"
+  },
+  {
+    "dictionaryId": "taxifahrer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Taxifahrer",
+    "plural": "Taxifahrer",
+    "translation": {
+      "ru": [
+        "таксист"
+      ],
+      "en": [
+        "taxi driver"
+      ],
+      "ar": [
+        "سائق تاكسي"
+      ]
+    },
+    "id": "taxifahrer"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Taxifahrerin",
+    "plural": "Taxifahrerinnen",
+    "translation": {
+      "ru": [
+        "таксистка"
+      ],
+      "en": [
+        "female taxi driver"
+      ],
+      "ar": [
+        "سائقة تاكسي"
+      ]
+    },
+    "id": "taxifahrerin"
+  },
+  {
+    "dictionaryId": "dauern",
+    "type": "verb",
+    "infinitive": "dauern",
+    "praeteritum": "dauerte",
+    "perfekt": "hat gedauert",
+    "translation": {
+      "ru": [
+        "длиться",
+        "продолжаться"
+      ],
+      "en": [
+        "to last",
+        "to take time"
+      ],
+      "ar": [
+        "يستغرق",
+        "يدوم"
+      ]
+    },
+    "id": "dauern"
+  },
+  {
+    "dictionaryId": "seit",
+    "type": "other",
+    "word": "seit",
+    "translation": {
+      "ru": [
+        "с",
+        "с момента",
+        "с тех пор как"
+      ],
+      "en": [
+        "since",
+        "for"
+      ],
+      "ar": [
+        "منذ"
+      ]
+    },
+    "id": "seit"
+  },
+  {
+    "dictionaryId": "bewerbung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bewerbung",
+    "plural": "Bewerbungen",
+    "translation": {
+      "ru": [
+        "заявление",
+        "заявка на работу",
+        "отклик на вакансию"
+      ],
+      "en": [
+        "application",
+        "job application"
+      ],
+      "ar": [
+        "طلب",
+        "طلب عمل"
+      ]
+    },
+    "id": "bewerbung"
+  },
+  {
+    "dictionaryId": "praktikum",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Praktikum",
+    "plural": "Praktika",
+    "translation": {
+      "ru": [
+        "практика",
+        "стажировка"
+      ],
+      "en": [
+        "internship",
+        "work placement"
+      ],
+      "ar": [
+        "تدريب عملي",
+        "فترة تدريب"
+      ]
+    },
+    "id": "praktikum"
+  },
+  {
+    "dictionaryId": "abteilung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Abteilung",
+    "plural": "Abteilungen",
+    "translation": {
+      "ru": [
+        "отдел",
+        "подразделение"
+      ],
+      "en": [
+        "department",
+        "division"
+      ],
+      "ar": [
+        "قسم"
+      ]
+    },
+    "id": "abteilung"
+  },
+  {
+    "dictionaryId": "leiter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Leiter",
+    "plural": "Leiter",
+    "translation": {
+      "ru": [
+        "руководитель",
+        "начальник"
+      ],
+      "en": [
+        "manager",
+        "head",
+        "leader"
+      ],
+      "ar": [
+        "مدير",
+        "رئيس"
+      ]
+    },
+    "id": "leiter"
+  },
+  {
+    "dictionaryId": "leiterin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Leiterin",
+    "plural": "Leiterinnen",
+    "translation": {
+      "ru": [
+        "руководительница",
+        "начальница"
+      ],
+      "en": [
+        "female manager",
+        "female head"
+      ],
+      "ar": [
+        "مديرة",
+        "رئيسة"
+      ]
+    },
+    "id": "leiterin"
+  },
+  {
+    "dictionaryId": "geehrt",
+    "type": "other",
+    "word": "geehrt",
+    "translation": {
+      "ru": [
+        "уважаемый"
+      ],
+      "en": [
+        "honored",
+        "dear"
+      ],
+      "ar": [
+        "المحترم"
+      ]
+    },
+    "id": "geehrt"
+  },
+  {
+    "dictionaryId": "wirtschaft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wirtschaft",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "экономика",
+        "хозяйство"
+      ],
+      "en": [
+        "economy",
+        "business"
+      ],
+      "ar": [
+        "اقتصاد"
+      ]
+    },
+    "id": "wirtschaft"
+  },
+  {
+    "dictionaryId": "diplom",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Diplom",
+    "plural": "Diplome",
+    "translation": {
+      "ru": [
+        "диплом"
+      ],
+      "en": [
+        "diploma",
+        "degree"
+      ],
+      "ar": [
+        "شهادة",
+        "دبلوم"
+      ]
+    },
+    "id": "diplom"
+  },
+  {
+    "dictionaryId": "gerade",
+    "type": "other",
+    "word": "gerade",
+    "translation": {
+      "ru": [
+        "как раз",
+        "только что",
+        "прямо"
+      ],
+      "en": [
+        "just",
+        "right now",
+        "straight"
+      ],
+      "ar": [
+        "تمامًا",
+        "الآن"
+      ]
+    },
+    "id": "gerade"
+  },
+  {
+    "dictionaryId": "büro",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Büro",
+    "plural": "Büros",
+    "translation": {
+      "ru": [
+        "офис",
+        "бюро"
+      ],
+      "en": [
+        "office"
+      ],
+      "ar": [
+        "مكتب"
+      ]
+    },
+    "id": "büro"
+  },
+  {
+    "dictionaryId": "information",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Information",
+    "plural": "Informationen",
+    "translation": {
+      "ru": [
+        "информация",
+        "сведения"
+      ],
+      "en": [
+        "information"
+      ],
+      "ar": [
+        "معلومة",
+        "معلومات"
+      ]
+    },
+    "id": "information"
+  },
+  {
+    "dictionaryId": "gruß",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Gruß",
+    "plural": "Grüße",
+    "translation": {
+      "ru": [
+        "приветствие",
+        "привет"
+      ],
+      "en": [
+        "greeting",
+        "regards"
+      ],
+      "ar": [
+        "تحية"
+      ]
+    },
+    "id": "gruss"
+  },
+  {
+    "dictionaryId": "heiraten",
+    "type": "verb",
+    "infinitive": "heiraten",
+    "praeteritum": "heiratete",
+    "perfekt": "hat geheiratet",
+    "translation": {
+      "ru": [
+        "жениться",
+        "выходить замуж"
+      ],
+      "en": [
+        "to marry",
+        "to get married"
+      ],
+      "ar": [
+        "يتزوج"
+      ]
+    },
+    "id": "heiraten"
+  },
+  {
+    "dictionaryId": "eigentlich",
+    "type": "other",
+    "word": "eigentlich",
+    "translation": {
+      "ru": [
+        "вообще-то",
+        "собственно",
+        "на самом деле"
+      ],
+      "en": [
+        "actually",
+        "really"
+      ],
+      "ar": [
+        "في الواقع"
+      ]
+    },
+    "id": "eigentlich"
+  },
+  {
+    "dictionaryId": "später",
+    "type": "other",
+    "word": "später",
+    "translation": {
+      "ru": [
+        "позже",
+        "потом"
+      ],
+      "en": [
+        "later"
+      ],
+      "ar": [
+        "لاحقًا"
+      ]
+    },
+    "id": "später"
+  },
+  {
+    "dictionaryId": "reiseführer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Reiseführer",
+    "plural": "Reiseführer",
+    "translation": {
+      "ru": [
+        "гид",
+        "экскурсовод",
+        "путеводитель"
+      ],
+      "en": [
+        "tour guide",
+        "travel guide"
+      ],
+      "ar": [
+        "دليل سياحي"
+      ]
+    },
+    "id": "reiseführer"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Reiseführerin",
+    "plural": "Reiseführerinnen",
+    "translation": {
+      "ru": [
+        "гид",
+        "экскурсовод"
+      ],
+      "en": [
+        "female tour guide"
+      ],
+      "ar": [
+        "مرشدة سياحية"
+      ]
+    },
+    "id": "reiseführerin"
+  },
+  {
+    "dictionaryId": "tourist",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tourist",
+    "plural": "Touristen",
+    "translation": {
+      "ru": [
+        "турист"
+      ],
+      "en": [
+        "tourist"
+      ],
+      "ar": [
+        "سائح"
+      ]
+    },
+    "id": "tourist"
+  },
+  {
+    "dictionaryId": "touristin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Touristin",
+    "plural": "Touristinnen",
+    "translation": {
+      "ru": [
+        "туристка"
+      ],
+      "en": [
+        "female tourist"
+      ],
+      "ar": [
+        "سائحة"
+      ]
+    },
+    "id": "touristin"
+  },
+  {
+    "dictionaryId": "zeigen",
+    "type": "verb",
+    "infinitive": "zeigen",
+    "praeteritum": "zeigte",
+    "perfekt": "hat gezeigt",
+    "translation": {
+      "ru": [
+        "показывать"
+      ],
+      "en": [
+        "to show"
+      ],
+      "ar": [
+        "يُظهر",
+        "يعرض"
+      ]
+    },
+    "id": "zeigen"
+  },
+  {
+    "dictionaryId": "berufserfahrung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Berufserfahrung",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "опыт работы",
+        "профессиональный опыт"
+      ],
+      "en": [
+        "work experience",
+        "professional experience"
+      ],
+      "ar": [
+        "خبرة عمل"
+      ]
+    },
+    "id": "berufserfahrung"
+  },
+  {
+    "dictionaryId": "café",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Café",
+    "plural": "Cafés",
+    "translation": {
+      "ru": [
+        "кафе"
+      ],
+      "en": [
+        "café",
+        "coffee shop"
+      ],
+      "ar": [
+        "مقهى"
+      ]
+    },
+    "id": "caf"
+  },
+  {
+    "dictionaryId": "stress",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Stress",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "стресс",
+        "напряжение"
+      ],
+      "en": [
+        "stress"
+      ],
+      "ar": [
+        "توتر",
+        "ضغط"
+      ]
+    },
+    "id": "stress"
+  },
+  {
+    "dictionaryId": "manchmal",
+    "type": "other",
+    "word": "manchmal",
+    "translation": {
+      "ru": [
+        "иногда"
+      ],
+      "en": [
+        "sometimes"
+      ],
+      "ar": [
+        "أحيانًا"
+      ]
+    },
+    "id": "manchmal"
+  },
+  {
+    "dictionaryId": "kellner",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kellner",
+    "plural": "Kellner",
+    "translation": {
+      "ru": [
+        "официант"
+      ],
+      "en": [
+        "waiter"
+      ],
+      "ar": [
+        "نادل"
+      ]
+    },
+    "id": "kellner"
+  },
+  {
+    "dictionaryId": "kellnerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kellnerin",
+    "plural": "Kellnerinnen",
+    "translation": {
+      "ru": [
+        "официантка"
+      ],
+      "en": [
+        "waitress"
+      ],
+      "ar": [
+        "نادلة"
+      ]
+    },
+    "id": "kellnerin"
+  },
+  {
+    "dictionaryId": "restaurant",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Restaurant",
+    "plural": "Restaurants",
+    "translation": {
+      "ru": [
+        "ресторан"
+      ],
+      "en": [
+        "restaurant"
+      ],
+      "ar": [
+        "مطعم"
+      ]
+    },
+    "id": "restaurant"
+  },
+  {
+    "dictionaryId": "architekt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Architekt",
+    "plural": "Architekten",
+    "translation": {
+      "ru": [
+        "архитектор"
+      ],
+      "en": [
+        "architect"
+      ],
+      "ar": [
+        "مهندس معماري"
+      ]
+    },
+    "id": "architekt"
+  },
+  {
+    "dictionaryId": "architektin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Architektin",
+    "plural": "Architektinnen",
+    "translation": {
+      "ru": [
+        "архитектор"
+      ],
+      "en": [
+        "female architect"
+      ],
+      "ar": [
+        "مهندسة معمارية"
+      ]
+    },
+    "id": "architektin"
+  },
+  {
+    "dictionaryId": "koch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Koch",
+    "plural": "Köche",
+    "translation": {
+      "ru": [
+        "повар"
+      ],
+      "en": [
+        "cook",
+        "chef"
+      ],
+      "ar": [
+        "طباخ"
+      ]
+    },
+    "id": "koch"
+  },
+  {
+    "dictionaryId": "köchin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Köchin",
+    "plural": "Köchinnen",
+    "translation": {
+      "ru": [
+        "повариха",
+        "повар"
+      ],
+      "en": [
+        "female cook",
+        "female chef"
+      ],
+      "ar": [
+        "طباخة"
+      ]
+    },
+    "id": "köchin"
+  },
+  {
+    "dictionaryId": "arbeiter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Arbeiter",
+    "plural": "Arbeiter",
+    "translation": {
+      "ru": [
+        "рабочий"
+      ],
+      "en": [
+        "worker"
+      ],
+      "ar": [
+        "عامل"
+      ]
+    },
+    "id": "arbeiter"
+  },
+  {
+    "dictionaryId": "arbeiterin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Arbeiterin",
+    "plural": "Arbeiterinnen",
+    "translation": {
+      "ru": [
+        "рабочая"
+      ],
+      "en": [
+        "female worker"
+      ],
+      "ar": [
+        "عاملة"
+      ]
+    },
+    "id": "arbeiterin"
+  },
+  {
+    "dictionaryId": "wenig",
+    "type": "other",
+    "word": "wenig",
+    "translation": {
+      "ru": [
+        "мало",
+        "немного"
+      ],
+      "en": [
+        "little",
+        "few"
+      ],
+      "ar": [
+        "قليل"
+      ]
+    },
+    "id": "wenig"
+  },
+  {
+    "dictionaryId": "kollege",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kollege",
+    "plural": "Kollegen",
+    "translation": {
+      "ru": [
+        "коллега"
+      ],
+      "en": [
+        "colleague"
+      ],
+      "ar": [
+        "زميل"
+      ]
+    },
+    "id": "kollege"
+  },
+  {
+    "dictionaryId": "kollegin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kollegin",
+    "plural": "Kolleginnen",
+    "translation": {
+      "ru": [
+        "коллега"
+      ],
+      "en": [
+        "female colleague"
+      ],
+      "ar": [
+        "زميلة"
+      ]
+    },
+    "id": "kollegin"
+  },
+  {
+    "dictionaryId": "ausland",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Ausland",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "зарубежье",
+        "заграница"
+      ],
+      "en": [
+        "abroad",
+        "foreign countries"
+      ],
+      "ar": [
+        "الخارج"
+      ]
+    },
+    "id": "ausland"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "ander-",
+    "translation": {
+      "ru": [
+        "другой",
+        "иной"
+      ],
+      "en": [
+        "other",
+        "different"
+      ],
+      "ar": [
+        "آخر",
+        "مختلف"
+      ]
+    },
+    "id": "ander"
+  },
+  {
+    "dictionaryId": "arbeitsplatz",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Arbeitsplatz",
+    "plural": "Arbeitsplätze",
+    "translation": {
+      "ru": [
+        "рабочее место"
+      ],
+      "en": [
+        "workplace"
+      ],
+      "ar": [
+        "مكان العمل"
+      ]
+    },
+    "id": "arbeitsplatz"
+  },
+  {
+    "dictionaryId": "traum",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Traum",
+    "plural": "Träume",
+    "translation": {
+      "ru": [
+        "мечта",
+        "сон"
+      ],
+      "en": [
+        "dream"
+      ],
+      "ar": [
+        "حلم"
+      ]
+    },
+    "id": "traum"
+  },
+  {
+    "dictionaryId": "tagsüber",
+    "type": "other",
+    "word": "tagsüber",
+    "translation": {
+      "ru": [
+        "днём",
+        "в течение дня"
+      ],
+      "en": [
+        "during the day"
+      ],
+      "ar": [
+        "خلال النهار"
+      ]
+    },
+    "id": "tagsüber"
+  },
+  {
+    "dictionaryId": "dreimal",
+    "type": "other",
+    "word": "dreimal",
+    "translation": {
+      "ru": [
+        "три раза"
+      ],
+      "en": [
+        "three times"
+      ],
+      "ar": [
+        "ثلاث مرات"
+      ]
+    },
+    "id": "dreimal"
+  },
+  {
+    "dictionaryId": "bekommen",
+    "type": "verb",
+    "infinitive": "bekommen",
+    "praeteritum": "bekam",
+    "perfekt": "hat bekommen",
+    "translation": {
+      "ru": [
+        "получать",
+        "получить"
+      ],
+      "en": [
+        "to get",
+        "to receive"
+      ],
+      "ar": [
+        "يحصل",
+        "يتلقى"
+      ]
+    },
+    "id": "bekommen"
+  },
+  {
+    "dictionaryId": "sekretär",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Sekretär",
+    "plural": "Sekretäre",
+    "translation": {
+      "ru": [
+        "секретарь"
+      ],
+      "en": [
+        "secretary"
+      ],
+      "ar": [
+        "سكرتير"
+      ]
+    },
+    "id": "sekretär"
+  },
+  {
+    "dictionaryId": "sekretärin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sekretärin",
+    "plural": "Sekretärinnen",
+    "translation": {
+      "ru": [
+        "секретарша",
+        "секретарь"
+      ],
+      "en": [
+        "female secretary"
+      ],
+      "ar": [
+        "سكرتيرة"
+      ]
+    },
+    "id": "sekretärin"
+  },
+  {
+    "dictionaryId": "universität",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Universität",
+    "plural": "Universitäten",
+    "translation": {
+      "ru": [
+        "университет"
+      ],
+      "en": [
+        "university"
+      ],
+      "ar": [
+        "جامعة"
+      ]
+    },
+    "id": "universität"
+  },
+  {
+    "dictionaryId": "befristet",
+    "type": "other",
+    "word": "befristet",
+    "translation": {
+      "ru": [
+        "временный",
+        "срочный",
+        "ограниченный по сроку"
+      ],
+      "en": [
+        "temporary",
+        "fixed-term"
+      ],
+      "ar": [
+        "مؤقت",
+        "محدد المدة"
+      ]
+    },
+    "id": "befristet"
+  },
+  {
+    "dictionaryId": "vollzeit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Vollzeit",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "полная занятость",
+        "полный рабочий день"
+      ],
+      "en": [
+        "full-time"
+      ],
+      "ar": [
+        "دوام كامل"
+      ]
+    },
+    "id": "vollzeit"
+  },
+  {
+    "dictionaryId": "teilzeit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Teilzeit",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "частичная занятость",
+        "неполный рабочий день"
+      ],
+      "en": [
+        "part-time"
+      ],
+      "ar": [
+        "دوام جزئي"
+      ]
+    },
+    "id": "teilzeit"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "ganztags",
+    "translation": {
+      "ru": [
+        "полный день",
+        "весь день"
+      ],
+      "en": [
+        "all day",
+        "full-time"
+      ],
+      "ar": [
+        "طوال اليوم"
+      ]
+    },
+    "id": "ganztags"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "halbtags",
+    "translation": {
+      "ru": [
+        "неполный день",
+        "полдня"
+      ],
+      "en": [
+        "half-day",
+        "part-time"
+      ],
+      "ar": [
+        "نصف يوم"
+      ]
+    },
+    "id": "halbtags"
+  },
+  {
+    "dictionaryId": "vormittags",
+    "type": "other",
+    "word": "vormittags",
+    "translation": {
+      "ru": [
+        "в первой половине дня",
+        "по утрам"
+      ],
+      "en": [
+        "in the morning",
+        "before noon"
+      ],
+      "ar": [
+        "صباحًا",
+        "قبل الظهر"
+      ]
+    },
+    "id": "vormittags"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "nachmittags",
+    "translation": {
+      "ru": [
+        "после обеда",
+        "днём"
+      ],
+      "en": [
+        "in the afternoon"
+      ],
+      "ar": [
+        "بعد الظهر"
+      ]
+    },
+    "id": "nachmittags"
+  },
+  {
+    "dictionaryId": "nachhilfe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nachhilfe",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "репетиторство",
+        "дополнительные занятия"
+      ],
+      "en": [
+        "tutoring",
+        "private lessons"
+      ],
+      "ar": [
+        "دروس خصوصية"
+      ]
+    },
+    "id": "nachhilfe"
+  },
+  {
+    "dictionaryId": "montags",
+    "type": "other",
+    "word": "montags",
+    "translation": {
+      "ru": [
+        "по понедельникам"
+      ],
+      "en": [
+        "on Mondays"
+      ],
+      "ar": [
+        "أيام الاثنين"
+      ]
+    },
+    "id": "montags"
+  },
+  {
+    "dictionaryId": "donnerstags",
+    "type": "other",
+    "word": "donnerstags",
+    "translation": {
+      "ru": [
+        "по четвергам"
+      ],
+      "en": [
+        "on Thursdays"
+      ],
+      "ar": [
+        "أيام الخميس"
+      ]
+    },
+    "id": "donnerstags"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Senioren",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "пожилые люди",
+        "пенсионеры"
+      ],
+      "en": [
+        "seniors",
+        "elderly people"
+      ],
+      "ar": [
+        "كبار السن"
+      ]
+    },
+    "id": "senioren"
+  },
+  {
+    "dictionaryId": "aushilfe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Aushilfe",
+    "plural": "Aushilfen",
+    "translation": {
+      "ru": [
+        "подработка",
+        "временная помощь",
+        "временный работник"
+      ],
+      "en": [
+        "temporary help",
+        "part-time job",
+        "temporary worker"
+      ],
+      "ar": [
+        "مساعدة مؤقتة",
+        "عمل مؤقت"
+      ]
+    },
+    "id": "aushilfe"
+  },
+  {
+    "dictionaryId": "dringend",
+    "type": "other",
+    "word": "dringend",
+    "translation": {
+      "ru": [
+        "срочно",
+        "неотложно"
+      ],
+      "en": [
+        "urgent",
+        "urgently"
+      ],
+      "ar": [
+        "عاجل",
+        "بشكل عاجل"
+      ]
+    },
+    "id": "dringend"
+  },
+  {
+    "dictionaryId": "service",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Service",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "сервис",
+        "обслуживание"
+      ],
+      "en": [
+        "service"
+      ],
+      "ar": [
+        "خدمة"
+      ]
+    },
+    "id": "service"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "abends",
+    "translation": {
+      "ru": [
+        "по вечерам",
+        "вечерами"
+      ],
+      "en": [
+        "in the evenings"
+      ],
+      "ar": [
+        "مساءً"
+      ]
+    },
+    "id": "abends"
+  },
+  {
+    "dictionaryId": "dienstags",
+    "type": "other",
+    "word": "dienstags",
+    "translation": {
+      "ru": [
+        "по вторникам"
+      ],
+      "en": [
+        "on Tuesdays"
+      ],
+      "ar": [
+        "أيام الثلاثاء"
+      ]
+    },
+    "id": "dienstags"
+  },
+  {
+    "dictionaryId": "mittwochs",
+    "type": "other",
+    "word": "mittwochs",
+    "translation": {
+      "ru": [
+        "по средам"
+      ],
+      "en": [
+        "on Wednesdays"
+      ],
+      "ar": [
+        "أيام الأربعاء"
+      ]
+    },
+    "id": "mittwochs"
+  },
+  {
+    "dictionaryId": "freitags",
+    "type": "other",
+    "word": "freitags",
+    "translation": {
+      "ru": [
+        "по пятницам"
+      ],
+      "en": [
+        "on Fridays"
+      ],
+      "ar": [
+        "أيام الجمعة"
+      ]
+    },
+    "id": "freitags"
+  },
+  {
+    "dictionaryId": "sonntags",
+    "type": "other",
+    "word": "sonntags",
+    "translation": {
+      "ru": [
+        "по воскресеньям"
+      ],
+      "en": [
+        "on Sundays"
+      ],
+      "ar": [
+        "أيام الأحد"
+      ]
+    },
+    "id": "sonntags"
+  },
+  {
+    "dictionaryId": "zahlen",
+    "type": "verb",
+    "infinitive": "zahlen",
+    "praeteritum": "zahlte",
+    "perfekt": "hat gezahlt",
+    "translation": {
+      "ru": [
+        "платить",
+        "оплачивать"
+      ],
+      "en": [
+        "to pay"
+      ],
+      "ar": [
+        "يدفع"
+      ]
+    },
+    "id": "zahlen"
+  },
+  {
+    "dictionaryId": "pro",
+    "type": "other",
+    "word": "pro",
+    "translation": {
+      "ru": [
+        "за",
+        "на",
+        "за единицу"
+      ],
+      "en": [
+        "per"
+      ],
+      "ar": [
+        "لكل"
+      ]
+    },
+    "id": "pro"
+  },
+  {
+    "dictionaryId": "stunde",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Stunde",
+    "plural": "Stunden",
+    "translation": {
+      "ru": [
+        "час",
+        "урок"
+      ],
+      "en": [
+        "hour",
+        "lesson"
+      ],
+      "ar": [
+        "ساعة",
+        "درس"
+      ]
+    },
+    "id": "stunde"
+  },
+  {
+    "dictionaryId": "nachfrage",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nachfrage",
+    "plural": "Nachfragen",
+    "translation": {
+      "ru": [
+        "спрос",
+        "запрос"
+      ],
+      "en": [
+        "demand",
+        "inquiry"
+      ],
+      "ar": [
+        "طلب",
+        "استفسار"
+      ]
+    },
+    "id": "nachfrage"
+  },
+  {
+    "dictionaryId": "frei",
+    "type": "other",
+    "word": "frei",
+    "translation": {
+      "ru": [
+        "свободный",
+        "бесплатный"
+      ],
+      "en": [
+        "free",
+        "available"
+      ],
+      "ar": [
+        "حر",
+        "متاح",
+        "مجاني"
+      ]
+    },
+    "id": "frei"
+  },
+  {
+    "dictionaryId": "jeweils",
+    "type": "other",
+    "word": "jeweils",
+    "translation": {
+      "ru": [
+        "соответственно",
+        "каждый раз",
+        "каждый"
+      ],
+      "en": [
+        "respectively",
+        "each"
+      ],
+      "ar": [
+        "كل على حدة",
+        "على التوالي"
+      ]
+    },
+    "id": "jeweils"
+  },
+  {
+    "dictionaryId": "samstags",
+    "type": "other",
+    "word": "samstags",
+    "translation": {
+      "ru": [
+        "по субботам"
+      ],
+      "en": [
+        "on Saturdays"
+      ],
+      "ar": [
+        "أيام السبت"
+      ]
+    },
+    "id": "samstags"
+  }
+]

@@ -1,0 +1,1108 @@
+[
+  {
+    "dictionaryId": "messe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Messe",
+    "plural": "Messen",
+    "translation": {
+      "ru": [
+        "выставка",
+        "ярмарка"
+      ],
+      "en": [
+        "trade fair",
+        "exhibition"
+      ],
+      "ar": [
+        "معرض",
+        "معرض تجاري"
+      ]
+    },
+    "id": "messe"
+  },
+  {
+    "dictionaryId": "rechnen",
+    "type": "verb",
+    "infinitive": "rechnen",
+    "praeteritum": "rechnete",
+    "perfekt": "hat gerechnet",
+    "translation": {
+      "ru": [
+        "считать",
+        "вычислять"
+      ],
+      "en": [
+        "to calculate",
+        "to count"
+      ],
+      "ar": [
+        "يحسب"
+      ]
+    },
+    "id": "rechnen"
+  },
+  {
+    "dictionaryId": "zeichnen",
+    "type": "verb",
+    "infinitive": "zeichnen",
+    "praeteritum": "zeichnete",
+    "perfekt": "hat gezeichnet",
+    "translation": {
+      "ru": [
+        "рисовать",
+        "чертить"
+      ],
+      "en": [
+        "to draw"
+      ],
+      "ar": [
+        "يرسم"
+      ]
+    },
+    "id": "zeichnen"
+  },
+  {
+    "dictionaryId": "übersetzen",
+    "type": "verb",
+    "infinitive": "übersetzen",
+    "praeteritum": "übersetzte",
+    "perfekt": "hat übersetzt",
+    "translation": {
+      "ru": [
+        "переводить"
+      ],
+      "en": [
+        "to translate"
+      ],
+      "ar": [
+        "يترجم"
+      ]
+    },
+    "id": "übersetzen"
+  },
+  {
+    "dictionaryId": "organisieren",
+    "type": "verb",
+    "infinitive": "organisieren",
+    "praeteritum": "organisierte",
+    "perfekt": "hat organisiert",
+    "translation": {
+      "ru": [
+        "организовывать"
+      ],
+      "en": [
+        "to organize"
+      ],
+      "ar": [
+        "ينظم"
+      ]
+    },
+    "id": "organisieren"
+  },
+  {
+    "dictionaryId": "erstellen",
+    "type": "verb",
+    "infinitive": "erstellen",
+    "praeteritum": "erstellte",
+    "perfekt": "hat erstellt",
+    "translation": {
+      "ru": [
+        "создавать",
+        "составлять"
+      ],
+      "en": [
+        "to create",
+        "to produce"
+      ],
+      "ar": [
+        "ينشئ",
+        "يعد"
+      ]
+    },
+    "id": "erstellen"
+  },
+  {
+    "dictionaryId": "bedienen",
+    "type": "verb",
+    "infinitive": "bedienen",
+    "praeteritum": "bediente",
+    "perfekt": "hat bedient",
+    "translation": {
+      "ru": [
+        "обслуживать",
+        "управлять"
+      ],
+      "en": [
+        "to serve",
+        "to operate"
+      ],
+      "ar": [
+        "يخدم",
+        "يشغل"
+      ]
+    },
+    "id": "bedienen"
+  },
+  {
+    "dictionaryId": "beraten",
+    "type": "verb",
+    "infinitive": "beraten",
+    "praeteritum": "beriet",
+    "perfekt": "hat beraten",
+    "translation": {
+      "ru": [
+        "консультировать",
+        "советовать"
+      ],
+      "en": [
+        "to advise",
+        "to consult"
+      ],
+      "ar": [
+        "يستشير",
+        "يقدم المشورة"
+      ]
+    },
+    "id": "beraten"
+  },
+  {
+    "dictionaryId": "flexibel",
+    "type": "other",
+    "word": "flexibel",
+    "translation": {
+      "ru": [
+        "гибкий"
+      ],
+      "en": [
+        "flexible"
+      ],
+      "ar": [
+        "مرن"
+      ]
+    },
+    "id": "flexibel"
+  },
+  {
+    "dictionaryId": "altenheim",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Altenheim",
+    "plural": "Altenheime",
+    "translation": {
+      "ru": [
+        "дом престарелых"
+      ],
+      "en": [
+        "nursing home",
+        "retirement home"
+      ],
+      "ar": [
+        "دار رعاية المسنين"
+      ]
+    },
+    "id": "altenheim"
+  },
+  {
+    "dictionaryId": "lebenslauf",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Lebenslauf",
+    "plural": "Lebensläufe",
+    "translation": {
+      "ru": [
+        "резюме",
+        "биография"
+      ],
+      "en": [
+        "CV",
+        "résumé"
+      ],
+      "ar": [
+        "سيرة ذاتية"
+      ]
+    },
+    "id": "lebenslauf"
+  },
+  {
+    "dictionaryId": "daten",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Daten",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "данные"
+      ],
+      "en": [
+        "data"
+      ],
+      "ar": [
+        "بيانات"
+      ]
+    },
+    "id": "daten"
+  },
+  {
+    "dictionaryId": "auftrag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Auftrag",
+    "plural": "Aufträge",
+    "translation": {
+      "ru": [
+        "заказ",
+        "поручение"
+      ],
+      "en": [
+        "order",
+        "assignment"
+      ],
+      "ar": [
+        "طلب",
+        "مهمة"
+      ]
+    },
+    "id": "auftrag"
+  },
+  {
+    "dictionaryId": "liefern",
+    "type": "verb",
+    "infinitive": "liefern",
+    "praeteritum": "lieferte",
+    "perfekt": "hat geliefert",
+    "translation": {
+      "ru": [
+        "доставлять",
+        "поставлять"
+      ],
+      "en": [
+        "to deliver",
+        "to supply"
+      ],
+      "ar": [
+        "يسلم",
+        "يزود"
+      ]
+    },
+    "id": "liefern"
+  },
+  {
+    "dictionaryId": "zahlung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zahlung",
+    "plural": "Zahlungen",
+    "translation": {
+      "ru": [
+        "платёж",
+        "оплата"
+      ],
+      "en": [
+        "payment"
+      ],
+      "ar": [
+        "دفعة",
+        "دفع"
+      ]
+    },
+    "id": "zahlung"
+  },
+  {
+    "dictionaryId": "bio",
+    "type": "other",
+    "word": "Bio-",
+    "translation": {
+      "ru": [
+        "био-",
+        "органический"
+      ],
+      "en": [
+        "organic",
+        "bio-"
+      ],
+      "ar": [
+        "عضوي"
+      ]
+    },
+    "id": "bio"
+  },
+  {
+    "dictionaryId": "zone",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zone",
+    "plural": "Zonen",
+    "translation": {
+      "ru": [
+        "зона"
+      ],
+      "en": [
+        "zone"
+      ],
+      "ar": [
+        "منطقة"
+      ]
+    },
+    "id": "zone"
+  },
+  {
+    "dictionaryId": "kontrolle",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kontrolle",
+    "plural": "Kontrollen",
+    "translation": {
+      "ru": [
+        "контроль",
+        "проверка"
+      ],
+      "en": [
+        "control",
+        "inspection"
+      ],
+      "ar": [
+        "مراقبة",
+        "تفتيش"
+      ]
+    },
+    "id": "kontrolle"
+  },
+  {
+    "dictionaryId": "verhältnis",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Verhältnis",
+    "plural": "Verhältnisse",
+    "translation": {
+      "ru": [
+        "отношение",
+        "соотношение"
+      ],
+      "en": [
+        "relationship",
+        "ratio"
+      ],
+      "ar": [
+        "علاقة",
+        "نسبة"
+      ]
+    },
+    "id": "verhältnis"
+  },
+  {
+    "dictionaryId": "qualifikation",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Qualifikation",
+    "plural": "Qualifikationen",
+    "translation": {
+      "ru": [
+        "квалификация"
+      ],
+      "en": [
+        "qualification"
+      ],
+      "ar": [
+        "مؤهل"
+      ]
+    },
+    "id": "qualifikation"
+  },
+  {
+    "dictionaryId": "entwicklung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Entwicklung",
+    "plural": "Entwicklungen",
+    "translation": {
+      "ru": [
+        "развитие"
+      ],
+      "en": [
+        "development"
+      ],
+      "ar": [
+        "تطور"
+      ]
+    },
+    "id": "entwicklung"
+  },
+  {
+    "dictionaryId": "nachdenken",
+    "type": "verb",
+    "infinitive": "nachdenken",
+    "praeteritum": "dachte nach",
+    "perfekt": "hat nachgedacht",
+    "translation": {
+      "ru": [
+        "размышлять",
+        "думать"
+      ],
+      "en": [
+        "to think about",
+        "to reflect"
+      ],
+      "ar": [
+        "يفكر"
+      ]
+    },
+    "id": "nachdenken"
+  },
+  {
+    "dictionaryId": "chance",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Chance",
+    "plural": "Chancen",
+    "translation": {
+      "ru": [
+        "шанс"
+      ],
+      "en": [
+        "chance",
+        "opportunity"
+      ],
+      "ar": [
+        "فرصة"
+      ]
+    },
+    "id": "chance"
+  },
+  {
+    "dictionaryId": "still",
+    "type": "other",
+    "word": "still",
+    "translation": {
+      "ru": [
+        "тихий",
+        "спокойный"
+      ],
+      "en": [
+        "quiet",
+        "silent"
+      ],
+      "ar": [
+        "هادئ"
+      ]
+    },
+    "id": "still"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Anlagen",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "приложения (к письму)",
+        "вложения"
+      ],
+      "en": [
+        "attachments",
+        "enclosures"
+      ],
+      "ar": [
+        "مرفقات"
+      ]
+    },
+    "id": "anlagen"
+  },
+  {
+    "dictionaryId": "einleitung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Einleitung",
+    "plural": "Einleitungen",
+    "translation": {
+      "ru": [
+        "введение"
+      ],
+      "en": [
+        "introduction"
+      ],
+      "ar": [
+        "مقدمة"
+      ]
+    },
+    "id": "einleitung"
+  },
+  {
+    "dictionaryId": "betreuer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Betreuer",
+    "plural": "Betreuer",
+    "translation": {
+      "ru": [
+        "руководитель",
+        "куратор"
+      ],
+      "en": [
+        "supervisor",
+        "mentor"
+      ],
+      "ar": [
+        "مشرف"
+      ]
+    },
+    "id": "betreuer"
+  },
+  {
+    "dictionaryId": "betreuerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Betreuerin",
+    "plural": "Betreuerinnen",
+    "translation": {
+      "ru": [
+        "руководительница",
+        "куратор"
+      ],
+      "en": [
+        "female supervisor"
+      ],
+      "ar": [
+        "مشرفة"
+      ]
+    },
+    "id": "betreuerin"
+  },
+  {
+    "dictionaryId": "abschließen",
+    "type": "verb",
+    "infinitive": "abschließen",
+    "praeteritum": "schloss ab",
+    "perfekt": "hat abgeschlossen",
+    "translation": {
+      "ru": [
+        "завершать",
+        "заканчивать",
+        "заключать"
+      ],
+      "en": [
+        "to complete",
+        "to conclude"
+      ],
+      "ar": [
+        "ينهي",
+        "يبرم"
+      ]
+    },
+    "id": "abschliessen"
+  },
+  {
+    "dictionaryId": "betreuung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Betreuung",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "сопровождение",
+        "уход"
+      ],
+      "en": [
+        "care",
+        "supervision"
+      ],
+      "ar": [
+        "رعاية",
+        "إشراف"
+      ]
+    },
+    "id": "betreuung"
+  },
+  {
+    "dictionaryId": "während",
+    "type": "other",
+    "word": "während",
+    "translation": {
+      "ru": [
+        "во время"
+      ],
+      "en": [
+        "during"
+      ],
+      "ar": [
+        "أثناء"
+      ]
+    },
+    "id": "während"
+  },
+  {
+    "dictionaryId": "verantwortung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Verantwortung",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "ответственность"
+      ],
+      "en": [
+        "responsibility"
+      ],
+      "ar": [
+        "مسؤولية"
+      ]
+    },
+    "id": "verantwortung"
+  },
+  {
+    "dictionaryId": "produkt",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Produkt",
+    "plural": "Produkte",
+    "translation": {
+      "ru": [
+        "продукт",
+        "изделие"
+      ],
+      "en": [
+        "product"
+      ],
+      "ar": [
+        "منتج"
+      ]
+    },
+    "id": "produkt"
+  },
+  {
+    "dictionaryId": "tätigkeit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Tätigkeit",
+    "plural": "Tätigkeiten",
+    "translation": {
+      "ru": [
+        "деятельность",
+        "работа"
+      ],
+      "en": [
+        "activity",
+        "task"
+      ],
+      "ar": [
+        "نشاط",
+        "عمل"
+      ]
+    },
+    "id": "tätigkeit"
+  },
+  {
+    "dictionaryId": "empfang",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Empfang",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "приём",
+        "ресепшен"
+      ],
+      "en": [
+        "reception",
+        "front desk"
+      ],
+      "ar": [
+        "استقبال"
+      ]
+    },
+    "id": "empfang"
+  },
+  {
+    "dictionaryId": "zuständig",
+    "type": "other",
+    "word": "zuständig",
+    "translation": {
+      "ru": [
+        "ответственный"
+      ],
+      "en": [
+        "responsible"
+      ],
+      "ar": [
+        "مسؤول"
+      ]
+    },
+    "id": "zuständig"
+  },
+  {
+    "dictionaryId": "organisation",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Organisation",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "организация"
+      ],
+      "en": [
+        "organization"
+      ],
+      "ar": [
+        "منظمة",
+        "تنظيم"
+      ]
+    },
+    "id": "organisation"
+  },
+  {
+    "dictionaryId": "zusammenarbeit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zusammenarbeit",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "сотрудничество"
+      ],
+      "en": [
+        "cooperation",
+        "collaboration"
+      ],
+      "ar": [
+        "تعاون"
+      ]
+    },
+    "id": "zusammenarbeit"
+  },
+  {
+    "dictionaryId": "tourismus",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tourismus",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "туризм"
+      ],
+      "en": [
+        "tourism"
+      ],
+      "ar": [
+        "سياحة"
+      ]
+    },
+    "id": "tourismus"
+  },
+  {
+    "dictionaryId": "fremdsprache",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Fremdsprache",
+    "plural": "Fremdsprachen",
+    "translation": {
+      "ru": [
+        "иностранный язык"
+      ],
+      "en": [
+        "foreign language"
+      ],
+      "ar": [
+        "لغة أجنبية"
+      ]
+    },
+    "id": "fremdsprache"
+  },
+  {
+    "dictionaryId": "dabei",
+    "type": "other",
+    "word": "dabei",
+    "translation": {
+      "ru": [
+        "при этом",
+        "с собой"
+      ],
+      "en": [
+        "while doing so",
+        "with you"
+      ],
+      "ar": [
+        "أثناء ذلك",
+        "معه"
+      ]
+    },
+    "id": "dabei"
+  },
+  {
+    "dictionaryId": "fließend",
+    "type": "other",
+    "word": "fließend",
+    "translation": {
+      "ru": [
+        "свободно (о языке)",
+        "бегло"
+      ],
+      "en": [
+        "fluent"
+      ],
+      "ar": [
+        "بطلاقة"
+      ]
+    },
+    "id": "fliessend"
+  },
+  {
+    "dictionaryId": "gewohnt",
+    "type": "other",
+    "word": "gewohnt",
+    "translation": {
+      "ru": [
+        "привычный"
+      ],
+      "en": [
+        "accustomed",
+        "used to"
+      ],
+      "ar": [
+        "معتاد"
+      ]
+    },
+    "id": "gewohnt"
+  },
+  {
+    "dictionaryId": "unterstützen",
+    "type": "verb",
+    "infinitive": "unterstützen",
+    "praeteritum": "unterstützte",
+    "perfekt": "hat unterstützt",
+    "translation": {
+      "ru": [
+        "поддерживать"
+      ],
+      "en": [
+        "to support"
+      ],
+      "ar": [
+        "يدعم"
+      ]
+    },
+    "id": "unterstützen"
+  },
+  {
+    "dictionaryId": "angabe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Angabe",
+    "plural": "Angaben",
+    "translation": {
+      "ru": [
+        "сведения",
+        "указание"
+      ],
+      "en": [
+        "information",
+        "statement"
+      ],
+      "ar": [
+        "بيان",
+        "معلومة"
+      ]
+    },
+    "id": "angabe"
+  },
+  {
+    "dictionaryId": "reden",
+    "type": "verb",
+    "infinitive": "reden",
+    "praeteritum": "redete",
+    "perfekt": "hat geredet",
+    "translation": {
+      "ru": [
+        "разговаривать"
+      ],
+      "en": [
+        "to talk"
+      ],
+      "ar": [
+        "يتحدث"
+      ]
+    },
+    "id": "reden"
+  },
+  {
+    "dictionaryId": "begleiten",
+    "type": "verb",
+    "infinitive": "begleiten",
+    "praeteritum": "begleitete",
+    "perfekt": "hat begleitet",
+    "translation": {
+      "ru": [
+        "сопровождать"
+      ],
+      "en": [
+        "to accompany"
+      ],
+      "ar": [
+        "يرافق"
+      ]
+    },
+    "id": "begleiten"
+  },
+  {
+    "dictionaryId": "begrüßen",
+    "type": "verb",
+    "infinitive": "begrüßen",
+    "praeteritum": "begrüßte",
+    "perfekt": "hat begrüßt",
+    "translation": {
+      "ru": [
+        "приветствовать"
+      ],
+      "en": [
+        "to greet",
+        "to welcome"
+      ],
+      "ar": [
+        "يرحب",
+        "يحيي"
+      ]
+    },
+    "id": "begrüssen"
+  },
+  {
+    "dictionaryId": "setzen",
+    "type": "verb",
+    "infinitive": "sich setzen",
+    "praeteritum": "setzte sich",
+    "perfekt": "hat sich gesetzt",
+    "translation": {
+      "ru": [
+        "садиться"
+      ],
+      "en": [
+        "to sit down"
+      ],
+      "ar": [
+        "يجلس"
+      ]
+    },
+    "id": "setzen"
+  },
+  {
+    "dictionaryId": "bereits",
+    "type": "other",
+    "word": "bereits",
+    "translation": {
+      "ru": [
+        "уже"
+      ],
+      "en": [
+        "already"
+      ],
+      "ar": [
+        "بالفعل"
+      ]
+    },
+    "id": "bereits"
+  },
+  {
+    "dictionaryId": "fabrik",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Fabrik",
+    "plural": "Fabriken",
+    "translation": {
+      "ru": [
+        "фабрика",
+        "завод"
+      ],
+      "en": [
+        "factory"
+      ],
+      "ar": [
+        "مصنع"
+      ]
+    },
+    "id": "fabrik"
+  },
+  {
+    "dictionaryId": "werbung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Werbung",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "реклама"
+      ],
+      "en": [
+        "advertising"
+      ],
+      "ar": [
+        "إعلان",
+        "دعاية"
+      ]
+    },
+    "id": "werbung"
+  }
+]

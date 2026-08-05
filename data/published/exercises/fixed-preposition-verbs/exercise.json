@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026-08-05.174207",
+  "id": "fixed-preposition-verbs",
+  "title": "Verben mit festen Präpositionen",
+  "description": {
+    "ru": [
+      "Глаголы с фиксированными предлогами и падежами"
+    ],
+    "en": [
+      "Verbs with fixed prepositions and cases"
+    ],
+    "ar": [
+      "أفعال مع حروف جر وحالات ثابتة"
+    ]
+  },
+  "words": {
+    "url": "exercises/fixed-preposition-verbs/words.json",
+    "sha256": "23175ec4052e54d8390da9695f337a556da49c8c3bb27f081ded4c0755de8112",
+    "count": 39
+  }
+}

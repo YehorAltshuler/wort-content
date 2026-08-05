@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026-08-05.174207",
+  "id": "leben-in-deutschland",
+  "title": "Leben in Deutschland",
+  "level": "LiD",
+  "modules": [
+    {
+      "id": "module0",
+      "title": "Modul 1: Grundrechte und Demokratie",
+      "url": "coursebooks/leben-in-deutschland/module0.json",
+      "sha256": "2cc8709f83dfce6e00bfad053166eb1e08d95ec3f3ebfc35f37a24b3e1b2f170",
+      "count": 161
+    },
+    {
+      "id": "module1",
+      "title": "Modul 2: Staat und politische Beteiligung",
+      "url": "coursebooks/leben-in-deutschland/module1.json",
+      "sha256": "25f77f9aa917e1353db62fac37649bd36f46ed3b07550baf6423320ccb72320a",
+      "count": 145
+    },
+    {
+      "id": "module2",
+      "title": "Modul 3: Nationalsozialismus und Nachkriegszeit",
+      "url": "coursebooks/leben-in-deutschland/module2.json",
+      "sha256": "9c6fbb7a6b849abe8f59bc00eccf79b3152fddca3942e9a9eb520c455434f44a",
+      "count": 112
+    },
+    {
+      "id": "module3",
+      "title": "Modul 4: DDR und Wiedervereinigung",
+      "url": "coursebooks/leben-in-deutschland/module3.json",
+      "sha256": "0d0b7ac9d19546f6ddac54cd18544fb033d941e6ef64431ffabe265ba4954fc9",
+      "count": 64
+    },
+    {
+      "id": "module4",
+      "title": "Modul 5: Gesellschaft und Zusammenleben",
+      "url": "coursebooks/leben-in-deutschland/module4.json",
+      "sha256": "044c186498cab0909384a63afe7021e4e3cbe4fec2b4251681d60201bc017289",
+      "count": 181
+    },
+    {
+      "id": "module5",
+      "title": "Modul 6: Bundesländer",
+      "url": "coursebooks/leben-in-deutschland/module5.json",
+      "sha256": "a8bcad80e16227b6530672a7b015084b75bcf42b3e27728f84eacec55ffc9329",
+      "count": 41
+    }
+  ]
+}

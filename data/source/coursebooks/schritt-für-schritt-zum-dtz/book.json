@@ -1,0 +1,52 @@
+{
+  "id": "schritt-für-schritt-zum-dtz",
+  "title": "Schritt für Schritt zum DTZ",
+  "level": "A2+ - B1",
+  "modules": [
+    {
+      "id": "module0",
+      "title": "Modul 0: Willkommen im Kurs",
+      "file": "module0.json"
+    },
+    {
+      "id": "module1",
+      "title": "Modul 1: Glük im Alltag",
+      "file": "module1.json"
+    },
+    {
+      "id": "module2",
+      "title": "Modul 2: Unterhaltung",
+      "file": "module2.json"
+    },
+    {
+      "id": "module3",
+      "title": "Modul 3: Gesund leben",
+      "file": "module3.json"
+    },
+    {
+      "id": "module4",
+      "title": "Modul 4: Rund um die Bewerbung",
+      "file": "module4.json"
+    },
+    {
+      "id": "module5",
+      "title": "Modul 5: Geschäfte",
+      "file": "module5.json"
+    },
+    {
+      "id": "module6",
+      "title": "Modul 6: Zusammenleben",
+      "file": "module6.json"
+    },
+    {
+      "id": "module7",
+      "title": "Modul 7: Unter Kollegen",
+      "file": "module7.json"
+    },
+    {
+      "id": "module8",
+      "title": "Modul 8: Digitale Welt",
+      "file": "module8.json"
+    }
+  ]
+}

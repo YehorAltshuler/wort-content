@@ -1,0 +1,1202 @@
+[
+  {
+    "dictionaryId": "schulter",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schulter",
+    "plural": "Schultern",
+    "translation": {
+      "ru": [
+        "плечо"
+      ],
+      "en": [
+        "shoulder"
+      ],
+      "ar": [
+        "كتف"
+      ]
+    },
+    "id": "schulter"
+  },
+  {
+    "dictionaryId": "heben",
+    "type": "verb",
+    "infinitive": "heben",
+    "praeteritum": "hob",
+    "perfekt": "hat gehoben",
+    "translation": {
+      "ru": [
+        "поднимать"
+      ],
+      "en": [
+        "to lift",
+        "to raise"
+      ],
+      "ar": [
+        "يرفع"
+      ]
+    },
+    "id": "heben"
+  },
+  {
+    "dictionaryId": "achten",
+    "type": "verb",
+    "infinitive": "achten",
+    "praeteritum": "achtete",
+    "perfekt": "hat geachtet",
+    "translation": {
+      "ru": [
+        "обращать внимание"
+      ],
+      "en": [
+        "to pay attention"
+      ],
+      "ar": [
+        "ينتبه"
+      ]
+    },
+    "id": "achten"
+  },
+  {
+    "dictionaryId": "untersuchung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Untersuchung",
+    "plural": "Untersuchungen",
+    "translation": {
+      "ru": [
+        "обследование",
+        "осмотр"
+      ],
+      "en": [
+        "examination"
+      ],
+      "ar": [
+        "فحص"
+      ]
+    },
+    "id": "untersuchung"
+  },
+  {
+    "dictionaryId": "ausreichend",
+    "type": "other",
+    "word": "ausreichend",
+    "translation": {
+      "ru": [
+        "достаточный"
+      ],
+      "en": [
+        "sufficient",
+        "enough"
+      ],
+      "ar": [
+        "كافٍ"
+      ]
+    },
+    "id": "ausreichend"
+  },
+  {
+    "dictionaryId": "hälfte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Hälfte",
+    "plural": "Hälften",
+    "translation": {
+      "ru": [
+        "половина"
+      ],
+      "en": [
+        "half"
+      ],
+      "ar": [
+        "نصف"
+      ]
+    },
+    "id": "hälfte"
+  },
+  {
+    "dictionaryId": "drittel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Drittel",
+    "plural": "Drittel",
+    "translation": {
+      "ru": [
+        "треть"
+      ],
+      "en": [
+        "third"
+      ],
+      "ar": [
+        "ثلث"
+      ]
+    },
+    "id": "drittel"
+  },
+  {
+    "dictionaryId": "störung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Störung",
+    "plural": "Störungen",
+    "translation": {
+      "ru": [
+        "нарушение",
+        "сбой"
+      ],
+      "en": [
+        "disorder",
+        "disturbance"
+      ],
+      "ar": [
+        "اضطراب",
+        "خلل"
+      ]
+    },
+    "id": "störung"
+  },
+  {
+    "dictionaryId": "grund",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Grund",
+    "plural": "Gründe",
+    "translation": {
+      "ru": [
+        "причина",
+        "основание"
+      ],
+      "en": [
+        "reason"
+      ],
+      "ar": [
+        "سبب"
+      ]
+    },
+    "id": "grund"
+  },
+  {
+    "dictionaryId": "eventuell",
+    "type": "other",
+    "word": "eventuell",
+    "translation": {
+      "ru": [
+        "возможно"
+      ],
+      "en": [
+        "possibly",
+        "perhaps"
+      ],
+      "ar": [
+        "ربما"
+      ]
+    },
+    "id": "eventuell"
+  },
+  {
+    "dictionaryId": "einnahme",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Einnahme",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "приём (лекарства)"
+      ],
+      "en": [
+        "intake",
+        "taking"
+      ],
+      "ar": [
+        "تناول"
+      ]
+    },
+    "id": "einnahme"
+  },
+  {
+    "dictionaryId": "schmerzmittel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Schmerzmittel",
+    "plural": "Schmerzmittel",
+    "translation": {
+      "ru": [
+        "обезболивающее"
+      ],
+      "en": [
+        "painkiller"
+      ],
+      "ar": [
+        "مسكن"
+      ]
+    },
+    "id": "schmerzmittel"
+  },
+  {
+    "dictionaryId": "krankenkasse",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Krankenkasse",
+    "plural": "Krankenkassen",
+    "translation": {
+      "ru": [
+        "медицинская страховая компания"
+      ],
+      "en": [
+        "health insurance company"
+      ],
+      "ar": [
+        "شركة التأمين الصحي"
+      ]
+    },
+    "id": "krankenkasse"
+  },
+  {
+    "dictionaryId": "rat",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Rat",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "совет"
+      ],
+      "en": [
+        "advice"
+      ],
+      "ar": [
+        "نصيحة"
+      ]
+    },
+    "id": "rat"
+  },
+  {
+    "dictionaryId": "positiv",
+    "type": "other",
+    "word": "positiv",
+    "translation": {
+      "ru": [
+        "положительный"
+      ],
+      "en": [
+        "positive"
+      ],
+      "ar": [
+        "إيجابي"
+      ]
+    },
+    "id": "positiv"
+  },
+  {
+    "dictionaryId": "negativ",
+    "type": "other",
+    "word": "negativ",
+    "translation": {
+      "ru": [
+        "отрицательный"
+      ],
+      "en": [
+        "negative"
+      ],
+      "ar": [
+        "سلبي"
+      ]
+    },
+    "id": "negativ"
+  },
+  {
+    "dictionaryId": "kraft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kraft",
+    "plural": "Kräfte",
+    "translation": {
+      "ru": [
+        "сила"
+      ],
+      "en": [
+        "strength",
+        "power"
+      ],
+      "ar": [
+        "قوة"
+      ]
+    },
+    "id": "kraft"
+  },
+  {
+    "dictionaryId": "reduzieren",
+    "type": "verb",
+    "infinitive": "reduzieren",
+    "praeteritum": "reduzierte",
+    "perfekt": "hat reduziert",
+    "translation": {
+      "ru": [
+        "уменьшать",
+        "сокращать"
+      ],
+      "en": [
+        "to reduce"
+      ],
+      "ar": [
+        "يقلل"
+      ]
+    },
+    "id": "reduzieren"
+  },
+  {
+    "dictionaryId": "mittel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Mittel",
+    "plural": "Mittel",
+    "translation": {
+      "ru": [
+        "средство"
+      ],
+      "en": [
+        "means",
+        "remedy"
+      ],
+      "ar": [
+        "وسيلة",
+        "دواء"
+      ]
+    },
+    "id": "mittel"
+  },
+  {
+    "dictionaryId": "tief",
+    "type": "other",
+    "word": "tief",
+    "translation": {
+      "ru": [
+        "глубокий"
+      ],
+      "en": [
+        "deep"
+      ],
+      "ar": [
+        "عميق"
+      ]
+    },
+    "id": "tief"
+  },
+  {
+    "dictionaryId": "umgehen",
+    "type": "verb",
+    "infinitive": "umgehen",
+    "praeteritum": "ging um",
+    "perfekt": "ist umgegangen",
+    "translation": {
+      "ru": [
+        "обращаться (с чем-либо)"
+      ],
+      "en": [
+        "to deal with",
+        "to handle"
+      ],
+      "ar": [
+        "يتعامل مع"
+      ]
+    },
+    "id": "umgehen"
+  },
+  {
+    "dictionaryId": "grundlage",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Grundlage",
+    "plural": "Grundlagen",
+    "translation": {
+      "ru": [
+        "основа"
+      ],
+      "en": [
+        "basis",
+        "foundation"
+      ],
+      "ar": [
+        "أساس"
+      ]
+    },
+    "id": "grundlage"
+  },
+  {
+    "dictionaryId": "meist",
+    "type": "other",
+    "word": "meist-",
+    "translation": {
+      "ru": [
+        "большинство"
+      ],
+      "en": [
+        "most"
+      ],
+      "ar": [
+        "معظم"
+      ]
+    },
+    "id": "meist"
+  },
+  {
+    "dictionaryId": "muskel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Muskel",
+    "plural": "Muskeln",
+    "translation": {
+      "ru": [
+        "мышца"
+      ],
+      "en": [
+        "muscle"
+      ],
+      "ar": [
+        "عضلة"
+      ]
+    },
+    "id": "muskel"
+  },
+  {
+    "dictionaryId": "persönlich",
+    "type": "other",
+    "word": "persönlich",
+    "translation": {
+      "ru": [
+        "личный",
+        "лично"
+      ],
+      "en": [
+        "personal",
+        "personally"
+      ],
+      "ar": [
+        "شخصي"
+      ]
+    },
+    "id": "persönlich"
+  },
+  {
+    "dictionaryId": "tempo",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Tempo",
+    "plural": "Tempi",
+    "translation": {
+      "ru": [
+        "темп",
+        "скорость"
+      ],
+      "en": [
+        "tempo",
+        "speed"
+      ],
+      "ar": [
+        "سرعة",
+        "وتيرة"
+      ]
+    },
+    "id": "tempo"
+  },
+  {
+    "dictionaryId": "atmen",
+    "type": "verb",
+    "infinitive": "atmen",
+    "praeteritum": "atmete",
+    "perfekt": "hat geatmet",
+    "translation": {
+      "ru": [
+        "дышать"
+      ],
+      "en": [
+        "to breathe"
+      ],
+      "ar": [
+        "يتنفس"
+      ]
+    },
+    "id": "atmen"
+  },
+  {
+    "dictionaryId": "wirkung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wirkung",
+    "plural": "Wirkungen",
+    "translation": {
+      "ru": [
+        "действие",
+        "эффект"
+      ],
+      "en": [
+        "effect"
+      ],
+      "ar": [
+        "تأثير"
+      ]
+    },
+    "id": "wirkung"
+  },
+  {
+    "dictionaryId": "fett",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Fett",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "жир"
+      ],
+      "en": [
+        "fat"
+      ],
+      "ar": [
+        "دهن"
+      ]
+    },
+    "id": "fett"
+  },
+  {
+    "dictionaryId": "ideal",
+    "type": "other",
+    "word": "ideal",
+    "translation": {
+      "ru": [
+        "идеальный"
+      ],
+      "en": [
+        "ideal"
+      ],
+      "ar": [
+        "مثالي"
+      ]
+    },
+    "id": "ideal"
+  },
+  {
+    "dictionaryId": "ebenfalls",
+    "type": "other",
+    "word": "ebenfalls",
+    "translation": {
+      "ru": [
+        "также"
+      ],
+      "en": [
+        "likewise",
+        "also"
+      ],
+      "ar": [
+        "كذلك"
+      ]
+    },
+    "id": "ebenfalls"
+  },
+  {
+    "dictionaryId": "sache",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sache",
+    "plural": "Sachen",
+    "translation": {
+      "ru": [
+        "вещь",
+        "дело"
+      ],
+      "en": [
+        "thing",
+        "matter"
+      ],
+      "ar": [
+        "شيء",
+        "أمر"
+      ]
+    },
+    "id": "sache"
+  },
+  {
+    "dictionaryId": "gleichzeitig",
+    "type": "other",
+    "word": "gleichzeitig",
+    "translation": {
+      "ru": [
+        "одновременно"
+      ],
+      "en": [
+        "simultaneously"
+      ],
+      "ar": [
+        "في الوقت نفسه"
+      ]
+    },
+    "id": "gleichzeitig"
+  },
+  {
+    "dictionaryId": "ergebnis",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Ergebnis",
+    "plural": "Ergebnisse",
+    "translation": {
+      "ru": [
+        "результат"
+      ],
+      "en": [
+        "result"
+      ],
+      "ar": [
+        "نتيجة"
+      ]
+    },
+    "id": "ergebnis"
+  },
+  {
+    "dictionaryId": "ängstlich",
+    "type": "other",
+    "word": "ängstlich",
+    "translation": {
+      "ru": [
+        "тревожный",
+        "боязливый"
+      ],
+      "en": [
+        "anxious",
+        "fearful"
+      ],
+      "ar": [
+        "خائف",
+        "قلق"
+      ]
+    },
+    "id": "ängstlich"
+  },
+  {
+    "dictionaryId": "kühl",
+    "type": "other",
+    "word": "kühl",
+    "translation": {
+      "ru": [
+        "прохладный"
+      ],
+      "en": [
+        "cool"
+      ],
+      "ar": [
+        "بارد قليلاً"
+      ]
+    },
+    "id": "kühl"
+  },
+  {
+    "dictionaryId": "aufwachen",
+    "type": "verb",
+    "infinitive": "aufwachen",
+    "praeteritum": "wachte auf",
+    "perfekt": "ist aufgewacht",
+    "translation": {
+      "ru": [
+        "просыпаться"
+      ],
+      "en": [
+        "to wake up"
+      ],
+      "ar": [
+        "يستيقظ"
+      ]
+    },
+    "id": "aufwachen"
+  },
+  {
+    "dictionaryId": "automatisch",
+    "type": "other",
+    "word": "automatisch",
+    "translation": {
+      "ru": [
+        "автоматически"
+      ],
+      "en": [
+        "automatic",
+        "automatically"
+      ],
+      "ar": [
+        "تلقائي"
+      ]
+    },
+    "id": "automatisch"
+  },
+  {
+    "dictionaryId": "beruhigen",
+    "type": "verb",
+    "infinitive": "sich beruhigen",
+    "praeteritum": "beruhigte sich",
+    "perfekt": "hat sich beruhigt",
+    "translation": {
+      "ru": [
+        "успокаиваться"
+      ],
+      "en": [
+        "to calm down"
+      ],
+      "ar": [
+        "يهدأ"
+      ]
+    },
+    "id": "beruhigen"
+  },
+  {
+    "dictionaryId": "mitteilen",
+    "type": "verb",
+    "infinitive": "mitteilen",
+    "praeteritum": "teilte mit",
+    "perfekt": "hat mitgeteilt",
+    "translation": {
+      "ru": [
+        "сообщать"
+      ],
+      "en": [
+        "to inform"
+      ],
+      "ar": [
+        "يبلغ"
+      ]
+    },
+    "id": "mitteilen"
+  },
+  {
+    "dictionaryId": "krankschreiben",
+    "type": "verb",
+    "infinitive": "krankschreiben",
+    "praeteritum": "schrieb krank",
+    "perfekt": "hat krankgeschrieben",
+    "translation": {
+      "ru": [
+        "оформлять больничный"
+      ],
+      "en": [
+        "to sign off sick"
+      ],
+      "ar": [
+        "يمنح إجازة مرضية"
+      ]
+    },
+    "id": "krankschreiben"
+  },
+  {
+    "dictionaryId": "konferenz",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Konferenz",
+    "plural": "Konferenzen",
+    "translation": {
+      "ru": [
+        "конференция"
+      ],
+      "en": [
+        "conference"
+      ],
+      "ar": [
+        "مؤتمر"
+      ]
+    },
+    "id": "konferenz"
+  },
+  {
+    "dictionaryId": "überprüfen",
+    "type": "verb",
+    "infinitive": "überprüfen",
+    "praeteritum": "überprüfte",
+    "perfekt": "hat überprüft",
+    "translation": {
+      "ru": [
+        "проверять"
+      ],
+      "en": [
+        "to check",
+        "to verify"
+      ],
+      "ar": [
+        "يفحص",
+        "يتحقق"
+      ]
+    },
+    "id": "überprüfen"
+  },
+  {
+    "dictionaryId": "kontrollieren",
+    "type": "verb",
+    "infinitive": "kontrollieren",
+    "praeteritum": "kontrollierte",
+    "perfekt": "hat kontrolliert",
+    "translation": {
+      "ru": [
+        "контролировать",
+        "проверять"
+      ],
+      "en": [
+        "to control",
+        "to inspect"
+      ],
+      "ar": [
+        "يراقب",
+        "يفحص"
+      ]
+    },
+    "id": "kontrollieren"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schreibblock",
+    "plural": "Schreibblöcke",
+    "translation": {
+      "ru": [
+        "блокнот"
+      ],
+      "en": [
+        "notepad"
+      ],
+      "ar": [
+        "دفتر ملاحظات"
+      ]
+    },
+    "id": "schreibblock"
+  },
+  {
+    "dictionaryId": "labor",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Labor",
+    "plural": "Labore",
+    "translation": {
+      "ru": [
+        "лаборатория"
+      ],
+      "en": [
+        "laboratory"
+      ],
+      "ar": [
+        "مختبر"
+      ]
+    },
+    "id": "labor"
+  },
+  {
+    "dictionaryId": "spitze",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Spitze",
+    "plural": "Spitzen",
+    "translation": {
+      "ru": [
+        "кончик",
+        "вершина"
+      ],
+      "en": [
+        "tip",
+        "point"
+      ],
+      "ar": [
+        "طرف",
+        "قمة"
+      ]
+    },
+    "id": "spitze"
+  },
+  {
+    "dictionaryId": "lieferung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Lieferung",
+    "plural": "Lieferungen",
+    "translation": {
+      "ru": [
+        "доставка",
+        "поставка"
+      ],
+      "en": [
+        "delivery"
+      ],
+      "ar": [
+        "توصيل",
+        "توريد"
+      ]
+    },
+    "id": "lieferung"
+  },
+  {
+    "dictionaryId": "workshop",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Workshop",
+    "plural": "Workshops",
+    "translation": {
+      "ru": [
+        "воркшоп",
+        "практический семинар"
+      ],
+      "en": [
+        "workshop"
+      ],
+      "ar": [
+        "ورشة عمل"
+      ]
+    },
+    "id": "workshop"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kursleiter",
+    "plural": "Kursleiter",
+    "translation": {
+      "ru": [
+        "руководитель курса",
+        "преподаватель курса"
+      ],
+      "en": [
+        "course instructor"
+      ],
+      "ar": [
+        "مدرب الدورة"
+      ]
+    },
+    "id": "kursleiter"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kursleiterin",
+    "plural": "Kursleiterinnen",
+    "translation": {
+      "ru": [
+        "руководительница курса",
+        "преподавательница курса"
+      ],
+      "en": [
+        "female course instructor"
+      ],
+      "ar": [
+        "مدربة الدورة"
+      ]
+    },
+    "id": "kursleiterin"
+  },
+  {
+    "dictionaryId": "schimpfen",
+    "type": "verb",
+    "infinitive": "schimpfen",
+    "praeteritum": "schimpfte",
+    "perfekt": "hat geschimpft",
+    "translation": {
+      "ru": [
+        "ругаться",
+        "бранить"
+      ],
+      "en": [
+        "to scold",
+        "to complain"
+      ],
+      "ar": [
+        "يوبخ",
+        "يشتم"
+      ]
+    },
+    "id": "schimpfen"
+  },
+  {
+    "dictionaryId": "garantieren",
+    "type": "verb",
+    "infinitive": "garantieren",
+    "praeteritum": "garantierte",
+    "perfekt": "hat garantiert",
+    "translation": {
+      "ru": [
+        "гарантировать"
+      ],
+      "en": [
+        "to guarantee"
+      ],
+      "ar": [
+        "يضمن"
+      ]
+    },
+    "id": "garantieren"
+  },
+  {
+    "dictionaryId": "lächeln",
+    "type": "verb",
+    "infinitive": "lächeln",
+    "praeteritum": "lächelte",
+    "perfekt": "hat gelächelt",
+    "translation": {
+      "ru": [
+        "улыбаться"
+      ],
+      "en": [
+        "to smile"
+      ],
+      "ar": [
+        "يبتسم"
+      ]
+    },
+    "id": "lächeln"
+  },
+  {
+    "dictionaryId": "geheimnis",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Geheimnis",
+    "plural": "Geheimnisse",
+    "translation": {
+      "ru": [
+        "тайна",
+        "секрет"
+      ],
+      "en": [
+        "secret"
+      ],
+      "ar": [
+        "سر"
+      ]
+    },
+    "id": "geheimnis"
+  },
+  {
+    "dictionaryId": "quiz",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Quiz",
+    "plural": "Quiz",
+    "translation": {
+      "ru": [
+        "викторина"
+      ],
+      "en": [
+        "quiz"
+      ],
+      "ar": [
+        "اختبار"
+      ]
+    },
+    "id": "quiz"
+  },
+  {
+    "dictionaryId": "aktuell",
+    "type": "other",
+    "word": "aktuell",
+    "translation": {
+      "ru": [
+        "актуальный",
+        "текущий"
+      ],
+      "en": [
+        "current",
+        "up-to-date"
+      ],
+      "ar": [
+        "حالي"
+      ]
+    },
+    "id": "aktuell"
+  },
+  {
+    "dictionaryId": "trocken",
+    "type": "other",
+    "word": "trocken",
+    "translation": {
+      "ru": [
+        "сухой"
+      ],
+      "en": [
+        "dry"
+      ],
+      "ar": [
+        "جاف"
+      ]
+    },
+    "id": "trocken"
+  },
+  {
+    "dictionaryId": "produzieren",
+    "type": "verb",
+    "infinitive": "produzieren",
+    "praeteritum": "produzierte",
+    "perfekt": "hat produziert",
+    "translation": {
+      "ru": [
+        "производить"
+      ],
+      "en": [
+        "to produce"
+      ],
+      "ar": [
+        "ينتج"
+      ]
+    },
+    "id": "produzieren"
+  }
+]

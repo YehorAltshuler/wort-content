@@ -1,0 +1,706 @@
+[
+  {
+    "dictionaryId": "ansehen",
+    "type": "verb",
+    "infinitive": "ansehen",
+    "praeteritum": "sah an",
+    "perfekt": "hat angesehen",
+    "translation": {
+      "ru": [
+        "смотреть",
+        "посмотреть",
+        "рассматривать"
+      ],
+      "en": [
+        "to look at",
+        "to watch"
+      ],
+      "ar": [
+        "ينظر إلى",
+        "يشاهد"
+      ]
+    },
+    "id": "ansehen"
+  },
+  {
+    "dictionaryId": "bild",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Bild",
+    "plural": "Bilder",
+    "translation": {
+      "ru": [
+        "картинка",
+        "изображение",
+        "картина"
+      ],
+      "en": [
+        "picture",
+        "image"
+      ],
+      "ar": [
+        "صورة"
+      ]
+    },
+    "id": "bild"
+  },
+  {
+    "dictionaryId": "hören",
+    "type": "verb",
+    "infinitive": "hören",
+    "praeteritum": "hörte",
+    "perfekt": "hat gehört",
+    "translation": {
+      "ru": [
+        "слушать",
+        "слышать"
+      ],
+      "en": [
+        "to hear",
+        "to listen"
+      ],
+      "ar": [
+        "يسمع",
+        "يستمع"
+      ]
+    },
+    "id": "hören"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "noch einmal",
+    "translation": {
+      "ru": [
+        "ещё раз",
+        "снова"
+      ],
+      "en": [
+        "once again",
+        "one more time"
+      ],
+      "ar": [
+        "مرة أخرى"
+      ]
+    },
+    "id": "noch-einmal"
+  },
+  {
+    "dictionaryId": "ankreuzen",
+    "type": "verb",
+    "infinitive": "ankreuzen",
+    "praeteritum": "kreuzte an",
+    "perfekt": "hat angekreuzt",
+    "translation": {
+      "ru": [
+        "отмечать крестиком",
+        "поставить крестик"
+      ],
+      "en": [
+        "to tick",
+        "to check",
+        "to mark with a cross"
+      ],
+      "ar": [
+        "يضع علامة",
+        "يؤشر"
+      ]
+    },
+    "id": "ankreuzen"
+  },
+  {
+    "dictionaryId": "zuordnen",
+    "type": "verb",
+    "infinitive": "zuordnen",
+    "praeteritum": "ordnete zu",
+    "perfekt": "hat zugeordnet",
+    "translation": {
+      "ru": [
+        "соотносить",
+        "определять",
+        "распределять"
+      ],
+      "en": [
+        "to assign",
+        "to match",
+        "to categorize"
+      ],
+      "ar": [
+        "يصنّف",
+        "يطابق"
+      ]
+    },
+    "id": "zuordnen"
+  },
+  {
+    "dictionaryId": "ergänzen",
+    "type": "verb",
+    "infinitive": "ergänzen",
+    "praeteritum": "ergänzte",
+    "perfekt": "hat ergänzt",
+    "translation": {
+      "ru": [
+        "дополнять",
+        "дополнить"
+      ],
+      "en": [
+        "to complete",
+        "to add",
+        "to supplement"
+      ],
+      "ar": [
+        "يكمل",
+        "يضيف"
+      ]
+    },
+    "id": "ergänzen"
+  },
+  {
+    "dictionaryId": "machen",
+    "type": "verb",
+    "infinitive": "machen",
+    "praeteritum": "machte",
+    "perfekt": "hat gemacht",
+    "translation": {
+      "ru": [
+        "делать"
+      ],
+      "en": [
+        "to do",
+        "to make"
+      ],
+      "ar": [
+        "يفعل",
+        "يصنع"
+      ]
+    },
+    "id": "machen"
+  },
+  {
+    "dictionaryId": "kurs",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kurs",
+    "plural": "Kurse",
+    "translation": {
+      "ru": [
+        "курс"
+      ],
+      "en": [
+        "course"
+      ],
+      "ar": [
+        "دورة"
+      ]
+    },
+    "id": "kurs"
+  },
+  {
+    "dictionaryId": "sprechen",
+    "type": "verb",
+    "infinitive": "sprechen",
+    "praeteritum": "sprach",
+    "perfekt": "hat gesprochen",
+    "translation": {
+      "ru": [
+        "говорить",
+        "разговаривать"
+      ],
+      "en": [
+        "to speak",
+        "to talk"
+      ],
+      "ar": [
+        "يتكلم",
+        "يتحدث"
+      ]
+    },
+    "id": "sprechen"
+  },
+  {
+    "dictionaryId": "lesen",
+    "type": "verb",
+    "infinitive": "lesen",
+    "praeteritum": "las",
+    "perfekt": "hat gelesen",
+    "translation": {
+      "ru": [
+        "читать"
+      ],
+      "en": [
+        "to read"
+      ],
+      "ar": [
+        "يقرأ"
+      ]
+    },
+    "id": "lesen"
+  },
+  {
+    "dictionaryId": "gespräch",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gespräch",
+    "plural": "Gespräche",
+    "translation": {
+      "ru": [
+        "разговор",
+        "беседа"
+      ],
+      "en": [
+        "conversation",
+        "talk"
+      ],
+      "ar": [
+        "محادثة",
+        "حديث"
+      ]
+    },
+    "id": "gespräch"
+  },
+  {
+    "dictionaryId": "spielen",
+    "type": "verb",
+    "infinitive": "spielen",
+    "praeteritum": "spielte",
+    "perfekt": "hat gespielt",
+    "translation": {
+      "ru": [
+        "играть"
+      ],
+      "en": [
+        "to play"
+      ],
+      "ar": [
+        "يلعب"
+      ]
+    },
+    "id": "spielen"
+  },
+  {
+    "dictionaryId": "suchen",
+    "type": "verb",
+    "infinitive": "suchen",
+    "praeteritum": "suchte",
+    "perfekt": "hat gesucht",
+    "translation": {
+      "ru": [
+        "искать"
+      ],
+      "en": [
+        "to search",
+        "to look for"
+      ],
+      "ar": [
+        "يبحث"
+      ]
+    },
+    "id": "suchen"
+  },
+  {
+    "dictionaryId": "zeigen",
+    "type": "verb",
+    "infinitive": "zeigen",
+    "praeteritum": "zeigte",
+    "perfekt": "hat gezeigt",
+    "translation": {
+      "ru": [
+        "показывать"
+      ],
+      "en": [
+        "to show"
+      ],
+      "ar": [
+        "يُظهر",
+        "يعرض"
+      ]
+    },
+    "id": "zeigen"
+  },
+  {
+    "dictionaryId": "fragen",
+    "type": "verb",
+    "infinitive": "fragen",
+    "praeteritum": "fragte",
+    "perfekt": "hat gefragt",
+    "translation": {
+      "ru": [
+        "спрашивать"
+      ],
+      "en": [
+        "to ask"
+      ],
+      "ar": [
+        "يسأل"
+      ]
+    },
+    "id": "fragen"
+  },
+  {
+    "dictionaryId": "markieren",
+    "type": "verb",
+    "infinitive": "markieren",
+    "praeteritum": "markierte",
+    "perfekt": "hat markiert",
+    "translation": {
+      "ru": [
+        "отмечать",
+        "выделять",
+        "маркировать"
+      ],
+      "en": [
+        "to mark",
+        "to highlight"
+      ],
+      "ar": [
+        "يضع علامة",
+        "يبرز"
+      ]
+    },
+    "id": "markieren"
+  },
+  {
+    "dictionaryId": "frage",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Frage",
+    "plural": "Fragen",
+    "translation": {
+      "ru": [
+        "вопрос"
+      ],
+      "en": [
+        "question"
+      ],
+      "ar": [
+        "سؤال"
+      ]
+    },
+    "id": "frage"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "nachsprechen",
+    "praeteritum": "sprach nach",
+    "perfekt": "hat nachgesprochen",
+    "translation": {
+      "ru": [
+        "повторять вслух за кем-то"
+      ],
+      "en": [
+        "to repeat after someone"
+      ],
+      "ar": [
+        "يكرر بعد شخص"
+      ]
+    },
+    "id": "nachsprechen"
+  },
+  {
+    "dictionaryId": "raten",
+    "type": "verb",
+    "infinitive": "raten",
+    "praeteritum": "riet",
+    "perfekt": "hat geraten",
+    "translation": {
+      "ru": [
+        "советовать",
+        "угадывать"
+      ],
+      "en": [
+        "to advise",
+        "to guess"
+      ],
+      "ar": [
+        "ينصح",
+        "يخمن"
+      ]
+    },
+    "id": "raten"
+  },
+  {
+    "dictionaryId": "wort",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Wort",
+    "plural": "Wörter / Worte",
+    "translation": {
+      "ru": [
+        "слово"
+      ],
+      "en": [
+        "word"
+      ],
+      "ar": [
+        "كلمة"
+      ]
+    },
+    "id": "wort"
+  },
+  {
+    "dictionaryId": "lektion",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Lektion",
+    "plural": "Lektionen",
+    "translation": {
+      "ru": [
+        "урок",
+        "раздел"
+      ],
+      "en": [
+        "lesson",
+        "unit"
+      ],
+      "ar": [
+        "درس",
+        "وحدة"
+      ]
+    },
+    "id": "lektion"
+  },
+  {
+    "dictionaryId": "meinen",
+    "type": "verb",
+    "infinitive": "meinen",
+    "praeteritum": "meinte",
+    "perfekt": "hat gemeint",
+    "translation": {
+      "ru": [
+        "иметь в виду",
+        "считать",
+        "полагать"
+      ],
+      "en": [
+        "to mean",
+        "to think",
+        "to be of the opinion"
+      ],
+      "ar": [
+        "يعني",
+        "يعتقد"
+      ]
+    },
+    "id": "meinen"
+  },
+  {
+    "dictionaryId": "sagen",
+    "type": "verb",
+    "infinitive": "sagen",
+    "praeteritum": "sagte",
+    "perfekt": "hat gesagt",
+    "translation": {
+      "ru": [
+        "сказать",
+        "говорить"
+      ],
+      "en": [
+        "to say",
+        "to tell"
+      ],
+      "ar": [
+        "يقول"
+      ]
+    },
+    "id": "sagen"
+  },
+  {
+    "dictionaryId": "notieren",
+    "type": "verb",
+    "infinitive": "notieren",
+    "praeteritum": "notierte",
+    "perfekt": "hat notiert",
+    "translation": {
+      "ru": [
+        "записывать",
+        "записать"
+      ],
+      "en": [
+        "to note down",
+        "to write down"
+      ],
+      "ar": [
+        "يدوّن",
+        "يسجل"
+      ]
+    },
+    "id": "notieren"
+  },
+  {
+    "dictionaryId": "vergleichen",
+    "type": "verb",
+    "infinitive": "vergleichen",
+    "praeteritum": "verglich",
+    "perfekt": "hat verglichen",
+    "translation": {
+      "ru": [
+        "сравнивать"
+      ],
+      "en": [
+        "to compare"
+      ],
+      "ar": [
+        "يقارن"
+      ]
+    },
+    "id": "vergleichen"
+  },
+  {
+    "dictionaryId": "schreiben",
+    "type": "verb",
+    "infinitive": "schreiben",
+    "praeteritum": "schrieb",
+    "perfekt": "hat geschrieben",
+    "translation": {
+      "ru": [
+        "писать"
+      ],
+      "en": [
+        "to write"
+      ],
+      "ar": [
+        "يكتب"
+      ]
+    },
+    "id": "schreiben"
+  },
+  {
+    "dictionaryId": "variieren",
+    "type": "verb",
+    "infinitive": "variieren",
+    "praeteritum": "variierte",
+    "perfekt": "hat variiert",
+    "translation": {
+      "ru": [
+        "варьировать",
+        "изменяться"
+      ],
+      "en": [
+        "to vary"
+      ],
+      "ar": [
+        "يتنوع",
+        "يختلف"
+      ]
+    },
+    "id": "variieren"
+  },
+  {
+    "dictionaryId": "erzählen",
+    "type": "verb",
+    "infinitive": "erzählen",
+    "praeteritum": "erzählte",
+    "perfekt": "hat erzählt",
+    "translation": {
+      "ru": [
+        "рассказывать"
+      ],
+      "en": [
+        "to tell",
+        "to narrate"
+      ],
+      "ar": [
+        "يحكي",
+        "يروي"
+      ]
+    },
+    "id": "erzählen"
+  },
+  {
+    "dictionaryId": "arbeiten",
+    "type": "verb",
+    "infinitive": "arbeiten",
+    "praeteritum": "arbeitete",
+    "perfekt": "hat gearbeitet",
+    "translation": {
+      "ru": [
+        "работать"
+      ],
+      "en": [
+        "to work"
+      ],
+      "ar": [
+        "يعمل"
+      ]
+    },
+    "id": "arbeiten"
+  },
+  {
+    "dictionaryId": "zeichnen",
+    "type": "verb",
+    "infinitive": "zeichnen",
+    "praeteritum": "zeichnete",
+    "perfekt": "hat gezeichnet",
+    "translation": {
+      "ru": [
+        "рисовать",
+        "чертить"
+      ],
+      "en": [
+        "to draw"
+      ],
+      "ar": [
+        "يرسم"
+      ]
+    },
+    "id": "zeichnen"
+  },
+  {
+    "dictionaryId": "verbinden",
+    "type": "verb",
+    "infinitive": "verbinden",
+    "praeteritum": "verband",
+    "perfekt": "hat verbunden",
+    "translation": {
+      "ru": [
+        "соединять",
+        "связывать"
+      ],
+      "en": [
+        "to connect",
+        "to link"
+      ],
+      "ar": [
+        "يربط",
+        "يوصل"
+      ]
+    },
+    "id": "verbinden"
+  },
+  {
+    "dictionaryId": "antwort",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Antwort",
+    "plural": "Antworten",
+    "translation": {
+      "ru": [
+        "ответ"
+      ],
+      "en": [
+        "answer",
+        "response"
+      ],
+      "ar": [
+        "إجابة",
+        "رد"
+      ]
+    },
+    "id": "antwort"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "schritte-plus-neu-a1-2",
+  "title": "Schritte plus Neu A1.2",
+  "level": "A1.2",
+  "modules": [
+    {
+      "id": "module8",
+      "title": "Modul 8: Beruf und Arbeit",
+      "file": "module8.json"
+    },
+    {
+      "id": "module9",
+      "title": "Modul 9: Ämter und Behörden",
+      "file": "module9.json"
+    },
+    {
+      "id": "module10",
+      "title": "Modul 10: Gesundheit und Krankheit",
+      "file": "module10.json"
+    },
+    {
+      "id": "module11",
+      "title": "Modul 11: In der Stadt unterwegs",
+      "file": "module11.json"
+    },
+    {
+      "id": "module12",
+      "title": "Modul 12: Kundenservice",
+      "file": "module12.json"
+    },
+    {
+      "id": "module13",
+      "title": "Modul 13: Neue Kleider",
+      "file": "module13.json"
+    },
+    {
+      "id": "module14",
+      "title": "Modul 14: Feste",
+      "file": "module14.json"
+    }
+  ]
+}

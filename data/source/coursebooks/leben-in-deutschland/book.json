@@ -1,0 +1,37 @@
+{
+  "id": "leben-in-deutschland",
+  "title": "Leben in Deutschland",
+  "level": "LiD",
+  "modules": [
+    {
+      "id": "module0",
+      "title": "Modul 1: Grundrechte und Demokratie",
+      "file": "module0.json"
+    },
+    {
+      "id": "module1",
+      "title": "Modul 2: Staat und politische Beteiligung",
+      "file": "module1.json"
+    },
+    {
+      "id": "module2",
+      "title": "Modul 3: Nationalsozialismus und Nachkriegszeit",
+      "file": "module2.json"
+    },
+    {
+      "id": "module3",
+      "title": "Modul 4: DDR und Wiedervereinigung",
+      "file": "module3.json"
+    },
+    {
+      "id": "module4",
+      "title": "Modul 5: Gesellschaft und Zusammenleben",
+      "file": "module4.json"
+    },
+    {
+      "id": "module5",
+      "title": "Modul 6: Bundesländer",
+      "file": "module5.json"
+    }
+  ]
+}

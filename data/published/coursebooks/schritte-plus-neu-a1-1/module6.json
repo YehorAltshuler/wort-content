@@ -1,0 +1,1889 @@
+[
+  {
+    "dictionaryId": "ausflug",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Ausflug",
+    "plural": "Ausflüge",
+    "translation": {
+      "ru": [
+        "экскурсия",
+        "выезд",
+        "поездка"
+      ],
+      "en": [
+        "trip",
+        "excursion",
+        "outing"
+      ],
+      "ar": [
+        "رحلة",
+        "نزهة"
+      ]
+    },
+    "id": "ausflug"
+  },
+  {
+    "dictionaryId": "auto",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Auto",
+    "plural": "Autos",
+    "translation": {
+      "ru": [
+        "автомобиль",
+        "машина"
+      ],
+      "en": [
+        "car"
+      ],
+      "ar": [
+        "سيارة"
+      ]
+    },
+    "id": "auto"
+  },
+  {
+    "dictionaryId": "wandern",
+    "type": "verb",
+    "infinitive": "wandern",
+    "praeteritum": "wanderte",
+    "perfekt": "ist/hat gewandert",
+    "translation": {
+      "ru": [
+        "ходить в поход",
+        "бродить",
+        "путешествовать пешком"
+      ],
+      "en": [
+        "to hike",
+        "to wander"
+      ],
+      "ar": [
+        "يتنزه مشيًا",
+        "يمشي لمسافات طويلة"
+      ]
+    },
+    "id": "wandern"
+  },
+  {
+    "dictionaryId": "picknick",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Picknick",
+    "plural": "Picknicks",
+    "translation": {
+      "ru": [
+        "пикник"
+      ],
+      "en": [
+        "picnic"
+      ],
+      "ar": [
+        "نزهة طعام",
+        "بيكنيك"
+      ]
+    },
+    "id": "picknick"
+  },
+  {
+    "dictionaryId": "gitarre",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gitarre",
+    "plural": "Gitarren",
+    "translation": {
+      "ru": [
+        "гитара"
+      ],
+      "en": [
+        "guitar"
+      ],
+      "ar": [
+        "غيتار"
+      ]
+    },
+    "id": "gitarre"
+  },
+  {
+    "dictionaryId": "telefonieren",
+    "type": "verb",
+    "infinitive": "telefonieren",
+    "praeteritum": "telefonierte",
+    "perfekt": "hat telefoniert",
+    "translation": {
+      "ru": [
+        "звонить по телефону",
+        "разговаривать по телефону"
+      ],
+      "en": [
+        "to phone",
+        "to talk on the phone"
+      ],
+      "ar": [
+        "يتصل هاتفيًا",
+        "يتحدث عبر الهاتف"
+      ]
+    },
+    "id": "telefonieren"
+  },
+  {
+    "dictionaryId": "wetter",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Wetter",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "погода"
+      ],
+      "en": [
+        "weather"
+      ],
+      "ar": [
+        "الطقس"
+      ]
+    },
+    "id": "wetter"
+  },
+  {
+    "dictionaryId": "sonne",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sonne",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "солнце"
+      ],
+      "en": [
+        "sun"
+      ],
+      "ar": [
+        "الشمس"
+      ]
+    },
+    "id": "sonne"
+  },
+  {
+    "dictionaryId": "scheinen",
+    "type": "verb",
+    "infinitive": "scheinen",
+    "praeteritum": "schien",
+    "perfekt": "hat geschienen",
+    "translation": {
+      "ru": [
+        "светить",
+        "казаться"
+      ],
+      "en": [
+        "to shine",
+        "to seem"
+      ],
+      "ar": [
+        "يشرق",
+        "يبدو"
+      ]
+    },
+    "id": "scheinen"
+  },
+  {
+    "dictionaryId": "regnen",
+    "type": "verb",
+    "infinitive": "regnen",
+    "praeteritum": "regnete",
+    "perfekt": "hat geregnet",
+    "translation": {
+      "ru": [
+        "идёт дождь",
+        "дождить"
+      ],
+      "en": [
+        "to rain"
+      ],
+      "ar": [
+        "تمطر"
+      ]
+    },
+    "id": "regnen"
+  },
+  {
+    "dictionaryId": "viel",
+    "type": "other",
+    "word": "viel-",
+    "translation": {
+      "ru": [
+        "много"
+      ],
+      "en": [
+        "much",
+        "many",
+        "a lot of"
+      ],
+      "ar": [
+        "كثير"
+      ]
+    },
+    "id": "viel"
+  },
+  {
+    "dictionaryId": "wolke",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wolke",
+    "plural": "Wolken",
+    "translation": {
+      "ru": [
+        "облако"
+      ],
+      "en": [
+        "cloud"
+      ],
+      "ar": [
+        "سحابة"
+      ]
+    },
+    "id": "wolke"
+  },
+  {
+    "dictionaryId": "losgehen",
+    "type": "verb",
+    "infinitive": "losgehen",
+    "praeteritum": "ging los",
+    "perfekt": "ist losgegangen",
+    "translation": {
+      "ru": [
+        "начинаться",
+        "отправляться",
+        "пойти"
+      ],
+      "en": [
+        "to start",
+        "to set off"
+      ],
+      "ar": [
+        "يبدأ",
+        "ينطلق"
+      ]
+    },
+    "id": "losgehen"
+  },
+  {
+    "dictionaryId": "vergessen",
+    "type": "verb",
+    "infinitive": "vergessen",
+    "praeteritum": "vergaß",
+    "perfekt": "hat vergessen",
+    "translation": {
+      "ru": [
+        "забывать",
+        "забыть"
+      ],
+      "en": [
+        "to forget"
+      ],
+      "ar": [
+        "ينسى"
+      ]
+    },
+    "id": "vergessen"
+  },
+  {
+    "dictionaryId": "durst",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Durst",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "жажда"
+      ],
+      "en": [
+        "thirst"
+      ],
+      "ar": [
+        "عطش"
+      ]
+    },
+    "id": "durst"
+  },
+  {
+    "dictionaryId": "grad",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Grad",
+    "plural": "Grade",
+    "translation": {
+      "ru": [
+        "градус"
+      ],
+      "en": [
+        "degree"
+      ],
+      "ar": [
+        "درجة"
+      ]
+    },
+    "id": "grad"
+  },
+  {
+    "dictionaryId": "warm",
+    "type": "other",
+    "word": "warm",
+    "translation": {
+      "ru": [
+        "тёплый",
+        "тепло"
+      ],
+      "en": [
+        "warm"
+      ],
+      "ar": [
+        "دافئ"
+      ]
+    },
+    "id": "warm"
+  },
+  {
+    "dictionaryId": "windig",
+    "type": "other",
+    "word": "windig",
+    "translation": {
+      "ru": [
+        "ветрено"
+      ],
+      "en": [
+        "windy"
+      ],
+      "ar": [
+        "عاصف"
+      ]
+    },
+    "id": "windig"
+  },
+  {
+    "dictionaryId": "kalt",
+    "type": "other",
+    "word": "kalt",
+    "translation": {
+      "ru": [
+        "холодный",
+        "холодно"
+      ],
+      "en": [
+        "cold"
+      ],
+      "ar": [
+        "بارد"
+      ]
+    },
+    "id": "kalt"
+  },
+  {
+    "dictionaryId": "schneien",
+    "type": "verb",
+    "infinitive": "schneien",
+    "praeteritum": "schneite",
+    "perfekt": "hat geschneit",
+    "translation": {
+      "ru": [
+        "идёт снег",
+        "снежить"
+      ],
+      "en": [
+        "to snow"
+      ],
+      "ar": [
+        "تثلج"
+      ]
+    },
+    "id": "schneien"
+  },
+  {
+    "dictionaryId": "bewölkt",
+    "type": "other",
+    "word": "bewölkt",
+    "translation": {
+      "ru": [
+        "облачно"
+      ],
+      "en": [
+        "cloudy"
+      ],
+      "ar": [
+        "غائم"
+      ]
+    },
+    "id": "bewölkt"
+  },
+  {
+    "dictionaryId": "wetterbericht",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Wetterbericht",
+    "plural": "Wetterberichte",
+    "translation": {
+      "ru": [
+        "прогноз погоды",
+        "сводка погоды"
+      ],
+      "en": [
+        "weather report",
+        "weather forecast"
+      ],
+      "ar": [
+        "تقرير الطقس",
+        "نشرة جوية"
+      ]
+    },
+    "id": "wetterbericht"
+  },
+  {
+    "dictionaryId": "mitte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mitte",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "середина",
+        "центр"
+      ],
+      "en": [
+        "middle",
+        "center"
+      ],
+      "ar": [
+        "وسط",
+        "منتصف"
+      ]
+    },
+    "id": "mitte"
+  },
+  {
+    "dictionaryId": "überall",
+    "type": "other",
+    "word": "überall",
+    "translation": {
+      "ru": [
+        "везде",
+        "повсюду"
+      ],
+      "en": [
+        "everywhere"
+      ],
+      "ar": [
+        "في كل مكان"
+      ]
+    },
+    "id": "überall"
+  },
+  {
+    "dictionaryId": "temperatur",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Temperatur",
+    "plural": "Temperaturen",
+    "translation": {
+      "ru": [
+        "температура"
+      ],
+      "en": [
+        "temperature"
+      ],
+      "ar": [
+        "درجة الحرارة"
+      ]
+    },
+    "id": "temperatur"
+  },
+  {
+    "dictionaryId": "steigen",
+    "type": "verb",
+    "infinitive": "steigen",
+    "praeteritum": "stieg",
+    "perfekt": "ist gestiegen",
+    "translation": {
+      "ru": [
+        "подниматься",
+        "повышаться"
+      ],
+      "en": [
+        "to rise",
+        "to climb"
+      ],
+      "ar": [
+        "يرتفع",
+        "يصعد"
+      ]
+    },
+    "id": "steigen"
+  },
+  {
+    "dictionaryId": "sonnig",
+    "type": "other",
+    "word": "sonnig",
+    "translation": {
+      "ru": [
+        "солнечно",
+        "солнечный"
+      ],
+      "en": [
+        "sunny"
+      ],
+      "ar": [
+        "مشمس"
+      ]
+    },
+    "id": "sonnig"
+  },
+  {
+    "dictionaryId": "leicht",
+    "type": "other",
+    "word": "leicht",
+    "translation": {
+      "ru": [
+        "лёгкий",
+        "легко"
+      ],
+      "en": [
+        "light",
+        "easy"
+      ],
+      "ar": [
+        "خفيف",
+        "سهل"
+      ]
+    },
+    "id": "leicht"
+  },
+  {
+    "dictionaryId": "bleiben",
+    "type": "verb",
+    "infinitive": "bleiben",
+    "praeteritum": "blieb",
+    "perfekt": "ist geblieben",
+    "translation": {
+      "ru": [
+        "оставаться"
+      ],
+      "en": [
+        "to stay",
+        "to remain"
+      ],
+      "ar": [
+        "يبقى"
+      ]
+    },
+    "id": "bleiben"
+  },
+  {
+    "dictionaryId": "regen",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Regen",
+    "plural": "",
+    "comment": "обычно Sg.",
+    "translation": {
+      "ru": [
+        "дождь"
+      ],
+      "en": [
+        "rain"
+      ],
+      "ar": [
+        "مطر"
+      ]
+    },
+    "id": "regen"
+  },
+  {
+    "dictionaryId": "schnee",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schnee",
+    "plural": "",
+    "comment": "обычно Sg.",
+    "translation": {
+      "ru": [
+        "снег"
+      ],
+      "en": [
+        "snow"
+      ],
+      "ar": [
+        "ثلج"
+      ]
+    },
+    "id": "schnee"
+  },
+  {
+    "dictionaryId": "plus",
+    "type": "other",
+    "word": "plus",
+    "translation": {
+      "ru": [
+        "плюс"
+      ],
+      "en": [
+        "plus"
+      ],
+      "ar": [
+        "زائد"
+      ]
+    },
+    "id": "plus"
+  },
+  {
+    "dictionaryId": "minus",
+    "type": "other",
+    "word": "minus",
+    "translation": {
+      "ru": [
+        "минус"
+      ],
+      "en": [
+        "minus"
+      ],
+      "ar": [
+        "ناقص"
+      ]
+    },
+    "id": "minus"
+  },
+  {
+    "dictionaryId": "radio",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Radio",
+    "plural": "Radios",
+    "translation": {
+      "ru": [
+        "радио"
+      ],
+      "en": [
+        "radio"
+      ],
+      "ar": [
+        "راديو"
+      ]
+    },
+    "id": "radio"
+  },
+  {
+    "dictionaryId": "internet",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Internet",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "интернет"
+      ],
+      "en": [
+        "internet"
+      ],
+      "ar": [
+        "الإنترنت"
+      ]
+    },
+    "id": "internet"
+  },
+  {
+    "dictionaryId": "sommer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Sommer",
+    "plural": "Sommer",
+    "translation": {
+      "ru": [
+        "лето"
+      ],
+      "en": [
+        "summer"
+      ],
+      "ar": [
+        "الصيف"
+      ]
+    },
+    "id": "sommer"
+  },
+  {
+    "dictionaryId": "frühling",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Frühling",
+    "plural": "Frühlinge",
+    "translation": {
+      "ru": [
+        "весна"
+      ],
+      "en": [
+        "spring"
+      ],
+      "ar": [
+        "الربيع"
+      ]
+    },
+    "id": "frühling"
+  },
+  {
+    "dictionaryId": "herbst",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Herbst",
+    "plural": "Herbste",
+    "translation": {
+      "ru": [
+        "осень"
+      ],
+      "en": [
+        "autumn",
+        "fall"
+      ],
+      "ar": [
+        "الخريف"
+      ]
+    },
+    "id": "herbst"
+  },
+  {
+    "dictionaryId": "schlecht",
+    "type": "other",
+    "word": "schlecht",
+    "translation": {
+      "ru": [
+        "плохой",
+        "плохо"
+      ],
+      "en": [
+        "bad",
+        "poor"
+      ],
+      "ar": [
+        "سيئ"
+      ]
+    },
+    "id": "schlecht"
+  },
+  {
+    "dictionaryId": "winter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Winter",
+    "plural": "Winter",
+    "translation": {
+      "ru": [
+        "зима"
+      ],
+      "en": [
+        "winter"
+      ],
+      "ar": [
+        "الشتاء"
+      ]
+    },
+    "id": "winter"
+  },
+  {
+    "dictionaryId": "wind",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Wind",
+    "plural": "Winde",
+    "translation": {
+      "ru": [
+        "ветер"
+      ],
+      "en": [
+        "wind"
+      ],
+      "ar": [
+        "رياح"
+      ]
+    },
+    "id": "wind"
+  },
+  {
+    "dictionaryId": "angenehm",
+    "type": "other",
+    "word": "angenehm",
+    "translation": {
+      "ru": [
+        "приятный"
+      ],
+      "en": [
+        "pleasant",
+        "comfortable"
+      ],
+      "ar": [
+        "مريح",
+        "لطيف"
+      ]
+    },
+    "id": "angenehm"
+  },
+  {
+    "dictionaryId": "speisekarte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Speisekarte",
+    "plural": "Speisekarten",
+    "translation": {
+      "ru": [
+        "меню"
+      ],
+      "en": [
+        "menu"
+      ],
+      "ar": [
+        "قائمة الطعام"
+      ]
+    },
+    "id": "speisekarte"
+  },
+  {
+    "dictionaryId": "hamburger",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Hamburger",
+    "plural": "Hamburger",
+    "translation": {
+      "ru": [
+        "гамбургер"
+      ],
+      "en": [
+        "hamburger",
+        "burger"
+      ],
+      "ar": [
+        "هامبرغر"
+      ]
+    },
+    "id": "hamburger"
+  },
+  {
+    "dictionaryId": "speise",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Speise",
+    "plural": "Speisen",
+    "translation": {
+      "ru": [
+        "блюдо",
+        "еда"
+      ],
+      "en": [
+        "dish",
+        "food"
+      ],
+      "ar": [
+        "طبق",
+        "طعام"
+      ]
+    },
+    "id": "speise"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Pommes frites",
+    "plural": "",
+    "comment": "Pl.; kurz: Pommes",
+    "translation": {
+      "ru": [
+        "картошка фри"
+      ],
+      "en": [
+        "French fries",
+        "chips"
+      ],
+      "ar": [
+        "بطاطس مقلية"
+      ]
+    },
+    "id": "pommes-frites"
+  },
+  {
+    "dictionaryId": "portion",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Portion",
+    "plural": "Portionen",
+    "translation": {
+      "ru": [
+        "порция"
+      ],
+      "en": [
+        "portion",
+        "serving"
+      ],
+      "ar": [
+        "حصة",
+        "وجبة"
+      ]
+    },
+    "id": "portion"
+  },
+  {
+    "dictionaryId": "ketchup",
+    "type": "noun",
+    "article": [
+      "der",
+      "das"
+    ],
+    "word": "Ketchup",
+    "plural": "",
+    "comment": "обычно Sg.",
+    "translation": {
+      "ru": [
+        "кетчуп"
+      ],
+      "en": [
+        "ketchup"
+      ],
+      "ar": [
+        "كاتشب"
+      ]
+    },
+    "id": "ketchup"
+  },
+  {
+    "dictionaryId": "salat",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Salat",
+    "plural": "Salate",
+    "translation": {
+      "ru": [
+        "салат"
+      ],
+      "en": [
+        "salad",
+        "lettuce"
+      ],
+      "ar": [
+        "سلطة",
+        "خس"
+      ]
+    },
+    "id": "salat"
+  },
+  {
+    "dictionaryId": "schinken",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schinken",
+    "plural": "",
+    "comment": "обычно Sg.",
+    "translation": {
+      "ru": [
+        "ветчина"
+      ],
+      "en": [
+        "ham"
+      ],
+      "ar": [
+        "لحم خنزير مقدد"
+      ]
+    },
+    "id": "schinken"
+  },
+  {
+    "dictionaryId": "getränk",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Getränk",
+    "plural": "Getränke",
+    "translation": {
+      "ru": [
+        "напиток"
+      ],
+      "en": [
+        "drink",
+        "beverage"
+      ],
+      "ar": [
+        "مشروب"
+      ]
+    },
+    "id": "getränk"
+  },
+  {
+    "dictionaryId": "cola",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Cola",
+    "plural": "Colas",
+    "translation": {
+      "ru": [
+        "кола"
+      ],
+      "en": [
+        "cola"
+      ],
+      "ar": [
+        "كولا"
+      ]
+    },
+    "id": "cola"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "doch",
+    "translation": {
+      "ru": [
+        "наоборот",
+        "всё-таки",
+        "же",
+        "ну же"
+      ],
+      "en": [
+        "after all",
+        "actually",
+        "yes in contradiction"
+      ],
+      "ar": [
+        "بل",
+        "مع ذلك"
+      ]
+    },
+    "id": "doch"
+  },
+  {
+    "dictionaryId": "lieber",
+    "type": "other",
+    "word": "lieber",
+    "translation": {
+      "ru": [
+        "лучше",
+        "охотнее",
+        "дорогой"
+      ],
+      "en": [
+        "rather",
+        "preferably",
+        "dear"
+      ],
+      "ar": [
+        "أفضل",
+        "عزيزي"
+      ]
+    },
+    "id": "lieber"
+  },
+  {
+    "dictionaryId": "nehmen",
+    "type": "verb",
+    "infinitive": "nehmen",
+    "praeteritum": "nahm",
+    "perfekt": "hat genommen",
+    "translation": {
+      "ru": [
+        "брать",
+        "взять"
+      ],
+      "en": [
+        "to take"
+      ],
+      "ar": [
+        "يأخذ"
+      ]
+    },
+    "id": "nehmen"
+  },
+  {
+    "dictionaryId": "warum",
+    "type": "other",
+    "word": "warum",
+    "translation": {
+      "ru": [
+        "почему"
+      ],
+      "en": [
+        "why"
+      ],
+      "ar": [
+        "لماذا"
+      ]
+    },
+    "id": "warum"
+  },
+  {
+    "dictionaryId": "hund",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Hund",
+    "plural": "Hunde",
+    "translation": {
+      "ru": [
+        "собака"
+      ],
+      "en": [
+        "dog"
+      ],
+      "ar": [
+        "كلب"
+      ]
+    },
+    "id": "hund"
+  },
+  {
+    "dictionaryId": "eis",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Eis",
+    "plural": "",
+    "comment": "Sg. в значении мороженое",
+    "translation": {
+      "ru": [
+        "мороженое",
+        "лёд"
+      ],
+      "en": [
+        "ice cream",
+        "ice"
+      ],
+      "ar": [
+        "آيس كريم",
+        "ثلج"
+      ]
+    },
+    "id": "eis"
+  },
+  {
+    "dictionaryId": "tanzen",
+    "type": "verb",
+    "infinitive": "tanzen",
+    "praeteritum": "tanzte",
+    "perfekt": "hat getanzt",
+    "translation": {
+      "ru": [
+        "танцевать"
+      ],
+      "en": [
+        "to dance"
+      ],
+      "ar": [
+        "يرقص"
+      ]
+    },
+    "id": "tanzen"
+  },
+  {
+    "dictionaryId": "schwimmen",
+    "type": "verb",
+    "infinitive": "schwimmen",
+    "praeteritum": "schwamm",
+    "perfekt": "ist/hat geschwommen",
+    "translation": {
+      "ru": [
+        "плавать"
+      ],
+      "en": [
+        "to swim"
+      ],
+      "ar": [
+        "يسبح"
+      ]
+    },
+    "id": "schwimmen"
+  },
+  {
+    "dictionaryId": "treffen",
+    "type": "verb",
+    "infinitive": "treffen",
+    "praeteritum": "traf",
+    "perfekt": "hat getroffen",
+    "translation": {
+      "ru": [
+        "встречать",
+        "встретить",
+        "попадать"
+      ],
+      "en": [
+        "to meet",
+        "to hit"
+      ],
+      "ar": [
+        "يلتقي",
+        "يصيب"
+      ]
+    },
+    "id": "treffen"
+  },
+  {
+    "dictionaryId": "fahrrad",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Fahrrad",
+    "plural": "Fahrräder",
+    "translation": {
+      "ru": [
+        "велосипед"
+      ],
+      "en": [
+        "bicycle",
+        "bike"
+      ],
+      "ar": [
+        "دراجة هوائية"
+      ]
+    },
+    "id": "fahrrad"
+  },
+  {
+    "dictionaryId": "fahren",
+    "type": "verb",
+    "infinitive": "fahren",
+    "praeteritum": "fuhr",
+    "perfekt": "ist/hat gefahren",
+    "translation": {
+      "ru": [
+        "ехать",
+        "ездить"
+      ],
+      "en": [
+        "to drive",
+        "to ride",
+        "to go by vehicle"
+      ],
+      "ar": [
+        "يقود",
+        "يركب"
+      ]
+    },
+    "id": "fahren"
+  },
+  {
+    "dictionaryId": "grillen",
+    "type": "verb",
+    "infinitive": "grillen",
+    "praeteritum": "grillte",
+    "perfekt": "hat gegrillt",
+    "translation": {
+      "ru": [
+        "жарить на гриле"
+      ],
+      "en": [
+        "to grill",
+        "to barbecue"
+      ],
+      "ar": [
+        "يشوي"
+      ]
+    },
+    "id": "grillen"
+  },
+  {
+    "dictionaryId": "freizeit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Freizeit",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "свободное время",
+        "досуг"
+      ],
+      "en": [
+        "free time",
+        "leisure time"
+      ],
+      "ar": [
+        "وقت الفراغ"
+      ]
+    },
+    "id": "freizeit"
+  },
+  {
+    "dictionaryId": "hobby",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Hobby",
+    "plural": "Hobbys",
+    "translation": {
+      "ru": [
+        "хобби",
+        "увлечение"
+      ],
+      "en": [
+        "hobby"
+      ],
+      "ar": [
+        "هواية"
+      ]
+    },
+    "id": "hobby"
+  },
+  {
+    "dictionaryId": "lesen",
+    "type": "verb",
+    "infinitive": "lesen",
+    "praeteritum": "las",
+    "perfekt": "hat gelesen",
+    "translation": {
+      "ru": [
+        "читать"
+      ],
+      "en": [
+        "to read"
+      ],
+      "ar": [
+        "يقرأ"
+      ]
+    },
+    "id": "lesen"
+  },
+  {
+    "dictionaryId": "krimi",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Krimi",
+    "plural": "Krimis",
+    "translation": {
+      "ru": [
+        "детектив",
+        "криминальный роман/фильм"
+      ],
+      "en": [
+        "crime story",
+        "detective story",
+        "crime film"
+      ],
+      "ar": [
+        "قصة بوليسية",
+        "فيلم جريمة"
+      ]
+    },
+    "id": "krimi"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Lieblings-",
+    "translation": {
+      "ru": [
+        "любимый"
+      ],
+      "en": [
+        "favorite"
+      ],
+      "ar": [
+        "مفضل"
+      ]
+    },
+    "id": "lieblings"
+  },
+  {
+    "dictionaryId": "film",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Film",
+    "plural": "Filme",
+    "translation": {
+      "ru": [
+        "фильм"
+      ],
+      "en": [
+        "film",
+        "movie"
+      ],
+      "ar": [
+        "فيلم"
+      ]
+    },
+    "id": "film"
+  },
+  {
+    "dictionaryId": "wichtig",
+    "type": "other",
+    "word": "wichtig",
+    "translation": {
+      "ru": [
+        "важный"
+      ],
+      "en": [
+        "important"
+      ],
+      "ar": [
+        "مهم"
+      ]
+    },
+    "id": "wichtig"
+  },
+  {
+    "dictionaryId": "grill",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Grill",
+    "plural": "Grills",
+    "translation": {
+      "ru": [
+        "гриль",
+        "мангал"
+      ],
+      "en": [
+        "grill",
+        "barbecue"
+      ],
+      "ar": [
+        "شواية"
+      ]
+    },
+    "id": "grill"
+  },
+  {
+    "dictionaryId": "sammeln",
+    "type": "verb",
+    "infinitive": "sammeln",
+    "praeteritum": "sammelte",
+    "perfekt": "hat gesammelt",
+    "translation": {
+      "ru": [
+        "собирать",
+        "коллекционировать"
+      ],
+      "en": [
+        "to collect",
+        "to gather"
+      ],
+      "ar": [
+        "يجمع"
+      ]
+    },
+    "id": "sammeln"
+  },
+  {
+    "dictionaryId": "beruf",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Beruf",
+    "plural": "Berufe",
+    "translation": {
+      "ru": [
+        "профессия",
+        "работа"
+      ],
+      "en": [
+        "profession",
+        "occupation"
+      ],
+      "ar": [
+        "مهنة"
+      ]
+    },
+    "id": "beruf"
+  },
+  {
+    "dictionaryId": "foto",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Foto",
+    "plural": "Fotos",
+    "translation": {
+      "ru": [
+        "фото",
+        "фотография"
+      ],
+      "en": [
+        "photo",
+        "photograph"
+      ],
+      "ar": [
+        "صورة"
+      ]
+    },
+    "id": "foto"
+  },
+  {
+    "dictionaryId": "besonders",
+    "type": "other",
+    "word": "besonders",
+    "translation": {
+      "ru": [
+        "особенно",
+        "особый"
+      ],
+      "en": [
+        "especially",
+        "special"
+      ],
+      "ar": [
+        "خصوصًا",
+        "خاص"
+      ]
+    },
+    "id": "besonders"
+  },
+  {
+    "dictionaryId": "fotografieren",
+    "type": "verb",
+    "infinitive": "fotografieren",
+    "praeteritum": "fotografierte",
+    "perfekt": "hat fotografiert",
+    "translation": {
+      "ru": [
+        "фотографировать"
+      ],
+      "en": [
+        "to photograph",
+        "to take photos"
+      ],
+      "ar": [
+        "يصوّر"
+      ]
+    },
+    "id": "fotografieren"
+  },
+  {
+    "dictionaryId": "spaß",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Spaß",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "удовольствие",
+        "веселье"
+      ],
+      "en": [
+        "fun",
+        "enjoyment"
+      ],
+      "ar": [
+        "متعة",
+        "مرح"
+      ]
+    },
+    "id": "spass"
+  },
+  {
+    "dictionaryId": "smartphone",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Smartphone",
+    "plural": "Smartphones",
+    "translation": {
+      "ru": [
+        "смартфон"
+      ],
+      "en": [
+        "smartphone"
+      ],
+      "ar": [
+        "هاتف ذكي"
+      ]
+    },
+    "id": "smartphone"
+  },
+  {
+    "dictionaryId": "dumm",
+    "type": "other",
+    "word": "dumm",
+    "translation": {
+      "ru": [
+        "глупый"
+      ],
+      "en": [
+        "stupid",
+        "silly"
+      ],
+      "ar": [
+        "غبي"
+      ]
+    },
+    "id": "dumm"
+  },
+  {
+    "dictionaryId": "oft",
+    "type": "other",
+    "word": "oft",
+    "translation": {
+      "ru": [
+        "часто"
+      ],
+      "en": [
+        "often"
+      ],
+      "ar": [
+        "غالبًا"
+      ]
+    },
+    "id": "oft"
+  },
+  {
+    "dictionaryId": "meinen",
+    "type": "other",
+    "word": "meinen",
+    "translation": {
+      "ru": [
+        "мой",
+        "моего"
+      ],
+      "en": [
+        "my"
+      ],
+      "ar": [
+        "لي",
+        "الخاص بي"
+      ]
+    },
+    "id": "meinen"
+  },
+  {
+    "dictionaryId": "würfel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Würfel",
+    "plural": "Würfel",
+    "translation": {
+      "ru": [
+        "кубик",
+        "игральная кость"
+      ],
+      "en": [
+        "cube",
+        "die",
+        "dice"
+      ],
+      "ar": [
+        "مكعب",
+        "نرد"
+      ]
+    },
+    "id": "würfel"
+  },
+  {
+    "dictionaryId": "spiel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Spiel",
+    "plural": "Spiele",
+    "translation": {
+      "ru": [
+        "игра"
+      ],
+      "en": [
+        "game"
+      ],
+      "ar": [
+        "لعبة"
+      ]
+    },
+    "id": "spiel"
+  },
+  {
+    "dictionaryId": "leider",
+    "type": "other",
+    "word": "leider",
+    "translation": {
+      "ru": [
+        "к сожалению"
+      ],
+      "en": [
+        "unfortunately"
+      ],
+      "ar": [
+        "للأسف"
+      ]
+    },
+    "id": "leider"
+  },
+  {
+    "dictionaryId": "problem",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Problem",
+    "plural": "Probleme",
+    "translation": {
+      "ru": [
+        "проблема"
+      ],
+      "en": [
+        "problem"
+      ],
+      "ar": [
+        "مشكلة"
+      ]
+    },
+    "id": "problem"
+  },
+  {
+    "dictionaryId": "immer",
+    "type": "other",
+    "word": "immer",
+    "translation": {
+      "ru": [
+        "всегда"
+      ],
+      "en": [
+        "always"
+      ],
+      "ar": [
+        "دائمًا"
+      ]
+    },
+    "id": "immer"
+  },
+  {
+    "dictionaryId": "vielleicht",
+    "type": "other",
+    "word": "vielleicht",
+    "translation": {
+      "ru": [
+        "возможно",
+        "может быть"
+      ],
+      "en": [
+        "perhaps",
+        "maybe"
+      ],
+      "ar": [
+        "ربما"
+      ]
+    },
+    "id": "vielleicht"
+  },
+  {
+    "dictionaryId": "einfach",
+    "type": "other",
+    "word": "einfach",
+    "translation": {
+      "ru": [
+        "просто",
+        "лёгкий",
+        "простой"
+      ],
+      "en": [
+        "simple",
+        "easy",
+        "simply"
+      ],
+      "ar": [
+        "بسيط",
+        "سهل",
+        "ببساطة"
+      ]
+    },
+    "id": "einfach"
+  },
+  {
+    "dictionaryId": "schnell",
+    "type": "other",
+    "word": "schnell",
+    "translation": {
+      "ru": [
+        "быстро",
+        "быстрый"
+      ],
+      "en": [
+        "fast",
+        "quick"
+      ],
+      "ar": [
+        "سريع"
+      ]
+    },
+    "id": "schnell"
+  }
+]

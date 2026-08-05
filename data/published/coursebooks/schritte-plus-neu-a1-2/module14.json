@@ -1,0 +1,483 @@
+[
+  {
+    "dictionaryId": "geburtstag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Geburtstag",
+    "plural": "Geburtstage",
+    "translation": {
+      "ru": [
+        "день рождения"
+      ],
+      "en": [
+        "birthday"
+      ],
+      "ar": [
+        "عيد ميلاد"
+      ]
+    },
+    "id": "geburtstag"
+  },
+  {
+    "dictionaryId": "reifen",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Reifen",
+    "plural": "Reifen",
+    "translation": {
+      "ru": [
+        "шина",
+        "покрышка"
+      ],
+      "en": [
+        "tire",
+        "tyre"
+      ],
+      "ar": [
+        "إطار",
+        "عجلة"
+      ]
+    },
+    "id": "reifen"
+  },
+  {
+    "dictionaryId": "erzählen",
+    "type": "verb",
+    "infinitive": "erzählen",
+    "praeteritum": "erzählte",
+    "perfekt": "hat erzählt",
+    "translation": {
+      "ru": [
+        "рассказывать",
+        "рассказать"
+      ],
+      "en": [
+        "to tell",
+        "to narrate"
+      ],
+      "ar": [
+        "يحكي",
+        "يروي"
+      ]
+    },
+    "id": "erzählen"
+  },
+  {
+    "dictionaryId": "feiern",
+    "type": "verb",
+    "infinitive": "feiern",
+    "praeteritum": "feierte",
+    "perfekt": "hat gefeiert",
+    "translation": {
+      "ru": [
+        "праздновать",
+        "отмечать"
+      ],
+      "en": [
+        "to celebrate"
+      ],
+      "ar": [
+        "يحتفل"
+      ]
+    },
+    "id": "feiern"
+  },
+  {
+    "dictionaryId": "abschied",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Abschied",
+    "plural": "Abschiede",
+    "translation": {
+      "ru": [
+        "прощание"
+      ],
+      "en": [
+        "farewell",
+        "goodbye"
+      ],
+      "ar": [
+        "وداع"
+      ]
+    },
+    "id": "abschied"
+  },
+  {
+    "dictionaryId": "bald",
+    "type": "other",
+    "word": "bald",
+    "translation": {
+      "ru": [
+        "скоро"
+      ],
+      "en": [
+        "soon"
+      ],
+      "ar": [
+        "قريبًا"
+      ]
+    },
+    "id": "bald"
+  },
+  {
+    "dictionaryId": "beginnen",
+    "type": "verb",
+    "infinitive": "beginnen",
+    "praeteritum": "begann",
+    "perfekt": "hat begonnen",
+    "translation": {
+      "ru": [
+        "начинать",
+        "начаться"
+      ],
+      "en": [
+        "to begin",
+        "to start"
+      ],
+      "ar": [
+        "يبدأ"
+      ]
+    },
+    "id": "beginnen"
+  },
+  {
+    "dictionaryId": "arbeitsstelle",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Arbeitsstelle",
+    "plural": "Arbeitsstellen",
+    "translation": {
+      "ru": [
+        "рабочее место",
+        "должность"
+      ],
+      "en": [
+        "job",
+        "position",
+        "workplace"
+      ],
+      "ar": [
+        "وظيفة",
+        "مكان العمل"
+      ]
+    },
+    "id": "arbeitsstelle"
+  },
+  {
+    "dictionaryId": "glück",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Glück",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "счастье",
+        "удача"
+      ],
+      "en": [
+        "luck",
+        "happiness"
+      ],
+      "ar": [
+        "حظ",
+        "سعادة"
+      ]
+    },
+    "id": "glück"
+  },
+  {
+    "dictionaryId": "freude",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Freude",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "радость"
+      ],
+      "en": [
+        "joy"
+      ],
+      "ar": [
+        "فرح"
+      ]
+    },
+    "id": "freude"
+  },
+  {
+    "dictionaryId": "wünschen",
+    "type": "verb",
+    "infinitive": "sich wünschen",
+    "praeteritum": "wünschte sich",
+    "perfekt": "hat sich gewünscht",
+    "translation": {
+      "ru": [
+        "желать",
+        "загадывать желание"
+      ],
+      "en": [
+        "to wish"
+      ],
+      "ar": [
+        "يتمنى"
+      ]
+    },
+    "id": "wünschen"
+  },
+  {
+    "dictionaryId": "gratulieren",
+    "type": "verb",
+    "infinitive": "gratulieren",
+    "praeteritum": "gratulierte",
+    "perfekt": "hat gratuliert",
+    "translation": {
+      "ru": [
+        "поздравлять"
+      ],
+      "en": [
+        "to congratulate"
+      ],
+      "ar": [
+        "يهنئ"
+      ]
+    },
+    "id": "gratulieren"
+  },
+  {
+    "dictionaryId": "glückwunsch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Glückwunsch",
+    "plural": "Glückwünsche",
+    "translation": {
+      "ru": [
+        "поздравление"
+      ],
+      "en": [
+        "congratulation"
+      ],
+      "ar": [
+        "تهنئة"
+      ]
+    },
+    "id": "glückwunsch"
+  },
+  {
+    "dictionaryId": "glauben",
+    "type": "verb",
+    "infinitive": "glauben",
+    "praeteritum": "glaubte",
+    "perfekt": "hat geglaubt",
+    "translation": {
+      "ru": [
+        "верить",
+        "считать"
+      ],
+      "en": [
+        "to believe",
+        "to think"
+      ],
+      "ar": [
+        "يؤمن",
+        "يعتقد"
+      ]
+    },
+    "id": "glauben"
+  },
+  {
+    "dictionaryId": "besuchen",
+    "type": "verb",
+    "infinitive": "besuchen",
+    "praeteritum": "besuchte",
+    "perfekt": "hat besucht",
+    "translation": {
+      "ru": [
+        "посещать",
+        "навещать"
+      ],
+      "en": [
+        "to visit",
+        "to attend"
+      ],
+      "ar": [
+        "يزور",
+        "يحضر"
+      ]
+    },
+    "id": "besuchen"
+  },
+  {
+    "dictionaryId": "erste",
+    "type": "other",
+    "word": "erste",
+    "translation": {
+      "ru": [
+        "первый"
+      ],
+      "en": [
+        "first"
+      ],
+      "ar": [
+        "الأول"
+      ]
+    },
+    "id": "erste"
+  },
+  {
+    "dictionaryId": "zweite",
+    "type": "other",
+    "word": "zweite",
+    "translation": {
+      "ru": [
+        "второй"
+      ],
+      "en": [
+        "second"
+      ],
+      "ar": [
+        "الثاني"
+      ]
+    },
+    "id": "zweite"
+  },
+  {
+    "dictionaryId": "dritte",
+    "type": "other",
+    "word": "dritte",
+    "translation": {
+      "ru": [
+        "третий"
+      ],
+      "en": [
+        "third"
+      ],
+      "ar": [
+        "الثالث"
+      ]
+    },
+    "id": "dritte"
+  },
+  {
+    "dictionaryId": "blume",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Blume",
+    "plural": "Blumen",
+    "translation": {
+      "ru": [
+        "цветок"
+      ],
+      "en": [
+        "flower"
+      ],
+      "ar": [
+        "زهرة"
+      ]
+    },
+    "id": "blume"
+  },
+  {
+    "dictionaryId": "karneval",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Karneval",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "карнавал"
+      ],
+      "en": [
+        "carnival"
+      ],
+      "ar": [
+        "كرنفال"
+      ]
+    },
+    "id": "karneval"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "letzt-",
+    "translation": {
+      "ru": [
+        "последний"
+      ],
+      "en": [
+        "last"
+      ],
+      "ar": [
+        "الأخير"
+      ]
+    },
+    "id": "letzt"
+  },
+  {
+    "dictionaryId": "mitmachen",
+    "type": "verb",
+    "infinitive": "mitmachen",
+    "praeteritum": "machte mit",
+    "perfekt": "hat mitgemacht",
+    "translation": {
+      "ru": [
+        "участвовать",
+        "присоединяться"
+      ],
+      "en": [
+        "to take part",
+        "to participate",
+        "to join in"
+      ],
+      "ar": [
+        "يشارك"
+      ]
+    },
+    "id": "mitmachen"
+  },
+  {
+    "dictionaryId": "feiertag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Feiertag",
+    "plural": "Feiertage",
+    "translation": {
+      "ru": [
+        "праздник",
+        "выходной день",
+        "праздничный день"
+      ],
+      "en": [
+        "holiday",
+        "public holiday"
+      ],
+      "ar": [
+        "عطلة",
+        "يوم عطلة"
+      ]
+    },
+    "id": "feiertag"
+  }
+]

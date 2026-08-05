@@ -1,0 +1,779 @@
+[
+  {
+    "dictionaryId": "stein",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Stein",
+    "plural": "Steine",
+    "translation": {
+      "ru": [
+        "камень"
+      ],
+      "en": [
+        "stone",
+        "rock"
+      ],
+      "ar": [
+        "حجر"
+      ]
+    },
+    "id": "stein"
+  },
+  {
+    "dictionaryId": "liebe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Liebe",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "любовь"
+      ],
+      "en": [
+        "love"
+      ],
+      "ar": [
+        "حب"
+      ]
+    },
+    "id": "liebe"
+  },
+  {
+    "dictionaryId": "schützen",
+    "type": "verb",
+    "infinitive": "schützen",
+    "praeteritum": "schützte",
+    "perfekt": "hat geschützt",
+    "translation": {
+      "ru": [
+        "защищать"
+      ],
+      "en": [
+        "to protect"
+      ],
+      "ar": [
+        "يحمي"
+      ]
+    },
+    "id": "schützen"
+  },
+  {
+    "dictionaryId": "ankreuzen",
+    "type": "verb",
+    "infinitive": "ankreuzen",
+    "praeteritum": "kreuzte an",
+    "perfekt": "hat angekreuzt",
+    "translation": {
+      "ru": [
+        "отмечать крестиком"
+      ],
+      "en": [
+        "to tick",
+        "to mark with a cross"
+      ],
+      "ar": [
+        "يضع علامة"
+      ]
+    },
+    "id": "ankreuzen"
+  },
+  {
+    "dictionaryId": "überraschung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Überraschung",
+    "plural": "Überraschungen",
+    "translation": {
+      "ru": [
+        "сюрприз",
+        "неожиданность"
+      ],
+      "en": [
+        "surprise"
+      ],
+      "ar": [
+        "مفاجأة"
+      ]
+    },
+    "id": "überraschung"
+  },
+  {
+    "dictionaryId": "tatsächlich",
+    "type": "other",
+    "word": "tatsächlich",
+    "translation": {
+      "ru": [
+        "действительно",
+        "на самом деле"
+      ],
+      "en": [
+        "actually",
+        "indeed"
+      ],
+      "ar": [
+        "فعلاً",
+        "في الواقع"
+      ]
+    },
+    "id": "tatsächlich"
+  },
+  {
+    "dictionaryId": "stimme",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Stimme",
+    "plural": "Stimmen",
+    "translation": {
+      "ru": [
+        "голос"
+      ],
+      "en": [
+        "voice"
+      ],
+      "ar": [
+        "صوت"
+      ]
+    },
+    "id": "stimme"
+  },
+  {
+    "dictionaryId": "rennen",
+    "type": "verb",
+    "infinitive": "rennen",
+    "praeteritum": "rannte",
+    "perfekt": "ist gerannt",
+    "translation": {
+      "ru": [
+        "бежать"
+      ],
+      "en": [
+        "to run"
+      ],
+      "ar": [
+        "يركض"
+      ]
+    },
+    "id": "rennen"
+  },
+  {
+    "dictionaryId": "einbrecher",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Einbrecher",
+    "plural": "Einbrecher",
+    "translation": {
+      "ru": [
+        "взломщик",
+        "грабитель"
+      ],
+      "en": [
+        "burglar"
+      ],
+      "ar": [
+        "لص"
+      ]
+    },
+    "id": "einbrecher"
+  },
+  {
+    "dictionaryId": "heim",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Heim",
+    "plural": "Heime",
+    "translation": {
+      "ru": [
+        "дом",
+        "приют"
+      ],
+      "en": [
+        "home",
+        "residence"
+      ],
+      "ar": [
+        "منزل",
+        "دار"
+      ]
+    },
+    "id": "heim"
+  },
+  {
+    "dictionaryId": "zusammen",
+    "type": "other",
+    "word": "zusammen",
+    "translation": {
+      "ru": [
+        "вместе"
+      ],
+      "en": [
+        "together"
+      ],
+      "ar": [
+        "معًا"
+      ]
+    },
+    "id": "zusammen"
+  },
+  {
+    "dictionaryId": "menü",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Menü",
+    "plural": "Menüs",
+    "translation": {
+      "ru": [
+        "меню"
+      ],
+      "en": [
+        "menu"
+      ],
+      "ar": [
+        "قائمة طعام"
+      ]
+    },
+    "id": "menü"
+  },
+  {
+    "dictionaryId": "als",
+    "type": "other",
+    "word": "als",
+    "translation": {
+      "ru": [
+        "как",
+        "чем"
+      ],
+      "en": [
+        "as",
+        "than"
+      ],
+      "ar": [
+        "كـ",
+        "من"
+      ]
+    },
+    "id": "als"
+  },
+  {
+    "dictionaryId": "manager",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Manager",
+    "plural": "Manager",
+    "translation": {
+      "ru": [
+        "менеджер"
+      ],
+      "en": [
+        "manager"
+      ],
+      "ar": [
+        "مدير"
+      ]
+    },
+    "id": "manager"
+  },
+  {
+    "dictionaryId": "managerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Managerin",
+    "plural": "Managerinnen",
+    "translation": {
+      "ru": [
+        "менеджер (женщина)"
+      ],
+      "en": [
+        "female manager"
+      ],
+      "ar": [
+        "مديرة"
+      ]
+    },
+    "id": "managerin"
+  },
+  {
+    "dictionaryId": "klappen",
+    "type": "verb",
+    "infinitive": "klappen",
+    "praeteritum": "klappte",
+    "perfekt": "hat geklappt",
+    "translation": {
+      "ru": [
+        "получаться",
+        "удаваться"
+      ],
+      "en": [
+        "to work out",
+        "to succeed"
+      ],
+      "ar": [
+        "ينجح"
+      ]
+    },
+    "id": "klappen"
+  },
+  {
+    "dictionaryId": "klopfen",
+    "type": "verb",
+    "infinitive": "klopfen",
+    "praeteritum": "klopfte",
+    "perfekt": "hat geklopft",
+    "translation": {
+      "ru": [
+        "стучать"
+      ],
+      "en": [
+        "to knock"
+      ],
+      "ar": [
+        "يطرق"
+      ]
+    },
+    "id": "klopfen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "jedes Mal",
+    "translation": {
+      "ru": [
+        "каждый раз"
+      ],
+      "en": [
+        "every time"
+      ],
+      "ar": [
+        "في كل مرة"
+      ]
+    },
+    "id": "jedes-mal"
+  },
+  {
+    "dictionaryId": "einig",
+    "type": "other",
+    "word": "einig",
+    "translation": {
+      "ru": [
+        "согласный"
+      ],
+      "en": [
+        "in agreement"
+      ],
+      "ar": [
+        "متفق"
+      ]
+    },
+    "id": "einig"
+  },
+  {
+    "dictionaryId": "trainieren",
+    "type": "verb",
+    "infinitive": "trainieren",
+    "praeteritum": "trainierte",
+    "perfekt": "hat trainiert",
+    "translation": {
+      "ru": [
+        "тренироваться"
+      ],
+      "en": [
+        "to train"
+      ],
+      "ar": [
+        "يتدرب"
+      ]
+    },
+    "id": "trainieren"
+  },
+  {
+    "dictionaryId": "trainer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Trainer",
+    "plural": "Trainer",
+    "translation": {
+      "ru": [
+        "тренер"
+      ],
+      "en": [
+        "coach",
+        "trainer"
+      ],
+      "ar": [
+        "مدرب"
+      ]
+    },
+    "id": "trainer"
+  },
+  {
+    "dictionaryId": "trainerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Trainerin",
+    "plural": "Trainerinnen",
+    "translation": {
+      "ru": [
+        "тренер (женщина)"
+      ],
+      "en": [
+        "female coach"
+      ],
+      "ar": [
+        "مدربة"
+      ]
+    },
+    "id": "trainerin"
+  },
+  {
+    "dictionaryId": "spieler",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Spieler",
+    "plural": "Spieler",
+    "translation": {
+      "ru": [
+        "игрок"
+      ],
+      "en": [
+        "player"
+      ],
+      "ar": [
+        "لاعب"
+      ]
+    },
+    "id": "spieler"
+  },
+  {
+    "dictionaryId": "spielerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Spielerin",
+    "plural": "Spielerinnen",
+    "translation": {
+      "ru": [
+        "игрок (женщина)"
+      ],
+      "en": [
+        "female player"
+      ],
+      "ar": [
+        "لاعبة"
+      ]
+    },
+    "id": "spielerin"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "aller",
+    "translation": {
+      "ru": [
+        "всех",
+        "всякого"
+      ],
+      "en": [
+        "all",
+        "of all"
+      ],
+      "ar": [
+        "كل"
+      ]
+    },
+    "id": "aller"
+  },
+  {
+    "dictionaryId": "schießen",
+    "type": "verb",
+    "infinitive": "schießen",
+    "praeteritum": "schoss",
+    "perfekt": "hat geschossen",
+    "translation": {
+      "ru": [
+        "стрелять",
+        "бить по мячу"
+      ],
+      "en": [
+        "to shoot"
+      ],
+      "ar": [
+        "يطلق النار",
+        "يسدد"
+      ]
+    },
+    "id": "schiessen"
+  },
+  {
+    "dictionaryId": "notiz",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Notiz",
+    "plural": "Notizen",
+    "translation": {
+      "ru": [
+        "заметка"
+      ],
+      "en": [
+        "note"
+      ],
+      "ar": [
+        "ملاحظة"
+      ]
+    },
+    "id": "notiz"
+  },
+  {
+    "dictionaryId": "schaden",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schaden",
+    "plural": "Schäden",
+    "translation": {
+      "ru": [
+        "ущерб",
+        "вред"
+      ],
+      "en": [
+        "damage"
+      ],
+      "ar": [
+        "ضرر"
+      ]
+    },
+    "id": "schaden"
+  },
+  {
+    "dictionaryId": "meldung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Meldung",
+    "plural": "Meldungen",
+    "translation": {
+      "ru": [
+        "сообщение",
+        "извещение"
+      ],
+      "en": [
+        "report",
+        "message",
+        "announcement"
+      ],
+      "ar": [
+        "بلاغ",
+        "رسالة"
+      ]
+    },
+    "id": "meldung"
+  },
+  {
+    "dictionaryId": "vorhang",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Vorhang",
+    "plural": "Vorhänge",
+    "translation": {
+      "ru": [
+        "занавеска",
+        "штора"
+      ],
+      "en": [
+        "curtain"
+      ],
+      "ar": [
+        "ستارة"
+      ]
+    },
+    "id": "vorhang"
+  },
+  {
+    "dictionaryId": "stoßen",
+    "type": "verb",
+    "infinitive": "stoßen",
+    "praeteritum": "stieß",
+    "perfekt": "hat/ist gestoßen",
+    "translation": {
+      "ru": [
+        "толкать",
+        "наталкиваться"
+      ],
+      "en": [
+        "to push",
+        "to bump into"
+      ],
+      "ar": [
+        "يدفع",
+        "يصطدم"
+      ]
+    },
+    "id": "stossen"
+  },
+  {
+    "dictionaryId": "gegen",
+    "type": "other",
+    "word": "gegen",
+    "translation": {
+      "ru": [
+        "против"
+      ],
+      "en": [
+        "against"
+      ],
+      "ar": [
+        "ضد"
+      ]
+    },
+    "id": "gegen"
+  },
+  {
+    "dictionaryId": "beißen",
+    "type": "verb",
+    "infinitive": "beißen",
+    "praeteritum": "biss",
+    "perfekt": "hat gebissen",
+    "translation": {
+      "ru": [
+        "кусать"
+      ],
+      "en": [
+        "to bite"
+      ],
+      "ar": [
+        "يعض"
+      ]
+    },
+    "id": "beissen"
+  },
+  {
+    "dictionaryId": "erschrecken",
+    "type": "verb",
+    "infinitive": "erschrecken",
+    "praeteritum": "erschrak",
+    "perfekt": "ist erschrocken",
+    "translation": {
+      "ru": [
+        "испугаться"
+      ],
+      "en": [
+        "to be frightened"
+      ],
+      "ar": [
+        "يفزع"
+      ]
+    },
+    "id": "erschrecken"
+  },
+  {
+    "dictionaryId": "bericht",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bericht",
+    "plural": "Berichte",
+    "translation": {
+      "ru": [
+        "отчёт",
+        "доклад"
+      ],
+      "en": [
+        "report"
+      ],
+      "ar": [
+        "تقرير"
+      ]
+    },
+    "id": "bericht"
+  },
+  {
+    "dictionaryId": "beschrieben",
+    "type": "other",
+    "word": "beschrieben",
+    "translation": {
+      "ru": [
+        "описанный"
+      ],
+      "en": [
+        "described"
+      ],
+      "ar": [
+        "موصوف"
+      ]
+    },
+    "id": "beschrieben"
+  },
+  {
+    "dictionaryId": "berichten",
+    "type": "verb",
+    "infinitive": "berichten",
+    "praeteritum": "berichtete",
+    "perfekt": "hat berichtet",
+    "translation": {
+      "ru": [
+        "сообщать",
+        "докладывать"
+      ],
+      "en": [
+        "to report"
+      ],
+      "ar": [
+        "يبلغ",
+        "يذكر"
+      ]
+    },
+    "id": "berichten"
+  },
+  {
+    "dictionaryId": "meinung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Meinung",
+    "plural": "Meinungen",
+    "translation": {
+      "ru": [
+        "мнение"
+      ],
+      "en": [
+        "opinion"
+      ],
+      "ar": [
+        "رأي"
+      ]
+    },
+    "id": "meinung"
+  }
+]

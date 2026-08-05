@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026-08-05.174207",
+  "id": "schritte-plus-neu-a2-1",
+  "title": "Schritte plus neu A2.1",
+  "level": "A2.1",
+  "modules": [
+    {
+      "id": "module1",
+      "title": "Modul 1: Ankommen",
+      "url": "coursebooks/schritte-plus-neu-a2-1/module1.json",
+      "sha256": "996b7eb02818a53f6edf8fcdb14e6c54810c2c2322907e6542a0fc34d2eccb35",
+      "count": 75
+    },
+    {
+      "id": "module2",
+      "title": "Modul 2: Zu Hause",
+      "url": "coursebooks/schritte-plus-neu-a2-1/module2.json",
+      "sha256": "aca010b6667844cbb05477b2043efa5a67a83f9b5c51f9d18b3dde05bca6a183",
+      "count": 75
+    },
+    {
+      "id": "module3",
+      "title": "Modul 3: Essen und Trinken",
+      "url": "coursebooks/schritte-plus-neu-a2-1/module3.json",
+      "sha256": "00336d87472ff62acc59da2a718c8832c1a48718d7ae8cd210f3eafff8076214",
+      "count": 78
+    },
+    {
+      "id": "module4",
+      "title": "Modul 4: Arbeitswelt",
+      "url": "coursebooks/schritte-plus-neu-a2-1/module4.json",
+      "sha256": "e069f1d4e79edaf612c931c4d724aa91d5bfe94f8f6d8ce9e696e62778cad8ce",
+      "count": 75
+    },
+    {
+      "id": "module5",
+      "title": "Modul 5: Sport und Fitness",
+      "url": "coursebooks/schritte-plus-neu-a2-1/module5.json",
+      "sha256": "a28665a1bcac7240ffa55d7811fb6c80827999972d5cda5e44070087877a9c95",
+      "count": 84
+    },
+    {
+      "id": "module6",
+      "title": "Modul 6: Schule und Ausbildung",
+      "url": "coursebooks/schritte-plus-neu-a2-1/module6.json",
+      "sha256": "1bbb0d62c4b4163f1f5a4a41355643a0b486ecc2525faf132c12636cbea60638",
+      "count": 74
+    },
+    {
+      "id": "module7",
+      "title": "Modul 7: Feste und Geschenke",
+      "url": "coursebooks/schritte-plus-neu-a2-1/module7.json",
+      "sha256": "c153ac1ecc8284f7c1eb0d71bd16b11ff2ee3fd55f692d9421819d0e5453e355",
+      "count": 53
+    }
+  ]
+}

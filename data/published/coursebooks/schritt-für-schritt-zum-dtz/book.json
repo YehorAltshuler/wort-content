@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026-08-05.174207",
+  "id": "schritt-für-schritt-zum-dtz",
+  "title": "Schritt für Schritt zum DTZ",
+  "level": "A2+ - B1",
+  "modules": [
+    {
+      "id": "module0",
+      "title": "Modul 0: Willkommen im Kurs",
+      "url": "coursebooks/schritt-für-schritt-zum-dtz/module0.json",
+      "sha256": "f1c2f0d100196f5cdbe8d9160dbc8a2806268ccc6a693365b9454da4115823d1",
+      "count": 3
+    },
+    {
+      "id": "module1",
+      "title": "Modul 1: Glük im Alltag",
+      "url": "coursebooks/schritt-für-schritt-zum-dtz/module1.json",
+      "sha256": "9bd1ffff15b5670c6ddfb59940b7a8a98dda45633494677951cbb9d694be0e2b",
+      "count": 38
+    },
+    {
+      "id": "module2",
+      "title": "Modul 2: Unterhaltung",
+      "url": "coursebooks/schritt-für-schritt-zum-dtz/module2.json",
+      "sha256": "77c4d1b338be032371a2d6ac8508b4073bbaf5309d405a4c6e104faea51dabc0",
+      "count": 53
+    },
+    {
+      "id": "module3",
+      "title": "Modul 3: Gesund leben",
+      "url": "coursebooks/schritt-für-schritt-zum-dtz/module3.json",
+      "sha256": "b8e8ba7db0a142a09c3b163ba70e0a126f919a06f9b19f4b13d179973b9282c4",
+      "count": 59
+    },
+    {
+      "id": "module4",
+      "title": "Modul 4: Rund um die Bewerbung",
+      "url": "coursebooks/schritt-für-schritt-zum-dtz/module4.json",
+      "sha256": "1aaba644573b3bde669e9876524e8781c2dd23b2e0305246900deb1c31b11588",
+      "count": 52
+    },
+    {
+      "id": "module5",
+      "title": "Modul 5: Geschäfte",
+      "url": "coursebooks/schritt-für-schritt-zum-dtz/module5.json",
+      "sha256": "d82629232d46a995d8a4e275f54909ae5cb511137af3fa58d07bee19f8c331e3",
+      "count": 79
+    },
+    {
+      "id": "module6",
+      "title": "Modul 6: Zusammenleben",
+      "url": "coursebooks/schritt-für-schritt-zum-dtz/module6.json",
+      "sha256": "23119f3ff90134234242531cb22002b34721106d7e521d8009f1806ed941d84c",
+      "count": 73
+    },
+    {
+      "id": "module7",
+      "title": "Modul 7: Unter Kollegen",
+      "url": "coursebooks/schritt-für-schritt-zum-dtz/module7.json",
+      "sha256": "31b72443506343637f05661afe6c3128d02ef375442a911eee88b52e5ab5d410",
+      "count": 47
+    },
+    {
+      "id": "module8",
+      "title": "Modul 8: Digitale Welt",
+      "url": "coursebooks/schritt-für-schritt-zum-dtz/module8.json",
+      "sha256": "e8112926875caa1011a59e6c6aaced09175d99e87b455f2313eb1bfc27198671",
+      "count": 83
+    }
+  ]
+}

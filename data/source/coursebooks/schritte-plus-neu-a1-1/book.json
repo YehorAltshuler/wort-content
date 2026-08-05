@@ -1,0 +1,47 @@
+{
+  "id": "schritte-plus-neu-a1-1",
+  "title": "Schritte plus Neu A1.1",
+  "level": "A1.1",
+  "modules": [
+    {
+      "id": "module0",
+      "title": "Modul 0: Meine Wörter im Kurs",
+      "file": "module0.json"
+    },
+    {
+      "id": "module1",
+      "title": "Modul 1: Guten Tag. Mein Name ist...",
+      "file": "module1.json"
+    },
+    {
+      "id": "module2",
+      "title": "Modul 2: Meine Familie",
+      "file": "module2.json"
+    },
+    {
+      "id": "module3",
+      "title": "Modul 3: Einkaufen",
+      "file": "module3.json"
+    },
+    {
+      "id": "module4",
+      "title": "Modul 4: Meine Wohnung",
+      "file": "module4.json"
+    },
+    {
+      "id": "module5",
+      "title": "Modul 5: Mein Tag",
+      "file": "module5.json"
+    },
+    {
+      "id": "module6",
+      "title": "Modul 6: Freizeit",
+      "file": "module6.json"
+    },
+    {
+      "id": "module7",
+      "title": "Modul 7: Kinder und Schule",
+      "file": "module7.json"
+    }
+  ]
+}

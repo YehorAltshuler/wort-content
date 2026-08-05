@@ -1,0 +1,691 @@
+[
+  {
+    "dictionaryId": "außenminister",
+    "type": "noun",
+    "word": "Außenminister",
+    "translation": {
+      "ru": [
+        "полит. министр иностранных дел"
+      ],
+      "en": [
+        "foreign minister (male or of unspecified gender)"
+      ]
+    },
+    "id": "aussenminister"
+  },
+  {
+    "dictionaryId": "bayer",
+    "type": "noun",
+    "word": "Bayer",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "Bavarian (native or inhabitant of the state of Bavaria, Germany) (usually male)"
+      ]
+    },
+    "id": "bayer"
+  },
+  {
+    "dictionaryId": "bezirk",
+    "type": "noun",
+    "word": "Bezirk",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "(сокр. Bez., Bz.) район; участок; округ",
+        "(сокр. Bez., Bz.) округ (единица административного деления ГДР)",
+        "разг. администрация округа, окружной комитет (ГДР)"
+      ],
+      "en": [
+        "district, borough (formal administrative division)"
+      ]
+    },
+    "id": "bezirk"
+  },
+  {
+    "dictionaryId": "bildung",
+    "type": "noun",
+    "word": "Bildung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "образование, формирование, сотворение",
+        "образование как процесс или результат (Singular tantum)"
+      ],
+      "en": [
+        "cultivation, refinement, education, culture",
+        "formation, creation"
+      ]
+    },
+    "id": "bildung"
+  },
+  {
+    "dictionaryId": "bundesland",
+    "type": "noun",
+    "word": "Bundesland",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "(федеральная) земля (в составе ФРГ)",
+        "федеральная провинция (Австрия)"
+      ],
+      "en": [
+        "federal state (non-sovereign state)",
+        "One of the 16 federal states of Germany",
+        "One of the 9 federal states of Austria"
+      ]
+    },
+    "id": "bundesland"
+  },
+  {
+    "dictionaryId": "börde",
+    "type": "noun",
+    "word": "Börde",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "fertile plain (usually one within the North European Plain)",
+        "a rural district of Saxony-Anhalt; seat: Haldensleben"
+      ]
+    },
+    "id": "börde"
+  },
+  {
+    "dictionaryId": "bürgermeister",
+    "type": "noun",
+    "word": "Bürgermeister",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "бургомистр, мэр, глава города"
+      ],
+      "en": [
+        "mayor (leader of a city, male or unspecified sex)"
+      ]
+    },
+    "id": "bürgermeister"
+  },
+  {
+    "dictionaryId": "bürgermeisterin",
+    "type": "noun",
+    "word": "Bürgermeisterin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "жена бургомистра"
+      ],
+      "en": [
+        "mayor (female), mayoress (leader of a city)"
+      ]
+    },
+    "id": "bürgermeisterin"
+  },
+  {
+    "dictionaryId": "bürgerschaft",
+    "type": "noun",
+    "word": "Bürgerschaft",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "граждане",
+        "горожане; мещане",
+        "буржуазия; бюргерство"
+      ],
+      "en": [
+        "citizenry (the entirety of all citizens)",
+        "citizenship (the state of being a citizen)",
+        "the municipal parliament of one of a number of northern German cities, including Hamburg and Bremen, where these parliaments also serve as state parliaments (in the case of Bremen including additional delegates from Bremerhaven for this latter purpose)"
+      ]
+    },
+    "id": "bürgerschaft"
+  },
+  {
+    "dictionaryId": "finanzminister",
+    "type": "noun",
+    "word": "Finanzminister",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "министр финансов"
+      ],
+      "en": [
+        "finance minister"
+      ]
+    },
+    "id": "finanzminister"
+  },
+  {
+    "dictionaryId": "freistaat",
+    "type": "noun",
+    "word": "Freistaat",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "свободное государство; республика",
+        "истор. вольное государство (на территории Германии)"
+      ],
+      "en": [
+        "free state"
+      ]
+    },
+    "id": "freistaat"
+  },
+  {
+    "dictionaryId": "gemeinde",
+    "type": "noun",
+    "word": "Gemeinde",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "община",
+        "(администрация: общий термин для поселения, города, большой деревни или села)",
+        "(администрация: низкая административная единица государства)"
+      ],
+      "en": [
+        "municipality",
+        "parish",
+        "church, congregation, assembly"
+      ]
+    },
+    "id": "gemeinde"
+  },
+  {
+    "dictionaryId": "hansestadt",
+    "type": "noun",
+    "word": "Hansestadt",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "ганзейский город"
+      ],
+      "en": [
+        "Hanseatic city"
+      ]
+    },
+    "id": "hansestadt"
+  },
+  {
+    "dictionaryId": "hesse",
+    "type": "noun",
+    "word": "Hesse",
+    "article": [
+      "der",
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "Hessian (native or inhabitant of the state of Hesse, Germany) (usually male)",
+        "shank (of beef or veal)",
+        "Hesse (a state of modern Germany)"
+      ]
+    },
+    "id": "hesse"
+  },
+  {
+    "dictionaryId": "innenminister",
+    "type": "noun",
+    "word": "Innenminister",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "министр внутренних дел"
+      ],
+      "en": [
+        "Interior Minister, Home Secretary (male or of unspecified gender)"
+      ]
+    },
+    "id": "innenminister"
+  },
+  {
+    "dictionaryId": "innenministerin",
+    "type": "noun",
+    "word": "Innenministerin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "feminine equivalent of Innenminister"
+      ]
+    },
+    "id": "innenministerin"
+  },
+  {
+    "dictionaryId": "innensenator",
+    "type": "noun",
+    "word": "Innensenator",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "minister of the interior (in the senate)"
+      ]
+    },
+    "id": "innensenator"
+  },
+  {
+    "dictionaryId": "justizminister",
+    "type": "noun",
+    "word": "Justizminister",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "министр юстиции"
+      ],
+      "en": [
+        "justice minister, minister of justice"
+      ]
+    },
+    "id": "justizminister"
+  },
+  {
+    "dictionaryId": "kiel",
+    "type": "noun",
+    "word": "Kiel",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "(город) Киль",
+        "стержень пера, перо",
+        "перо (для письма)"
+      ],
+      "en": [
+        "keel (beam at the underside of a ship)",
+        "quill (shaft of a feather)",
+        "Kiel (an independent city in Schleswig-Holstein, Germany)"
+      ]
+    },
+    "id": "kiel"
+  },
+  {
+    "dictionaryId": "kommunalwahl",
+    "type": "noun",
+    "word": "Kommunalwahl",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "local (council) election"
+      ]
+    },
+    "id": "kommunalwahl"
+  },
+  {
+    "dictionaryId": "landeshauptstadt",
+    "type": "noun",
+    "word": "Landeshauptstadt",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "столица страны",
+        "столица федеральной земли [провинции] (в Германии, Австрии)"
+      ],
+      "en": [
+        "state capital, capital of a Bundesland",
+        "national capital (capital of a country)"
+      ]
+    },
+    "id": "landeshauptstadt"
+  },
+  {
+    "dictionaryId": "landkreis",
+    "type": "noun",
+    "word": "Landkreis",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "(сокр. LKr.) крейс, район, округ (единица административного деления ГДР)"
+      ],
+      "en": [
+        "county (administrative region of various countries)",
+        "district (see Districts of Germany, which are called Landkreise in German)"
+      ]
+    },
+    "id": "landkreis"
+  },
+  {
+    "dictionaryId": "landtag",
+    "type": "noun",
+    "word": "Landtag",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "полит. ландтаг, парламент земли, земельный парламент (в Австрии и Германии, а также некоторых др. немецкоязычных государствах и регионах)",
+        "полит. ландтаг (парламент Лихтенштейна)",
+        "истор. ландтаг (съезд сословных представителей в феодальных немецких княжествах)"
+      ],
+      "en": [
+        "Landtag (representative assembly or parliament in some German-speaking countries)"
+      ]
+    },
+    "id": "landtag"
+  },
+  {
+    "dictionaryId": "mecklenburg-vorpommer",
+    "type": "noun",
+    "word": "Mecklenburg-Vorpommer",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "a native or inhabitant of Mecklenburg-Vorpommern"
+      ]
+    },
+    "id": "mecklenburg-vorpommer"
+  },
+  {
+    "dictionaryId": "minister",
+    "type": "noun",
+    "word": "Minister",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "министр"
+      ],
+      "en": [
+        "minister (a person who is commissioned by the government for public service)"
+      ]
+    },
+    "id": "minister"
+  },
+  {
+    "dictionaryId": "ministerin",
+    "type": "noun",
+    "word": "Ministerin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "министр (женщина)"
+      ],
+      "en": [
+        "minister (woman who is commissioned by the government for public service)"
+      ]
+    },
+    "id": "ministerin"
+  },
+  {
+    "dictionaryId": "ministerpräsident",
+    "type": "noun",
+    "word": "Ministerpräsident",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "премьер-министр"
+      ],
+      "en": [
+        "minister-president, prime minister"
+      ]
+    },
+    "id": "ministerpräsident"
+  },
+  {
+    "dictionaryId": "ministerpräsidentin",
+    "type": "noun",
+    "word": "Ministerpräsidentin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "prime minister (female)"
+      ]
+    },
+    "id": "ministerpräsidentin"
+  },
+  {
+    "dictionaryId": "niedersachse",
+    "type": "noun",
+    "word": "Niedersachse",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "person from Lower Saxony"
+      ]
+    },
+    "id": "niedersachse"
+  },
+  {
+    "dictionaryId": "oberbürgermeister",
+    "type": "noun",
+    "word": "Oberbürgermeister",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "обер-бургомистр (в городах с делением на районы)"
+      ],
+      "en": [
+        "mayor (of a large city; conventionally translated Lord Mayor)"
+      ]
+    },
+    "id": "oberbürgermeister"
+  },
+  {
+    "dictionaryId": "ordnungsamt",
+    "type": "noun",
+    "word": "Ordnungsamt",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "ведомство правопорядка"
+      ],
+      "en": [
+        "public order office, municipal authority for code enforcement in Austria and Germany."
+      ]
+    },
+    "id": "ordnungsamt"
+  },
+  {
+    "dictionaryId": "politisch",
+    "type": "other",
+    "word": "politisch",
+    "translation": {
+      "ru": [
+        "политический"
+      ],
+      "en": [
+        "political (concerning or related to politics)"
+      ]
+    },
+    "id": "politisch"
+  },
+  {
+    "dictionaryId": "premierminister",
+    "type": "noun",
+    "word": "Premierminister",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "полит. премьер-министр"
+      ],
+      "en": [
+        "prime minister"
+      ]
+    },
+    "id": "premierminister"
+  },
+  {
+    "dictionaryId": "premierministerin",
+    "type": "noun",
+    "word": "Premierministerin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "полит. премьер-министр, премьер (женщина)"
+      ],
+      "en": [
+        "female prime minister"
+      ]
+    },
+    "id": "premierministerin"
+  },
+  {
+    "dictionaryId": "regierungschef",
+    "type": "noun",
+    "word": "Regierungschef",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "глава правительства"
+      ],
+      "en": [
+        "head of government"
+      ]
+    },
+    "id": "regierungschef"
+  },
+  {
+    "dictionaryId": "seenplatte",
+    "type": "noun",
+    "word": "Seenplatte",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "озёрная равнина"
+      ]
+    },
+    "id": "seenplatte"
+  },
+  {
+    "dictionaryId": "senator",
+    "type": "noun",
+    "word": "Senator",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "сенатор; член сената",
+        "член учёного совета"
+      ],
+      "en": [
+        "senator (member in the house or chamber of a legislature called a senate, or of the executive branch of city government in Berlin, Bremen, and Hamburg)"
+      ]
+    },
+    "id": "senator"
+  },
+  {
+    "dictionaryId": "stadtstaat",
+    "type": "noun",
+    "word": "Stadtstaat",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "город-государство"
+      ],
+      "en": [
+        "city state",
+        "a federal state that comprises only municipal territory, i.e. any of Berlin, Hamburg, and Bremen"
+      ]
+    },
+    "id": "stadtstaat"
+  },
+  {
+    "dictionaryId": "stadtteil",
+    "type": "noun",
+    "word": "Stadtteil",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "городской район (квартал), часть города"
+      ],
+      "en": [
+        "district; suburb (Australia, New Zealand)"
+      ]
+    },
+    "id": "stadtteil"
+  },
+  {
+    "dictionaryId": "verbraucherzentrale",
+    "type": "noun",
+    "word": "Verbraucherzentrale",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "общество защиты прав потребителей"
+      ]
+    },
+    "id": "verbraucherzentrale"
+  },
+  {
+    "dictionaryId": "wappen",
+    "type": "noun",
+    "word": "Wappen",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "герб"
+      ],
+      "en": [
+        "coat of arms"
+      ]
+    },
+    "id": "wappen"
+  }
+]

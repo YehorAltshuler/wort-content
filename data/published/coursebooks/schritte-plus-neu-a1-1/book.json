@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026-08-05.174207",
+  "id": "schritte-plus-neu-a1-1",
+  "title": "Schritte plus Neu A1.1",
+  "level": "A1.1",
+  "modules": [
+    {
+      "id": "module0",
+      "title": "Modul 0: Meine Wörter im Kurs",
+      "url": "coursebooks/schritte-plus-neu-a1-1/module0.json",
+      "sha256": "472ca6a8a844553fc73622969f39bf93d178288bb5ffc105ac03f1281228670f",
+      "count": 33
+    },
+    {
+      "id": "module1",
+      "title": "Modul 1: Guten Tag. Mein Name ist...",
+      "url": "coursebooks/schritte-plus-neu-a1-1/module1.json",
+      "sha256": "f087cf5dd9a527c1e73e46a5fdec0015195e0258fd14578be82f9fb31b847f6d",
+      "count": 66
+    },
+    {
+      "id": "module2",
+      "title": "Modul 2: Meine Familie",
+      "url": "coursebooks/schritte-plus-neu-a1-1/module2.json",
+      "sha256": "5279ee190bead28f76962da59bf3a3e96929c9ff11389018d2c7d18379780522",
+      "count": 65
+    },
+    {
+      "id": "module3",
+      "title": "Modul 3: Einkaufen",
+      "url": "coursebooks/schritte-plus-neu-a1-1/module3.json",
+      "sha256": "6e1744c05904a7d4771e681234e8525cda0ddf7c0de14a1140b844280c8be4a9",
+      "count": 67
+    },
+    {
+      "id": "module4",
+      "title": "Modul 4: Meine Wohnung",
+      "url": "coursebooks/schritte-plus-neu-a1-1/module4.json",
+      "sha256": "3535a8935e14c2aaf03a0fe412bf40964bbe0e2671307a9e4a48039f1b56155a",
+      "count": 98
+    },
+    {
+      "id": "module5",
+      "title": "Modul 5: Mein Tag",
+      "url": "coursebooks/schritte-plus-neu-a1-1/module5.json",
+      "sha256": "0cc6db3fa7cdb3d8dac6aae03503fb4ddc9fbbb4a313d7f384d8370502b9d388",
+      "count": 90
+    },
+    {
+      "id": "module6",
+      "title": "Modul 6: Freizeit",
+      "url": "coursebooks/schritte-plus-neu-a1-1/module6.json",
+      "sha256": "63f79d138afb673d26e1e5630434770b38ede63b2e93f3ae0f3dc414bc487094",
+      "count": 90
+    },
+    {
+      "id": "module7",
+      "title": "Modul 7: Kinder und Schule",
+      "url": "coursebooks/schritte-plus-neu-a1-1/module7.json",
+      "sha256": "9cd0dc057a529f63a633707d546eff0108add88bbfb174e3c3d08b898196447a",
+      "count": 50
+    }
+  ]
+}

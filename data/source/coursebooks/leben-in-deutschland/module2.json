@@ -1,0 +1,1915 @@
+[
+  {
+    "dictionaryId": "amerikanisch",
+    "type": "other",
+    "word": "amerikanisch",
+    "translation": {
+      "ru": [
+        "американский (относящий относящийся к Америке или американцам)",
+        "американский (относящий относящийся к США или американцам)"
+      ],
+      "en": [
+        "American"
+      ]
+    },
+    "id": "amerikanisch"
+  },
+  {
+    "dictionaryId": "angeklagte",
+    "type": "noun",
+    "word": "Angeklagte",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "юр. подсудимый, обвиняемый"
+      ]
+    },
+    "id": "angeklagte"
+  },
+  {
+    "dictionaryId": "angriff",
+    "type": "noun",
+    "word": "Angriff",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "нападение; наступление, атака; налёт (тж. воен. и спорт.)",
+        "нападение, посягательство, нападки, выпад",
+        "техн. коррозия, разъедание; разрушение"
+      ],
+      "en": [
+        "attack, offensive, strike, assault, onslaught, raid, offence"
+      ]
+    },
+    "id": "angriff"
+  },
+  {
+    "dictionaryId": "anhänger",
+    "type": "noun",
+    "word": "Anhänger",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "приверженец, последователь, сторонник; болельщик; любитель (какого-либо вида спорта)",
+        "техн. сцепщик; строповщик",
+        "вешалка (у платья)"
+      ],
+      "en": [
+        "agent noun of anhängen"
+      ]
+    },
+    "id": "anhänger"
+  },
+  {
+    "dictionaryId": "anlage",
+    "type": "noun",
+    "word": "Anlage",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "мн. ч. сооружение, устройство, установка; закладка (здания); разбивка (сада)",
+        "сооружение, устройство, установка, агрегат; строение; (заводской) корпус; (заводское) оборудование",
+        "опора, подставка"
+      ],
+      "en": [
+        "public green area, site, park, garden",
+        "attachment of a letter, document or email,",
+        "plant, facility, installation"
+      ]
+    },
+    "id": "anlage"
+  },
+  {
+    "dictionaryId": "anlehnung",
+    "type": "noun",
+    "word": "Anlehnung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "примыкание, опора"
+      ],
+      "en": [
+        "dependence (on)",
+        "borrowing (from)",
+        "following, support"
+      ]
+    },
+    "id": "anlehnung"
+  },
+  {
+    "dictionaryId": "antisemitisch",
+    "type": "other",
+    "word": "antisemitisch",
+    "translation": {
+      "ru": [
+        "антисемитский"
+      ],
+      "en": [
+        "anti-Semitic, antisemitic (exhibiting anti-Semitism (anti-Jewism), inimical to Jews or Semites)"
+      ]
+    },
+    "id": "antisemitisch"
+  },
+  {
+    "dictionaryId": "arbeitsgericht",
+    "type": "noun",
+    "word": "Arbeitsgericht",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "суд по трудовым делам"
+      ],
+      "en": [
+        "labor court, industrial tribunal"
+      ]
+    },
+    "id": "arbeitsgericht"
+  },
+  {
+    "dictionaryId": "arbeitswelt",
+    "type": "noun",
+    "word": "Arbeitswelt",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "мир труда"
+      ],
+      "en": [
+        "workplace, working environment"
+      ]
+    },
+    "id": "arbeitswelt"
+  },
+  {
+    "dictionaryId": "attentat",
+    "type": "noun",
+    "word": "Attentat",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "покушение на жизнь",
+        "террористический акт"
+      ],
+      "en": [
+        "attack; assassination (killing, or attempted killing, for ideological reasons)"
+      ]
+    },
+    "id": "attentat"
+  },
+  {
+    "dictionaryId": "aufbau",
+    "type": "noun",
+    "word": "Aufbau",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "строительство, сооружение, постройка, создание; восстановление",
+        "строение, конструкция, композиция; структура",
+        "надстройка (тж. мор.)"
+      ],
+      "en": [
+        "construction (the manner in which or process by which something is built)",
+        "buildup"
+      ]
+    },
+    "id": "aufbau"
+  },
+  {
+    "dictionaryId": "ausgleich",
+    "type": "noun",
+    "word": "Ausgleich",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "уравнивание",
+        "возмещение"
+      ],
+      "en": [
+        "compensation",
+        "hotchpot",
+        "equalizer, tie (goal, run, point, etc. that equalises the score)"
+      ]
+    },
+    "id": "ausgleich"
+  },
+  {
+    "dictionaryId": "bau",
+    "type": "noun",
+    "word": "Bau",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "строительство, (по)стройка (деятельность), строительные работы; сооружение, возведение (здания, плотины); прокладка (дороги и т. п.); производство, конструирование, сборка (машин)",
+        "строительство, стройка (строительная площадка); место проведения дорожных работ",
+        "постройка, строение, сооружение, здание, корпус"
+      ],
+      "en": [
+        "building, construction (the act of constructing)",
+        "building site, construction site (place where such constructing takes place)",
+        "building, construction, edifice (built-up structure, house)"
+      ]
+    },
+    "id": "bau"
+  },
+  {
+    "dictionaryId": "bedingungslos",
+    "type": "other",
+    "word": "bedingungslos",
+    "translation": {
+      "ru": [
+        "безоговорочный, безусловный"
+      ],
+      "en": [
+        "unconditional"
+      ]
+    },
+    "id": "bedingungslos"
+  },
+  {
+    "dictionaryId": "berliner",
+    "type": "noun",
+    "word": "Berliner",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "берлинец"
+      ],
+      "en": [
+        "Berliner (male or of unspecified sex) (a native or inhabitant of Berlin)",
+        "of Berlin",
+        "Berliner (a pastry similar to a doughnut (donut), with a sweet filling)"
+      ]
+    },
+    "id": "berliner"
+  },
+  {
+    "dictionaryId": "berücksichtigen",
+    "type": "verb",
+    "infinitive": "berücksichtigen",
+    "translation": {
+      "ru": [
+        "принимать во внимание, учитывать",
+        "шутл. поворачиваться (к кому-л.) спиной"
+      ],
+      "en": [
+        "to consider, regard, take into account or consideration"
+      ]
+    },
+    "id": "berücksichtigen"
+  },
+  {
+    "dictionaryId": "besatzungsmacht",
+    "type": "noun",
+    "word": "Besatzungsmacht",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "оккупирующая (оккупационная) держава",
+        "оккупационные власти"
+      ],
+      "en": [
+        "occupying power"
+      ]
+    },
+    "id": "besatzungsmacht"
+  },
+  {
+    "dictionaryId": "betreuen",
+    "type": "verb",
+    "infinitive": "betreuen",
+    "translation": {
+      "ru": [
+        "заботиться (о ком-л., о чём-л.), ухаживать, ходить (за кем-л.)",
+        "обслуживать (пассажиров, туристов, население)",
+        "поддерживать (кого-л.), оказывать (материальную) поддержку (кому-л.)"
+      ],
+      "en": [
+        "to look after; to take care",
+        "to supervise, to guide, to oversee",
+        "to be responsible for a matter or process in a professional capacity"
+      ]
+    },
+    "id": "betreuen"
+  },
+  {
+    "dictionaryId": "bevölkerung",
+    "type": "noun",
+    "word": "Bevölkerung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "исч. население совокупность жителей",
+        "неисч. население действие"
+      ],
+      "en": [
+        "population"
+      ]
+    },
+    "id": "bevölkerung"
+  },
+  {
+    "dictionaryId": "branden",
+    "type": "verb",
+    "infinitive": "branden",
+    "translation": {
+      "ru": [
+        "разбиваться (с шумом) (о волнах); бушевать, разбушеваться (о волнах; тж. перен.)"
+      ],
+      "en": [
+        "to surge, to break (the sea or sea waves)"
+      ]
+    },
+    "id": "branden"
+  },
+  {
+    "dictionaryId": "briefwahl",
+    "type": "noun",
+    "word": "Briefwahl",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "голосование по почте (посредством почтового отправления избирательного бюллетеня)"
+      ],
+      "en": [
+        "postal vote (vote made on an official form which is then sent through the post/mail)"
+      ]
+    },
+    "id": "briefwahl"
+  },
+  {
+    "dictionaryId": "britisch",
+    "type": "other",
+    "word": "britisch",
+    "translation": {
+      "ru": [
+        "британский"
+      ],
+      "en": [
+        "British"
+      ]
+    },
+    "id": "britisch"
+  },
+  {
+    "dictionaryId": "buslinie",
+    "type": "noun",
+    "word": "Buslinie",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "автобусный маршрут"
+      ],
+      "en": [
+        "bus route, bus line"
+      ]
+    },
+    "id": "buslinie"
+  },
+  {
+    "dictionaryId": "ehrenamtlich",
+    "type": "other",
+    "word": "ehrenamtlich",
+    "translation": {
+      "ru": [
+        "почётный; общественный; добровольный (об участии в общественной работе); на общественных началах"
+      ],
+      "en": [
+        "voluntary (working without pay)",
+        "honorary",
+        "voluntarily"
+      ]
+    },
+    "id": "ehrenamtlich"
+  },
+  {
+    "dictionaryId": "entfaltung",
+    "type": "noun",
+    "word": "Entfaltung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "развёртывание; раскрытие (парашюта)",
+        "воен. развёртывание; расчленение; размыкание",
+        "развитие, расцвет, проявление"
+      ],
+      "en": [
+        "unfolding, development"
+      ]
+    },
+    "id": "entfaltung"
+  },
+  {
+    "dictionaryId": "erhaltung",
+    "type": "noun",
+    "word": "Erhaltung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "получение",
+        "сохранение; содержание; поддержание",
+        "содержание, поддержка"
+      ],
+      "en": [
+        "maintenance, preservation"
+      ]
+    },
+    "id": "erhaltung"
+  },
+  {
+    "dictionaryId": "erheben",
+    "type": "verb",
+    "infinitive": "erheben",
+    "translation": {
+      "ru": [
+        "поднимать"
+      ],
+      "en": [
+        "to raise, lift (one's arm, voice, glass, etc.)",
+        "to levy, charge",
+        "to gather, collect (e.g. data, material)"
+      ]
+    },
+    "id": "erheben"
+  },
+  {
+    "dictionaryId": "erlassen",
+    "type": "verb",
+    "infinitive": "erlassen",
+    "translation": {
+      "ru": [
+        "опубликовывать, издавать (закон и т. п.); отдавать (распоряжение)",
+        "снимать (выговор); освобождать (от наказания); отпускать (грехи); отменять, снимать (наказание); освобождать (должника) от исполнения обязательства"
+      ],
+      "en": [
+        "to issue (a law, an act); to promulgate, to enact (a regulation)",
+        "to let off (a penalty)",
+        "to abate (debt, taxes)"
+      ]
+    },
+    "id": "erlassen"
+  },
+  {
+    "dictionaryId": "französisch",
+    "type": "noun",
+    "word": "Französisch",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "французский язык"
+      ],
+      "en": [
+        "French (language)",
+        "French, fellatio"
+      ]
+    },
+    "id": "französisch"
+  },
+  {
+    "dictionaryId": "gebieten",
+    "type": "verb",
+    "infinitive": "gebieten",
+    "translation": {
+      "ru": [
+        "приказывать (что-л.), требовать (чего-л.)",
+        "управлять, повелевать, распоряжаться (кем-либо, чем-л.)"
+      ],
+      "en": [
+        "to demand",
+        "to command"
+      ]
+    },
+    "id": "gebieten"
+  },
+  {
+    "dictionaryId": "gemeinderat",
+    "type": "noun",
+    "word": "Gemeinderat",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "совет общины",
+        "местный совет",
+        "член совета общины"
+      ],
+      "en": [
+        "a local authority in Germany, Austria, Switzerland or East Belgium",
+        "a member of such a local authority"
+      ]
+    },
+    "id": "gemeinderat"
+  },
+  {
+    "dictionaryId": "gesteuert",
+    "type": "other",
+    "word": "gesteuert",
+    "translation": {
+      "en": [
+        "controlled, steered, guided"
+      ]
+    },
+    "id": "gesteuert"
+  },
+  {
+    "dictionaryId": "gewalt",
+    "type": "noun",
+    "word": "Gewalt",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "власть, сила",
+        "сила, могущество",
+        "насилие"
+      ],
+      "en": [
+        "strong or violent force",
+        "violence",
+        "physical control or power"
+      ]
+    },
+    "id": "gewalt"
+  },
+  {
+    "dictionaryId": "goldmedaille",
+    "type": "noun",
+    "word": "Goldmedaille",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "золотая медаль"
+      ],
+      "en": [
+        "gold medal"
+      ]
+    },
+    "id": "goldmedaille"
+  },
+  {
+    "dictionaryId": "gründungsmitglied",
+    "type": "noun",
+    "word": "Gründungsmitglied",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "член-учредитель"
+      ]
+    },
+    "id": "gründungsmitglied"
+  },
+  {
+    "dictionaryId": "initiative",
+    "type": "noun",
+    "word": "Initiative",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "инициатива, почин",
+        "инициативность"
+      ],
+      "en": [
+        "initiative"
+      ]
+    },
+    "id": "initiative"
+  },
+  {
+    "dictionaryId": "jude",
+    "type": "noun",
+    "word": "Jude",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "еврей",
+        "истор., религ. иудей"
+      ],
+      "en": [
+        "Jew"
+      ]
+    },
+    "id": "jude"
+  },
+  {
+    "dictionaryId": "jura",
+    "type": "noun",
+    "word": "Jura",
+    "article": [
+      "der",
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "Юра (горная система во Франции и в Швейцарии)",
+        "Юра (швейцарский кантон)",
+        "юра (геологическая эпоха)"
+      ],
+      "en": [
+        "Jura (a mountain range on the border of France and Switzerland, extending into Germany; in full, Jura Mountains)",
+        "the Jurassic",
+        "Jura (a canton of Switzerland)"
+      ]
+    },
+    "id": "jura"
+  },
+  {
+    "dictionaryId": "jüdisch",
+    "type": "other",
+    "word": "jüdisch",
+    "translation": {
+      "ru": [
+        "еврейский",
+        "истор., религ. иудейский"
+      ],
+      "en": [
+        "Jewish"
+      ]
+    },
+    "id": "jüdisch"
+  },
+  {
+    "dictionaryId": "kapitulation",
+    "type": "noun",
+    "word": "Kapitulation",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "капитуляция, сдача",
+        "капитуляции (неравноправные договоры между капиталистическими и зависимыми странами)",
+        "воен. истор. обязательство о сверхсрочной службе"
+      ],
+      "en": [
+        "capitulation"
+      ]
+    },
+    "id": "kapitulation"
+  },
+  {
+    "dictionaryId": "konflikt",
+    "type": "noun",
+    "word": "Konflikt",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "конфликт, столкновение"
+      ],
+      "en": [
+        "conflict"
+      ]
+    },
+    "id": "konflikt"
+  },
+  {
+    "dictionaryId": "kostengünstig",
+    "type": "other",
+    "word": "kostengünstig",
+    "translation": {
+      "ru": [
+        "экономный, не требующий больших затрат"
+      ],
+      "en": [
+        "affordable, inexpensive, economical"
+      ]
+    },
+    "id": "kostengünstig"
+  },
+  {
+    "dictionaryId": "krieg",
+    "type": "noun",
+    "word": "Krieg",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "война, военные действия"
+      ],
+      "en": [
+        "war, warfare"
+      ]
+    },
+    "id": "krieg"
+  },
+  {
+    "dictionaryId": "landweg",
+    "type": "noun",
+    "word": "Landweg",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "грунтовая дорога; просёлочная дорога",
+        "сухопутная дорога"
+      ],
+      "en": [
+        "land route"
+      ]
+    },
+    "id": "landweg"
+  },
+  {
+    "dictionaryId": "leugnen",
+    "type": "verb",
+    "infinitive": "leugnen",
+    "translation": {
+      "ru": [
+        "отрицать, оспаривать; отвергать, не признавать (что-л.); отрекаться (от кого-л., от чего-л.)"
+      ],
+      "en": [
+        "to deny (assert the untruth of)"
+      ]
+    },
+    "id": "leugnen"
+  },
+  {
+    "dictionaryId": "luftbrücke",
+    "type": "noun",
+    "word": "Luftbrücke",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "\"воздушный мост\" (связывавший Западный Берлин с ФРГ)"
+      ],
+      "en": [
+        "airbridge"
+      ]
+    },
+    "id": "luftbrücke"
+  },
+  {
+    "dictionaryId": "lösen",
+    "type": "verb",
+    "infinitive": "lösen",
+    "translation": {
+      "ru": [
+        "разделять; распускать; развязывать, отвязывать, отделять; расслаблять",
+        "расторгать; уничтожать, прекращать, отменять",
+        "растворять"
+      ],
+      "en": [
+        "to loose; to loosen; to detach; to remove",
+        "to separate",
+        "to cast off; to remove"
+      ]
+    },
+    "id": "lösen"
+  },
+  {
+    "dictionaryId": "macht",
+    "type": "noun",
+    "word": "Macht",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "сила, мощь; власть, влияние",
+        "полит. власть",
+        "держава, государство"
+      ],
+      "en": [
+        "power, authority",
+        "might, strength"
+      ]
+    },
+    "id": "macht"
+  },
+  {
+    "dictionaryId": "mich",
+    "type": "other",
+    "word": "mich",
+    "translation": {
+      "ru": [
+        "личное местоимение, форма винительного падежа от ich — меня",
+        "возвратное местоимение"
+      ]
+    },
+    "id": "mich"
+  },
+  {
+    "dictionaryId": "nationalsozialismus",
+    "type": "noun",
+    "word": "Nationalsozialismus",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "полит. национал-социализм"
+      ],
+      "en": [
+        "National Socialism"
+      ]
+    },
+    "id": "nationalsozialismus"
+  },
+  {
+    "dictionaryId": "nationalsozialist",
+    "type": "noun",
+    "word": "Nationalsozialist",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "полит. национал-социалист"
+      ],
+      "en": [
+        "National Socialist (male or of unspecified gender)"
+      ]
+    },
+    "id": "nationalsozialist"
+  },
+  {
+    "dictionaryId": "oberhaupt",
+    "type": "noun",
+    "word": "Oberhaupt",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "руководитель, глава"
+      ],
+      "en": [
+        "chief, chieftain, captain, leader, ruler",
+        "the upper part of the head"
+      ]
+    },
+    "id": "oberhaupt"
+  },
+  {
+    "dictionaryId": "offiziell",
+    "type": "other",
+    "word": "offiziell",
+    "translation": {
+      "ru": [
+        "должностной, служебный"
+      ],
+      "en": [
+        "official"
+      ]
+    },
+    "id": "offiziell"
+  },
+  {
+    "dictionaryId": "olympisch",
+    "type": "other",
+    "word": "olympisch",
+    "translation": {
+      "ru": [
+        "олимпийский"
+      ],
+      "en": [
+        "Olympian",
+        "Olympic"
+      ]
+    },
+    "id": "olympisch"
+  },
+  {
+    "dictionaryId": "operativ",
+    "type": "other",
+    "word": "operativ",
+    "translation": {
+      "ru": [
+        "оперативный"
+      ],
+      "en": [
+        "operational",
+        "operative"
+      ]
+    },
+    "id": "operativ"
+  },
+  {
+    "dictionaryId": "persönlichkeit",
+    "type": "noun",
+    "word": "Persönlichkeit",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "личность"
+      ],
+      "en": [
+        "personality",
+        "personage"
+      ]
+    },
+    "id": "persönlichkeit"
+  },
+  {
+    "dictionaryId": "protokoll",
+    "type": "noun",
+    "word": "Protokoll",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "протокол (документ)",
+        "протокол (техн. подробное описание процесса взаимодействия)"
+      ],
+      "en": [
+        "protocol",
+        "minutes (of a meeting)"
+      ]
+    },
+    "id": "protokoll"
+  },
+  {
+    "dictionaryId": "prozedur",
+    "type": "noun",
+    "word": "Prozedur",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "процедура"
+      ],
+      "en": [
+        "procedure"
+      ]
+    },
+    "id": "prozedur"
+  },
+  {
+    "dictionaryId": "prozess",
+    "type": "noun",
+    "word": "Prozess",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "процесс"
+      ],
+      "en": [
+        "lawsuit",
+        "process, procedure (but less widely used than in English, chiefly for processes with rules and several steps)"
+      ]
+    },
+    "id": "prozess"
+  },
+  {
+    "dictionaryId": "radfahren",
+    "type": "noun",
+    "word": "Radfahren",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "езда, катание на велосипеде; велосипедный спорт, велоспорт"
+      ],
+      "en": [
+        "cycling"
+      ]
+    },
+    "id": "radfahren"
+  },
+  {
+    "dictionaryId": "rassismus",
+    "type": "noun",
+    "word": "Rassismus",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "расизм"
+      ],
+      "en": [
+        "racism"
+      ]
+    },
+    "id": "rassismus"
+  },
+  {
+    "dictionaryId": "rechtlich",
+    "type": "other",
+    "word": "rechtlich",
+    "translation": {
+      "ru": [
+        "правовой, юридический",
+        "законный",
+        "честный, справедливый"
+      ],
+      "en": [
+        "legal",
+        "lawful"
+      ]
+    },
+    "id": "rechtlich"
+  },
+  {
+    "dictionaryId": "rechtsfrage",
+    "type": "noun",
+    "word": "Rechtsfrage",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "вопрос права, юридический вопрос"
+      ]
+    },
+    "id": "rechtsfrage"
+  },
+  {
+    "dictionaryId": "reichstag",
+    "type": "noun",
+    "word": "Reichstag",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "рейхстаг"
+      ],
+      "en": [
+        "Reichstag, the lower chamber of the federal parliament of Germany until 1945",
+        "The Reichstag building in Berlin housing the Bundestag nowadays."
+      ]
+    },
+    "id": "reichstag"
+  },
+  {
+    "dictionaryId": "reichstagsgebäude",
+    "type": "noun",
+    "word": "Reichstagsgebäude",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "здание рейхстага"
+      ]
+    },
+    "id": "reichstagsgebäude"
+  },
+  {
+    "dictionaryId": "revolution",
+    "type": "noun",
+    "word": "Revolution",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "революция",
+        "перен. революция, переворот",
+        "астрон. вращение (по орбите)"
+      ],
+      "en": [
+        "revolution"
+      ]
+    },
+    "id": "revolution"
+  },
+  {
+    "dictionaryId": "richterin",
+    "type": "noun",
+    "word": "Richterin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "female judge"
+      ]
+    },
+    "id": "richterin"
+  },
+  {
+    "dictionaryId": "rückzug",
+    "type": "noun",
+    "word": "Rückzug",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "отступление, отход (тж. перен.)"
+      ],
+      "en": [
+        "retreat"
+      ]
+    },
+    "id": "rückzug"
+  },
+  {
+    "dictionaryId": "schenk",
+    "type": "noun",
+    "word": "Schenk",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "cupbearer"
+      ]
+    },
+    "id": "schenk"
+  },
+  {
+    "dictionaryId": "schuld",
+    "type": "noun",
+    "word": "Schuld",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "долг; обязательство",
+        "вина"
+      ],
+      "en": [
+        "debt",
+        "fault",
+        "guilt"
+      ]
+    },
+    "id": "schuld"
+  },
+  {
+    "dictionaryId": "schwede",
+    "type": "noun",
+    "word": "Schwede",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "швед"
+      ],
+      "en": [
+        "Swede (Swedish person) (male or of unspecified gender)",
+        "Swede (member of the Germanic tribal group) (male or of unspecified gender)"
+      ]
+    },
+    "id": "schwede"
+  },
+  {
+    "dictionaryId": "schwierigkeit",
+    "type": "noun",
+    "word": "Schwierigkeit",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "трудность, затруднение"
+      ],
+      "en": [
+        "difficulty, problem",
+        "trouble, difficulty, hardships, complications (NOTE: when in the plural, this word can retain a singular English abstract meaning)"
+      ]
+    },
+    "id": "schwierigkeit"
+  },
+  {
+    "dictionaryId": "schöffe",
+    "type": "noun",
+    "word": "Schöffe",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "a lay judge, an assistant judge",
+        "a deputy mayor (for French échevin)"
+      ]
+    },
+    "id": "schöffe"
+  },
+  {
+    "dictionaryId": "sektor",
+    "type": "noun",
+    "word": "Sektor",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "сектор"
+      ],
+      "en": [
+        "sector"
+      ]
+    },
+    "id": "sektor"
+  },
+  {
+    "dictionaryId": "soldat",
+    "type": "noun",
+    "word": "Soldat",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "солдат, военнослужащий; военный",
+        "шахм. пешка"
+      ],
+      "en": [
+        "soldier"
+      ]
+    },
+    "id": "soldat"
+  },
+  {
+    "dictionaryId": "sorgen",
+    "type": "verb",
+    "infinitive": "sorgen",
+    "translation": {
+      "ru": [
+        "(für A) заботиться; хлопотать (о ком-л., о чём-л.)",
+        "(für A) заботиться (о ком-л.), присматривать (за кем-л.), опекать (кого-л.)",
+        "(für A) (по)заботиться (о чём-л.); устраивать (что-л.), создавать предпосылки (для чего-л.)"
+      ],
+      "en": [
+        "to take care of, to care for, to look after",
+        "to bring about, to ensure, to cause [with für (+ accusative) ‘something’] (a result or incident)",
+        "to worry, to be worried"
+      ]
+    },
+    "id": "sorgen"
+  },
+  {
+    "dictionaryId": "sowjetisch",
+    "type": "other",
+    "word": "sowjetisch",
+    "translation": {
+      "ru": [
+        "советский"
+      ],
+      "en": [
+        "Soviet"
+      ]
+    },
+    "id": "sowjetisch"
+  },
+  {
+    "dictionaryId": "sportverein",
+    "type": "noun",
+    "word": "Sportverein",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "спортивное общество"
+      ],
+      "en": [
+        "sports team, sports club"
+      ]
+    },
+    "id": "sportverein"
+  },
+  {
+    "dictionaryId": "staatsanwalt",
+    "type": "noun",
+    "word": "Staatsanwalt",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "прокурор"
+      ],
+      "en": [
+        "public prosecutor (UK), district attorney (US)",
+        "a state counsel, Crown attorney, and hence any jurist who ex officio has to attain proceedings to uphold legality"
+      ]
+    },
+    "id": "staatsanwalt"
+  },
+  {
+    "dictionaryId": "staatsanwältin",
+    "type": "noun",
+    "word": "Staatsanwältin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "a female prosecutor"
+      ]
+    },
+    "id": "staatsanwältin"
+  },
+  {
+    "dictionaryId": "stellvertreter",
+    "type": "noun",
+    "word": "Stellvertreter",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "заместитель; исполняющий обязанности (кого-л.)",
+        "представитель"
+      ],
+      "en": [
+        "deputy, vicegerent, lieutenant",
+        "proxy, representative, agent",
+        "proxy, substitute, surrogate"
+      ]
+    },
+    "id": "stellvertreter"
+  },
+  {
+    "dictionaryId": "steuerzahler",
+    "type": "noun",
+    "word": "Steuerzahler",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "налогоплательщик"
+      ],
+      "en": [
+        "taxpayer (male or of unspecified gender)"
+      ]
+    },
+    "id": "steuerzahler"
+  },
+  {
+    "dictionaryId": "stimmzettel",
+    "type": "noun",
+    "word": "Stimmzettel",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "избирательный бюллетень"
+      ],
+      "en": [
+        "ballot"
+      ]
+    },
+    "id": "stimmzettel"
+  },
+  {
+    "dictionaryId": "strafe",
+    "type": "noun",
+    "word": "Strafe",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "наказание, взыскание",
+        "штраф"
+      ],
+      "en": [
+        "punishment",
+        "penalty",
+        "fine"
+      ]
+    },
+    "id": "strafe"
+  },
+  {
+    "dictionaryId": "straftat",
+    "type": "noun",
+    "word": "Straftat",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "юр. преступление"
+      ],
+      "en": [
+        "criminal offence"
+      ]
+    },
+    "id": "straftat"
+  },
+  {
+    "dictionaryId": "synagoge",
+    "type": "noun",
+    "word": "Synagoge",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "синагога"
+      ],
+      "en": [
+        "synagogue"
+      ]
+    },
+    "id": "synagoge"
+  },
+  {
+    "dictionaryId": "telefonisch",
+    "type": "other",
+    "word": "telefonisch",
+    "translation": {
+      "ru": [
+        "телефонный"
+      ],
+      "en": [
+        "telephonic, by using a telephone"
+      ]
+    },
+    "id": "telefonisch"
+  },
+  {
+    "dictionaryId": "umstand",
+    "type": "noun",
+    "word": "Umstand",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "обстоятельство"
+      ],
+      "en": [
+        "circumstance (an event; a fact; a particular incident)",
+        "fuss, trouble, bother (unnecessary activity)"
+      ]
+    },
+    "id": "umstand"
+  },
+  {
+    "dictionaryId": "unbezahlt",
+    "type": "other",
+    "word": "unbezahlt",
+    "translation": {
+      "ru": [
+        "неоплаченный"
+      ],
+      "en": [
+        "unpaid"
+      ]
+    },
+    "id": "unbezahlt"
+  },
+  {
+    "dictionaryId": "unrecht",
+    "type": "noun",
+    "word": "Unrecht",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "несправедливость"
+      ],
+      "en": [
+        "injustice",
+        "wrongdoing"
+      ]
+    },
+    "id": "unrecht"
+  },
+  {
+    "dictionaryId": "unternehmen",
+    "type": "noun",
+    "word": "Unternehmen",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "предприятие (дело)",
+        "предприятие (экон. учреждение)"
+      ],
+      "en": [
+        "business, enterprise, company",
+        "undertaking",
+        "operation"
+      ]
+    },
+    "id": "unternehmen"
+  },
+  {
+    "dictionaryId": "urkunde",
+    "type": "noun",
+    "word": "Urkunde",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "документ, акт, грамота, удостоверение"
+      ],
+      "en": [
+        "document",
+        "certificate, legal instrument"
+      ]
+    },
+    "id": "urkunde"
+  },
+  {
+    "dictionaryId": "urteil",
+    "type": "noun",
+    "word": "Urteil",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "суждение (тж. лог.); мнение",
+        "юр. приговор, решение суда"
+      ],
+      "en": [
+        "judgment (the preferred spelling in a legal context), verdict, sentence (court decision)",
+        "judgement, opinion, usually one given after detailed consideration"
+      ]
+    },
+    "id": "urteil"
+  },
+  {
+    "dictionaryId": "vereinen",
+    "type": "verb",
+    "infinitive": "vereinen",
+    "translation": {
+      "ru": [
+        "объединять, соединять",
+        "сочетать (в себе) (какие-л. качества)",
+        "sich ~ объединяться"
+      ],
+      "en": [
+        "to unite",
+        "to join (together)",
+        "to combine"
+      ]
+    },
+    "id": "vereinen"
+  },
+  {
+    "dictionaryId": "verfahren",
+    "type": "noun",
+    "word": "Verfahren",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "действие, акт; поведение",
+        "метод, способ; процесс; система (работы), приём",
+        "(Verf.) производство (дела)"
+      ],
+      "en": [
+        "procedure, process",
+        "proceedings"
+      ]
+    },
+    "id": "verfahren"
+  },
+  {
+    "dictionaryId": "verfolgung",
+    "type": "noun",
+    "word": "Verfolgung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "преследование, гонение",
+        "преследование (цели)",
+        "проведение (политики)"
+      ],
+      "en": [
+        "persecution",
+        "pursuit, pursuance",
+        "tracking, trailing"
+      ]
+    },
+    "id": "verfolgung"
+  },
+  {
+    "dictionaryId": "verhaftung",
+    "type": "noun",
+    "word": "Verhaftung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "арест, задержание; взятие под стражу"
+      ],
+      "en": [
+        "arrest, detention"
+      ]
+    },
+    "id": "verhaftung"
+  },
+  {
+    "dictionaryId": "verkehr",
+    "type": "noun",
+    "word": "Verkehr",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "движение (уличное, дорожное) транспорт; перевозки",
+        "движение, сообщение; курсирование; плавание (судов); продвижение (по коммуникациям)",
+        "связь, род (вид, способ) связи; сообщение, коммуникация; акт сообщения (напр., телефонный разговор)"
+      ]
+    },
+    "id": "verkehr"
+  },
+  {
+    "dictionaryId": "verkehrsunfall",
+    "type": "noun",
+    "word": "Verkehrsunfall",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "несчастный случай на транспорте, дорожное происшествие"
+      ],
+      "en": [
+        "traffic accident"
+      ]
+    },
+    "id": "verkehrsunfall"
+  },
+  {
+    "dictionaryId": "versorgung",
+    "type": "noun",
+    "word": "Versorgung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "снабжение, обеспечение",
+        "обслуживание"
+      ],
+      "en": [
+        "supply",
+        "care, treatment, accommodation"
+      ]
+    },
+    "id": "versorgung"
+  },
+  {
+    "dictionaryId": "verteidigen",
+    "type": "verb",
+    "infinitive": "verteidigen",
+    "translation": {
+      "ru": [
+        "защищать; оборонять (кого-л., что-л. от кого-л., от чего-л.)",
+        "sich ~ защищаться, обороняться"
+      ],
+      "en": [
+        "to defend (from attack)",
+        "to justify (an opinion, behavior, etc.)"
+      ]
+    },
+    "id": "verteidigen"
+  },
+  {
+    "dictionaryId": "verteilen",
+    "type": "verb",
+    "infinitive": "verteilen",
+    "translation": {
+      "ru": [
+        "распределять"
+      ],
+      "en": [
+        "to distribute",
+        "to spread",
+        "to spread out"
+      ]
+    },
+    "id": "verteilen"
+  },
+  {
+    "dictionaryId": "vorsitzende",
+    "type": "noun",
+    "word": "Vorsitzende",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "председатель, председательница"
+      ]
+    },
+    "id": "vorsitzende"
+  },
+  {
+    "dictionaryId": "wahltag",
+    "type": "noun",
+    "word": "Wahltag",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "день выборов"
+      ],
+      "en": [
+        "election day"
+      ]
+    },
+    "id": "wahltag"
+  },
+  {
+    "dictionaryId": "ware",
+    "type": "noun",
+    "word": "Ware",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "товар"
+      ],
+      "en": [
+        "goods, merchandise, ware, commodity"
+      ]
+    },
+    "id": "ware"
+  },
+  {
+    "dictionaryId": "wehrmacht",
+    "type": "noun",
+    "word": "Wehrmacht",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "истор. вермахт, вооружённые силы нацистской Германии (1935-1945 гг.)"
+      ],
+      "en": [
+        "armed forces",
+        "Wehrmacht (German armed forces from 1935 to 1945)"
+      ]
+    },
+    "id": "wehrmacht"
+  },
+  {
+    "dictionaryId": "weiterarbeiten",
+    "type": "verb",
+    "infinitive": "weiterarbeiten",
+    "translation": {
+      "ru": [
+        "работать дальше, продолжать (работу)"
+      ],
+      "en": [
+        "to resume one's work"
+      ]
+    },
+    "id": "weiterarbeiten"
+  },
+  {
+    "dictionaryId": "weltkrieg",
+    "type": "noun",
+    "word": "Weltkrieg",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "мировая война"
+      ],
+      "en": [
+        "world war"
+      ]
+    },
+    "id": "weltkrieg"
+  },
+  {
+    "dictionaryId": "wende",
+    "type": "noun",
+    "word": "Wende",
+    "article": [
+      "die",
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "поворот; оборот",
+        "перен. поворот, перемена (судьбы)",
+        "рубеж (о времени)"
+      ],
+      "en": [
+        "turn (change in temperament or circumstance)",
+        "turnaround (reversal of policy)",
+        "tacking"
+      ]
+    },
+    "id": "wende"
+  },
+  {
+    "dictionaryId": "willkürlich",
+    "type": "other",
+    "word": "willkürlich",
+    "translation": {
+      "ru": [
+        "произвольный"
+      ],
+      "en": [
+        "arbitrary, random, haphazard"
+      ]
+    },
+    "id": "willkürlich"
+  },
+  {
+    "dictionaryId": "überfall",
+    "type": "noun",
+    "word": "Überfall",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "нападение, налёт, набег; атака",
+        "накладка (у замка)",
+        "гидрол. (водо)слив; перепад"
+      ],
+      "en": [
+        "an unanticipated violent attack, especially"
+      ]
+    },
+    "id": "überfall"
+  },
+  {
+    "dictionaryId": "übertritt",
+    "type": "noun",
+    "word": "Übertritt",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "transfer; crossing (over border etc.)",
+        "conversion"
+      ]
+    },
+    "id": "übertritt"
+  }
+]

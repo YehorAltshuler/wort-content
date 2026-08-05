@@ -1,0 +1,1997 @@
+[
+  {
+    "dictionaryId": "wohnung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wohnung",
+    "plural": "Wohnungen",
+    "translation": {
+      "ru": [
+        "квартира",
+        "жильё"
+      ],
+      "en": [
+        "apartment",
+        "flat"
+      ],
+      "ar": [
+        "شقة",
+        "مسكن"
+      ]
+    },
+    "id": "wohnung"
+  },
+  {
+    "dictionaryId": "lampe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Lampe",
+    "plural": "Lampen",
+    "translation": {
+      "ru": [
+        "лампа"
+      ],
+      "en": [
+        "lamp"
+      ],
+      "ar": [
+        "مصباح"
+      ]
+    },
+    "id": "lampe"
+  },
+  {
+    "dictionaryId": "zimmer",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Zimmer",
+    "plural": "Zimmer",
+    "translation": {
+      "ru": [
+        "комната"
+      ],
+      "en": [
+        "room"
+      ],
+      "ar": [
+        "غرفة"
+      ]
+    },
+    "id": "zimmer"
+  },
+  {
+    "dictionaryId": "küche",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Küche",
+    "plural": "Küchen",
+    "translation": {
+      "ru": [
+        "кухня"
+      ],
+      "en": [
+        "kitchen"
+      ],
+      "ar": [
+        "مطبخ"
+      ]
+    },
+    "id": "küche"
+  },
+  {
+    "dictionaryId": "bad",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Bad",
+    "plural": "Bäder",
+    "translation": {
+      "ru": [
+        "ванная комната",
+        "ванна"
+      ],
+      "en": [
+        "bathroom",
+        "bath"
+      ],
+      "ar": [
+        "حمام"
+      ]
+    },
+    "id": "bad"
+  },
+  {
+    "dictionaryId": "alt",
+    "type": "other",
+    "word": "alt",
+    "translation": {
+      "ru": [
+        "старый"
+      ],
+      "en": [
+        "old"
+      ],
+      "ar": [
+        "قديم",
+        "كبير في السن"
+      ]
+    },
+    "id": "alt"
+  },
+  {
+    "dictionaryId": "neu",
+    "type": "other",
+    "word": "neu",
+    "translation": {
+      "ru": [
+        "новый"
+      ],
+      "en": [
+        "new"
+      ],
+      "ar": [
+        "جديد"
+      ]
+    },
+    "id": "neu"
+  },
+  {
+    "dictionaryId": "groß",
+    "type": "other",
+    "word": "groß",
+    "translation": {
+      "ru": [
+        "большой",
+        "высокий"
+      ],
+      "en": [
+        "big",
+        "large",
+        "tall"
+      ],
+      "ar": [
+        "كبير",
+        "طويل"
+      ]
+    },
+    "id": "gross"
+  },
+  {
+    "dictionaryId": "klein",
+    "type": "other",
+    "word": "klein",
+    "translation": {
+      "ru": [
+        "маленький"
+      ],
+      "en": [
+        "small",
+        "little"
+      ],
+      "ar": [
+        "صغير"
+      ]
+    },
+    "id": "klein"
+  },
+  {
+    "dictionaryId": "hell",
+    "type": "other",
+    "word": "hell",
+    "translation": {
+      "ru": [
+        "светлый",
+        "яркий"
+      ],
+      "en": [
+        "bright",
+        "light"
+      ],
+      "ar": [
+        "مضيء",
+        "فاتح"
+      ]
+    },
+    "id": "hell"
+  },
+  {
+    "dictionaryId": "dunkel",
+    "type": "other",
+    "word": "dunkel",
+    "translation": {
+      "ru": [
+        "тёмный"
+      ],
+      "en": [
+        "dark"
+      ],
+      "ar": [
+        "داكن",
+        "مظلم"
+      ]
+    },
+    "id": "dunkel"
+  },
+  {
+    "dictionaryId": "teuer",
+    "type": "other",
+    "word": "teuer",
+    "translation": {
+      "ru": [
+        "дорогой"
+      ],
+      "en": [
+        "expensive"
+      ],
+      "ar": [
+        "غالي"
+      ]
+    },
+    "id": "teuer"
+  },
+  {
+    "dictionaryId": "billig",
+    "type": "other",
+    "word": "billig",
+    "translation": {
+      "ru": [
+        "дешёвый"
+      ],
+      "en": [
+        "cheap"
+      ],
+      "ar": [
+        "رخيص"
+      ]
+    },
+    "id": "billig"
+  },
+  {
+    "dictionaryId": "schön",
+    "type": "other",
+    "word": "schön",
+    "translation": {
+      "ru": [
+        "красивый",
+        "хороший",
+        "приятный"
+      ],
+      "en": [
+        "beautiful",
+        "nice"
+      ],
+      "ar": [
+        "جميل"
+      ]
+    },
+    "id": "schön"
+  },
+  {
+    "dictionaryId": "hässlich",
+    "type": "other",
+    "word": "hässlich",
+    "translation": {
+      "ru": [
+        "некрасивый",
+        "уродливый"
+      ],
+      "en": [
+        "ugly"
+      ],
+      "ar": [
+        "قبيح"
+      ]
+    },
+    "id": "hässlich"
+  },
+  {
+    "dictionaryId": "kennen",
+    "type": "verb",
+    "infinitive": "kennen",
+    "praeteritum": "kannte",
+    "perfekt": "hat gekannt",
+    "translation": {
+      "ru": [
+        "знать",
+        "быть знакомым"
+      ],
+      "en": [
+        "to know",
+        "to be familiar with"
+      ],
+      "ar": [
+        "يعرف"
+      ]
+    },
+    "id": "kennen"
+  },
+  {
+    "dictionaryId": "flur",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Flur",
+    "plural": "Flure",
+    "translation": {
+      "ru": [
+        "коридор",
+        "прихожая"
+      ],
+      "en": [
+        "hallway",
+        "corridor"
+      ],
+      "ar": [
+        "ممر",
+        "مدخل"
+      ]
+    },
+    "id": "flur"
+  },
+  {
+    "dictionaryId": "toilette",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Toilette",
+    "plural": "Toiletten",
+    "translation": {
+      "ru": [
+        "туалет"
+      ],
+      "en": [
+        "toilet",
+        "restroom"
+      ],
+      "ar": [
+        "مرحاض",
+        "حمام"
+      ]
+    },
+    "id": "toilette"
+  },
+  {
+    "dictionaryId": "balkon",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Balkon",
+    "plural": "Balkone",
+    "translation": {
+      "ru": [
+        "балкон"
+      ],
+      "en": [
+        "balcony"
+      ],
+      "ar": [
+        "شرفة"
+      ]
+    },
+    "id": "balkon"
+  },
+  {
+    "dictionaryId": "wohnzimmer",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Wohnzimmer",
+    "plural": "Wohnzimmer",
+    "translation": {
+      "ru": [
+        "гостиная"
+      ],
+      "en": [
+        "living room"
+      ],
+      "ar": [
+        "غرفة المعيشة"
+      ]
+    },
+    "id": "wohnzimmer"
+  },
+  {
+    "dictionaryId": "haus",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Haus",
+    "plural": "Häuser",
+    "translation": {
+      "ru": [
+        "дом"
+      ],
+      "en": [
+        "house"
+      ],
+      "ar": [
+        "بيت",
+        "منزل"
+      ]
+    },
+    "id": "haus"
+  },
+  {
+    "dictionaryId": "hier",
+    "type": "other",
+    "word": "hier",
+    "translation": {
+      "ru": [
+        "здесь",
+        "тут"
+      ],
+      "en": [
+        "here"
+      ],
+      "ar": [
+        "هنا"
+      ]
+    },
+    "id": "hier"
+  },
+  {
+    "dictionaryId": "dort",
+    "type": "other",
+    "word": "dort",
+    "translation": {
+      "ru": [
+        "там"
+      ],
+      "en": [
+        "there"
+      ],
+      "ar": [
+        "هناك"
+      ]
+    },
+    "id": "dort"
+  },
+  {
+    "dictionaryId": "aber",
+    "type": "other",
+    "word": "aber",
+    "translation": {
+      "ru": [
+        "но",
+        "однако"
+      ],
+      "en": [
+        "but",
+        "however"
+      ],
+      "ar": [
+        "لكن"
+      ]
+    },
+    "id": "aber"
+  },
+  {
+    "dictionaryId": "nicht",
+    "type": "other",
+    "word": "nicht",
+    "translation": {
+      "ru": [
+        "не"
+      ],
+      "en": [
+        "not"
+      ],
+      "ar": [
+        "لا",
+        "ليس"
+      ]
+    },
+    "id": "nicht"
+  },
+  {
+    "dictionaryId": "monat",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Monat",
+    "plural": "Monate",
+    "translation": {
+      "ru": [
+        "месяц"
+      ],
+      "en": [
+        "month"
+      ],
+      "ar": [
+        "شهر"
+      ]
+    },
+    "id": "monat"
+  },
+  {
+    "dictionaryId": "schmal",
+    "type": "other",
+    "word": "schmal",
+    "translation": {
+      "ru": [
+        "узкий"
+      ],
+      "en": [
+        "narrow"
+      ],
+      "ar": [
+        "ضيق"
+      ]
+    },
+    "id": "schmal"
+  },
+  {
+    "dictionaryId": "richtig",
+    "type": "other",
+    "word": "richtig",
+    "translation": {
+      "ru": [
+        "правильный",
+        "верно"
+      ],
+      "en": [
+        "correct",
+        "right"
+      ],
+      "ar": [
+        "صحيح"
+      ]
+    },
+    "id": "richtig"
+  },
+  {
+    "dictionaryId": "breit",
+    "type": "other",
+    "word": "breit",
+    "translation": {
+      "ru": [
+        "широкий"
+      ],
+      "en": [
+        "wide",
+        "broad"
+      ],
+      "ar": [
+        "واسع",
+        "عريض"
+      ]
+    },
+    "id": "breit"
+  },
+  {
+    "dictionaryId": "schrank",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schrank",
+    "plural": "Schränke",
+    "translation": {
+      "ru": [
+        "шкаф"
+      ],
+      "en": [
+        "cabinet",
+        "wardrobe",
+        "cupboard"
+      ],
+      "ar": [
+        "خزانة"
+      ]
+    },
+    "id": "schrank"
+  },
+  {
+    "dictionaryId": "kühlschrank",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kühlschrank",
+    "plural": "Kühlschränke",
+    "translation": {
+      "ru": [
+        "холодильник"
+      ],
+      "en": [
+        "refrigerator",
+        "fridge"
+      ],
+      "ar": [
+        "ثلاجة"
+      ]
+    },
+    "id": "kühlschrank"
+  },
+  {
+    "dictionaryId": "sofa",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Sofa",
+    "plural": "Sofas",
+    "translation": {
+      "ru": [
+        "диван"
+      ],
+      "en": [
+        "sofa",
+        "couch"
+      ],
+      "ar": [
+        "أريكة"
+      ]
+    },
+    "id": "sofa"
+  },
+  {
+    "dictionaryId": "tisch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tisch",
+    "plural": "Tische",
+    "translation": {
+      "ru": [
+        "стол"
+      ],
+      "en": [
+        "table"
+      ],
+      "ar": [
+        "طاولة"
+      ]
+    },
+    "id": "tisch"
+  },
+  {
+    "dictionaryId": "stuhl",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Stuhl",
+    "plural": "Stühle",
+    "translation": {
+      "ru": [
+        "стул"
+      ],
+      "en": [
+        "chair"
+      ],
+      "ar": [
+        "كرسي"
+      ]
+    },
+    "id": "stuhl"
+  },
+  {
+    "dictionaryId": "bett",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Bett",
+    "plural": "Betten",
+    "translation": {
+      "ru": [
+        "кровать"
+      ],
+      "en": [
+        "bed"
+      ],
+      "ar": [
+        "سرير"
+      ]
+    },
+    "id": "bett"
+  },
+  {
+    "dictionaryId": "fernseher",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Fernseher",
+    "plural": "Fernseher",
+    "translation": {
+      "ru": [
+        "телевизор"
+      ],
+      "en": [
+        "television",
+        "TV set"
+      ],
+      "ar": [
+        "تلفاز"
+      ]
+    },
+    "id": "fernseher"
+  },
+  {
+    "dictionaryId": "dusche",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Dusche",
+    "plural": "Duschen",
+    "translation": {
+      "ru": [
+        "душ"
+      ],
+      "en": [
+        "shower"
+      ],
+      "ar": [
+        "دش"
+      ]
+    },
+    "id": "dusche"
+  },
+  {
+    "dictionaryId": "herd",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Herd",
+    "plural": "Herde",
+    "translation": {
+      "ru": [
+        "плита",
+        "печь"
+      ],
+      "en": [
+        "stove",
+        "cooker"
+      ],
+      "ar": [
+        "موقد",
+        "فرن"
+      ]
+    },
+    "id": "herd"
+  },
+  {
+    "dictionaryId": "badewanne",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Badewanne",
+    "plural": "Badewannen",
+    "translation": {
+      "ru": [
+        "ванна"
+      ],
+      "en": [
+        "bathtub"
+      ],
+      "ar": [
+        "حوض استحمام"
+      ]
+    },
+    "id": "badewanne"
+  },
+  {
+    "dictionaryId": "teppich",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Teppich",
+    "plural": "Teppiche",
+    "translation": {
+      "ru": [
+        "ковёр"
+      ],
+      "en": [
+        "carpet",
+        "rug"
+      ],
+      "ar": [
+        "سجادة"
+      ]
+    },
+    "id": "teppich"
+  },
+  {
+    "dictionaryId": "sessel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Sessel",
+    "plural": "Sessel",
+    "translation": {
+      "ru": [
+        "кресло"
+      ],
+      "en": [
+        "armchair"
+      ],
+      "ar": [
+        "كرسي بذراعين"
+      ]
+    },
+    "id": "sessel"
+  },
+  {
+    "dictionaryId": "möbel",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Möbel",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "мебель"
+      ],
+      "en": [
+        "furniture"
+      ],
+      "ar": [
+        "أثاث"
+      ]
+    },
+    "id": "möbel"
+  },
+  {
+    "dictionaryId": "gerät",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gerät",
+    "plural": "Geräte",
+    "translation": {
+      "ru": [
+        "прибор",
+        "устройство",
+        "аппарат"
+      ],
+      "en": [
+        "device",
+        "appliance"
+      ],
+      "ar": [
+        "جهاز"
+      ]
+    },
+    "id": "gerät"
+  },
+  {
+    "dictionaryId": "gefallen",
+    "type": "verb",
+    "infinitive": "gefallen",
+    "praeteritum": "gefiel",
+    "perfekt": "hat gefallen",
+    "translation": {
+      "ru": [
+        "нравиться"
+      ],
+      "en": [
+        "to please",
+        "to like"
+      ],
+      "ar": [
+        "يعجب"
+      ]
+    },
+    "id": "gefallen"
+  },
+  {
+    "dictionaryId": "farbe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Farbe",
+    "plural": "Farben",
+    "translation": {
+      "ru": [
+        "цвет",
+        "краска"
+      ],
+      "en": [
+        "color",
+        "colour",
+        "paint"
+      ],
+      "ar": [
+        "لون",
+        "دهان"
+      ]
+    },
+    "id": "farbe"
+  },
+  {
+    "dictionaryId": "finden",
+    "type": "verb",
+    "infinitive": "finden",
+    "praeteritum": "fand",
+    "perfekt": "hat gefunden",
+    "translation": {
+      "ru": [
+        "находить",
+        "считать",
+        "думать"
+      ],
+      "en": [
+        "to find",
+        "to think"
+      ],
+      "ar": [
+        "يجد",
+        "يعتقد"
+      ]
+    },
+    "id": "finden"
+  },
+  {
+    "dictionaryId": "ganz",
+    "type": "other",
+    "word": "ganz",
+    "translation": {
+      "ru": [
+        "совсем",
+        "полностью",
+        "весь",
+        "довольно"
+      ],
+      "en": [
+        "whole",
+        "completely",
+        "quite"
+      ],
+      "ar": [
+        "كامل",
+        "تمامًا"
+      ]
+    },
+    "id": "ganz"
+  },
+  {
+    "dictionaryId": "modern",
+    "type": "other",
+    "word": "modern",
+    "translation": {
+      "ru": [
+        "современный",
+        "модный"
+      ],
+      "en": [
+        "modern"
+      ],
+      "ar": [
+        "حديث",
+        "عصري"
+      ]
+    },
+    "id": "modern"
+  },
+  {
+    "dictionaryId": "schwarz",
+    "type": "other",
+    "word": "schwarz",
+    "translation": {
+      "ru": [
+        "чёрный"
+      ],
+      "en": [
+        "black"
+      ],
+      "ar": [
+        "أسود"
+      ]
+    },
+    "id": "schwarz"
+  },
+  {
+    "dictionaryId": "grau",
+    "type": "other",
+    "word": "grau",
+    "translation": {
+      "ru": [
+        "серый"
+      ],
+      "en": [
+        "gray",
+        "grey"
+      ],
+      "ar": [
+        "رمادي"
+      ]
+    },
+    "id": "grau"
+  },
+  {
+    "dictionaryId": "weiß",
+    "type": "other",
+    "word": "weiß",
+    "translation": {
+      "ru": [
+        "белый"
+      ],
+      "en": [
+        "white"
+      ],
+      "ar": [
+        "أبيض"
+      ]
+    },
+    "id": "weiss"
+  },
+  {
+    "dictionaryId": "grün",
+    "type": "other",
+    "word": "grün",
+    "translation": {
+      "ru": [
+        "зелёный"
+      ],
+      "en": [
+        "green"
+      ],
+      "ar": [
+        "أخضر"
+      ]
+    },
+    "id": "grün"
+  },
+  {
+    "dictionaryId": "braun",
+    "type": "other",
+    "word": "braun",
+    "translation": {
+      "ru": [
+        "коричневый"
+      ],
+      "en": [
+        "brown"
+      ],
+      "ar": [
+        "بني"
+      ]
+    },
+    "id": "braun"
+  },
+  {
+    "dictionaryId": "blau",
+    "type": "other",
+    "word": "blau",
+    "translation": {
+      "ru": [
+        "синий",
+        "голубой"
+      ],
+      "en": [
+        "blue"
+      ],
+      "ar": [
+        "أزرق"
+      ]
+    },
+    "id": "blau"
+  },
+  {
+    "dictionaryId": "rot",
+    "type": "other",
+    "word": "rot",
+    "translation": {
+      "ru": [
+        "красный"
+      ],
+      "en": [
+        "red"
+      ],
+      "ar": [
+        "أحمر"
+      ]
+    },
+    "id": "rot"
+  },
+  {
+    "dictionaryId": "gelb",
+    "type": "other",
+    "word": "gelb",
+    "translation": {
+      "ru": [
+        "жёлтый"
+      ],
+      "en": [
+        "yellow"
+      ],
+      "ar": [
+        "أصفر"
+      ]
+    },
+    "id": "gelb"
+  },
+  {
+    "dictionaryId": "hell",
+    "type": "other",
+    "word": "hell-",
+    "comment": "+ Farbe",
+    "translation": {
+      "ru": [
+        "светло-"
+      ],
+      "en": [
+        "light"
+      ],
+      "ar": [
+        "فاتح"
+      ]
+    },
+    "id": "hell-2"
+  },
+  {
+    "dictionaryId": "dunkel",
+    "type": "other",
+    "word": "dunkel-",
+    "comment": "+ Farbe",
+    "translation": {
+      "ru": [
+        "тёмно-"
+      ],
+      "en": [
+        "dark"
+      ],
+      "ar": [
+        "داكن"
+      ]
+    },
+    "id": "dunkel-2"
+  },
+  {
+    "dictionaryId": "zentimeter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Zentimeter",
+    "plural": "Zentimeter",
+    "translation": {
+      "ru": [
+        "сантиметр"
+      ],
+      "en": [
+        "centimeter",
+        "centimetre"
+      ],
+      "ar": [
+        "سنتيمتر"
+      ]
+    },
+    "id": "zentimeter"
+  },
+  {
+    "dictionaryId": "mal",
+    "type": "other",
+    "word": "mal",
+    "translation": {
+      "ru": [
+        "раз",
+        "умножить"
+      ],
+      "en": [
+        "times",
+        "once"
+      ],
+      "ar": [
+        "مرة",
+        "ضرب"
+      ]
+    },
+    "id": "mal"
+  },
+  {
+    "dictionaryId": "handy",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Handy",
+    "plural": "Handys",
+    "translation": {
+      "ru": [
+        "мобильный телефон"
+      ],
+      "en": [
+        "mobile phone",
+        "cell phone"
+      ],
+      "ar": [
+        "هاتف محمول"
+      ]
+    },
+    "id": "handy"
+  },
+  {
+    "dictionaryId": "arbeit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Arbeit",
+    "plural": "",
+    "comment": "обычно Sg.",
+    "translation": {
+      "ru": [
+        "работа",
+        "труд"
+      ],
+      "en": [
+        "work",
+        "job"
+      ],
+      "ar": [
+        "عمل"
+      ]
+    },
+    "id": "arbeit"
+  },
+  {
+    "dictionaryId": "anzeige",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Anzeige",
+    "plural": "Anzeigen",
+    "translation": {
+      "ru": [
+        "объявление",
+        "индикатор",
+        "показание"
+      ],
+      "en": [
+        "advertisement",
+        "ad",
+        "display"
+      ],
+      "ar": [
+        "إعلان",
+        "عرض"
+      ]
+    },
+    "id": "anzeige"
+  },
+  {
+    "dictionaryId": "nett",
+    "type": "other",
+    "word": "nett",
+    "translation": {
+      "ru": [
+        "милый",
+        "приятный",
+        "любезный"
+      ],
+      "en": [
+        "nice",
+        "kind"
+      ],
+      "ar": [
+        "لطيف"
+      ]
+    },
+    "id": "nett"
+  },
+  {
+    "dictionaryId": "ehepaar",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Ehepaar",
+    "plural": "Ehepaare",
+    "translation": {
+      "ru": [
+        "супружеская пара"
+      ],
+      "en": [
+        "married couple"
+      ],
+      "ar": [
+        "زوجان"
+      ]
+    },
+    "id": "ehepaar"
+  },
+  {
+    "dictionaryId": "suchen",
+    "type": "verb",
+    "infinitive": "suchen",
+    "praeteritum": "suchte",
+    "perfekt": "hat gesucht",
+    "translation": {
+      "ru": [
+        "искать"
+      ],
+      "en": [
+        "to search",
+        "to look for"
+      ],
+      "ar": [
+        "يبحث"
+      ]
+    },
+    "id": "suchen"
+  },
+  {
+    "dictionaryId": "garten",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Garten",
+    "plural": "Gärten",
+    "translation": {
+      "ru": [
+        "сад"
+      ],
+      "en": [
+        "garden",
+        "yard"
+      ],
+      "ar": [
+        "حديقة"
+      ]
+    },
+    "id": "garten"
+  },
+  {
+    "dictionaryId": "vermieten",
+    "type": "verb",
+    "infinitive": "vermieten",
+    "praeteritum": "vermietete",
+    "perfekt": "hat vermietet",
+    "translation": {
+      "ru": [
+        "сдавать в аренду"
+      ],
+      "en": [
+        "to rent out",
+        "to lease"
+      ],
+      "ar": [
+        "يؤجر"
+      ]
+    },
+    "id": "vermieten"
+  },
+  {
+    "dictionaryId": "apartment",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Apartment",
+    "plural": "Apartments",
+    "translation": {
+      "ru": [
+        "апартамент",
+        "квартира"
+      ],
+      "en": [
+        "apartment"
+      ],
+      "ar": [
+        "شقة"
+      ]
+    },
+    "id": "apartment"
+  },
+  {
+    "dictionaryId": "raum",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Raum",
+    "plural": "Räume",
+    "translation": {
+      "ru": [
+        "комната",
+        "помещение",
+        "пространство"
+      ],
+      "en": [
+        "room",
+        "space"
+      ],
+      "ar": [
+        "غرفة",
+        "مساحة"
+      ]
+    },
+    "id": "raum"
+  },
+  {
+    "dictionaryId": "stock",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Stock",
+    "plural": "Stockwerke",
+    "translation": {
+      "ru": [
+        "этаж"
+      ],
+      "en": [
+        "floor",
+        "storey"
+      ],
+      "ar": [
+        "طابق"
+      ]
+    },
+    "id": "stock"
+  },
+  {
+    "dictionaryId": "circa",
+    "type": "other",
+    "word": "circa",
+    "translation": {
+      "ru": [
+        "приблизительно",
+        "около"
+      ],
+      "en": [
+        "approximately",
+        "about"
+      ],
+      "ar": [
+        "حوالي",
+        "تقريبًا"
+      ]
+    },
+    "id": "circa"
+  },
+  {
+    "dictionaryId": "privat",
+    "type": "other",
+    "word": "privat",
+    "translation": {
+      "ru": [
+        "частный",
+        "личный"
+      ],
+      "en": [
+        "private"
+      ],
+      "ar": [
+        "خاص"
+      ]
+    },
+    "id": "privat"
+  },
+  {
+    "dictionaryId": "ab",
+    "type": "other",
+    "word": "ab",
+    "translation": {
+      "ru": [
+        "с",
+        "начиная с"
+      ],
+      "en": [
+        "from",
+        "starting from"
+      ],
+      "ar": [
+        "من",
+        "ابتداءً من"
+      ]
+    },
+    "id": "ab"
+  },
+  {
+    "dictionaryId": "sofort",
+    "type": "other",
+    "word": "sofort",
+    "translation": {
+      "ru": [
+        "сразу",
+        "немедленно"
+      ],
+      "en": [
+        "immediately",
+        "right away"
+      ],
+      "ar": [
+        "فورًا"
+      ]
+    },
+    "id": "sofort"
+  },
+  {
+    "dictionaryId": "maximal",
+    "type": "other",
+    "word": "maximal",
+    "translation": {
+      "ru": [
+        "максимум",
+        "максимальный"
+      ],
+      "en": [
+        "maximum",
+        "at most"
+      ],
+      "ar": [
+        "حد أقصى"
+      ]
+    },
+    "comment": "max.",
+    "id": "maximal"
+  },
+  {
+    "dictionaryId": "anruf",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Anruf",
+    "plural": "Anrufe",
+    "translation": {
+      "ru": [
+        "звонок"
+      ],
+      "en": [
+        "call",
+        "phone call"
+      ],
+      "ar": [
+        "مكالمة"
+      ]
+    },
+    "id": "anruf"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "möbliert",
+    "translation": {
+      "ru": [
+        "меблированный"
+      ],
+      "en": [
+        "furnished"
+      ],
+      "ar": [
+        "مفروش"
+      ]
+    },
+    "id": "möbliert"
+  },
+  {
+    "dictionaryId": "tv",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "TV",
+    "plural": "",
+    "comment": "Sg.; телевизор/телевидение",
+    "translation": {
+      "ru": [
+        "телевизор",
+        "телевидение"
+      ],
+      "en": [
+        "TV",
+        "television"
+      ],
+      "ar": [
+        "تلفاز"
+      ]
+    },
+    "id": "tv"
+  },
+  {
+    "dictionaryId": "garage",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Garage",
+    "plural": "Garagen",
+    "translation": {
+      "ru": [
+        "гараж"
+      ],
+      "en": [
+        "garage"
+      ],
+      "ar": [
+        "مرآب"
+      ]
+    },
+    "id": "garage"
+  },
+  {
+    "dictionaryId": "quadratmeter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Quadratmeter",
+    "plural": "Quadratmeter",
+    "comment": "m² / qm",
+    "translation": {
+      "ru": [
+        "квадратный метр"
+      ],
+      "en": [
+        "square meter",
+        "square metre"
+      ],
+      "ar": [
+        "متر مربع"
+      ]
+    },
+    "id": "quadratmeter"
+  },
+  {
+    "dictionaryId": "nur",
+    "type": "other",
+    "word": "nur",
+    "translation": {
+      "ru": [
+        "только",
+        "лишь"
+      ],
+      "en": [
+        "only",
+        "just"
+      ],
+      "ar": [
+        "فقط"
+      ]
+    },
+    "id": "nur"
+  },
+  {
+    "dictionaryId": "miete",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Miete",
+    "plural": "",
+    "comment": "обычно Sg.",
+    "translation": {
+      "ru": [
+        "аренда",
+        "квартплата"
+      ],
+      "en": [
+        "rent"
+      ],
+      "ar": [
+        "إيجار"
+      ]
+    },
+    "id": "miete"
+  },
+  {
+    "dictionaryId": "bezahlen",
+    "type": "verb",
+    "infinitive": "bezahlen",
+    "praeteritum": "bezahlte",
+    "perfekt": "hat bezahlt",
+    "translation": {
+      "ru": [
+        "платить",
+        "оплачивать"
+      ],
+      "en": [
+        "to pay"
+      ],
+      "ar": [
+        "يدفع"
+      ]
+    },
+    "id": "bezahlen"
+  },
+  {
+    "dictionaryId": "verkaufen",
+    "type": "verb",
+    "infinitive": "verkaufen",
+    "praeteritum": "verkaufte",
+    "perfekt": "hat verkauft",
+    "translation": {
+      "ru": [
+        "продавать"
+      ],
+      "en": [
+        "to sell"
+      ],
+      "ar": [
+        "يبيع"
+      ]
+    },
+    "id": "verkaufen"
+  },
+  {
+    "dictionaryId": "etwas",
+    "type": "other",
+    "word": "etwas",
+    "translation": {
+      "ru": [
+        "что-то",
+        "немного"
+      ],
+      "en": [
+        "something",
+        "somewhat"
+      ],
+      "ar": [
+        "شيء ما",
+        "قليلًا"
+      ]
+    },
+    "id": "etwas"
+  },
+  {
+    "dictionaryId": "computer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Computer",
+    "plural": "Computer",
+    "translation": {
+      "ru": [
+        "компьютер"
+      ],
+      "en": [
+        "computer"
+      ],
+      "ar": [
+        "حاسوب"
+      ]
+    },
+    "id": "computer"
+  },
+  {
+    "dictionaryId": "schreibtisch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schreibtisch",
+    "plural": "Schreibtische",
+    "translation": {
+      "ru": [
+        "письменный стол",
+        "рабочий стол"
+      ],
+      "en": [
+        "desk"
+      ],
+      "ar": [
+        "مكتب"
+      ]
+    },
+    "id": "schreibtisch"
+  },
+  {
+    "dictionaryId": "heute",
+    "type": "other",
+    "word": "heute",
+    "translation": {
+      "ru": [
+        "сегодня"
+      ],
+      "en": [
+        "today"
+      ],
+      "ar": [
+        "اليوم"
+      ]
+    },
+    "id": "heute"
+  },
+  {
+    "dictionaryId": "welche",
+    "type": "other",
+    "word": "welche",
+    "translation": {
+      "ru": [
+        "какой",
+        "какая",
+        "которые"
+      ],
+      "en": [
+        "which",
+        "what"
+      ],
+      "ar": [
+        "أي"
+      ]
+    },
+    "id": "welche"
+  },
+  {
+    "dictionaryId": "also",
+    "type": "other",
+    "word": "also",
+    "translation": {
+      "ru": [
+        "итак",
+        "значит",
+        "следовательно"
+      ],
+      "en": [
+        "so",
+        "therefore"
+      ],
+      "ar": [
+        "إذًا",
+        "لذلك"
+      ]
+    },
+    "id": "also"
+  },
+  {
+    "dictionaryId": "ungefähr",
+    "type": "other",
+    "word": "ungefähr",
+    "translation": {
+      "ru": [
+        "примерно",
+        "приблизительно"
+      ],
+      "en": [
+        "approximately",
+        "roughly"
+      ],
+      "ar": [
+        "تقريبًا"
+      ]
+    },
+    "id": "ungefähr"
+  },
+  {
+    "dictionaryId": "meter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Meter",
+    "plural": "Meter",
+    "translation": {
+      "ru": [
+        "метр"
+      ],
+      "en": [
+        "meter",
+        "metre"
+      ],
+      "ar": [
+        "متر"
+      ]
+    },
+    "id": "meter"
+  },
+  {
+    "dictionaryId": "lang",
+    "type": "other",
+    "word": "lang",
+    "translation": {
+      "ru": [
+        "длинный",
+        "долго"
+      ],
+      "en": [
+        "long"
+      ],
+      "ar": [
+        "طويل"
+      ]
+    },
+    "id": "lang"
+  },
+  {
+    "dictionaryId": "genau",
+    "type": "other",
+    "word": "genau",
+    "translation": {
+      "ru": [
+        "точно",
+        "именно"
+      ],
+      "en": [
+        "exactly",
+        "precise"
+      ],
+      "ar": [
+        "بالضبط",
+        "دقيق"
+      ]
+    },
+    "id": "genau"
+  },
+  {
+    "dictionaryId": "sehen",
+    "type": "verb",
+    "infinitive": "sehen",
+    "praeteritum": "sah",
+    "perfekt": "hat gesehen",
+    "translation": {
+      "ru": [
+        "видеть",
+        "смотреть"
+      ],
+      "en": [
+        "to see",
+        "to watch"
+      ],
+      "ar": [
+        "يرى",
+        "يشاهد"
+      ]
+    },
+    "id": "sehen"
+  },
+  {
+    "dictionaryId": "hoch",
+    "type": "other",
+    "word": "hoch",
+    "translation": {
+      "ru": [
+        "высокий",
+        "высоко"
+      ],
+      "en": [
+        "high",
+        "tall"
+      ],
+      "ar": [
+        "عالٍ",
+        "مرتفع"
+      ]
+    },
+    "id": "hoch"
+  },
+  {
+    "dictionaryId": "morgen",
+    "type": "other",
+    "word": "morgen",
+    "translation": {
+      "ru": [
+        "завтра"
+      ],
+      "en": [
+        "tomorrow"
+      ],
+      "ar": [
+        "غدًا"
+      ]
+    },
+    "id": "morgen"
+  }
+]

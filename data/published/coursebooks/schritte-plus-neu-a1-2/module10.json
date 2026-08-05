@@ -1,0 +1,1607 @@
+[
+  {
+    "dictionaryId": "klub",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Klub",
+    "plural": "Klubs",
+    "translation": {
+      "ru": [
+        "клуб"
+      ],
+      "en": [
+        "club"
+      ],
+      "ar": [
+        "نادي"
+      ]
+    },
+    "id": "klub"
+  },
+  {
+    "dictionaryId": "notaufnahme",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Notaufnahme",
+    "plural": "Notaufnahmen",
+    "translation": {
+      "ru": [
+        "приёмный покой",
+        "отделение неотложной помощи"
+      ],
+      "en": [
+        "emergency room",
+        "emergency department"
+      ],
+      "ar": [
+        "قسم الطوارئ"
+      ]
+    },
+    "id": "notaufnahme"
+  },
+  {
+    "dictionaryId": "bereich",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bereich",
+    "plural": "Bereiche",
+    "translation": {
+      "ru": [
+        "область",
+        "сфера",
+        "участок"
+      ],
+      "en": [
+        "area",
+        "field",
+        "section"
+      ],
+      "ar": [
+        "مجال",
+        "منطقة",
+        "قسم"
+      ]
+    },
+    "id": "bereich"
+  },
+  {
+    "dictionaryId": "tablette",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Tablette",
+    "plural": "Tabletten",
+    "translation": {
+      "ru": [
+        "таблетка"
+      ],
+      "en": [
+        "tablet",
+        "pill"
+      ],
+      "ar": [
+        "حبّة دواء"
+      ]
+    },
+    "id": "tablette"
+  },
+  {
+    "dictionaryId": "auge",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Auge",
+    "plural": "Augen",
+    "translation": {
+      "ru": [
+        "глаз"
+      ],
+      "en": [
+        "eye"
+      ],
+      "ar": [
+        "عين"
+      ]
+    },
+    "id": "auge"
+  },
+  {
+    "dictionaryId": "wehtun",
+    "type": "verb",
+    "infinitive": "wehtun",
+    "praeteritum": "tat weh",
+    "perfekt": "hat wehgetan",
+    "translation": {
+      "ru": [
+        "болеть",
+        "причинять боль"
+      ],
+      "en": [
+        "to hurt",
+        "to ache"
+      ],
+      "ar": [
+        "يؤلم"
+      ]
+    },
+    "id": "wehtun"
+  },
+  {
+    "dictionaryId": "unfall",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Unfall",
+    "plural": "Unfälle",
+    "translation": {
+      "ru": [
+        "авария",
+        "несчастный случай"
+      ],
+      "en": [
+        "accident"
+      ],
+      "ar": [
+        "حادث"
+      ]
+    },
+    "id": "unfall"
+  },
+  {
+    "dictionaryId": "doktor",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Doktor",
+    "plural": "Doktoren",
+    "translation": {
+      "ru": [
+        "доктор",
+        "врач"
+      ],
+      "en": [
+        "doctor"
+      ],
+      "ar": [
+        "طبيب"
+      ]
+    },
+    "id": "doktor"
+  },
+  {
+    "dictionaryId": "schmerz",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schmerz",
+    "plural": "Schmerzen",
+    "translation": {
+      "ru": [
+        "боль"
+      ],
+      "en": [
+        "pain"
+      ],
+      "ar": [
+        "ألم"
+      ]
+    },
+    "id": "schmerz"
+  },
+  {
+    "dictionaryId": "sollen",
+    "type": "verb",
+    "infinitive": "sollen",
+    "praeteritum": "sollte",
+    "perfekt": "hat gesollt",
+    "translation": {
+      "ru": [
+        "следует",
+        "должен",
+        "быть должным"
+      ],
+      "en": [
+        "should",
+        "to be supposed to"
+      ],
+      "ar": [
+        "ينبغي",
+        "يجب"
+      ]
+    },
+    "id": "sollen"
+  },
+  {
+    "dictionaryId": "beide",
+    "type": "other",
+    "word": "beide",
+    "translation": {
+      "ru": [
+        "оба",
+        "обе"
+      ],
+      "en": [
+        "both"
+      ],
+      "ar": [
+        "كلاهما"
+      ]
+    },
+    "id": "beide"
+  },
+  {
+    "dictionaryId": "lustig",
+    "type": "other",
+    "word": "lustig",
+    "translation": {
+      "ru": [
+        "весёлый",
+        "смешной"
+      ],
+      "en": [
+        "funny",
+        "cheerful"
+      ],
+      "ar": [
+        "مضحك",
+        "مرح"
+      ]
+    },
+    "id": "lustig"
+  },
+  {
+    "dictionaryId": "schlimm",
+    "type": "other",
+    "word": "schlimm",
+    "translation": {
+      "ru": [
+        "плохой",
+        "ужасный",
+        "серьёзный"
+      ],
+      "en": [
+        "bad",
+        "terrible",
+        "serious"
+      ],
+      "ar": [
+        "سيء",
+        "فظيع",
+        "خطير"
+      ]
+    },
+    "id": "schlimm"
+  },
+  {
+    "dictionaryId": "geben",
+    "type": "verb",
+    "infinitive": "geben",
+    "praeteritum": "gab",
+    "perfekt": "hat gegeben",
+    "translation": {
+      "ru": [
+        "давать"
+      ],
+      "en": [
+        "to give"
+      ],
+      "ar": [
+        "يعطي"
+      ]
+    },
+    "id": "geben"
+  },
+  {
+    "dictionaryId": "idee",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Idee",
+    "plural": "Ideen",
+    "translation": {
+      "ru": [
+        "идея",
+        "мысль"
+      ],
+      "en": [
+        "idea"
+      ],
+      "ar": [
+        "فكرة"
+      ]
+    },
+    "id": "idee"
+  },
+  {
+    "dictionaryId": "bein",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Bein",
+    "plural": "Beine",
+    "translation": {
+      "ru": [
+        "нога"
+      ],
+      "en": [
+        "leg"
+      ],
+      "ar": [
+        "ساق"
+      ]
+    },
+    "id": "bein"
+  },
+  {
+    "dictionaryId": "haar",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Haar",
+    "plural": "Haare",
+    "translation": {
+      "ru": [
+        "волос",
+        "волосы"
+      ],
+      "en": [
+        "hair"
+      ],
+      "ar": [
+        "شعر"
+      ]
+    },
+    "id": "haar"
+  },
+  {
+    "dictionaryId": "ohr",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Ohr",
+    "plural": "Ohren",
+    "translation": {
+      "ru": [
+        "ухо"
+      ],
+      "en": [
+        "ear"
+      ],
+      "ar": [
+        "أذن"
+      ]
+    },
+    "id": "ohr"
+  },
+  {
+    "dictionaryId": "arm",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Arm",
+    "plural": "Arme",
+    "translation": {
+      "ru": [
+        "рука",
+        "рука от плеча"
+      ],
+      "en": [
+        "arm"
+      ],
+      "ar": [
+        "ذراع"
+      ]
+    },
+    "id": "arm"
+  },
+  {
+    "dictionaryId": "bauch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bauch",
+    "plural": "Bäuche",
+    "translation": {
+      "ru": [
+        "живот"
+      ],
+      "en": [
+        "belly",
+        "stomach"
+      ],
+      "ar": [
+        "بطن"
+      ]
+    },
+    "id": "bauch"
+  },
+  {
+    "dictionaryId": "finger",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Finger",
+    "plural": "Finger",
+    "translation": {
+      "ru": [
+        "палец на руке"
+      ],
+      "en": [
+        "finger"
+      ],
+      "ar": [
+        "إصبع"
+      ]
+    },
+    "id": "finger"
+  },
+  {
+    "dictionaryId": "fuß",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Fuß",
+    "plural": "Füße",
+    "translation": {
+      "ru": [
+        "ступня",
+        "нога"
+      ],
+      "en": [
+        "foot"
+      ],
+      "ar": [
+        "قدم"
+      ]
+    },
+    "id": "fuss"
+  },
+  {
+    "dictionaryId": "hals",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Hals",
+    "plural": "Hälse",
+    "translation": {
+      "ru": [
+        "шея",
+        "горло"
+      ],
+      "en": [
+        "neck",
+        "throat"
+      ],
+      "ar": [
+        "رقبة",
+        "حلق"
+      ]
+    },
+    "id": "hals"
+  },
+  {
+    "dictionaryId": "kopf",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kopf",
+    "plural": "Köpfe",
+    "translation": {
+      "ru": [
+        "голова"
+      ],
+      "en": [
+        "head"
+      ],
+      "ar": [
+        "رأس"
+      ]
+    },
+    "id": "kopf"
+  },
+  {
+    "dictionaryId": "rücken",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Rücken",
+    "plural": "Rücken",
+    "translation": {
+      "ru": [
+        "спина"
+      ],
+      "en": [
+        "back"
+      ],
+      "ar": [
+        "ظهر"
+      ]
+    },
+    "id": "rücken"
+  },
+  {
+    "dictionaryId": "brust",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Brust",
+    "plural": "Brüste",
+    "translation": {
+      "ru": [
+        "грудь"
+      ],
+      "en": [
+        "chest",
+        "breast"
+      ],
+      "ar": [
+        "صدر"
+      ]
+    },
+    "id": "brust"
+  },
+  {
+    "dictionaryId": "hand",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Hand",
+    "plural": "Hände",
+    "translation": {
+      "ru": [
+        "кисть",
+        "рука"
+      ],
+      "en": [
+        "hand"
+      ],
+      "ar": [
+        "يد"
+      ]
+    },
+    "id": "hand"
+  },
+  {
+    "dictionaryId": "nase",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nase",
+    "plural": "Nasen",
+    "translation": {
+      "ru": [
+        "нос"
+      ],
+      "en": [
+        "nose"
+      ],
+      "ar": [
+        "أنف"
+      ]
+    },
+    "id": "nase"
+  },
+  {
+    "dictionaryId": "mund",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Mund",
+    "plural": "Münder",
+    "translation": {
+      "ru": [
+        "рот"
+      ],
+      "en": [
+        "mouth"
+      ],
+      "ar": [
+        "فم"
+      ]
+    },
+    "id": "mund"
+  },
+  {
+    "dictionaryId": "zahn",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Zahn",
+    "plural": "Zähne",
+    "translation": {
+      "ru": [
+        "зуб"
+      ],
+      "en": [
+        "tooth"
+      ],
+      "ar": [
+        "سن"
+      ]
+    },
+    "id": "zahn"
+  },
+  {
+    "dictionaryId": "informieren",
+    "type": "verb",
+    "infinitive": "informieren",
+    "praeteritum": "informierte",
+    "perfekt": "hat informiert",
+    "translation": {
+      "ru": [
+        "информировать",
+        "сообщать"
+      ],
+      "en": [
+        "to inform"
+      ],
+      "ar": [
+        "يبلغ",
+        "يخبر"
+      ]
+    },
+    "id": "informieren"
+  },
+  {
+    "dictionaryId": "ausfallen",
+    "type": "verb",
+    "infinitive": "ausfallen",
+    "praeteritum": "fiel aus",
+    "perfekt": "ist ausgefallen",
+    "translation": {
+      "ru": [
+        "отменяться",
+        "выпадать",
+        "выходить из строя"
+      ],
+      "en": [
+        "to be canceled",
+        "to fall out",
+        "to break down"
+      ],
+      "ar": [
+        "يُلغى",
+        "يسقط",
+        "يتعطل"
+      ]
+    },
+    "id": "ausfallen"
+  },
+  {
+    "dictionaryId": "nachricht",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nachricht",
+    "plural": "Nachrichten",
+    "translation": {
+      "ru": [
+        "сообщение",
+        "новость"
+      ],
+      "en": [
+        "message",
+        "news"
+      ],
+      "ar": [
+        "رسالة",
+        "خبر"
+      ]
+    },
+    "id": "nachricht"
+  },
+  {
+    "dictionaryId": "kuss",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kuss",
+    "plural": "Küsse",
+    "translation": {
+      "ru": [
+        "поцелуй"
+      ],
+      "en": [
+        "kiss"
+      ],
+      "ar": [
+        "قبلة"
+      ]
+    },
+    "id": "kuss"
+  },
+  {
+    "dictionaryId": "gesund",
+    "type": "other",
+    "word": "gesund",
+    "translation": {
+      "ru": [
+        "здоровый",
+        "полезный"
+      ],
+      "en": [
+        "healthy"
+      ],
+      "ar": [
+        "صحي"
+      ]
+    },
+    "id": "gesund"
+  },
+  {
+    "dictionaryId": "hoffentlich",
+    "type": "other",
+    "word": "hoffentlich",
+    "translation": {
+      "ru": [
+        "надеюсь",
+        "будем надеяться"
+      ],
+      "en": [
+        "hopefully"
+      ],
+      "ar": [
+        "نأمل",
+        "إن شاء الله"
+      ]
+    },
+    "id": "hoffentlich"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bekannte",
+    "plural": "Bekannten",
+    "translation": {
+      "ru": [
+        "знакомый"
+      ],
+      "en": [
+        "male acquaintance"
+      ],
+      "ar": [
+        "معروف",
+        "شخص معروف"
+      ]
+    },
+    "id": "bekannte"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bekannte",
+    "plural": "Bekannten",
+    "translation": {
+      "ru": [
+        "знакомая"
+      ],
+      "en": [
+        "female acquaintance"
+      ],
+      "ar": [
+        "معروفة"
+      ]
+    },
+    "id": "bekannte-2"
+  },
+  {
+    "dictionaryId": "schritt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schritt",
+    "plural": "Schritte",
+    "translation": {
+      "ru": [
+        "шаг"
+      ],
+      "en": [
+        "step"
+      ],
+      "ar": [
+        "خطوة"
+      ]
+    },
+    "id": "schritt"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "ein paar",
+    "translation": {
+      "ru": [
+        "несколько",
+        "пара"
+      ],
+      "en": [
+        "a few",
+        "a couple of"
+      ],
+      "ar": [
+        "بعض",
+        "عدة"
+      ]
+    },
+    "id": "ein-paar"
+  },
+  {
+    "dictionaryId": "medizin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Medizin",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "медицина",
+        "лекарство"
+      ],
+      "en": [
+        "medicine"
+      ],
+      "ar": [
+        "دواء",
+        "طب"
+      ]
+    },
+    "id": "medizin"
+  },
+  {
+    "dictionaryId": "ruhig",
+    "type": "other",
+    "word": "ruhig",
+    "translation": {
+      "ru": [
+        "спокойный",
+        "спокойно",
+        "тихий"
+      ],
+      "en": [
+        "calm",
+        "quiet"
+      ],
+      "ar": [
+        "هادئ"
+      ]
+    },
+    "id": "ruhig"
+  },
+  {
+    "dictionaryId": "apotheke",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Apotheke",
+    "plural": "Apotheken",
+    "translation": {
+      "ru": [
+        "аптека"
+      ],
+      "en": [
+        "pharmacy"
+      ],
+      "ar": [
+        "صيدلية"
+      ]
+    },
+    "id": "apotheke"
+  },
+  {
+    "dictionaryId": "fieber",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Fieber",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "температура",
+        "жар",
+        "лихорадка"
+      ],
+      "en": [
+        "fever"
+      ],
+      "ar": [
+        "حمى"
+      ]
+    },
+    "id": "fieber"
+  },
+  {
+    "dictionaryId": "husten",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Husten",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "кашель"
+      ],
+      "en": [
+        "cough"
+      ],
+      "ar": [
+        "سعال"
+      ]
+    },
+    "id": "husten"
+  },
+  {
+    "dictionaryId": "salbe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Salbe",
+    "plural": "Salben",
+    "translation": {
+      "ru": [
+        "мазь"
+      ],
+      "en": [
+        "ointment"
+      ],
+      "ar": [
+        "مرهم"
+      ]
+    },
+    "id": "salbe"
+  },
+  {
+    "dictionaryId": "verwenden",
+    "type": "verb",
+    "infinitive": "verwenden",
+    "praeteritum": "verwendete",
+    "perfekt": "hat verwendet",
+    "translation": {
+      "ru": [
+        "использовать",
+        "применять"
+      ],
+      "en": [
+        "to use",
+        "to apply"
+      ],
+      "ar": [
+        "يستخدم",
+        "يستعمل"
+      ]
+    },
+    "id": "verwenden"
+  },
+  {
+    "dictionaryId": "gesundheit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gesundheit",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "здоровье"
+      ],
+      "en": [
+        "health"
+      ],
+      "ar": [
+        "صحة"
+      ]
+    },
+    "id": "gesundheit"
+  },
+  {
+    "dictionaryId": "schnupfen",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schnupfen",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "насморк",
+        "простуда"
+      ],
+      "en": [
+        "cold",
+        "runny nose"
+      ],
+      "ar": [
+        "زكام"
+      ]
+    },
+    "id": "schnupfen"
+  },
+  {
+    "dictionaryId": "tun",
+    "type": "verb",
+    "infinitive": "tun",
+    "praeteritum": "tat",
+    "perfekt": "hat getan",
+    "translation": {
+      "ru": [
+        "делать"
+      ],
+      "en": [
+        "to do"
+      ],
+      "ar": [
+        "يفعل"
+      ]
+    },
+    "id": "tun"
+  },
+  {
+    "dictionaryId": "absender",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Absender",
+    "plural": "Absender",
+    "translation": {
+      "ru": [
+        "отправитель"
+      ],
+      "en": [
+        "sender"
+      ],
+      "ar": [
+        "مرسل"
+      ]
+    },
+    "id": "absender"
+  },
+  {
+    "dictionaryId": "ort",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Ort",
+    "plural": "Orte",
+    "translation": {
+      "ru": [
+        "место",
+        "город",
+        "населённый пункт"
+      ],
+      "en": [
+        "place",
+        "location",
+        "town"
+      ],
+      "ar": [
+        "مكان",
+        "بلدة"
+      ]
+    },
+    "id": "ort"
+  },
+  {
+    "dictionaryId": "empfänger",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Empfänger",
+    "plural": "Empfänger",
+    "translation": {
+      "ru": [
+        "получатель"
+      ],
+      "en": [
+        "recipient"
+      ],
+      "ar": [
+        "مستلم"
+      ]
+    },
+    "id": "empfänger"
+  },
+  {
+    "dictionaryId": "anrede",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Anrede",
+    "plural": "Anreden",
+    "translation": {
+      "ru": [
+        "обращение",
+        "форма обращения"
+      ],
+      "en": [
+        "salutation",
+        "form of address"
+      ],
+      "ar": [
+        "تحية",
+        "صيغة مخاطبة"
+      ]
+    },
+    "id": "anrede"
+  },
+  {
+    "dictionaryId": "datum",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Datum",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "дата"
+      ],
+      "en": [
+        "date"
+      ],
+      "ar": [
+        "تاريخ"
+      ]
+    },
+    "id": "datum"
+  },
+  {
+    "dictionaryId": "unterschrift",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Unterschrift",
+    "plural": "Unterschriften",
+    "translation": {
+      "ru": [
+        "подпись"
+      ],
+      "en": [
+        "signature"
+      ],
+      "ar": [
+        "توقيع"
+      ]
+    },
+    "id": "unterschrift"
+  },
+  {
+    "dictionaryId": "schicken",
+    "type": "verb",
+    "infinitive": "schicken",
+    "praeteritum": "schickte",
+    "perfekt": "hat geschickt",
+    "translation": {
+      "ru": [
+        "отправлять",
+        "посылать"
+      ],
+      "en": [
+        "to send"
+      ],
+      "ar": [
+        "يرسل"
+      ]
+    },
+    "id": "schicken"
+  },
+  {
+    "dictionaryId": "sprechstunde",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sprechstunde",
+    "plural": "Sprechstunden",
+    "translation": {
+      "ru": [
+        "приёмные часы",
+        "приём у врача"
+      ],
+      "en": [
+        "consultation hours",
+        "office hours"
+      ],
+      "ar": [
+        "ساعات الاستشارة"
+      ]
+    },
+    "id": "sprechstunde"
+  },
+  {
+    "dictionaryId": "notfall",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Notfall",
+    "plural": "Notfälle",
+    "translation": {
+      "ru": [
+        "экстренный случай",
+        "чрезвычайный случай"
+      ],
+      "en": [
+        "emergency"
+      ],
+      "ar": [
+        "حالة طارئة"
+      ]
+    },
+    "id": "notfall"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "in der Nähe",
+    "translation": {
+      "ru": [
+        "поблизости",
+        "рядом"
+      ],
+      "en": [
+        "nearby",
+        "near"
+      ],
+      "ar": [
+        "بالقرب"
+      ]
+    },
+    "id": "in-der-nähe"
+  },
+  {
+    "dictionaryId": "minute",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Minute",
+    "plural": "Minuten",
+    "translation": {
+      "ru": [
+        "минута"
+      ],
+      "en": [
+        "minute"
+      ],
+      "ar": [
+        "دقيقة"
+      ]
+    },
+    "id": "minute"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "in Ordnung",
+    "translation": {
+      "ru": [
+        "в порядке",
+        "хорошо",
+        "ладно"
+      ],
+      "en": [
+        "okay",
+        "all right"
+      ],
+      "ar": [
+        "حسنًا",
+        "تمام"
+      ]
+    },
+    "id": "in-ordnung"
+  },
+  {
+    "dictionaryId": "vorbeikommen",
+    "type": "verb",
+    "infinitive": "vorbeikommen",
+    "praeteritum": "kam vorbei",
+    "perfekt": "ist vorbeigekommen",
+    "translation": {
+      "ru": [
+        "заглянуть",
+        "зайти",
+        "зайти ненадолго"
+      ],
+      "en": [
+        "to drop by",
+        "to come by"
+      ],
+      "ar": [
+        "يمر",
+        "يأتي لزيارة قصيرة"
+      ]
+    },
+    "id": "vorbeikommen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Versichertenkarte",
+    "plural": "Versichertenkarten",
+    "translation": {
+      "ru": [
+        "страховая карта",
+        "карта застрахованного"
+      ],
+      "en": [
+        "insurance card"
+      ],
+      "ar": [
+        "بطاقة التأمين"
+      ]
+    },
+    "id": "versichertenkarte"
+  },
+  {
+    "dictionaryId": "boden",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Boden",
+    "plural": "Böden",
+    "translation": {
+      "ru": [
+        "пол",
+        "земля",
+        "почва"
+      ],
+      "en": [
+        "floor",
+        "ground",
+        "soil"
+      ],
+      "ar": [
+        "أرض",
+        "أرضية",
+        "تربة"
+      ]
+    },
+    "id": "boden"
+  },
+  {
+    "dictionaryId": "liegen",
+    "type": "verb",
+    "infinitive": "liegen",
+    "praeteritum": "lag",
+    "perfekt": "hat gelegen",
+    "translation": {
+      "ru": [
+        "лежать",
+        "находиться"
+      ],
+      "en": [
+        "to lie",
+        "to be located"
+      ],
+      "ar": [
+        "يستلقي",
+        "يقع"
+      ]
+    },
+    "id": "liegen"
+  },
+  {
+    "dictionaryId": "notarzt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Notarzt",
+    "plural": "Notärzte",
+    "translation": {
+      "ru": [
+        "врач скорой помощи",
+        "врач неотложной помощи"
+      ],
+      "en": [
+        "emergency doctor"
+      ],
+      "ar": [
+        "طبيب طوارئ"
+      ]
+    },
+    "id": "notarzt"
+  },
+  {
+    "dictionaryId": "stark",
+    "type": "other",
+    "word": "stark",
+    "translation": {
+      "ru": [
+        "сильный",
+        "крепкий"
+      ],
+      "en": [
+        "strong"
+      ],
+      "ar": [
+        "قوي"
+      ]
+    },
+    "id": "stark"
+  },
+  {
+    "dictionaryId": "hilfe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Hilfe",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "помощь"
+      ],
+      "en": [
+        "help",
+        "assistance"
+      ],
+      "ar": [
+        "مساعدة"
+      ]
+    },
+    "id": "hilfe"
+  },
+  {
+    "dictionaryId": "plötzlich",
+    "type": "other",
+    "word": "plötzlich",
+    "translation": {
+      "ru": [
+        "внезапно",
+        "вдруг"
+      ],
+      "en": [
+        "suddenly"
+      ],
+      "ar": [
+        "فجأة"
+      ]
+    },
+    "id": "plötzlich"
+  },
+  {
+    "dictionaryId": "passieren",
+    "type": "verb",
+    "infinitive": "passieren",
+    "praeteritum": "passierte",
+    "perfekt": "ist passiert",
+    "translation": {
+      "ru": [
+        "происходить",
+        "случаться"
+      ],
+      "en": [
+        "to happen"
+      ],
+      "ar": [
+        "يحدث"
+      ]
+    },
+    "id": "passieren"
+  },
+  {
+    "dictionaryId": "medikament",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Medikament",
+    "plural": "Medikamente",
+    "translation": {
+      "ru": [
+        "лекарство",
+        "медикамент"
+      ],
+      "en": [
+        "medication",
+        "medicine"
+      ],
+      "ar": [
+        "دواء"
+      ]
+    },
+    "id": "medikament"
+  },
+  {
+    "dictionaryId": "motorrad",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Motorrad",
+    "plural": "Motorräder",
+    "translation": {
+      "ru": [
+        "мотоцикл"
+      ],
+      "en": [
+        "motorcycle"
+      ],
+      "ar": [
+        "دراجة نارية"
+      ]
+    },
+    "id": "motorrad"
+  },
+  {
+    "dictionaryId": "verletzung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Verletzung",
+    "plural": "Verletzungen",
+    "translation": {
+      "ru": [
+        "травма",
+        "ранение",
+        "повреждение"
+      ],
+      "en": [
+        "injury",
+        "wound"
+      ],
+      "ar": [
+        "إصابة",
+        "جرح"
+      ]
+    },
+    "id": "verletzung"
+  }
+]

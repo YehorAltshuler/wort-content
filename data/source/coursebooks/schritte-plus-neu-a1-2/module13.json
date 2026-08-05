@@ -1,0 +1,1620 @@
+[
+  {
+    "dictionaryId": "jacke",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Jacke",
+    "plural": "Jacken",
+    "translation": {
+      "ru": [
+        "куртка"
+      ],
+      "en": [
+        "jacket"
+      ],
+      "ar": [
+        "سترة",
+        "جاكيت"
+      ]
+    },
+    "id": "jacke"
+  },
+  {
+    "dictionaryId": "mantel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Mantel",
+    "plural": "Mäntel",
+    "translation": {
+      "ru": [
+        "пальто"
+      ],
+      "en": [
+        "coat"
+      ],
+      "ar": [
+        "معطف"
+      ]
+    },
+    "id": "mantel"
+  },
+  {
+    "dictionaryId": "dünn",
+    "type": "other",
+    "word": "dünn",
+    "translation": {
+      "ru": [
+        "тонкий",
+        "худой"
+      ],
+      "en": [
+        "thin",
+        "slim"
+      ],
+      "ar": [
+        "رقيق",
+        "نحيف"
+      ]
+    },
+    "id": "dünn"
+  },
+  {
+    "dictionaryId": "passen",
+    "type": "verb",
+    "infinitive": "passen",
+    "praeteritum": "passte",
+    "perfekt": "hat gepasst",
+    "translation": {
+      "ru": [
+        "подходить по размеру",
+        "подходить"
+      ],
+      "en": [
+        "to fit",
+        "to suit"
+      ],
+      "ar": [
+        "يناسب",
+        "يلائم"
+      ]
+    },
+    "id": "passen"
+  },
+  {
+    "dictionaryId": "weit",
+    "type": "other",
+    "word": "weit",
+    "translation": {
+      "ru": [
+        "широкий",
+        "просторный"
+      ],
+      "en": [
+        "wide",
+        "loose"
+      ],
+      "ar": [
+        "واسع",
+        "فضفاض"
+      ]
+    },
+    "id": "weit"
+  },
+  {
+    "dictionaryId": "kleidung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kleidung",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "одежда"
+      ],
+      "en": [
+        "clothing",
+        "clothes"
+      ],
+      "ar": [
+        "ملابس"
+      ]
+    },
+    "id": "kleidung"
+  },
+  {
+    "dictionaryId": "bluse",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bluse",
+    "plural": "Blusen",
+    "translation": {
+      "ru": [
+        "блузка"
+      ],
+      "en": [
+        "blouse"
+      ],
+      "ar": [
+        "بلوزة"
+      ]
+    },
+    "id": "bluse"
+  },
+  {
+    "dictionaryId": "t-shirt",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "T-Shirt",
+    "plural": "T-Shirts",
+    "translation": {
+      "ru": [
+        "футболка"
+      ],
+      "en": [
+        "T-shirt"
+      ],
+      "ar": [
+        "قميص تي شيرت"
+      ]
+    },
+    "id": "t-shirt"
+  },
+  {
+    "dictionaryId": "schuh",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schuh",
+    "plural": "Schuhe",
+    "translation": {
+      "ru": [
+        "туфля",
+        "ботинок",
+        "обувь"
+      ],
+      "en": [
+        "shoe"
+      ],
+      "ar": [
+        "حذاء"
+      ]
+    },
+    "id": "schuh"
+  },
+  {
+    "dictionaryId": "hose",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Hose",
+    "plural": "Hosen",
+    "translation": {
+      "ru": [
+        "брюки",
+        "штаны"
+      ],
+      "en": [
+        "trousers",
+        "pants"
+      ],
+      "ar": [
+        "بنطال"
+      ]
+    },
+    "id": "hose"
+  },
+  {
+    "dictionaryId": "rock",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Rock",
+    "plural": "Röcke",
+    "translation": {
+      "ru": [
+        "юбка"
+      ],
+      "en": [
+        "skirt"
+      ],
+      "ar": [
+        "تنورة"
+      ]
+    },
+    "id": "rock"
+  },
+  {
+    "dictionaryId": "kleid",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Kleid",
+    "plural": "Kleider",
+    "translation": {
+      "ru": [
+        "платье"
+      ],
+      "en": [
+        "dress"
+      ],
+      "ar": [
+        "فستان"
+      ]
+    },
+    "id": "kleid"
+  },
+  {
+    "dictionaryId": "stiefel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Stiefel",
+    "plural": "Stiefel",
+    "translation": {
+      "ru": [
+        "сапог"
+      ],
+      "en": [
+        "boot"
+      ],
+      "ar": [
+        "حذاء طويل",
+        "جزمة"
+      ]
+    },
+    "id": "stiefel"
+  },
+  {
+    "dictionaryId": "pullover",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Pullover",
+    "plural": "Pullover",
+    "translation": {
+      "ru": [
+        "пуловер",
+        "свитер"
+      ],
+      "en": [
+        "pullover",
+        "sweater"
+      ],
+      "ar": [
+        "كنزة",
+        "بلوفر"
+      ]
+    },
+    "id": "pullover"
+  },
+  {
+    "dictionaryId": "socke",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Socke",
+    "plural": "Socken",
+    "translation": {
+      "ru": [
+        "носок"
+      ],
+      "en": [
+        "sock"
+      ],
+      "ar": [
+        "جورب"
+      ]
+    },
+    "id": "socke"
+  },
+  {
+    "dictionaryId": "strumpf",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Strumpf",
+    "plural": "Strümpfe",
+    "translation": {
+      "ru": [
+        "чулок"
+      ],
+      "en": [
+        "stocking"
+      ],
+      "ar": [
+        "جورب طويل"
+      ]
+    },
+    "id": "strumpf"
+  },
+  {
+    "dictionaryId": "jeans",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Jeans",
+    "plural": "Jeans",
+    "comment": "Sg. oder Pl.",
+    "translation": {
+      "ru": [
+        "джинсы"
+      ],
+      "en": [
+        "jeans"
+      ],
+      "ar": [
+        "جينز"
+      ]
+    },
+    "id": "jeans"
+  },
+  {
+    "dictionaryId": "tuch",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Tuch",
+    "plural": "Tücher",
+    "translation": {
+      "ru": [
+        "платок",
+        "шарф",
+        "ткань"
+      ],
+      "en": [
+        "cloth",
+        "scarf",
+        "shawl"
+      ],
+      "ar": [
+        "منديل",
+        "وشاح",
+        "قطعة قماش"
+      ]
+    },
+    "id": "tuch"
+  },
+  {
+    "dictionaryId": "hemd",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Hemd",
+    "plural": "Hemden",
+    "translation": {
+      "ru": [
+        "рубашка"
+      ],
+      "en": [
+        "shirt"
+      ],
+      "ar": [
+        "قميص"
+      ]
+    },
+    "id": "hemd"
+  },
+  {
+    "dictionaryId": "anzug",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Anzug",
+    "plural": "Anzüge",
+    "translation": {
+      "ru": [
+        "костюм"
+      ],
+      "en": [
+        "suit"
+      ],
+      "ar": [
+        "بدلة"
+      ]
+    },
+    "id": "anzug"
+  },
+  {
+    "dictionaryId": "brille",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Brille",
+    "plural": "Brillen",
+    "translation": {
+      "ru": [
+        "очки"
+      ],
+      "en": [
+        "glasses",
+        "spectacles"
+      ],
+      "ar": [
+        "نظارات"
+      ]
+    },
+    "id": "brille"
+  },
+  {
+    "dictionaryId": "langweilig",
+    "type": "other",
+    "word": "langweilig",
+    "translation": {
+      "ru": [
+        "скучный"
+      ],
+      "en": [
+        "boring"
+      ],
+      "ar": [
+        "ممل"
+      ]
+    },
+    "id": "langweilig"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "(Regen-)Schirm",
+    "plural": "(Regen-)Schirme",
+    "translation": {
+      "ru": [
+        "зонтик",
+        "зонт"
+      ],
+      "en": [
+        "umbrella"
+      ],
+      "ar": [
+        "مظلة"
+      ]
+    },
+    "id": "regen-schirm"
+  },
+  {
+    "dictionaryId": "günstig",
+    "type": "other",
+    "word": "günstig",
+    "translation": {
+      "ru": [
+        "выгодный",
+        "дешёвый",
+        "благоприятный"
+      ],
+      "en": [
+        "cheap",
+        "affordable",
+        "favorable"
+      ],
+      "ar": [
+        "رخيص",
+        "مناسب",
+        "ملائم"
+      ]
+    },
+    "id": "günstig"
+  },
+  {
+    "dictionaryId": "perfekt",
+    "type": "other",
+    "word": "perfekt",
+    "translation": {
+      "ru": [
+        "идеальный",
+        "совершенный"
+      ],
+      "en": [
+        "perfect"
+      ],
+      "ar": [
+        "مثالي"
+      ]
+    },
+    "id": "perfekt"
+  },
+  {
+    "dictionaryId": "stehen",
+    "type": "verb",
+    "infinitive": "stehen",
+    "praeteritum": "stand",
+    "perfekt": "hat gestanden",
+    "translation": {
+      "ru": [
+        "стоять",
+        "идти кому-то об одежде"
+      ],
+      "en": [
+        "to stand",
+        "to suit"
+      ],
+      "ar": [
+        "يقف",
+        "يناسب"
+      ]
+    },
+    "id": "stehen"
+  },
+  {
+    "dictionaryId": "bratwurst",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bratwurst",
+    "plural": "Bratwürste",
+    "translation": {
+      "ru": [
+        "жареная немецкая сосиска",
+        "жареная колбаска"
+      ],
+      "en": [
+        "bratwurst",
+        "fried sausage"
+      ],
+      "ar": [
+        "نقانق مشوية",
+        "سجق مشوي"
+      ]
+    },
+    "id": "bratwurst"
+  },
+  {
+    "dictionaryId": "landschaft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Landschaft",
+    "plural": "Landschaften",
+    "translation": {
+      "ru": [
+        "ландшафт",
+        "пейзаж"
+      ],
+      "en": [
+        "landscape",
+        "scenery"
+      ],
+      "ar": [
+        "منظر طبيعي",
+        "مشهد طبيعي"
+      ]
+    },
+    "id": "landschaft"
+  },
+  {
+    "dictionaryId": "berg",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Berg",
+    "plural": "Berge",
+    "translation": {
+      "ru": [
+        "гора"
+      ],
+      "en": [
+        "mountain"
+      ],
+      "ar": [
+        "جبل"
+      ]
+    },
+    "id": "berg"
+  },
+  {
+    "dictionaryId": "dorf",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Dorf",
+    "plural": "Dörfer",
+    "translation": {
+      "ru": [
+        "деревня",
+        "село"
+      ],
+      "en": [
+        "village"
+      ],
+      "ar": [
+        "قرية"
+      ]
+    },
+    "id": "dorf"
+  },
+  {
+    "dictionaryId": "wald",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Wald",
+    "plural": "Wälder",
+    "translation": {
+      "ru": [
+        "лес"
+      ],
+      "en": [
+        "forest",
+        "woods"
+      ],
+      "ar": [
+        "غابة"
+      ]
+    },
+    "id": "wald"
+  },
+  {
+    "dictionaryId": "nordsee",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nordsee",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "Северное море"
+      ],
+      "en": [
+        "North Sea"
+      ],
+      "ar": [
+        "بحر الشمال"
+      ]
+    },
+    "id": "nordsee"
+  },
+  {
+    "dictionaryId": "strand",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Strand",
+    "plural": "Strände",
+    "translation": {
+      "ru": [
+        "пляж",
+        "берег"
+      ],
+      "en": [
+        "beach"
+      ],
+      "ar": [
+        "شاطئ"
+      ]
+    },
+    "id": "strand"
+  },
+  {
+    "dictionaryId": "meer",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Meer",
+    "plural": "Meere",
+    "translation": {
+      "ru": [
+        "море"
+      ],
+      "en": [
+        "sea"
+      ],
+      "ar": [
+        "بحر"
+      ]
+    },
+    "id": "meer"
+  },
+  {
+    "dictionaryId": "hafen",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Hafen",
+    "plural": "Häfen",
+    "translation": {
+      "ru": [
+        "порт",
+        "гавань"
+      ],
+      "en": [
+        "harbor",
+        "port"
+      ],
+      "ar": [
+        "ميناء"
+      ]
+    },
+    "id": "hafen"
+  },
+  {
+    "dictionaryId": "nie",
+    "type": "other",
+    "word": "nie",
+    "translation": {
+      "ru": [
+        "никогда"
+      ],
+      "en": [
+        "never"
+      ],
+      "ar": [
+        "أبدًا"
+      ]
+    },
+    "id": "nie"
+  },
+  {
+    "dictionaryId": "besser",
+    "type": "other",
+    "word": "besser",
+    "translation": {
+      "ru": [
+        "лучше"
+      ],
+      "en": [
+        "better"
+      ],
+      "ar": [
+        "أفضل"
+      ]
+    },
+    "id": "besser"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "am besten",
+    "translation": {
+      "ru": [
+        "лучше всего",
+        "наилучшим образом"
+      ],
+      "en": [
+        "best"
+      ],
+      "ar": [
+        "الأفضل"
+      ]
+    },
+    "id": "am-besten"
+  },
+  {
+    "dictionaryId": "rückwärts",
+    "type": "other",
+    "word": "rückwärts",
+    "translation": {
+      "ru": [
+        "назад",
+        "задом"
+      ],
+      "en": [
+        "backwards"
+      ],
+      "ar": [
+        "إلى الخلف"
+      ]
+    },
+    "id": "rückwärts"
+  },
+  {
+    "dictionaryId": "vorwärts",
+    "type": "other",
+    "word": "vorwärts",
+    "translation": {
+      "ru": [
+        "вперёд"
+      ],
+      "en": [
+        "forwards"
+      ],
+      "ar": [
+        "إلى الأمام"
+      ]
+    },
+    "id": "vorwärts"
+  },
+  {
+    "dictionaryId": "dabei",
+    "type": "other",
+    "word": "dabei",
+    "translation": {
+      "ru": [
+        "при этом",
+        "вместе с тем",
+        "с собой"
+      ],
+      "en": [
+        "while doing so",
+        "at the same time",
+        "with it"
+      ],
+      "ar": [
+        "أثناء ذلك",
+        "مع ذلك"
+      ]
+    },
+    "id": "dabei"
+  },
+  {
+    "dictionaryId": "schwer",
+    "type": "other",
+    "word": "schwer",
+    "translation": {
+      "ru": [
+        "тяжёлый",
+        "трудный",
+        "тяжело",
+        "трудно"
+      ],
+      "en": [
+        "heavy",
+        "difficult",
+        "hard"
+      ],
+      "ar": [
+        "ثقيل",
+        "صعب"
+      ]
+    },
+    "id": "schwer"
+  },
+  {
+    "dictionaryId": "musiker",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Musiker",
+    "plural": "Musiker",
+    "translation": {
+      "ru": [
+        "музыкант"
+      ],
+      "en": [
+        "musician"
+      ],
+      "ar": [
+        "موسيقي"
+      ]
+    },
+    "id": "musiker"
+  },
+  {
+    "dictionaryId": "musikerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Musikerin",
+    "plural": "Musikerinnen",
+    "translation": {
+      "ru": [
+        "музыкантша",
+        "музыкант"
+      ],
+      "en": [
+        "female musician",
+        "musician"
+      ],
+      "ar": [
+        "موسيقية"
+      ]
+    },
+    "id": "musikerin"
+  },
+  {
+    "dictionaryId": "trainieren",
+    "type": "verb",
+    "infinitive": "trainieren",
+    "praeteritum": "trainierte",
+    "perfekt": "hat trainiert",
+    "translation": {
+      "ru": [
+        "тренироваться",
+        "тренировать"
+      ],
+      "en": [
+        "to train",
+        "to practice"
+      ],
+      "ar": [
+        "يتدرب",
+        "يدرّب"
+      ]
+    },
+    "id": "trainieren"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "Rad fahren",
+    "praeteritum": "fuhr Rad",
+    "perfekt": "ist Rad gefahren",
+    "translation": {
+      "ru": [
+        "ездить на велосипеде"
+      ],
+      "en": [
+        "to ride a bike",
+        "to cycle"
+      ],
+      "ar": [
+        "يركب الدراجة"
+      ]
+    },
+    "id": "rad-fahren"
+  },
+  {
+    "dictionaryId": "rekord",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Rekord",
+    "plural": "Rekorde",
+    "translation": {
+      "ru": [
+        "рекорд"
+      ],
+      "en": [
+        "record"
+      ],
+      "ar": [
+        "رقم قياسي"
+      ]
+    },
+    "id": "rekord"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "am liebsten",
+    "translation": {
+      "ru": [
+        "больше всего нравится",
+        "охотнее всего"
+      ],
+      "en": [
+        "most preferably",
+        "best of all"
+      ],
+      "ar": [
+        "الأفضل بالنسبة لي",
+        "أحبّ أكثر"
+      ]
+    },
+    "id": "am-liebsten"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "am meisten",
+    "translation": {
+      "ru": [
+        "больше всего"
+      ],
+      "en": [
+        "the most"
+      ],
+      "ar": [
+        "الأكثر"
+      ]
+    },
+    "id": "am-meisten"
+  },
+  {
+    "dictionaryId": "zufrieden",
+    "type": "other",
+    "word": "zufrieden",
+    "translation": {
+      "ru": [
+        "довольный"
+      ],
+      "en": [
+        "satisfied",
+        "content"
+      ],
+      "ar": [
+        "راضٍ"
+      ]
+    },
+    "id": "zufrieden"
+  },
+  {
+    "dictionaryId": "witz",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Witz",
+    "plural": "Witze",
+    "translation": {
+      "ru": [
+        "шутка",
+        "анекдот"
+      ],
+      "en": [
+        "joke"
+      ],
+      "ar": [
+        "نكتة"
+      ]
+    },
+    "id": "witz"
+  },
+  {
+    "dictionaryId": "dies",
+    "type": "other",
+    "word": "dies",
+    "translation": {
+      "ru": [
+        "этот",
+        "эта",
+        "это"
+      ],
+      "en": [
+        "this"
+      ],
+      "ar": [
+        "هذا",
+        "هذه"
+      ]
+    },
+    "id": "dies"
+  },
+  {
+    "dictionaryId": "welch",
+    "type": "other",
+    "word": "welch",
+    "translation": {
+      "ru": [
+        "какой",
+        "который"
+      ],
+      "en": [
+        "which",
+        "what"
+      ],
+      "ar": [
+        "أيّ"
+      ]
+    },
+    "id": "welch"
+  },
+  {
+    "dictionaryId": "koffer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Koffer",
+    "plural": "Koffer",
+    "translation": {
+      "ru": [
+        "чемодан"
+      ],
+      "en": [
+        "suitcase"
+      ],
+      "ar": [
+        "حقيبة سفر"
+      ]
+    },
+    "id": "koffer"
+  },
+  {
+    "dictionaryId": "gehören",
+    "type": "verb",
+    "infinitive": "gehören",
+    "praeteritum": "gehörte",
+    "perfekt": "hat gehört",
+    "translation": {
+      "ru": [
+        "принадлежать"
+      ],
+      "en": [
+        "to belong"
+      ],
+      "ar": [
+        "ينتمي",
+        "يخصّ"
+      ]
+    },
+    "id": "gehören"
+  },
+  {
+    "dictionaryId": "mögen",
+    "type": "verb",
+    "infinitive": "mögen",
+    "praeteritum": "mochte",
+    "perfekt": "hat gemocht",
+    "translation": {
+      "ru": [
+        "нравиться",
+        "любить"
+      ],
+      "en": [
+        "to like"
+      ],
+      "ar": [
+        "يحب",
+        "يعجب بـ"
+      ]
+    },
+    "id": "mögen"
+  },
+  {
+    "dictionaryId": "wochentag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Wochentag",
+    "plural": "Wochentage",
+    "translation": {
+      "ru": [
+        "день недели",
+        "будний день"
+      ],
+      "en": [
+        "weekday",
+        "day of the week"
+      ],
+      "ar": [
+        "يوم من أيام الأسبوع",
+        "يوم عمل"
+      ]
+    },
+    "id": "wochentag"
+  },
+  {
+    "dictionaryId": "erdgeschoss",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Erdgeschoss",
+    "plural": "Erdgeschosse",
+    "translation": {
+      "ru": [
+        "первый этаж",
+        "цокольный этаж"
+      ],
+      "en": [
+        "ground floor"
+      ],
+      "ar": [
+        "الطابق الأرضي"
+      ]
+    },
+    "id": "erdgeschoss"
+  },
+  {
+    "dictionaryId": "obergeschoss",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Obergeschoss",
+    "plural": "Obergeschosse",
+    "translation": {
+      "ru": [
+        "верхний этаж"
+      ],
+      "en": [
+        "upper floor"
+      ],
+      "ar": [
+        "الطابق العلوي"
+      ]
+    },
+    "id": "obergeschoss"
+  },
+  {
+    "dictionaryId": "untergeschoss",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Untergeschoss",
+    "plural": "Untergeschosse",
+    "translation": {
+      "ru": [
+        "подвальный этаж",
+        "нижний этаж"
+      ],
+      "en": [
+        "basement floor",
+        "lower floor"
+      ],
+      "ar": [
+        "الطابق السفلي"
+      ]
+    },
+    "id": "untergeschoss"
+  },
+  {
+    "dictionaryId": "ausgang",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Ausgang",
+    "plural": "Ausgänge",
+    "translation": {
+      "ru": [
+        "выход"
+      ],
+      "en": [
+        "exit"
+      ],
+      "ar": [
+        "مخرج"
+      ]
+    },
+    "id": "ausgang"
+  },
+  {
+    "dictionaryId": "drogerie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Drogerie",
+    "plural": "Drogerien",
+    "translation": {
+      "ru": [
+        "магазин бытовой химии и косметики",
+        "дрогерия"
+      ],
+      "en": [
+        "drugstore",
+        "pharmacy-style shop"
+      ],
+      "ar": [
+        "متجر مستحضرات ومواد تنظيف"
+      ]
+    },
+    "id": "drogerie"
+  },
+  {
+    "dictionaryId": "kosmetik",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kosmetik",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "косметика"
+      ],
+      "en": [
+        "cosmetics"
+      ],
+      "ar": [
+        "مستحضرات التجميل"
+      ]
+    },
+    "id": "kosmetik"
+  },
+  {
+    "dictionaryId": "schmuck",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schmuck",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "ювелирные изделия",
+        "украшения"
+      ],
+      "en": [
+        "jewelry",
+        "jewellery"
+      ],
+      "ar": [
+        "مجوهرات",
+        "حُلي"
+      ]
+    },
+    "id": "schmuck"
+  },
+  {
+    "dictionaryId": "geschirr",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Geschirr",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "посуда",
+        "столовая посуда"
+      ],
+      "en": [
+        "dishes",
+        "tableware"
+      ],
+      "ar": [
+        "أواني الطعام",
+        "صحون"
+      ]
+    },
+    "id": "geschirr"
+  },
+  {
+    "dictionaryId": "glas",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Glas",
+    "plural": "Gläser",
+    "translation": {
+      "ru": [
+        "стакан",
+        "стекло"
+      ],
+      "en": [
+        "glass"
+      ],
+      "ar": [
+        "كأس",
+        "زجاج"
+      ]
+    },
+    "id": "glas"
+  },
+  {
+    "dictionaryId": "mode",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mode",
+    "plural": "Moden",
+    "translation": {
+      "ru": [
+        "мода"
+      ],
+      "en": [
+        "fashion"
+      ],
+      "ar": [
+        "موضة",
+        "أزياء"
+      ]
+    },
+    "id": "mode"
+  },
+  {
+    "dictionaryId": "eingang",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Eingang",
+    "plural": "Eingänge",
+    "translation": {
+      "ru": [
+        "вход"
+      ],
+      "en": [
+        "entrance"
+      ],
+      "ar": [
+        "مدخل"
+      ]
+    },
+    "id": "eingang"
+  },
+  {
+    "dictionaryId": "entschuldigen",
+    "type": "verb",
+    "infinitive": "sich entschuldigen",
+    "praeteritum": "entschuldigte sich",
+    "perfekt": "hat sich entschuldigt",
+    "translation": {
+      "ru": [
+        "извиняться"
+      ],
+      "en": [
+        "to apologize"
+      ],
+      "ar": [
+        "يعتذر"
+      ]
+    },
+    "id": "entschuldigen"
+  },
+  {
+    "dictionaryId": "wissen",
+    "type": "verb",
+    "infinitive": "wissen",
+    "praeteritum": "wusste",
+    "perfekt": "hat gewusst",
+    "translation": {
+      "ru": [
+        "знать",
+        "знать факты"
+      ],
+      "en": [
+        "to know"
+      ],
+      "ar": [
+        "يعرف"
+      ]
+    },
+    "id": "wissen"
+  },
+  {
+    "dictionaryId": "seife",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Seife",
+    "plural": "Seifen",
+    "translation": {
+      "ru": [
+        "мыло"
+      ],
+      "en": [
+        "soap"
+      ],
+      "ar": [
+        "صابون"
+      ]
+    },
+    "id": "seife"
+  },
+  {
+    "dictionaryId": "zahnbürste",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zahnbürste",
+    "plural": "Zahnbürsten",
+    "translation": {
+      "ru": [
+        "зубная щётка"
+      ],
+      "en": [
+        "toothbrush"
+      ],
+      "ar": [
+        "فرشاة أسنان"
+      ]
+    },
+    "id": "zahnbürste"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zahnpasta",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "зубная паста"
+      ],
+      "en": [
+        "toothpaste"
+      ],
+      "ar": [
+        "معجون أسنان"
+      ]
+    },
+    "id": "zahnpasta"
+  },
+  {
+    "dictionaryId": "größe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Größe",
+    "plural": "Größen",
+    "translation": {
+      "ru": [
+        "размер",
+        "величина"
+      ],
+      "en": [
+        "size"
+      ],
+      "ar": [
+        "مقاس",
+        "حجم"
+      ]
+    },
+    "id": "grösse"
+  },
+  {
+    "dictionaryId": "anziehen",
+    "type": "verb",
+    "infinitive": "anziehen",
+    "praeteritum": "zog an",
+    "perfekt": "hat angezogen",
+    "translation": {
+      "ru": [
+        "надевать",
+        "одевать"
+      ],
+      "en": [
+        "to put on",
+        "to dress"
+      ],
+      "ar": [
+        "يلبس",
+        "يرتدي"
+      ]
+    },
+    "id": "anziehen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "anprobieren",
+    "praeteritum": "probierte an",
+    "perfekt": "hat anprobiert",
+    "translation": {
+      "ru": [
+        "примерять"
+      ],
+      "en": [
+        "to try on"
+      ],
+      "ar": [
+        "يجرّب الملابس"
+      ]
+    },
+    "id": "anprobieren"
+  }
+]

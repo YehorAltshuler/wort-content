@@ -1,0 +1,1627 @@
+[
+  {
+    "dictionaryId": "glücklich",
+    "type": "other",
+    "word": "glücklich",
+    "translation": {
+      "ru": [
+        "счастливый",
+        "удачный"
+      ],
+      "en": [
+        "happy",
+        "lucky"
+      ],
+      "ar": [
+        "سعيد",
+        "محظوظ"
+      ]
+    },
+    "id": "glücklich"
+  },
+  {
+    "dictionaryId": "ansehen",
+    "type": "verb",
+    "infinitive": "ansehen",
+    "praeteritum": "sah an",
+    "perfekt": "hat angesehen",
+    "translation": {
+      "ru": [
+        "смотреть на",
+        "рассматривать",
+        "посмотреть"
+      ],
+      "en": [
+        "to look at",
+        "to watch"
+      ],
+      "ar": [
+        "ينظر إلى",
+        "يشاهد"
+      ]
+    },
+    "id": "ansehen"
+  },
+  {
+    "dictionaryId": "nachbar",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Nachbar",
+    "plural": "Nachbarn",
+    "translation": {
+      "ru": [
+        "сосед"
+      ],
+      "en": [
+        "neighbor"
+      ],
+      "ar": [
+        "جار"
+      ]
+    },
+    "id": "nachbar"
+  },
+  {
+    "dictionaryId": "nachbarin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nachbarin",
+    "plural": "Nachbarinnen",
+    "translation": {
+      "ru": [
+        "соседка"
+      ],
+      "en": [
+        "female neighbor"
+      ],
+      "ar": [
+        "جارة"
+      ]
+    },
+    "id": "nachbarin"
+  },
+  {
+    "dictionaryId": "einkauf",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Einkauf",
+    "plural": "Einkäufe",
+    "translation": {
+      "ru": [
+        "покупка",
+        "закупка",
+        "поход за покупками"
+      ],
+      "en": [
+        "purchase",
+        "shopping"
+      ],
+      "ar": [
+        "شراء",
+        "تسوق"
+      ]
+    },
+    "id": "einkauf"
+  },
+  {
+    "dictionaryId": "klappen",
+    "type": "verb",
+    "infinitive": "klappen",
+    "praeteritum": "klappte",
+    "perfekt": "hat geklappt",
+    "translation": {
+      "ru": [
+        "получаться",
+        "удаваться",
+        "срабатывать"
+      ],
+      "en": [
+        "to work out",
+        "to succeed"
+      ],
+      "ar": [
+        "ينجح",
+        "يسير بنجاح"
+      ]
+    },
+    "id": "klappen"
+  },
+  {
+    "dictionaryId": "zentrum",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Zentrum",
+    "plural": "Zentren",
+    "translation": {
+      "ru": [
+        "центр"
+      ],
+      "en": [
+        "center",
+        "centre"
+      ],
+      "ar": [
+        "مركز"
+      ]
+    },
+    "id": "zentrum"
+  },
+  {
+    "dictionaryId": "gefühl",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gefühl",
+    "plural": "Gefühle",
+    "translation": {
+      "ru": [
+        "чувство",
+        "ощущение"
+      ],
+      "en": [
+        "feeling",
+        "sensation"
+      ],
+      "ar": [
+        "شعور",
+        "إحساس"
+      ]
+    },
+    "id": "gefühl"
+  },
+  {
+    "dictionaryId": "anfang",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Anfang",
+    "plural": "Anfänge",
+    "translation": {
+      "ru": [
+        "начало"
+      ],
+      "en": [
+        "beginning",
+        "start"
+      ],
+      "ar": [
+        "بداية"
+      ]
+    },
+    "id": "anfang"
+  },
+  {
+    "dictionaryId": "vermissen",
+    "type": "verb",
+    "infinitive": "vermissen",
+    "praeteritum": "vermisste",
+    "perfekt": "hat vermisst",
+    "translation": {
+      "ru": [
+        "скучать по",
+        "не хватать",
+        "тосковать по"
+      ],
+      "en": [
+        "to miss"
+      ],
+      "ar": [
+        "يفتقد",
+        "يشتاق إلى"
+      ]
+    },
+    "id": "vermissen"
+  },
+  {
+    "dictionaryId": "weil",
+    "type": "other",
+    "word": "weil",
+    "translation": {
+      "ru": [
+        "потому что",
+        "так как"
+      ],
+      "en": [
+        "because"
+      ],
+      "ar": [
+        "لأن"
+      ]
+    },
+    "id": "weil"
+  },
+  {
+    "dictionaryId": "mensch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Mensch",
+    "plural": "Menschen",
+    "translation": {
+      "ru": [
+        "человек",
+        "люди"
+      ],
+      "en": [
+        "person",
+        "human being"
+      ],
+      "ar": [
+        "إنسان",
+        "شخص"
+      ]
+    },
+    "id": "mensch"
+  },
+  {
+    "dictionaryId": "arbeitgeber",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Arbeitgeber",
+    "plural": "Arbeitgeber",
+    "translation": {
+      "ru": [
+        "работодатель"
+      ],
+      "en": [
+        "employer"
+      ],
+      "ar": [
+        "صاحب عمل"
+      ]
+    },
+    "id": "arbeitgeber"
+  },
+  {
+    "dictionaryId": "arbeitgeberin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Arbeitgeberin",
+    "plural": "Arbeitgeberinnen",
+    "translation": {
+      "ru": [
+        "работодательница"
+      ],
+      "en": [
+        "female employer"
+      ],
+      "ar": [
+        "صاحبة عمل"
+      ]
+    },
+    "id": "arbeitgeberin"
+  },
+  {
+    "dictionaryId": "umziehen",
+    "type": "verb",
+    "infinitive": "umziehen",
+    "praeteritum": "zog um",
+    "perfekt": "ist umgezogen",
+    "translation": {
+      "ru": [
+        "переезжать",
+        "менять жильё"
+      ],
+      "en": [
+        "to move",
+        "to relocate"
+      ],
+      "ar": [
+        "ينتقل",
+        "ينتقل إلى سكن جديد"
+      ]
+    },
+    "id": "umziehen"
+  },
+  {
+    "dictionaryId": "kennenlernen",
+    "type": "verb",
+    "infinitive": "sich kennenlernen",
+    "praeteritum": "lernte sich kennen",
+    "perfekt": "hat sich kennengelernt",
+    "translation": {
+      "ru": [
+        "познакомиться",
+        "знакомиться друг с другом"
+      ],
+      "en": [
+        "to get to know each other",
+        "to meet"
+      ],
+      "ar": [
+        "يتعرفان على بعضهما"
+      ]
+    },
+    "id": "kennenlernen"
+  },
+  {
+    "dictionaryId": "gestern",
+    "type": "other",
+    "word": "gestern",
+    "translation": {
+      "ru": [
+        "вчера"
+      ],
+      "en": [
+        "yesterday"
+      ],
+      "ar": [
+        "أمس"
+      ]
+    },
+    "id": "gestern"
+  },
+  {
+    "dictionaryId": "umzug",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Umzug",
+    "plural": "Umzüge",
+    "translation": {
+      "ru": [
+        "переезд"
+      ],
+      "en": [
+        "move",
+        "relocation"
+      ],
+      "ar": [
+        "انتقال"
+      ]
+    },
+    "id": "umzug"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sachen",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "вещи",
+        "дела"
+      ],
+      "en": [
+        "things",
+        "stuff"
+      ],
+      "ar": [
+        "أشياء",
+        "أغراض"
+      ]
+    },
+    "id": "sachen"
+  },
+  {
+    "dictionaryId": "auspacken",
+    "type": "verb",
+    "infinitive": "auspacken",
+    "praeteritum": "packte aus",
+    "perfekt": "hat ausgepackt",
+    "translation": {
+      "ru": [
+        "распаковывать",
+        "распаковать"
+      ],
+      "en": [
+        "to unpack"
+      ],
+      "ar": [
+        "يفرغ الأمتعة"
+      ]
+    },
+    "id": "auspacken"
+  },
+  {
+    "dictionaryId": "einschlafen",
+    "type": "verb",
+    "infinitive": "einschlafen",
+    "praeteritum": "schlief ein",
+    "perfekt": "ist eingeschlafen",
+    "translation": {
+      "ru": [
+        "засыпать",
+        "уснуть"
+      ],
+      "en": [
+        "to fall asleep"
+      ],
+      "ar": [
+        "ينام",
+        "يغفو"
+      ]
+    },
+    "id": "einschlafen"
+  },
+  {
+    "dictionaryId": "wecker",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Wecker",
+    "plural": "Wecker",
+    "translation": {
+      "ru": [
+        "будильник"
+      ],
+      "en": [
+        "alarm clock"
+      ],
+      "ar": [
+        "منبه"
+      ]
+    },
+    "id": "wecker"
+  },
+  {
+    "dictionaryId": "merken",
+    "type": "verb",
+    "infinitive": "sich merken",
+    "praeteritum": "merkte sich",
+    "perfekt": "hat sich gemerkt",
+    "translation": {
+      "ru": [
+        "запоминать",
+        "замечать",
+        "запомнить"
+      ],
+      "en": [
+        "to remember",
+        "to memorize"
+      ],
+      "ar": [
+        "يتذكر",
+        "يحفظ"
+      ]
+    },
+    "id": "merken"
+  },
+  {
+    "dictionaryId": "schließlich",
+    "type": "other",
+    "word": "schließlich",
+    "translation": {
+      "ru": [
+        "наконец",
+        "в конце концов"
+      ],
+      "en": [
+        "finally",
+        "after all"
+      ],
+      "ar": [
+        "أخيرًا",
+        "في النهاية"
+      ]
+    },
+    "id": "schliesslich"
+  },
+  {
+    "dictionaryId": "sogar",
+    "type": "other",
+    "word": "sogar",
+    "translation": {
+      "ru": [
+        "даже"
+      ],
+      "en": [
+        "even"
+      ],
+      "ar": [
+        "حتى"
+      ]
+    },
+    "id": "sogar"
+  },
+  {
+    "dictionaryId": "arbeitstag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Arbeitstag",
+    "plural": "Arbeitstage",
+    "translation": {
+      "ru": [
+        "рабочий день"
+      ],
+      "en": [
+        "working day",
+        "workday"
+      ],
+      "ar": [
+        "يوم عمل"
+      ]
+    },
+    "id": "arbeitstag"
+  },
+  {
+    "dictionaryId": "klingen",
+    "type": "verb",
+    "infinitive": "klingen",
+    "praeteritum": "klang",
+    "perfekt": "hat geklungen",
+    "translation": {
+      "ru": [
+        "звучать"
+      ],
+      "en": [
+        "to sound"
+      ],
+      "ar": [
+        "يبدو",
+        "يُسمع"
+      ]
+    },
+    "id": "klingen"
+  },
+  {
+    "dictionaryId": "erleben",
+    "type": "verb",
+    "infinitive": "erleben",
+    "praeteritum": "erlebte",
+    "perfekt": "hat erlebt",
+    "translation": {
+      "ru": [
+        "переживать",
+        "испытывать",
+        "пережить"
+      ],
+      "en": [
+        "to experience"
+      ],
+      "ar": [
+        "يختبر",
+        "يمرّ بـ"
+      ]
+    },
+    "id": "erleben"
+  },
+  {
+    "dictionaryId": "panne",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Panne",
+    "plural": "Pannen",
+    "translation": {
+      "ru": [
+        "поломка",
+        "авария",
+        "неприятность"
+      ],
+      "en": [
+        "breakdown",
+        "mishap"
+      ],
+      "ar": [
+        "عطل",
+        "مشكلة"
+      ]
+    },
+    "id": "panne"
+  },
+  {
+    "dictionaryId": "alltag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Alltag",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "повседневная жизнь",
+        "будни"
+      ],
+      "en": [
+        "everyday life",
+        "daily routine"
+      ],
+      "ar": [
+        "الحياة اليومية"
+      ]
+    },
+    "id": "alltag"
+  },
+  {
+    "dictionaryId": "verpassen",
+    "type": "verb",
+    "infinitive": "verpassen",
+    "praeteritum": "verpasste",
+    "perfekt": "hat verpasst",
+    "translation": {
+      "ru": [
+        "пропускать",
+        "опаздывать",
+        "упустить"
+      ],
+      "en": [
+        "to miss"
+      ],
+      "ar": [
+        "يفوّت"
+      ]
+    },
+    "id": "verpassen"
+  },
+  {
+    "dictionaryId": "bemerken",
+    "type": "verb",
+    "infinitive": "bemerken",
+    "praeteritum": "bemerkte",
+    "perfekt": "hat bemerkt",
+    "translation": {
+      "ru": [
+        "замечать",
+        "заметить"
+      ],
+      "en": [
+        "to notice"
+      ],
+      "ar": [
+        "يلاحظ"
+      ]
+    },
+    "id": "bemerken"
+  },
+  {
+    "dictionaryId": "erfahren",
+    "type": "verb",
+    "infinitive": "erfahren",
+    "praeteritum": "erfuhr",
+    "perfekt": "hat erfahren",
+    "translation": {
+      "ru": [
+        "узнавать",
+        "узнать",
+        "испытывать на опыте"
+      ],
+      "en": [
+        "to learn",
+        "to find out",
+        "to experience"
+      ],
+      "ar": [
+        "يعرف",
+        "يكتشف",
+        "يختبر"
+      ]
+    },
+    "id": "erfahren"
+  },
+  {
+    "dictionaryId": "vorstellen",
+    "type": "verb",
+    "infinitive": "sich vorstellen",
+    "praeteritum": "stellte sich vor",
+    "perfekt": "hat sich vorgestellt",
+    "translation": {
+      "ru": [
+        "представляться",
+        "представлять себе"
+      ],
+      "en": [
+        "to introduce oneself",
+        "to imagine"
+      ],
+      "ar": [
+        "يعرّف بنفسه",
+        "يتخيل"
+      ]
+    },
+    "id": "vorstellen"
+  },
+  {
+    "dictionaryId": "geldbörse",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Geldbörse",
+    "plural": "Geldbörsen",
+    "translation": {
+      "ru": [
+        "кошелёк",
+        "портмоне"
+      ],
+      "en": [
+        "wallet",
+        "purse"
+      ],
+      "ar": [
+        "محفظة"
+      ]
+    },
+    "id": "geldbörse"
+  },
+  {
+    "dictionaryId": "verlieren",
+    "type": "verb",
+    "infinitive": "verlieren",
+    "praeteritum": "verlor",
+    "perfekt": "hat verloren",
+    "translation": {
+      "ru": [
+        "терять",
+        "потерять"
+      ],
+      "en": [
+        "to lose"
+      ],
+      "ar": [
+        "يفقد",
+        "يخسر"
+      ]
+    },
+    "id": "verlieren"
+  },
+  {
+    "dictionaryId": "pech",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Pech",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "неудача",
+        "невезение"
+      ],
+      "en": [
+        "bad luck",
+        "misfortune"
+      ],
+      "ar": [
+        "حظ سيئ"
+      ]
+    },
+    "id": "pech"
+  },
+  {
+    "dictionaryId": "kreditkarte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kreditkarte",
+    "plural": "Kreditkarten",
+    "translation": {
+      "ru": [
+        "кредитная карта"
+      ],
+      "en": [
+        "credit card"
+      ],
+      "ar": [
+        "بطاقة ائتمان"
+      ]
+    },
+    "id": "kreditkarte"
+  },
+  {
+    "dictionaryId": "stoßen",
+    "type": "verb",
+    "infinitive": "stoßen",
+    "praeteritum": "stieß",
+    "perfekt": "hat/ist gestoßen",
+    "translation": {
+      "ru": [
+        "толкать",
+        "наталкиваться",
+        "ударяться"
+      ],
+      "en": [
+        "to push",
+        "to bump into"
+      ],
+      "ar": [
+        "يدفع",
+        "يصطدم"
+      ]
+    },
+    "id": "stossen"
+  },
+  {
+    "dictionaryId": "peinlich",
+    "type": "other",
+    "word": "peinlich",
+    "translation": {
+      "ru": [
+        "неловкий",
+        "стыдный",
+        "неприятный"
+      ],
+      "en": [
+        "embarrassing",
+        "awkward"
+      ],
+      "ar": [
+        "محرج"
+      ]
+    },
+    "id": "peinlich"
+  },
+  {
+    "dictionaryId": "onkel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Onkel",
+    "plural": "Onkel",
+    "translation": {
+      "ru": [
+        "дядя"
+      ],
+      "en": [
+        "uncle"
+      ],
+      "ar": [
+        "عم",
+        "خال"
+      ]
+    },
+    "id": "onkel"
+  },
+  {
+    "dictionaryId": "tante",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Tante",
+    "plural": "Tanten",
+    "translation": {
+      "ru": [
+        "тётя"
+      ],
+      "en": [
+        "aunt"
+      ],
+      "ar": [
+        "عمة",
+        "خالة"
+      ]
+    },
+    "id": "tante"
+  },
+  {
+    "dictionaryId": "cousin",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Cousin",
+    "plural": "Cousins",
+    "translation": {
+      "ru": [
+        "двоюродный брат"
+      ],
+      "en": [
+        "male cousin"
+      ],
+      "ar": [
+        "ابن عم",
+        "ابن خال"
+      ]
+    },
+    "id": "cousin"
+  },
+  {
+    "dictionaryId": "cousine",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Cousine",
+    "plural": "Cousinen",
+    "translation": {
+      "ru": [
+        "двоюродная сестра"
+      ],
+      "en": [
+        "female cousin"
+      ],
+      "ar": [
+        "بنت عم",
+        "بنت خال"
+      ]
+    },
+    "id": "cousine"
+  },
+  {
+    "dictionaryId": "neffe",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Neffe",
+    "plural": "Neffen",
+    "translation": {
+      "ru": [
+        "племянник"
+      ],
+      "en": [
+        "nephew"
+      ],
+      "ar": [
+        "ابن الأخ",
+        "ابن الأخت"
+      ]
+    },
+    "id": "neffe"
+  },
+  {
+    "dictionaryId": "nichte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nichte",
+    "plural": "Nichten",
+    "translation": {
+      "ru": [
+        "племянница"
+      ],
+      "en": [
+        "niece"
+      ],
+      "ar": [
+        "بنت الأخ",
+        "بنت الأخت"
+      ]
+    },
+    "id": "nichte"
+  },
+  {
+    "dictionaryId": "sympathisch",
+    "type": "other",
+    "word": "sympathisch",
+    "translation": {
+      "ru": [
+        "симпатичный",
+        "приятный"
+      ],
+      "en": [
+        "nice",
+        "pleasant",
+        "likeable"
+      ],
+      "ar": [
+        "لطيف",
+        "محبوب"
+      ]
+    },
+    "id": "sympathisch"
+  },
+  {
+    "dictionaryId": "mitglied",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Mitglied",
+    "plural": "Mitglieder",
+    "translation": {
+      "ru": [
+        "член",
+        "участник"
+      ],
+      "en": [
+        "member"
+      ],
+      "ar": [
+        "عضو"
+      ]
+    },
+    "id": "mitglied"
+  },
+  {
+    "dictionaryId": "wohngemeinschaft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wohngemeinschaft",
+    "plural": "Wohngemeinschaften",
+    "translation": {
+      "ru": [
+        "совместная квартира",
+        "WG",
+        "коммунальная квартира"
+      ],
+      "en": [
+        "shared apartment",
+        "flatshare"
+      ],
+      "ar": [
+        "سكن مشترك"
+      ]
+    },
+    "id": "wohngemeinschaft"
+  },
+  {
+    "dictionaryId": "wahrscheinlich",
+    "type": "other",
+    "word": "wahrscheinlich",
+    "translation": {
+      "ru": [
+        "вероятно",
+        "наверное",
+        "скорее всего"
+      ],
+      "en": [
+        "probably",
+        "likely"
+      ],
+      "ar": [
+        "على الأرجح",
+        "ربما"
+      ]
+    },
+    "id": "wahrscheinlich"
+  },
+  {
+    "dictionaryId": "dach",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Dach",
+    "plural": "Dächer",
+    "translation": {
+      "ru": [
+        "крыша"
+      ],
+      "en": [
+        "roof"
+      ],
+      "ar": [
+        "سقف"
+      ]
+    },
+    "id": "dach"
+  },
+  {
+    "dictionaryId": "bisher",
+    "type": "other",
+    "word": "bisher",
+    "translation": {
+      "ru": [
+        "до сих пор",
+        "до настоящего времени"
+      ],
+      "en": [
+        "so far",
+        "until now"
+      ],
+      "ar": [
+        "حتى الآن"
+      ]
+    },
+    "id": "bisher"
+  },
+  {
+    "dictionaryId": "verschieden",
+    "type": "other",
+    "word": "verschieden",
+    "translation": {
+      "ru": [
+        "различный",
+        "разный"
+      ],
+      "en": [
+        "different",
+        "various"
+      ],
+      "ar": [
+        "مختلف",
+        "متنوع"
+      ]
+    },
+    "id": "verschieden"
+  },
+  {
+    "dictionaryId": "viertel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Viertel",
+    "plural": "Viertel",
+    "translation": {
+      "ru": [
+        "квартал",
+        "район города",
+        "четверть"
+      ],
+      "en": [
+        "quarter",
+        "district"
+      ],
+      "ar": [
+        "حي",
+        "ربع"
+      ]
+    },
+    "id": "viertel"
+  },
+  {
+    "dictionaryId": "mieter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Mieter",
+    "plural": "Mieter",
+    "translation": {
+      "ru": [
+        "арендатор",
+        "жилец"
+      ],
+      "en": [
+        "tenant"
+      ],
+      "ar": [
+        "مستأجر"
+      ]
+    },
+    "id": "mieter"
+  },
+  {
+    "dictionaryId": "mieterin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mieterin",
+    "plural": "Mieterinnen",
+    "translation": {
+      "ru": [
+        "арендаторша",
+        "жилица"
+      ],
+      "en": [
+        "female tenant"
+      ],
+      "ar": [
+        "مستأجرة"
+      ]
+    },
+    "id": "mieterin"
+  },
+  {
+    "dictionaryId": "einziehen",
+    "type": "verb",
+    "infinitive": "einziehen",
+    "praeteritum": "zog ein",
+    "perfekt": "ist eingezogen",
+    "translation": {
+      "ru": [
+        "въезжать",
+        "заселяться"
+      ],
+      "en": [
+        "to move in"
+      ],
+      "ar": [
+        "ينتقل إلى السكن"
+      ]
+    },
+    "id": "einziehen"
+  },
+  {
+    "dictionaryId": "mal",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Mal",
+    "plural": "Male",
+    "translation": {
+      "ru": [
+        "раз"
+      ],
+      "en": [
+        "time",
+        "occasion"
+      ],
+      "ar": [
+        "مرة"
+      ]
+    },
+    "id": "mal"
+  },
+  {
+    "dictionaryId": "komisch",
+    "type": "other",
+    "word": "komisch",
+    "translation": {
+      "ru": [
+        "странный",
+        "смешной",
+        "комичный"
+      ],
+      "en": [
+        "strange",
+        "funny"
+      ],
+      "ar": [
+        "غريب",
+        "مضحك"
+      ]
+    },
+    "id": "komisch"
+  },
+  {
+    "dictionaryId": "jemand",
+    "type": "other",
+    "word": "jemand",
+    "translation": {
+      "ru": [
+        "кто-то",
+        "кто-нибудь"
+      ],
+      "en": [
+        "someone",
+        "somebody"
+      ],
+      "ar": [
+        "شخص ما"
+      ]
+    },
+    "id": "jemand"
+  },
+  {
+    "dictionaryId": "reichen",
+    "type": "verb",
+    "infinitive": "reichen",
+    "praeteritum": "reichte",
+    "perfekt": "hat gereicht",
+    "translation": {
+      "ru": [
+        "хватать",
+        "быть достаточным",
+        "подавать"
+      ],
+      "en": [
+        "to be enough",
+        "to reach",
+        "to pass"
+      ],
+      "ar": [
+        "يكفي",
+        "يمد"
+      ]
+    },
+    "id": "reichen"
+  },
+  {
+    "dictionaryId": "teilen",
+    "type": "verb",
+    "infinitive": "teilen",
+    "praeteritum": "teilte",
+    "perfekt": "hat geteilt",
+    "translation": {
+      "ru": [
+        "делить",
+        "разделять",
+        "делиться"
+      ],
+      "en": [
+        "to share",
+        "to divide"
+      ],
+      "ar": [
+        "يقسم",
+        "يشارك"
+      ]
+    },
+    "id": "teilen"
+  },
+  {
+    "dictionaryId": "ausziehen",
+    "type": "verb",
+    "infinitive": "ausziehen",
+    "praeteritum": "zog aus",
+    "perfekt": "ist ausgezogen",
+    "translation": {
+      "ru": [
+        "выезжать",
+        "съезжать"
+      ],
+      "en": [
+        "to move out"
+      ],
+      "ar": [
+        "ينتقل من السكن"
+      ]
+    },
+    "id": "ausziehen"
+  },
+  {
+    "dictionaryId": "platz",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Platz",
+    "plural": "Plätze",
+    "comment": "часто Sg. в значении свободное место",
+    "translation": {
+      "ru": [
+        "место",
+        "площадь"
+      ],
+      "en": [
+        "place",
+        "space",
+        "square"
+      ],
+      "ar": [
+        "مكان",
+        "ساحة"
+      ]
+    },
+    "id": "platz"
+  },
+  {
+    "dictionaryId": "jeder",
+    "type": "other",
+    "word": "jeder",
+    "translation": {
+      "ru": [
+        "каждый"
+      ],
+      "en": [
+        "each",
+        "every"
+      ],
+      "ar": [
+        "كل"
+      ]
+    },
+    "id": "jeder"
+  },
+  {
+    "dictionaryId": "benutzen",
+    "type": "verb",
+    "infinitive": "benutzen",
+    "praeteritum": "benutzte",
+    "perfekt": "hat benutzt",
+    "translation": {
+      "ru": [
+        "пользоваться",
+        "использовать"
+      ],
+      "en": [
+        "to use"
+      ],
+      "ar": [
+        "يستخدم"
+      ]
+    },
+    "id": "benutzen"
+  },
+  {
+    "dictionaryId": "gemeinsam",
+    "type": "other",
+    "word": "gemeinsam",
+    "translation": {
+      "ru": [
+        "совместно",
+        "вместе",
+        "общий"
+      ],
+      "en": [
+        "together",
+        "joint",
+        "common"
+      ],
+      "ar": [
+        "معًا",
+        "مشترك"
+      ]
+    },
+    "id": "gemeinsam"
+  },
+  {
+    "dictionaryId": "sonst",
+    "type": "other",
+    "word": "sonst",
+    "translation": {
+      "ru": [
+        "иначе",
+        "обычно",
+        "кроме того"
+      ],
+      "en": [
+        "otherwise",
+        "else",
+        "usually"
+      ],
+      "ar": [
+        "وإلا",
+        "عادةً"
+      ]
+    },
+    "id": "sonst"
+  },
+  {
+    "dictionaryId": "nun",
+    "type": "other",
+    "word": "nun",
+    "translation": {
+      "ru": [
+        "теперь",
+        "ну"
+      ],
+      "en": [
+        "now",
+        "well"
+      ],
+      "ar": [
+        "الآن",
+        "حسنًا"
+      ]
+    },
+    "id": "nun"
+  },
+  {
+    "dictionaryId": "normalerweise",
+    "type": "other",
+    "word": "normalerweise",
+    "translation": {
+      "ru": [
+        "обычно",
+        "как правило"
+      ],
+      "en": [
+        "normally",
+        "usually"
+      ],
+      "ar": [
+        "عادةً"
+      ]
+    },
+    "id": "normalerweise"
+  },
+  {
+    "dictionaryId": "schwanger",
+    "type": "other",
+    "word": "schwanger",
+    "translation": {
+      "ru": [
+        "беременная"
+      ],
+      "en": [
+        "pregnant"
+      ],
+      "ar": [
+        "حامل"
+      ]
+    },
+    "id": "schwanger"
+  },
+  {
+    "dictionaryId": "schwiegervater",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schwiegervater",
+    "plural": "Schwiegerväter",
+    "translation": {
+      "ru": [
+        "свёкор",
+        "тесть"
+      ],
+      "en": [
+        "father-in-law"
+      ],
+      "ar": [
+        "حمو",
+        "والد الزوج أو الزوجة"
+      ]
+    },
+    "id": "schwiegervater"
+  },
+  {
+    "dictionaryId": "schwiegermutter",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schwiegermutter",
+    "plural": "Schwiegermütter",
+    "translation": {
+      "ru": [
+        "свекровь",
+        "тёща"
+      ],
+      "en": [
+        "mother-in-law"
+      ],
+      "ar": [
+        "حماة",
+        "والدة الزوج أو الزوجة"
+      ]
+    },
+    "id": "schwiegermutter"
+  },
+  {
+    "dictionaryId": "haushalt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Haushalt",
+    "plural": "Haushalte",
+    "translation": {
+      "ru": [
+        "домашнее хозяйство",
+        "дом",
+        "бюджет"
+      ],
+      "en": [
+        "household",
+        "budget"
+      ],
+      "ar": [
+        "منزل",
+        "ميزانية الأسرة"
+      ]
+    },
+    "id": "haushalt"
+  },
+  {
+    "dictionaryId": "rente",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Rente",
+    "plural": "Renten",
+    "translation": {
+      "ru": [
+        "пенсия"
+      ],
+      "en": [
+        "pension",
+        "retirement"
+      ],
+      "ar": [
+        "معاش تقاعدي",
+        "تقاعد"
+      ]
+    },
+    "id": "rente"
+  }
+]

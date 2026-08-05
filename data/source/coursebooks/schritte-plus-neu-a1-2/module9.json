@@ -1,0 +1,1895 @@
+[
+  {
+    "dictionaryId": "führerschein",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Führerschein",
+    "plural": "Führerscheine",
+    "translation": {
+      "ru": [
+        "водительские права"
+      ],
+      "en": [
+        "driver's license"
+      ],
+      "ar": [
+        "رخصة قيادة"
+      ]
+    },
+    "id": "führerschein"
+  },
+  {
+    "dictionaryId": "ticket",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Ticket",
+    "plural": "Tickets",
+    "translation": {
+      "ru": [
+        "билет"
+      ],
+      "en": [
+        "ticket"
+      ],
+      "ar": [
+        "تذكرة"
+      ]
+    },
+    "id": "ticket"
+  },
+  {
+    "dictionaryId": "amt",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Amt",
+    "plural": "Ämter",
+    "translation": {
+      "ru": [
+        "ведомство",
+        "учреждение"
+      ],
+      "en": [
+        "office",
+        "authority"
+      ],
+      "ar": [
+        "دائرة",
+        "مؤسسة"
+      ]
+    },
+    "id": "amt"
+  },
+  {
+    "dictionaryId": "gültig",
+    "type": "other",
+    "word": "gültig",
+    "translation": {
+      "ru": [
+        "действительный"
+      ],
+      "en": [
+        "valid"
+      ],
+      "ar": [
+        "صالح"
+      ]
+    },
+    "id": "gültig"
+  },
+  {
+    "dictionaryId": "mieten",
+    "type": "verb",
+    "infinitive": "mieten",
+    "praeteritum": "mietete",
+    "perfekt": "hat gemietet",
+    "translation": {
+      "ru": [
+        "арендовать",
+        "снимать"
+      ],
+      "en": [
+        "to rent"
+      ],
+      "ar": [
+        "يستأجر"
+      ]
+    },
+    "id": "mieten"
+  },
+  {
+    "dictionaryId": "ausländisch",
+    "type": "other",
+    "word": "ausländisch",
+    "translation": {
+      "ru": [
+        "иностранный"
+      ],
+      "en": [
+        "foreign"
+      ],
+      "ar": [
+        "أجنبي"
+      ]
+    },
+    "id": "ausländisch"
+  },
+  {
+    "dictionaryId": "europäisch",
+    "type": "other",
+    "word": "europäisch",
+    "translation": {
+      "ru": [
+        "европейский"
+      ],
+      "en": [
+        "European"
+      ],
+      "ar": [
+        "أوروبي"
+      ]
+    },
+    "id": "europäisch"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Europäische Union",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "Европейский Союз"
+      ],
+      "en": [
+        "European Union"
+      ],
+      "ar": [
+        "الاتحاد الأوروبي"
+      ]
+    },
+    "id": "europäische-union"
+  },
+  {
+    "dictionaryId": "jung",
+    "type": "other",
+    "word": "jung",
+    "translation": {
+      "ru": [
+        "молодой"
+      ],
+      "en": [
+        "young"
+      ],
+      "ar": [
+        "شاب"
+      ]
+    },
+    "id": "jung"
+  },
+  {
+    "dictionaryId": "fahrt",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Fahrt",
+    "plural": "Fahrten",
+    "translation": {
+      "ru": [
+        "поездка"
+      ],
+      "en": [
+        "trip",
+        "ride"
+      ],
+      "ar": [
+        "رحلة"
+      ]
+    },
+    "id": "fahrt"
+  },
+  {
+    "dictionaryId": "fahrkarte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Fahrkarte",
+    "plural": "Fahrkarten",
+    "translation": {
+      "ru": [
+        "билет на транспорт"
+      ],
+      "en": [
+        "ticket",
+        "transport ticket"
+      ],
+      "ar": [
+        "تذكرة مواصلات"
+      ]
+    },
+    "id": "fahrkarte"
+  },
+  {
+    "dictionaryId": "antrag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Antrag",
+    "plural": "Anträge",
+    "translation": {
+      "ru": [
+        "заявление",
+        "заявка"
+      ],
+      "en": [
+        "application",
+        "request"
+      ],
+      "ar": [
+        "طلب"
+      ]
+    },
+    "id": "antrag"
+  },
+  {
+    "dictionaryId": "müssen",
+    "type": "verb",
+    "infinitive": "müssen",
+    "praeteritum": "musste",
+    "perfekt": "hat gemusst",
+    "translation": {
+      "ru": [
+        "должен",
+        "быть обязанным"
+      ],
+      "en": [
+        "must",
+        "to have to"
+      ],
+      "ar": [
+        "يجب"
+      ]
+    },
+    "id": "müssen"
+  },
+  {
+    "dictionaryId": "ausfüllen",
+    "type": "verb",
+    "infinitive": "ausfüllen",
+    "praeteritum": "füllte aus",
+    "perfekt": "hat ausgefüllt",
+    "translation": {
+      "ru": [
+        "заполнять"
+      ],
+      "en": [
+        "to fill out"
+      ],
+      "ar": [
+        "يملأ"
+      ]
+    },
+    "id": "ausfüllen"
+  },
+  {
+    "dictionaryId": "ausweis",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Ausweis",
+    "plural": "Ausweise",
+    "translation": {
+      "ru": [
+        "удостоверение",
+        "документ"
+      ],
+      "en": [
+        "ID",
+        "identity card"
+      ],
+      "ar": [
+        "بطاقة هوية"
+      ]
+    },
+    "id": "ausweis"
+  },
+  {
+    "dictionaryId": "mitbringen",
+    "type": "verb",
+    "infinitive": "mitbringen",
+    "praeteritum": "brachte mit",
+    "perfekt": "hat mitgebracht",
+    "translation": {
+      "ru": [
+        "приносить с собой"
+      ],
+      "en": [
+        "to bring along"
+      ],
+      "ar": [
+        "يحضر معه"
+      ]
+    },
+    "id": "mitbringen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Papiere",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "документы",
+        "бумаги"
+      ],
+      "en": [
+        "documents",
+        "papers"
+      ],
+      "ar": [
+        "أوراق",
+        "وثائق"
+      ]
+    },
+    "id": "papiere"
+  },
+  {
+    "dictionaryId": "unterschreiben",
+    "type": "verb",
+    "infinitive": "unterschreiben",
+    "praeteritum": "unterschrieb",
+    "perfekt": "hat unterschrieben",
+    "translation": {
+      "ru": [
+        "подписывать"
+      ],
+      "en": [
+        "to sign"
+      ],
+      "ar": [
+        "يوقّع"
+      ]
+    },
+    "id": "unterschreiben"
+  },
+  {
+    "dictionaryId": "bar",
+    "type": "other",
+    "word": "bar",
+    "translation": {
+      "ru": [
+        "наличными"
+      ],
+      "en": [
+        "in cash"
+      ],
+      "ar": [
+        "نقدًا"
+      ]
+    },
+    "id": "bar"
+  },
+  {
+    "dictionaryId": "automat",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Automat",
+    "plural": "Automaten",
+    "translation": {
+      "ru": [
+        "автомат",
+        "аппарат"
+      ],
+      "en": [
+        "machine",
+        "vending machine"
+      ],
+      "ar": [
+        "آلة"
+      ]
+    },
+    "id": "automat"
+  },
+  {
+    "dictionaryId": "funktionieren",
+    "type": "verb",
+    "infinitive": "funktionieren",
+    "praeteritum": "funktionierte",
+    "perfekt": "hat funktioniert",
+    "translation": {
+      "ru": [
+        "работать",
+        "функционировать"
+      ],
+      "en": [
+        "to work",
+        "to function"
+      ],
+      "ar": [
+        "يعمل"
+      ]
+    },
+    "id": "funktionieren"
+  },
+  {
+    "dictionaryId": "ziel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Ziel",
+    "plural": "Ziele",
+    "translation": {
+      "ru": [
+        "цель",
+        "пункт назначения"
+      ],
+      "en": [
+        "goal",
+        "destination"
+      ],
+      "ar": [
+        "هدف",
+        "وجهة"
+      ]
+    },
+    "id": "ziel"
+  },
+  {
+    "dictionaryId": "wählen",
+    "type": "verb",
+    "infinitive": "wählen",
+    "praeteritum": "wählte",
+    "perfekt": "hat gewählt",
+    "translation": {
+      "ru": [
+        "выбирать"
+      ],
+      "en": [
+        "to choose",
+        "to select"
+      ],
+      "ar": [
+        "يختار"
+      ]
+    },
+    "id": "wählen"
+  },
+  {
+    "dictionaryId": "auswählen",
+    "type": "verb",
+    "infinitive": "auswählen",
+    "praeteritum": "wählte aus",
+    "perfekt": "hat ausgewählt",
+    "translation": {
+      "ru": [
+        "выбирать",
+        "выбирать из списка"
+      ],
+      "en": [
+        "to select",
+        "to choose"
+      ],
+      "ar": [
+        "يختار"
+      ]
+    },
+    "id": "auswählen"
+  },
+  {
+    "dictionaryId": "erwachsene",
+    "type": "noun",
+    "article": [
+      "der",
+      "die"
+    ],
+    "word": "Erwachsene",
+    "plural": "Erwachsenen",
+    "translation": {
+      "ru": [
+        "взрослый",
+        "взрослая"
+      ],
+      "en": [
+        "adult"
+      ],
+      "ar": [
+        "بالغ",
+        "بالغة"
+      ]
+    },
+    "id": "erwachsene"
+  },
+  {
+    "dictionaryId": "man",
+    "type": "other",
+    "word": "man",
+    "translation": {
+      "ru": [
+        "кто-то",
+        "люди",
+        "безличное местоимение"
+      ],
+      "en": [
+        "one",
+        "people"
+      ],
+      "ar": [
+        "المرء"
+      ]
+    },
+    "id": "man"
+  },
+  {
+    "dictionaryId": "zuerst",
+    "type": "other",
+    "word": "zuerst",
+    "translation": {
+      "ru": [
+        "сначала",
+        "сперва"
+      ],
+      "en": [
+        "first",
+        "at first"
+      ],
+      "ar": [
+        "أولاً"
+      ]
+    },
+    "id": "zuerst"
+  },
+  {
+    "dictionaryId": "danach",
+    "type": "other",
+    "word": "danach",
+    "translation": {
+      "ru": [
+        "после этого",
+        "затем"
+      ],
+      "en": [
+        "after that"
+      ],
+      "ar": [
+        "بعد ذلك"
+      ]
+    },
+    "id": "danach"
+  },
+  {
+    "dictionaryId": "dann",
+    "type": "other",
+    "word": "dann",
+    "translation": {
+      "ru": [
+        "потом",
+        "затем",
+        "тогда"
+      ],
+      "en": [
+        "then"
+      ],
+      "ar": [
+        "ثم"
+      ]
+    },
+    "id": "dann"
+  },
+  {
+    "dictionaryId": "schluss",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schluss",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "конец",
+        "заключение"
+      ],
+      "en": [
+        "end",
+        "conclusion"
+      ],
+      "ar": [
+        "نهاية"
+      ]
+    },
+    "id": "schluss"
+  },
+  {
+    "dictionaryId": "leise",
+    "type": "other",
+    "word": "leise",
+    "translation": {
+      "ru": [
+        "тихо",
+        "тихий"
+      ],
+      "en": [
+        "quietly",
+        "quiet"
+      ],
+      "ar": [
+        "بهدوء",
+        "هادئ"
+      ]
+    },
+    "id": "leise"
+  },
+  {
+    "dictionaryId": "erklären",
+    "type": "verb",
+    "infinitive": "erklären",
+    "praeteritum": "erklärte",
+    "perfekt": "hat erklärt",
+    "translation": {
+      "ru": [
+        "объяснять"
+      ],
+      "en": [
+        "to explain"
+      ],
+      "ar": [
+        "يشرح"
+      ]
+    },
+    "id": "erklären"
+  },
+  {
+    "dictionaryId": "laut",
+    "type": "other",
+    "word": "laut",
+    "translation": {
+      "ru": [
+        "громко",
+        "громкий"
+      ],
+      "en": [
+        "loud",
+        "loudly"
+      ],
+      "ar": [
+        "بصوت عالٍ",
+        "عالٍ"
+      ]
+    },
+    "id": "laut"
+  },
+  {
+    "dictionaryId": "ausmachen",
+    "type": "verb",
+    "infinitive": "ausmachen",
+    "praeteritum": "machte aus",
+    "perfekt": "hat ausgemacht",
+    "translation": {
+      "ru": [
+        "выключать",
+        "договариваться"
+      ],
+      "en": [
+        "to turn off",
+        "to arrange"
+      ],
+      "ar": [
+        "يطفئ",
+        "يتفق"
+      ]
+    },
+    "id": "ausmachen"
+  },
+  {
+    "dictionaryId": "zuhören",
+    "type": "verb",
+    "infinitive": "zuhören",
+    "praeteritum": "hörte zu",
+    "perfekt": "hat zugehört",
+    "translation": {
+      "ru": [
+        "слушать внимательно"
+      ],
+      "en": [
+        "to listen"
+      ],
+      "ar": [
+        "يستمع"
+      ]
+    },
+    "id": "zuhören"
+  },
+  {
+    "dictionaryId": "aufstehen",
+    "type": "verb",
+    "infinitive": "aufstehen",
+    "praeteritum": "stand auf",
+    "perfekt": "ist aufgestanden",
+    "translation": {
+      "ru": [
+        "вставать",
+        "подниматься"
+      ],
+      "en": [
+        "to get up",
+        "to stand up"
+      ],
+      "ar": [
+        "ينهض",
+        "يقف"
+      ]
+    },
+    "id": "aufstehen"
+  },
+  {
+    "dictionaryId": "warten",
+    "type": "verb",
+    "infinitive": "warten",
+    "praeteritum": "wartete",
+    "perfekt": "hat gewartet",
+    "translation": {
+      "ru": [
+        "ждать"
+      ],
+      "en": [
+        "to wait"
+      ],
+      "ar": [
+        "ينتظر"
+      ]
+    },
+    "id": "warten"
+  },
+  {
+    "dictionaryId": "gebühr",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gebühr",
+    "plural": "Gebühren",
+    "translation": {
+      "ru": [
+        "сбор",
+        "плата",
+        "пошлина"
+      ],
+      "en": [
+        "fee",
+        "charge"
+      ],
+      "ar": [
+        "رسوم"
+      ]
+    },
+    "id": "gebühr"
+  },
+  {
+    "dictionaryId": "kasse",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kasse",
+    "plural": "Kassen",
+    "translation": {
+      "ru": [
+        "касса"
+      ],
+      "en": [
+        "cash desk",
+        "checkout"
+      ],
+      "ar": [
+        "صندوق",
+        "كاشير"
+      ]
+    },
+    "id": "kasse"
+  },
+  {
+    "dictionaryId": "lachen",
+    "type": "verb",
+    "infinitive": "lachen",
+    "praeteritum": "lachte",
+    "perfekt": "hat gelacht",
+    "translation": {
+      "ru": [
+        "смеяться"
+      ],
+      "en": [
+        "to laugh"
+      ],
+      "ar": [
+        "يضحك"
+      ]
+    },
+    "id": "lachen"
+  },
+  {
+    "dictionaryId": "moment",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Moment",
+    "plural": "Momente",
+    "translation": {
+      "ru": [
+        "момент",
+        "мгновение"
+      ],
+      "en": [
+        "moment"
+      ],
+      "ar": [
+        "لحظة"
+      ]
+    },
+    "id": "moment"
+  },
+  {
+    "dictionaryId": "beantragen",
+    "type": "verb",
+    "infinitive": "beantragen",
+    "praeteritum": "beantragte",
+    "perfekt": "hat beantragt",
+    "translation": {
+      "ru": [
+        "подавать заявление",
+        "запрашивать"
+      ],
+      "en": [
+        "to apply for",
+        "to request"
+      ],
+      "ar": [
+        "يقدّم طلبًا"
+      ]
+    },
+    "id": "beantragen"
+  },
+  {
+    "dictionaryId": "dürfen",
+    "type": "verb",
+    "infinitive": "dürfen",
+    "praeteritum": "durfte",
+    "perfekt": "hat gedurft",
+    "translation": {
+      "ru": [
+        "мочь",
+        "иметь право",
+        "разрешаться"
+      ],
+      "en": [
+        "may",
+        "to be allowed to"
+      ],
+      "ar": [
+        "يُسمح له"
+      ]
+    },
+    "id": "dürfen"
+  },
+  {
+    "dictionaryId": "achtung",
+    "type": "other",
+    "word": "Achtung",
+    "translation": {
+      "ru": [
+        "внимание",
+        "осторожно"
+      ],
+      "en": [
+        "attention",
+        "caution"
+      ],
+      "ar": [
+        "انتباه",
+        "احذر"
+      ]
+    },
+    "id": "achtung"
+  },
+  {
+    "dictionaryId": "zigarette",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zigarette",
+    "plural": "Zigaretten",
+    "translation": {
+      "ru": [
+        "сигарета"
+      ],
+      "en": [
+        "cigarette"
+      ],
+      "ar": [
+        "سيجارة"
+      ]
+    },
+    "id": "zigarette"
+  },
+  {
+    "dictionaryId": "rauchen",
+    "type": "verb",
+    "infinitive": "rauchen",
+    "praeteritum": "rauchte",
+    "perfekt": "hat geraucht",
+    "translation": {
+      "ru": [
+        "курить"
+      ],
+      "en": [
+        "to smoke"
+      ],
+      "ar": [
+        "يدخن"
+      ]
+    },
+    "id": "rauchen"
+  },
+  {
+    "dictionaryId": "langsam",
+    "type": "other",
+    "word": "langsam",
+    "translation": {
+      "ru": [
+        "медленно",
+        "медленный"
+      ],
+      "en": [
+        "slowly",
+        "slow"
+      ],
+      "ar": [
+        "ببطء",
+        "بطيء"
+      ]
+    },
+    "id": "langsam"
+  },
+  {
+    "dictionaryId": "parkplatz",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Parkplatz",
+    "plural": "Parkplätze",
+    "translation": {
+      "ru": [
+        "парковочное место",
+        "парковка"
+      ],
+      "en": [
+        "parking space",
+        "parking lot"
+      ],
+      "ar": [
+        "موقف سيارات"
+      ]
+    },
+    "id": "parkplatz"
+  },
+  {
+    "dictionaryId": "parken",
+    "type": "verb",
+    "infinitive": "parken",
+    "praeteritum": "parkte",
+    "perfekt": "hat geparkt",
+    "translation": {
+      "ru": [
+        "парковать",
+        "припарковаться"
+      ],
+      "en": [
+        "to park"
+      ],
+      "ar": [
+        "يصفّ السيارة"
+      ]
+    },
+    "id": "parken"
+  },
+  {
+    "dictionaryId": "erlaubt",
+    "type": "other",
+    "word": "erlaubt",
+    "translation": {
+      "ru": [
+        "разрешено",
+        "разрешённый"
+      ],
+      "en": [
+        "allowed",
+        "permitted"
+      ],
+      "ar": [
+        "مسموح"
+      ]
+    },
+    "id": "erlaubt"
+  },
+  {
+    "dictionaryId": "verboten",
+    "type": "other",
+    "word": "verboten",
+    "translation": {
+      "ru": [
+        "запрещено",
+        "запрещённый"
+      ],
+      "en": [
+        "forbidden",
+        "prohibited"
+      ],
+      "ar": [
+        "ممنوع"
+      ]
+    },
+    "id": "verboten"
+  },
+  {
+    "dictionaryId": "gepäck",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gepäck",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "багаж"
+      ],
+      "en": [
+        "luggage",
+        "baggage"
+      ],
+      "ar": [
+        "أمتعة"
+      ]
+    },
+    "id": "gepäck"
+  },
+  {
+    "dictionaryId": "abgeben",
+    "type": "verb",
+    "infinitive": "abgeben",
+    "praeteritum": "gab ab",
+    "perfekt": "hat abgegeben",
+    "translation": {
+      "ru": [
+        "сдавать",
+        "отдавать",
+        "передавать"
+      ],
+      "en": [
+        "to hand in",
+        "to submit",
+        "to give away"
+      ],
+      "ar": [
+        "يسلّم",
+        "يقدّم"
+      ]
+    },
+    "id": "abgeben"
+  },
+  {
+    "dictionaryId": "mitnehmen",
+    "type": "verb",
+    "infinitive": "mitnehmen",
+    "praeteritum": "nahm mit",
+    "perfekt": "hat mitgenommen",
+    "translation": {
+      "ru": [
+        "брать с собой"
+      ],
+      "en": [
+        "to take along",
+        "to take with"
+      ],
+      "ar": [
+        "يأخذ معه"
+      ]
+    },
+    "id": "mitnehmen"
+  },
+  {
+    "dictionaryId": "allein",
+    "type": "other",
+    "word": "allein",
+    "translation": {
+      "ru": [
+        "один",
+        "сам",
+        "в одиночку"
+      ],
+      "en": [
+        "alone",
+        "by oneself"
+      ],
+      "ar": [
+        "وحده"
+      ]
+    },
+    "id": "allein"
+  },
+  {
+    "dictionaryId": "behörde",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Behörde",
+    "plural": "Behörden",
+    "translation": {
+      "ru": [
+        "учреждение",
+        "ведомство",
+        "орган власти"
+      ],
+      "en": [
+        "authority",
+        "government office"
+      ],
+      "ar": [
+        "سلطة",
+        "دائرة حكومية"
+      ]
+    },
+    "id": "behörde"
+  },
+  {
+    "dictionaryId": "person",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Person",
+    "plural": "Personen",
+    "translation": {
+      "ru": [
+        "человек",
+        "лицо"
+      ],
+      "en": [
+        "person"
+      ],
+      "ar": [
+        "شخص"
+      ]
+    },
+    "id": "person"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Geburtsname",
+    "plural": "Geburtsnamen",
+    "translation": {
+      "ru": [
+        "девичья фамилия",
+        "фамилия при рождении"
+      ],
+      "en": [
+        "birth name",
+        "maiden name"
+      ],
+      "ar": [
+        "اسم الميلاد",
+        "اسم العائلة قبل الزواج"
+      ]
+    },
+    "id": "geburtsname"
+  },
+  {
+    "dictionaryId": "geschlecht",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Geschlecht",
+    "plural": "Geschlechter",
+    "translation": {
+      "ru": [
+        "пол",
+        "род"
+      ],
+      "en": [
+        "gender",
+        "sex"
+      ],
+      "ar": [
+        "جنس"
+      ]
+    },
+    "id": "geschlecht"
+  },
+  {
+    "dictionaryId": "ausländer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Ausländer",
+    "plural": "Ausländer",
+    "translation": {
+      "ru": [
+        "иностранец"
+      ],
+      "en": [
+        "foreigner"
+      ],
+      "ar": [
+        "أجنبي"
+      ]
+    },
+    "id": "ausländer"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ausländerin",
+    "plural": "Ausländerinnen",
+    "translation": {
+      "ru": [
+        "иностранка"
+      ],
+      "en": [
+        "female foreigner"
+      ],
+      "ar": [
+        "أجنبية"
+      ]
+    },
+    "id": "ausländerin"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "getrennt leben",
+    "translation": {
+      "ru": [
+        "жить раздельно"
+      ],
+      "en": [
+        "to live separately"
+      ],
+      "ar": [
+        "يعيش منفصلًا"
+      ]
+    },
+    "id": "getrennt-leben"
+  },
+  {
+    "dictionaryId": "männlich",
+    "type": "other",
+    "word": "männlich",
+    "translation": {
+      "ru": [
+        "мужской"
+      ],
+      "en": [
+        "male"
+      ],
+      "ar": [
+        "ذكر"
+      ]
+    },
+    "id": "männlich"
+  },
+  {
+    "dictionaryId": "weiblich",
+    "type": "other",
+    "word": "weiblich",
+    "translation": {
+      "ru": [
+        "женский"
+      ],
+      "en": [
+        "female"
+      ],
+      "ar": [
+        "أنثى"
+      ]
+    },
+    "id": "weiblich"
+  },
+  {
+    "dictionaryId": "angehörige",
+    "type": "noun",
+    "article": [
+      "der",
+      "die"
+    ],
+    "word": "Angehörige",
+    "plural": "Angehörigen",
+    "translation": {
+      "ru": [
+        "родственник",
+        "родственница",
+        "близкий человек"
+      ],
+      "en": [
+        "relative",
+        "family member"
+      ],
+      "ar": [
+        "قريب",
+        "فرد من العائلة"
+      ]
+    },
+    "id": "angehörige"
+  },
+  {
+    "dictionaryId": "bedeuten",
+    "type": "verb",
+    "infinitive": "bedeuten",
+    "praeteritum": "bedeutete",
+    "perfekt": "hat bedeutet",
+    "translation": {
+      "ru": [
+        "значить",
+        "означать"
+      ],
+      "en": [
+        "to mean"
+      ],
+      "ar": [
+        "يعني"
+      ]
+    },
+    "id": "bedeuten"
+  },
+  {
+    "dictionaryId": "wiederholen",
+    "type": "verb",
+    "infinitive": "wiederholen",
+    "praeteritum": "wiederholte",
+    "perfekt": "hat wiederholt",
+    "translation": {
+      "ru": [
+        "повторять"
+      ],
+      "en": [
+        "to repeat"
+      ],
+      "ar": [
+        "يكرر"
+      ]
+    },
+    "id": "wiederholen"
+  },
+  {
+    "dictionaryId": "verstehen",
+    "type": "verb",
+    "infinitive": "verstehen",
+    "praeteritum": "verstand",
+    "perfekt": "hat verstanden",
+    "translation": {
+      "ru": [
+        "понимать"
+      ],
+      "en": [
+        "to understand"
+      ],
+      "ar": [
+        "يفهم"
+      ]
+    },
+    "id": "verstehen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sprachenschule",
+    "plural": "Sprachenschulen",
+    "translation": {
+      "ru": [
+        "языковая школа"
+      ],
+      "en": [
+        "language school"
+      ],
+      "ar": [
+        "مدرسة لغات"
+      ]
+    },
+    "id": "sprachenschule"
+  },
+  {
+    "dictionaryId": "besuchen",
+    "type": "verb",
+    "infinitive": "besuchen",
+    "praeteritum": "besuchte",
+    "perfekt": "hat besucht",
+    "translation": {
+      "ru": [
+        "посещать",
+        "навещать"
+      ],
+      "en": [
+        "to visit",
+        "to attend"
+      ],
+      "ar": [
+        "يزور",
+        "يحضر"
+      ]
+    },
+    "id": "besuchen"
+  },
+  {
+    "dictionaryId": "helfen",
+    "type": "verb",
+    "infinitive": "helfen",
+    "praeteritum": "half",
+    "perfekt": "hat geholfen",
+    "translation": {
+      "ru": [
+        "помогать"
+      ],
+      "en": [
+        "to help"
+      ],
+      "ar": [
+        "يساعد"
+      ]
+    },
+    "id": "helfen"
+  },
+  {
+    "dictionaryId": "auskunft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Auskunft",
+    "plural": "Auskünfte",
+    "translation": {
+      "ru": [
+        "справка",
+        "информация"
+      ],
+      "en": [
+        "information",
+        "inquiry desk"
+      ],
+      "ar": [
+        "معلومة",
+        "استعلام"
+      ]
+    },
+    "id": "auskunft"
+  },
+  {
+    "dictionaryId": "erlaubnis",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Erlaubnis",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "разрешение"
+      ],
+      "en": [
+        "permission"
+      ],
+      "ar": [
+        "إذن"
+      ]
+    },
+    "id": "erlaubnis"
+  },
+  {
+    "dictionaryId": "erklärung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Erklärung",
+    "plural": "Erklärungen",
+    "translation": {
+      "ru": [
+        "объяснение",
+        "заявление"
+      ],
+      "en": [
+        "explanation",
+        "declaration"
+      ],
+      "ar": [
+        "توضيح",
+        "بيان"
+      ]
+    },
+    "id": "erklärung"
+  },
+  {
+    "dictionaryId": "dokument",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Dokument",
+    "plural": "Dokumente",
+    "translation": {
+      "ru": [
+        "документ"
+      ],
+      "en": [
+        "document"
+      ],
+      "ar": [
+        "وثيقة"
+      ]
+    },
+    "id": "dokument"
+  },
+  {
+    "dictionaryId": "geld",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Geld",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "деньги"
+      ],
+      "en": [
+        "money"
+      ],
+      "ar": [
+        "مال"
+      ]
+    },
+    "id": "geld"
+  },
+  {
+    "dictionaryId": "genug",
+    "type": "other",
+    "word": "genug",
+    "translation": {
+      "ru": [
+        "достаточно"
+      ],
+      "en": [
+        "enough"
+      ],
+      "ar": [
+        "كافٍ"
+      ]
+    },
+    "id": "genug"
+  },
+  {
+    "dictionaryId": "einkommen",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Einkommen",
+    "plural": "Einkommen",
+    "translation": {
+      "ru": [
+        "доход",
+        "заработок"
+      ],
+      "en": [
+        "income",
+        "earnings"
+      ],
+      "ar": [
+        "دخل"
+      ]
+    },
+    "id": "einkommen"
+  },
+  {
+    "dictionaryId": "reise",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Reise",
+    "plural": "Reisen",
+    "translation": {
+      "ru": [
+        "поездка",
+        "путешествие"
+      ],
+      "en": [
+        "trip",
+        "journey",
+        "travel"
+      ],
+      "ar": [
+        "رحلة"
+      ]
+    },
+    "id": "reise"
+  },
+  {
+    "dictionaryId": "versicherung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Versicherung",
+    "plural": "Versicherungen",
+    "translation": {
+      "ru": [
+        "страховка",
+        "страхование"
+      ],
+      "en": [
+        "insurance"
+      ],
+      "ar": [
+        "تأمين"
+      ]
+    },
+    "id": "versicherung"
+  },
+  {
+    "dictionaryId": "botschaft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Botschaft",
+    "plural": "Botschaften",
+    "translation": {
+      "ru": [
+        "посольство",
+        "сообщение"
+      ],
+      "en": [
+        "embassy",
+        "message"
+      ],
+      "ar": [
+        "سفارة",
+        "رسالة"
+      ]
+    },
+    "id": "botschaft"
+  },
+  {
+    "dictionaryId": "visum",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Visum",
+    "plural": "Visa",
+    "translation": {
+      "ru": [
+        "виза"
+      ],
+      "en": [
+        "visa"
+      ],
+      "ar": [
+        "تأشيرة"
+      ]
+    },
+    "id": "visum"
+  },
+  {
+    "dictionaryId": "holen",
+    "type": "verb",
+    "infinitive": "holen",
+    "praeteritum": "holte",
+    "perfekt": "hat geholt",
+    "translation": {
+      "ru": [
+        "забирать",
+        "получать",
+        "приносить"
+      ],
+      "en": [
+        "to get",
+        "to fetch",
+        "to pick up"
+      ],
+      "ar": [
+        "يحضر",
+        "يجلب",
+        "يحصل"
+      ]
+    },
+    "id": "holen"
+  },
+  {
+    "dictionaryId": "mitarbeiter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Mitarbeiter",
+    "plural": "Mitarbeiter",
+    "translation": {
+      "ru": [
+        "сотрудник"
+      ],
+      "en": [
+        "employee",
+        "staff member"
+      ],
+      "ar": [
+        "موظف"
+      ]
+    },
+    "id": "mitarbeiter"
+  },
+  {
+    "dictionaryId": "mitarbeiterin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mitarbeiterin",
+    "plural": "Mitarbeiterinnen",
+    "translation": {
+      "ru": [
+        "сотрудница"
+      ],
+      "en": [
+        "female employee",
+        "staff member"
+      ],
+      "ar": [
+        "موظفة"
+      ]
+    },
+    "id": "mitarbeiterin"
+  },
+  {
+    "dictionaryId": "beamte",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Beamte",
+    "plural": "Beamten",
+    "translation": {
+      "ru": [
+        "чиновник",
+        "госслужащий"
+      ],
+      "en": [
+        "official",
+        "civil servant"
+      ],
+      "ar": [
+        "موظف حكومي"
+      ]
+    },
+    "id": "beamte"
+  },
+  {
+    "dictionaryId": "beamtin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Beamtin",
+    "plural": "Beamtinnen",
+    "translation": {
+      "ru": [
+        "чиновница",
+        "госслужащая"
+      ],
+      "en": [
+        "female official",
+        "female civil servant"
+      ],
+      "ar": [
+        "موظفة حكومية"
+      ]
+    },
+    "id": "beamtin"
+  },
+  {
+    "dictionaryId": "verdienen",
+    "type": "verb",
+    "infinitive": "verdienen",
+    "praeteritum": "verdiente",
+    "perfekt": "hat verdient",
+    "translation": {
+      "ru": [
+        "зарабатывать",
+        "заслуживать"
+      ],
+      "en": [
+        "to earn",
+        "to deserve"
+      ],
+      "ar": [
+        "يكسب",
+        "يستحق"
+      ]
+    },
+    "id": "verdienen"
+  },
+  {
+    "dictionaryId": "pass",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Pass",
+    "plural": "Pässe",
+    "translation": {
+      "ru": [
+        "паспорт"
+      ],
+      "en": [
+        "passport"
+      ],
+      "ar": [
+        "جواز سفر"
+      ]
+    },
+    "id": "pass"
+  },
+  {
+    "dictionaryId": "reisen",
+    "type": "verb",
+    "infinitive": "reisen",
+    "praeteritum": "reiste",
+    "perfekt": "ist gereist",
+    "translation": {
+      "ru": [
+        "путешествовать"
+      ],
+      "en": [
+        "to travel"
+      ],
+      "ar": [
+        "يسافر"
+      ]
+    },
+    "id": "reisen"
+  }
+]

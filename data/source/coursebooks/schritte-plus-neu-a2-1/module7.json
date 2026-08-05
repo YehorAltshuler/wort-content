@@ -1,0 +1,1081 @@
+[
+  {
+    "dictionaryId": "unbekannt",
+    "type": "other",
+    "word": "unbekannt",
+    "translation": {
+      "ru": [
+        "неизвестный"
+      ],
+      "en": [
+        "unknown"
+      ],
+      "ar": [
+        "مجهول"
+      ]
+    },
+    "id": "unbekannt"
+  },
+  {
+    "dictionaryId": "vorbereiten",
+    "type": "verb",
+    "infinitive": "sich vorbereiten",
+    "praeteritum": "bereitete sich vor",
+    "perfekt": "hat sich vorbereitet",
+    "translation": {
+      "ru": [
+        "готовиться"
+      ],
+      "en": [
+        "to prepare oneself"
+      ],
+      "ar": [
+        "يستعد"
+      ]
+    },
+    "id": "vorbereiten"
+  },
+  {
+    "dictionaryId": "basteln",
+    "type": "verb",
+    "infinitive": "basteln",
+    "praeteritum": "bastelte",
+    "perfekt": "hat gebastelt",
+    "translation": {
+      "ru": [
+        "мастерить",
+        "заниматься поделками"
+      ],
+      "en": [
+        "to do handicrafts",
+        "to make things"
+      ],
+      "ar": [
+        "يصنع أشغالاً يدوية"
+      ]
+    },
+    "id": "basteln"
+  },
+  {
+    "dictionaryId": "entscheiden",
+    "type": "verb",
+    "infinitive": "entscheiden",
+    "praeteritum": "entschied",
+    "perfekt": "hat entschieden",
+    "translation": {
+      "ru": [
+        "решать",
+        "принимать решение"
+      ],
+      "en": [
+        "to decide"
+      ],
+      "ar": [
+        "يقرر"
+      ]
+    },
+    "id": "entscheiden"
+  },
+  {
+    "dictionaryId": "schenken",
+    "type": "verb",
+    "infinitive": "schenken",
+    "praeteritum": "schenkte",
+    "perfekt": "hat geschenkt",
+    "translation": {
+      "ru": [
+        "дарить"
+      ],
+      "en": [
+        "to give as a gift"
+      ],
+      "ar": [
+        "يهدي"
+      ]
+    },
+    "id": "schenken"
+  },
+  {
+    "dictionaryId": "baby",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Baby",
+    "plural": "Babys",
+    "translation": {
+      "ru": [
+        "младенец",
+        "ребёнок"
+      ],
+      "en": [
+        "baby"
+      ],
+      "ar": [
+        "طفل رضيع"
+      ]
+    },
+    "id": "baby"
+  },
+  {
+    "dictionaryId": "kette",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kette",
+    "plural": "Ketten",
+    "translation": {
+      "ru": [
+        "цепочка",
+        "ожерелье"
+      ],
+      "en": [
+        "chain",
+        "necklace"
+      ],
+      "ar": [
+        "سلسلة",
+        "قلادة"
+      ]
+    },
+    "id": "kette"
+  },
+  {
+    "dictionaryId": "raten",
+    "type": "verb",
+    "infinitive": "raten",
+    "praeteritum": "riet",
+    "perfekt": "hat geraten",
+    "translation": {
+      "ru": [
+        "советовать",
+        "угадывать"
+      ],
+      "en": [
+        "to advise",
+        "to guess"
+      ],
+      "ar": [
+        "ينصح",
+        "يخمن"
+      ]
+    },
+    "id": "raten"
+  },
+  {
+    "dictionaryId": "puppe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Puppe",
+    "plural": "Puppen",
+    "translation": {
+      "ru": [
+        "кукла"
+      ],
+      "en": [
+        "doll"
+      ],
+      "ar": [
+        "دمية"
+      ]
+    },
+    "id": "puppe"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "DVD",
+    "plural": "DVDs",
+    "translation": {
+      "ru": [
+        "DVD-диск"
+      ],
+      "en": [
+        "DVD"
+      ],
+      "ar": [
+        "قرص DVD"
+      ]
+    },
+    "id": "dvd"
+  },
+  {
+    "dictionaryId": "parfüm",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Parfüm",
+    "plural": "Parfüms",
+    "translation": {
+      "ru": [
+        "духи",
+        "парфюм"
+      ],
+      "en": [
+        "perfume"
+      ],
+      "ar": [
+        "عطر"
+      ]
+    },
+    "id": "parfüm"
+  },
+  {
+    "dictionaryId": "creme",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Creme",
+    "plural": "Cremes",
+    "translation": {
+      "ru": [
+        "крем"
+      ],
+      "en": [
+        "cream"
+      ],
+      "ar": [
+        "كريم"
+      ]
+    },
+    "id": "creme"
+  },
+  {
+    "dictionaryId": "geldbeutel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Geldbeutel",
+    "plural": "Geldbeutel",
+    "translation": {
+      "ru": [
+        "кошелёк"
+      ],
+      "en": [
+        "wallet",
+        "purse"
+      ],
+      "ar": [
+        "محفظة"
+      ]
+    },
+    "id": "geldbeutel"
+  },
+  {
+    "dictionaryId": "probieren",
+    "type": "verb",
+    "infinitive": "probieren",
+    "praeteritum": "probierte",
+    "perfekt": "hat probiert",
+    "translation": {
+      "ru": [
+        "пробовать"
+      ],
+      "en": [
+        "to try"
+      ],
+      "ar": [
+        "يجرب"
+      ]
+    },
+    "id": "probieren"
+  },
+  {
+    "dictionaryId": "nudel",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nudel",
+    "plural": "Nudeln",
+    "translation": {
+      "ru": [
+        "макаронина",
+        "лапша"
+      ],
+      "en": [
+        "noodle",
+        "pasta"
+      ],
+      "ar": [
+        "معكرونة"
+      ]
+    },
+    "id": "nudel"
+  },
+  {
+    "dictionaryId": "gericht",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gericht",
+    "plural": "Gerichte",
+    "translation": {
+      "ru": [
+        "блюдо",
+        "суд"
+      ],
+      "en": [
+        "dish",
+        "court"
+      ],
+      "ar": [
+        "طبق",
+        "محكمة"
+      ]
+    },
+    "id": "gericht"
+  },
+  {
+    "dictionaryId": "liefern",
+    "type": "verb",
+    "infinitive": "liefern",
+    "praeteritum": "lieferte",
+    "perfekt": "hat geliefert",
+    "translation": {
+      "ru": [
+        "доставлять"
+      ],
+      "en": [
+        "to deliver"
+      ],
+      "ar": [
+        "يوصل",
+        "يسلم"
+      ]
+    },
+    "id": "liefern"
+  },
+  {
+    "dictionaryId": "zuverlässig",
+    "type": "other",
+    "word": "zuverlässig",
+    "translation": {
+      "ru": [
+        "надёжный"
+      ],
+      "en": [
+        "reliable"
+      ],
+      "ar": [
+        "موثوق"
+      ]
+    },
+    "id": "zuverlässig"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Sonder-",
+    "translation": {
+      "ru": [
+        "специальный",
+        "особый"
+      ],
+      "en": [
+        "special"
+      ],
+      "ar": [
+        "خاص"
+      ]
+    },
+    "id": "sonder"
+  },
+  {
+    "dictionaryId": "nennen",
+    "type": "verb",
+    "infinitive": "nennen",
+    "praeteritum": "nannte",
+    "perfekt": "hat genannt",
+    "translation": {
+      "ru": [
+        "называть"
+      ],
+      "en": [
+        "to name",
+        "to call"
+      ],
+      "ar": [
+        "يسمي"
+      ]
+    },
+    "id": "nennen"
+  },
+  {
+    "dictionaryId": "schachtel",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schachtel",
+    "plural": "Schachteln",
+    "translation": {
+      "ru": [
+        "коробка"
+      ],
+      "en": [
+        "box"
+      ],
+      "ar": [
+        "علبة"
+      ]
+    },
+    "id": "schachtel"
+  },
+  {
+    "dictionaryId": "ausdrucken",
+    "type": "verb",
+    "infinitive": "ausdrucken",
+    "praeteritum": "druckte aus",
+    "perfekt": "hat ausgedruckt",
+    "translation": {
+      "ru": [
+        "распечатывать"
+      ],
+      "en": [
+        "to print out"
+      ],
+      "ar": [
+        "يطبع"
+      ]
+    },
+    "id": "ausdrucken"
+  },
+  {
+    "dictionaryId": "briefmarke",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Briefmarke",
+    "plural": "Briefmarken",
+    "translation": {
+      "ru": [
+        "почтовая марка"
+      ],
+      "en": [
+        "stamp",
+        "postage stamp"
+      ],
+      "ar": [
+        "طابع بريدي"
+      ]
+    },
+    "id": "briefmarke"
+  },
+  {
+    "dictionaryId": "leute",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Leute",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "люди"
+      ],
+      "en": [
+        "people"
+      ],
+      "ar": [
+        "ناس"
+      ]
+    },
+    "id": "leute"
+  },
+  {
+    "dictionaryId": "kirche",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kirche",
+    "plural": "Kirchen",
+    "translation": {
+      "ru": [
+        "церковь"
+      ],
+      "en": [
+        "church"
+      ],
+      "ar": [
+        "كنيسة"
+      ]
+    },
+    "id": "kirche"
+  },
+  {
+    "dictionaryId": "trauung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Trauung",
+    "plural": "Trauungen",
+    "translation": {
+      "ru": [
+        "венчание",
+        "церемония бракосочетания"
+      ],
+      "en": [
+        "wedding ceremony",
+        "marriage ceremony"
+      ],
+      "ar": [
+        "مراسم زواج"
+      ]
+    },
+    "id": "trauung"
+  },
+  {
+    "dictionaryId": "wahnsinnig",
+    "type": "other",
+    "word": "wahnsinnig",
+    "translation": {
+      "ru": [
+        "безумный",
+        "невероятный"
+      ],
+      "en": [
+        "crazy",
+        "incredible"
+      ],
+      "ar": [
+        "مجنون",
+        "رائع جدًا"
+      ]
+    },
+    "id": "wahnsinnig"
+  },
+  {
+    "dictionaryId": "stimmung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Stimmung",
+    "plural": "Stimmungen",
+    "translation": {
+      "ru": [
+        "настроение",
+        "атмосфера"
+      ],
+      "en": [
+        "mood",
+        "atmosphere"
+      ],
+      "ar": [
+        "مزاج",
+        "أجواء"
+      ]
+    },
+    "id": "stimmung"
+  },
+  {
+    "dictionaryId": "blöd",
+    "type": "other",
+    "word": "blöd",
+    "translation": {
+      "ru": [
+        "глупый",
+        "дурацкий"
+      ],
+      "en": [
+        "stupid",
+        "silly"
+      ],
+      "ar": [
+        "غبي"
+      ]
+    },
+    "id": "blöd"
+  },
+  {
+    "dictionaryId": "grüßen",
+    "type": "verb",
+    "infinitive": "grüßen",
+    "praeteritum": "grüßte",
+    "perfekt": "hat gegrüßt",
+    "translation": {
+      "ru": [
+        "приветствовать"
+      ],
+      "en": [
+        "to greet"
+      ],
+      "ar": [
+        "يسلم على"
+      ]
+    },
+    "id": "grüssen"
+  },
+  {
+    "dictionaryId": "wunderschön",
+    "type": "other",
+    "word": "wunderschön",
+    "translation": {
+      "ru": [
+        "прекрасный",
+        "очень красивый"
+      ],
+      "en": [
+        "beautiful",
+        "wonderful"
+      ],
+      "ar": [
+        "جميل جدًا"
+      ]
+    },
+    "id": "wunderschön"
+  },
+  {
+    "dictionaryId": "weinen",
+    "type": "verb",
+    "infinitive": "weinen",
+    "praeteritum": "weinte",
+    "perfekt": "hat geweint",
+    "translation": {
+      "ru": [
+        "плакать"
+      ],
+      "en": [
+        "to cry"
+      ],
+      "ar": [
+        "يبكي"
+      ]
+    },
+    "id": "weinen"
+  },
+  {
+    "dictionaryId": "typisch",
+    "type": "other",
+    "word": "typisch",
+    "translation": {
+      "ru": [
+        "типичный"
+      ],
+      "en": [
+        "typical"
+      ],
+      "ar": [
+        "نموذجي"
+      ]
+    },
+    "id": "typisch"
+  },
+  {
+    "dictionaryId": "torte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Torte",
+    "plural": "Torten",
+    "translation": {
+      "ru": [
+        "торт"
+      ],
+      "en": [
+        "cake",
+        "gateau"
+      ],
+      "ar": [
+        "كعكة"
+      ]
+    },
+    "id": "torte"
+  },
+  {
+    "dictionaryId": "übrigens",
+    "type": "other",
+    "word": "übrigens",
+    "translation": {
+      "ru": [
+        "кстати"
+      ],
+      "en": [
+        "by the way"
+      ],
+      "ar": [
+        "بالمناسبة"
+      ]
+    },
+    "id": "übrigens"
+  },
+  {
+    "dictionaryId": "treten",
+    "type": "verb",
+    "infinitive": "treten",
+    "praeteritum": "trat",
+    "perfekt": "ist getreten",
+    "translation": {
+      "ru": [
+        "ступать",
+        "пинать"
+      ],
+      "en": [
+        "to step",
+        "to kick"
+      ],
+      "ar": [
+        "يخطو",
+        "يركل"
+      ]
+    },
+    "id": "treten"
+  },
+  {
+    "dictionaryId": "wohl",
+    "type": "other",
+    "word": "wohl",
+    "translation": {
+      "ru": [
+        "вероятно",
+        "пожалуй"
+      ],
+      "en": [
+        "probably",
+        "apparently"
+      ],
+      "ar": [
+        "على الأرجح"
+      ]
+    },
+    "id": "wohl"
+  },
+  {
+    "dictionaryId": "nervös",
+    "type": "other",
+    "word": "nervös",
+    "translation": {
+      "ru": [
+        "нервный"
+      ],
+      "en": [
+        "nervous"
+      ],
+      "ar": [
+        "متوتر"
+      ]
+    },
+    "id": "nervös"
+  },
+  {
+    "dictionaryId": "wenigstens",
+    "type": "other",
+    "word": "wenigstens",
+    "translation": {
+      "ru": [
+        "по крайней мере"
+      ],
+      "en": [
+        "at least"
+      ],
+      "ar": [
+        "على الأقل"
+      ]
+    },
+    "id": "wenigstens"
+  },
+  {
+    "dictionaryId": "wach",
+    "type": "other",
+    "word": "wach",
+    "translation": {
+      "ru": [
+        "бодрый",
+        "не спящий"
+      ],
+      "en": [
+        "awake"
+      ],
+      "ar": [
+        "مستيقظ"
+      ]
+    },
+    "id": "wach"
+  },
+  {
+    "dictionaryId": "wild",
+    "type": "other",
+    "word": "wild",
+    "translation": {
+      "ru": [
+        "дикий"
+      ],
+      "en": [
+        "wild"
+      ],
+      "ar": [
+        "بري"
+      ]
+    },
+    "id": "wild"
+  },
+  {
+    "dictionaryId": "tragen",
+    "type": "verb",
+    "infinitive": "tragen",
+    "praeteritum": "trug",
+    "perfekt": "hat getragen",
+    "translation": {
+      "ru": [
+        "носить"
+      ],
+      "en": [
+        "to carry",
+        "to wear"
+      ],
+      "ar": [
+        "يحمل",
+        "يرتدي"
+      ]
+    },
+    "id": "tragen"
+  },
+  {
+    "dictionaryId": "persönlich",
+    "type": "other",
+    "word": "persönlich",
+    "translation": {
+      "ru": [
+        "личный",
+        "лично"
+      ],
+      "en": [
+        "personal",
+        "personally"
+      ],
+      "ar": [
+        "شخصي"
+      ]
+    },
+    "id": "persönlich"
+  },
+  {
+    "dictionaryId": "herz",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Herz",
+    "plural": "Herzen",
+    "translation": {
+      "ru": [
+        "сердце"
+      ],
+      "en": [
+        "heart"
+      ],
+      "ar": [
+        "قلب"
+      ]
+    },
+    "id": "herz"
+  },
+  {
+    "dictionaryId": "tod",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tod",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "смерть"
+      ],
+      "en": [
+        "death"
+      ],
+      "ar": [
+        "موت"
+      ]
+    },
+    "id": "tod"
+  },
+  {
+    "dictionaryId": "ausgeben",
+    "type": "verb",
+    "infinitive": "ausgeben",
+    "praeteritum": "gab aus",
+    "perfekt": "hat ausgegeben",
+    "translation": {
+      "ru": [
+        "тратить",
+        "выдавать"
+      ],
+      "en": [
+        "to spend",
+        "to hand out"
+      ],
+      "ar": [
+        "ينفق",
+        "يوزع"
+      ]
+    },
+    "id": "ausgeben"
+  },
+  {
+    "dictionaryId": "heimat",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Heimat",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "родина"
+      ],
+      "en": [
+        "homeland"
+      ],
+      "ar": [
+        "وطن"
+      ]
+    },
+    "id": "heimat"
+  },
+  {
+    "dictionaryId": "per",
+    "type": "other",
+    "word": "per",
+    "translation": {
+      "ru": [
+        "через",
+        "посредством"
+      ],
+      "en": [
+        "via",
+        "by"
+      ],
+      "ar": [
+        "عبر"
+      ]
+    },
+    "id": "per"
+  },
+  {
+    "dictionaryId": "sms",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "SMS",
+    "plural": "SMS",
+    "translation": {
+      "ru": [
+        "СМС"
+      ],
+      "en": [
+        "SMS",
+        "text message"
+      ],
+      "ar": [
+        "رسالة نصية"
+      ]
+    },
+    "id": "sms"
+  },
+  {
+    "dictionaryId": "unterhalten",
+    "type": "verb",
+    "infinitive": "sich unterhalten",
+    "praeteritum": "unterhielt sich",
+    "perfekt": "hat sich unterhalten",
+    "translation": {
+      "ru": [
+        "разговаривать",
+        "общаться"
+      ],
+      "en": [
+        "to talk",
+        "to converse"
+      ],
+      "ar": [
+        "يتحدث",
+        "يتحادث"
+      ]
+    },
+    "id": "unterhalten"
+  },
+  {
+    "dictionaryId": "dekorieren",
+    "type": "verb",
+    "infinitive": "dekorieren",
+    "praeteritum": "dekorierte",
+    "perfekt": "hat dekoriert",
+    "translation": {
+      "ru": [
+        "украшать",
+        "декорировать"
+      ],
+      "en": [
+        "to decorate"
+      ],
+      "ar": [
+        "يزين"
+      ]
+    },
+    "id": "dekorieren"
+  },
+  {
+    "dictionaryId": "unterhaltung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Unterhaltung",
+    "plural": "Unterhaltungen",
+    "translation": {
+      "ru": [
+        "разговор",
+        "развлечение"
+      ],
+      "en": [
+        "conversation",
+        "entertainment"
+      ],
+      "ar": [
+        "محادثة",
+        "ترفيه"
+      ]
+    },
+    "id": "unterhaltung"
+  },
+  {
+    "dictionaryId": "überzeugen",
+    "type": "verb",
+    "infinitive": "überzeugen",
+    "praeteritum": "überzeugte",
+    "perfekt": "hat überzeugt",
+    "translation": {
+      "ru": [
+        "убеждать"
+      ],
+      "en": [
+        "to convince"
+      ],
+      "ar": [
+        "يقنع"
+      ]
+    },
+    "id": "überzeugen"
+  }
+]

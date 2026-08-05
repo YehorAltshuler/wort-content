@@ -1,0 +1,1656 @@
+[
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nachspeise",
+    "plural": "Nachspeisen",
+    "translation": {
+      "ru": [
+        "десерт",
+        "сладкое блюдо"
+      ],
+      "en": [
+        "dessert",
+        "sweet course"
+      ],
+      "ar": [
+        "حلوى",
+        "طبق حلو"
+      ]
+    },
+    "id": "nachspeise"
+  },
+  {
+    "dictionaryId": "honig",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Honig",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "мёд"
+      ],
+      "en": [
+        "honey"
+      ],
+      "ar": [
+        "عسل"
+      ]
+    },
+    "id": "honig"
+  },
+  {
+    "dictionaryId": "meistens",
+    "type": "other",
+    "word": "meistens",
+    "translation": {
+      "ru": [
+        "чаще всего",
+        "обычно"
+      ],
+      "en": [
+        "mostly",
+        "usually"
+      ],
+      "ar": [
+        "غالبًا",
+        "عادةً"
+      ]
+    },
+    "id": "meistens"
+  },
+  {
+    "dictionaryId": "selten",
+    "type": "other",
+    "word": "selten",
+    "translation": {
+      "ru": [
+        "редко"
+      ],
+      "en": [
+        "rarely",
+        "seldom"
+      ],
+      "ar": [
+        "نادرًا"
+      ]
+    },
+    "id": "selten"
+  },
+  {
+    "dictionaryId": "stimmen",
+    "type": "verb",
+    "infinitive": "stimmen",
+    "praeteritum": "stimmte",
+    "perfekt": "hat gestimmt",
+    "translation": {
+      "ru": [
+        "соответствовать",
+        "быть верным",
+        "быть правильным"
+      ],
+      "en": [
+        "to be correct",
+        "to be right",
+        "to match"
+      ],
+      "ar": [
+        "يكون صحيحًا",
+        "يطابق"
+      ]
+    },
+    "id": "stimmen"
+  },
+  {
+    "dictionaryId": "unterwegs",
+    "type": "other",
+    "word": "unterwegs",
+    "translation": {
+      "ru": [
+        "в пути",
+        "по дороге"
+      ],
+      "en": [
+        "on the way",
+        "on the road"
+      ],
+      "ar": [
+        "في الطريق"
+      ]
+    },
+    "id": "unterwegs"
+  },
+  {
+    "dictionaryId": "mahlzeit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mahlzeit",
+    "plural": "Mahlzeiten",
+    "translation": {
+      "ru": [
+        "приём пищи",
+        "еда",
+        "трапеза"
+      ],
+      "en": [
+        "meal"
+      ],
+      "ar": [
+        "وجبة"
+      ]
+    },
+    "id": "mahlzeit"
+  },
+  {
+    "dictionaryId": "mittags",
+    "type": "other",
+    "word": "mittags",
+    "translation": {
+      "ru": [
+        "в обед",
+        "днём",
+        "в полдень"
+      ],
+      "en": [
+        "at noon",
+        "at lunchtime"
+      ],
+      "ar": [
+        "ظهرًا",
+        "وقت الغداء"
+      ]
+    },
+    "id": "mittags"
+  },
+  {
+    "dictionaryId": "morgens",
+    "type": "other",
+    "word": "morgens",
+    "translation": {
+      "ru": [
+        "утром",
+        "по утрам"
+      ],
+      "en": [
+        "in the morning",
+        "mornings"
+      ],
+      "ar": [
+        "صباحًا"
+      ]
+    },
+    "id": "morgens"
+  },
+  {
+    "dictionaryId": "tasse",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Tasse",
+    "plural": "Tassen",
+    "translation": {
+      "ru": [
+        "чашка"
+      ],
+      "en": [
+        "cup"
+      ],
+      "ar": [
+        "فنجان",
+        "كوب"
+      ]
+    },
+    "id": "tasse"
+  },
+  {
+    "dictionaryId": "bestimmt",
+    "type": "other",
+    "word": "bestimmt",
+    "translation": {
+      "ru": [
+        "точно",
+        "определённо",
+        "наверняка"
+      ],
+      "en": [
+        "certainly",
+        "definitely",
+        "surely"
+      ],
+      "ar": [
+        "بالتأكيد"
+      ]
+    },
+    "id": "bestimmt"
+  },
+  {
+    "dictionaryId": "essen",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Essen",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "еда",
+        "пища"
+      ],
+      "en": [
+        "food",
+        "meal"
+      ],
+      "ar": [
+        "طعام"
+      ]
+    },
+    "id": "essen"
+  },
+  {
+    "dictionaryId": "mittagessen",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Mittagessen",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "обед"
+      ],
+      "en": [
+        "lunch"
+      ],
+      "ar": [
+        "غداء"
+      ]
+    },
+    "id": "mittagessen"
+  },
+  {
+    "dictionaryId": "kantine",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kantine",
+    "plural": "Kantinen",
+    "translation": {
+      "ru": [
+        "столовая",
+        "кантина"
+      ],
+      "en": [
+        "canteen",
+        "cafeteria"
+      ],
+      "ar": [
+        "مقصف",
+        "كافتيريا"
+      ]
+    },
+    "id": "kantine"
+  },
+  {
+    "dictionaryId": "fast",
+    "type": "other",
+    "word": "fast",
+    "translation": {
+      "ru": [
+        "почти"
+      ],
+      "en": [
+        "almost",
+        "nearly"
+      ],
+      "ar": [
+        "تقريبًا"
+      ]
+    },
+    "id": "fast"
+  },
+  {
+    "dictionaryId": "vegetarisch",
+    "type": "other",
+    "word": "vegetarisch",
+    "translation": {
+      "ru": [
+        "вегетарианский"
+      ],
+      "en": [
+        "vegetarian"
+      ],
+      "ar": [
+        "نباتي"
+      ]
+    },
+    "id": "vegetarisch"
+  },
+  {
+    "dictionaryId": "gericht",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gericht",
+    "plural": "Gerichte",
+    "translation": {
+      "ru": [
+        "блюдо",
+        "суд"
+      ],
+      "en": [
+        "dish",
+        "court"
+      ],
+      "ar": [
+        "طبق",
+        "محكمة"
+      ]
+    },
+    "id": "gericht"
+  },
+  {
+    "dictionaryId": "gewohnheit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gewohnheit",
+    "plural": "Gewohnheiten",
+    "translation": {
+      "ru": [
+        "привычка",
+        "обычай"
+      ],
+      "en": [
+        "habit",
+        "custom"
+      ],
+      "ar": [
+        "عادة"
+      ]
+    },
+    "id": "gewohnheit"
+  },
+  {
+    "dictionaryId": "übernehmen",
+    "type": "verb",
+    "infinitive": "übernehmen",
+    "praeteritum": "übernahm",
+    "perfekt": "hat übernommen",
+    "translation": {
+      "ru": [
+        "перенимать",
+        "принимать",
+        "брать на себя"
+      ],
+      "en": [
+        "to take over",
+        "to adopt",
+        "to assume"
+      ],
+      "ar": [
+        "يتولى",
+        "يتبنى"
+      ]
+    },
+    "id": "übernehmen"
+  },
+  {
+    "dictionaryId": "marmelade",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Marmelade",
+    "plural": "Marmeladen",
+    "translation": {
+      "ru": [
+        "варенье",
+        "джем",
+        "мармелад"
+      ],
+      "en": [
+        "jam",
+        "marmalade"
+      ],
+      "ar": [
+        "مربى"
+      ]
+    },
+    "id": "marmelade"
+  },
+  {
+    "dictionaryId": "deutsch",
+    "type": "other",
+    "word": "deutsch",
+    "translation": {
+      "ru": [
+        "немецкий",
+        "по-немецки"
+      ],
+      "en": [
+        "German",
+        "in German"
+      ],
+      "ar": [
+        "ألماني",
+        "بالألمانية"
+      ]
+    },
+    "id": "deutsch"
+  },
+  {
+    "dictionaryId": "schwein",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Schwein",
+    "plural": "Schweine",
+    "translation": {
+      "ru": [
+        "свинья"
+      ],
+      "en": [
+        "pig"
+      ],
+      "ar": [
+        "خنزير"
+      ]
+    },
+    "id": "schwein"
+  },
+  {
+    "dictionaryId": "alkohol",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Alkohol",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "алкоголь",
+        "спирт"
+      ],
+      "en": [
+        "alcohol"
+      ],
+      "ar": [
+        "كحول"
+      ]
+    },
+    "id": "alkohol"
+  },
+  {
+    "dictionaryId": "zweimal",
+    "type": "other",
+    "word": "zweimal",
+    "translation": {
+      "ru": [
+        "дважды",
+        "два раза"
+      ],
+      "en": [
+        "twice",
+        "two times"
+      ],
+      "ar": [
+        "مرتين"
+      ]
+    },
+    "id": "zweimal"
+  },
+  {
+    "dictionaryId": "löffel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Löffel",
+    "plural": "Löffel",
+    "translation": {
+      "ru": [
+        "ложка"
+      ],
+      "en": [
+        "spoon"
+      ],
+      "ar": [
+        "ملعقة"
+      ]
+    },
+    "id": "löffel"
+  },
+  {
+    "dictionaryId": "messer",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Messer",
+    "plural": "Messer",
+    "translation": {
+      "ru": [
+        "нож"
+      ],
+      "en": [
+        "knife"
+      ],
+      "ar": [
+        "سكين"
+      ]
+    },
+    "id": "messer"
+  },
+  {
+    "dictionaryId": "teller",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Teller",
+    "plural": "Teller",
+    "translation": {
+      "ru": [
+        "тарелка"
+      ],
+      "en": [
+        "plate"
+      ],
+      "ar": [
+        "طبق"
+      ]
+    },
+    "id": "teller"
+  },
+  {
+    "dictionaryId": "gabel",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gabel",
+    "plural": "Gabeln",
+    "translation": {
+      "ru": [
+        "вилка"
+      ],
+      "en": [
+        "fork"
+      ],
+      "ar": [
+        "شوكة"
+      ]
+    },
+    "id": "gabel"
+  },
+  {
+    "dictionaryId": "quartett",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Quartett",
+    "plural": "Quartette",
+    "translation": {
+      "ru": [
+        "квартет"
+      ],
+      "en": [
+        "quartet"
+      ],
+      "ar": [
+        "رباعية"
+      ]
+    },
+    "id": "quartett"
+  },
+  {
+    "dictionaryId": "topf",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Topf",
+    "plural": "Töpfe",
+    "translation": {
+      "ru": [
+        "кастрюля",
+        "горшок"
+      ],
+      "en": [
+        "pot",
+        "saucepan"
+      ],
+      "ar": [
+        "قدر",
+        "وعاء"
+      ]
+    },
+    "id": "topf"
+  },
+  {
+    "dictionaryId": "kanne",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kanne",
+    "plural": "Kannen",
+    "translation": {
+      "ru": [
+        "кувшин",
+        "чайник"
+      ],
+      "en": [
+        "jug",
+        "pot"
+      ],
+      "ar": [
+        "إبريق"
+      ]
+    },
+    "id": "kanne"
+  },
+  {
+    "dictionaryId": "schüssel",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schüssel",
+    "plural": "Schüsseln",
+    "translation": {
+      "ru": [
+        "миска",
+        "чаша"
+      ],
+      "en": [
+        "bowl"
+      ],
+      "ar": [
+        "وعاء",
+        "زبدية"
+      ]
+    },
+    "id": "schüssel"
+  },
+  {
+    "dictionaryId": "pfanne",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Pfanne",
+    "plural": "Pfannen",
+    "translation": {
+      "ru": [
+        "сковорода"
+      ],
+      "en": [
+        "pan",
+        "frying pan"
+      ],
+      "ar": [
+        "مقلاة"
+      ]
+    },
+    "id": "pfanne"
+  },
+  {
+    "dictionaryId": "appetit",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Appetit",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "аппетит"
+      ],
+      "en": [
+        "appetite"
+      ],
+      "ar": [
+        "شهية"
+      ]
+    },
+    "id": "appetit"
+  },
+  {
+    "dictionaryId": "riechen",
+    "type": "verb",
+    "infinitive": "riechen",
+    "praeteritum": "roch",
+    "perfekt": "hat gerochen",
+    "translation": {
+      "ru": [
+        "пахнуть",
+        "нюхать"
+      ],
+      "en": [
+        "to smell"
+      ],
+      "ar": [
+        "يشم",
+        "تكون له رائحة"
+      ]
+    },
+    "id": "riechen"
+  },
+  {
+    "dictionaryId": "ausziehen",
+    "type": "verb",
+    "infinitive": "sich ausziehen",
+    "praeteritum": "zog sich aus",
+    "perfekt": "hat sich ausgezogen",
+    "translation": {
+      "ru": [
+        "раздеваться",
+        "снимать с себя одежду"
+      ],
+      "en": [
+        "to undress",
+        "to take off clothes"
+      ],
+      "ar": [
+        "يخلع ملابسه"
+      ]
+    },
+    "id": "ausziehen"
+  },
+  {
+    "dictionaryId": "voll",
+    "type": "other",
+    "word": "voll",
+    "translation": {
+      "ru": [
+        "полный",
+        "полностью",
+        "сытый"
+      ],
+      "en": [
+        "full",
+        "completely"
+      ],
+      "ar": [
+        "ممتلئ",
+        "كامل"
+      ]
+    },
+    "id": "voll"
+  },
+  {
+    "dictionaryId": "okay",
+    "type": "other",
+    "word": "okay",
+    "translation": {
+      "ru": [
+        "окей",
+        "хорошо",
+        "ладно"
+      ],
+      "en": [
+        "okay",
+        "all right"
+      ],
+      "ar": [
+        "حسنًا",
+        "تمام"
+      ]
+    },
+    "id": "okay"
+  },
+  {
+    "dictionaryId": "vorher",
+    "type": "other",
+    "word": "vorher",
+    "translation": {
+      "ru": [
+        "до этого",
+        "раньше",
+        "предварительно"
+      ],
+      "en": [
+        "before",
+        "beforehand"
+      ],
+      "ar": [
+        "قبل ذلك",
+        "مسبقًا"
+      ]
+    },
+    "id": "vorher"
+  },
+  {
+    "dictionaryId": "höflich",
+    "type": "other",
+    "word": "höflich",
+    "translation": {
+      "ru": [
+        "вежливый"
+      ],
+      "en": [
+        "polite"
+      ],
+      "ar": [
+        "مهذب"
+      ]
+    },
+    "id": "höflich"
+  },
+  {
+    "dictionaryId": "diät",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Diät",
+    "plural": "Diäten",
+    "translation": {
+      "ru": [
+        "диета"
+      ],
+      "en": [
+        "diet"
+      ],
+      "ar": [
+        "حمية"
+      ]
+    },
+    "id": "diät"
+  },
+  {
+    "dictionaryId": "satt",
+    "type": "other",
+    "word": "satt",
+    "translation": {
+      "ru": [
+        "сытый"
+      ],
+      "en": [
+        "full",
+        "satiated"
+      ],
+      "ar": [
+        "شبعان"
+      ]
+    },
+    "id": "satt"
+  },
+  {
+    "dictionaryId": "anders",
+    "type": "other",
+    "word": "anders",
+    "translation": {
+      "ru": [
+        "по-другому",
+        "иначе",
+        "другой"
+      ],
+      "en": [
+        "different",
+        "differently"
+      ],
+      "ar": [
+        "مختلف",
+        "بطريقة أخرى"
+      ]
+    },
+    "id": "anders"
+  },
+  {
+    "dictionaryId": "genauso",
+    "type": "other",
+    "word": "genauso",
+    "translation": {
+      "ru": [
+        "так же",
+        "точно так же"
+      ],
+      "en": [
+        "just as",
+        "exactly the same"
+      ],
+      "ar": [
+        "بنفس الطريقة",
+        "تمامًا كذلك"
+      ]
+    },
+    "id": "genauso"
+  },
+  {
+    "dictionaryId": "überraschen",
+    "type": "verb",
+    "infinitive": "überraschen",
+    "praeteritum": "überraschte",
+    "perfekt": "hat überrascht",
+    "translation": {
+      "ru": [
+        "удивлять",
+        "заставать врасплох"
+      ],
+      "en": [
+        "to surprise"
+      ],
+      "ar": [
+        "يفاجئ"
+      ]
+    },
+    "id": "überraschen"
+  },
+  {
+    "dictionaryId": "seltsam",
+    "type": "other",
+    "word": "seltsam",
+    "translation": {
+      "ru": [
+        "странный",
+        "удивительный"
+      ],
+      "en": [
+        "strange",
+        "odd"
+      ],
+      "ar": [
+        "غريب"
+      ]
+    },
+    "id": "seltsam"
+  },
+  {
+    "dictionaryId": "scharf",
+    "type": "other",
+    "word": "scharf",
+    "translation": {
+      "ru": [
+        "острый",
+        "резкий"
+      ],
+      "en": [
+        "spicy",
+        "sharp"
+      ],
+      "ar": [
+        "حار",
+        "حاد"
+      ]
+    },
+    "id": "scharf"
+  },
+  {
+    "dictionaryId": "süß",
+    "type": "other",
+    "word": "süß",
+    "translation": {
+      "ru": [
+        "сладкий",
+        "милый"
+      ],
+      "en": [
+        "sweet",
+        "cute"
+      ],
+      "ar": [
+        "حلو",
+        "لطيف"
+      ]
+    },
+    "id": "süss"
+  },
+  {
+    "dictionaryId": "salzig",
+    "type": "other",
+    "word": "salzig",
+    "translation": {
+      "ru": [
+        "солёный"
+      ],
+      "en": [
+        "salty"
+      ],
+      "ar": [
+        "مالح"
+      ]
+    },
+    "id": "salzig"
+  },
+  {
+    "dictionaryId": "fett",
+    "type": "other",
+    "word": "fett",
+    "translation": {
+      "ru": [
+        "жирный"
+      ],
+      "en": [
+        "fatty",
+        "greasy"
+      ],
+      "ar": [
+        "دهني",
+        "سمين"
+      ]
+    },
+    "id": "fett"
+  },
+  {
+    "dictionaryId": "leiten",
+    "type": "verb",
+    "infinitive": "leiten",
+    "praeteritum": "leitete",
+    "perfekt": "hat geleitet",
+    "translation": {
+      "ru": [
+        "руководить",
+        "вести",
+        "управлять"
+      ],
+      "en": [
+        "to lead",
+        "to manage"
+      ],
+      "ar": [
+        "يقود",
+        "يدير"
+      ]
+    },
+    "id": "leiten"
+  },
+  {
+    "dictionaryId": "frisch",
+    "type": "other",
+    "word": "frisch",
+    "translation": {
+      "ru": [
+        "свежий"
+      ],
+      "en": [
+        "fresh"
+      ],
+      "ar": [
+        "طازج"
+      ]
+    },
+    "id": "frisch"
+  },
+  {
+    "dictionaryId": "rund",
+    "type": "other",
+    "word": "rund",
+    "translation": {
+      "ru": [
+        "круглый",
+        "округлый"
+      ],
+      "en": [
+        "round"
+      ],
+      "ar": [
+        "دائري"
+      ]
+    },
+    "id": "rund"
+  },
+  {
+    "dictionaryId": "unterschiedlich",
+    "type": "other",
+    "word": "unterschiedlich",
+    "translation": {
+      "ru": [
+        "различный",
+        "разный"
+      ],
+      "en": [
+        "different",
+        "various"
+      ],
+      "ar": [
+        "مختلف"
+      ]
+    },
+    "id": "unterschiedlich"
+  },
+  {
+    "dictionaryId": "art",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Art",
+    "plural": "Arten",
+    "translation": {
+      "ru": [
+        "вид",
+        "тип",
+        "способ"
+      ],
+      "en": [
+        "kind",
+        "type",
+        "way"
+      ],
+      "ar": [
+        "نوع",
+        "طريقة"
+      ]
+    },
+    "id": "art"
+  },
+  {
+    "dictionaryId": "müsli",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Müsli",
+    "plural": "Müslis",
+    "translation": {
+      "ru": [
+        "мюсли"
+      ],
+      "en": [
+        "muesli",
+        "granola"
+      ],
+      "ar": [
+        "موسلي"
+      ]
+    },
+    "id": "müsli"
+  },
+  {
+    "dictionaryId": "frucht",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Frucht",
+    "plural": "Früchte",
+    "translation": {
+      "ru": [
+        "фрукт",
+        "плод"
+      ],
+      "en": [
+        "fruit"
+      ],
+      "ar": [
+        "فاكهة",
+        "ثمرة"
+      ]
+    },
+    "id": "frucht"
+  },
+  {
+    "dictionaryId": "vorspeise",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Vorspeise",
+    "plural": "Vorspeisen",
+    "translation": {
+      "ru": [
+        "закуска",
+        "первое блюдо"
+      ],
+      "en": [
+        "starter",
+        "appetizer"
+      ],
+      "ar": [
+        "مقبلات"
+      ]
+    },
+    "id": "vorspeise"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Haupt-",
+    "translation": {
+      "ru": [
+        "главный",
+        "основной"
+      ],
+      "en": [
+        "main",
+        "principal"
+      ],
+      "ar": [
+        "رئيسي"
+      ]
+    },
+    "id": "haupt"
+  },
+  {
+    "dictionaryId": "prozent",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Prozent",
+    "plural": "Prozente",
+    "translation": {
+      "ru": [
+        "процент"
+      ],
+      "en": [
+        "percent",
+        "percentage"
+      ],
+      "ar": [
+        "نسبة مئوية"
+      ]
+    },
+    "id": "prozent"
+  },
+  {
+    "dictionaryId": "markt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Markt",
+    "plural": "Märkte",
+    "translation": {
+      "ru": [
+        "рынок",
+        "базар"
+      ],
+      "en": [
+        "market"
+      ],
+      "ar": [
+        "سوق"
+      ]
+    },
+    "id": "markt"
+  },
+  {
+    "dictionaryId": "regional",
+    "type": "other",
+    "word": "regional",
+    "translation": {
+      "ru": [
+        "региональный",
+        "местный"
+      ],
+      "en": [
+        "regional",
+        "local"
+      ],
+      "ar": [
+        "إقليمي",
+        "محلي"
+      ]
+    },
+    "id": "regional"
+  },
+  {
+    "dictionaryId": "produkt",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Produkt",
+    "plural": "Produkte",
+    "translation": {
+      "ru": [
+        "продукт",
+        "изделие"
+      ],
+      "en": [
+        "product"
+      ],
+      "ar": [
+        "منتج"
+      ]
+    },
+    "id": "produkt"
+  },
+  {
+    "dictionaryId": "umgebung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Umgebung",
+    "plural": "Umgebungen",
+    "translation": {
+      "ru": [
+        "окружающая среда",
+        "окрестность",
+        "окружение"
+      ],
+      "en": [
+        "surroundings",
+        "environment"
+      ],
+      "ar": [
+        "محيط",
+        "بيئة"
+      ]
+    },
+    "id": "umgebung"
+  },
+  {
+    "dictionaryId": "steak",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Steak",
+    "plural": "Steaks",
+    "translation": {
+      "ru": [
+        "стейк"
+      ],
+      "en": [
+        "steak"
+      ],
+      "ar": [
+        "شريحة لحم"
+      ]
+    },
+    "id": "steak"
+  },
+  {
+    "dictionaryId": "fabrik",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Fabrik",
+    "plural": "Fabriken",
+    "translation": {
+      "ru": [
+        "фабрика",
+        "завод"
+      ],
+      "en": [
+        "factory"
+      ],
+      "ar": [
+        "مصنع"
+      ]
+    },
+    "id": "fabrik"
+  },
+  {
+    "dictionaryId": "gegen",
+    "type": "other",
+    "word": "gegen",
+    "translation": {
+      "ru": [
+        "против",
+        "около",
+        "примерно"
+      ],
+      "en": [
+        "against",
+        "around",
+        "approximately"
+      ],
+      "ar": [
+        "ضد",
+        "حوالي"
+      ]
+    },
+    "id": "gegen"
+  },
+  {
+    "dictionaryId": "planen",
+    "type": "verb",
+    "infinitive": "planen",
+    "praeteritum": "plante",
+    "perfekt": "hat geplant",
+    "translation": {
+      "ru": [
+        "планировать"
+      ],
+      "en": [
+        "to plan"
+      ],
+      "ar": [
+        "يخطط"
+      ]
+    },
+    "id": "planen"
+  },
+  {
+    "dictionaryId": "täglich",
+    "type": "other",
+    "word": "täglich",
+    "translation": {
+      "ru": [
+        "ежедневно",
+        "каждый день"
+      ],
+      "en": [
+        "daily",
+        "every day"
+      ],
+      "ar": [
+        "يوميًا"
+      ]
+    },
+    "id": "täglich"
+  },
+  {
+    "dictionaryId": "schnitzel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Schnitzel",
+    "plural": "Schnitzel",
+    "translation": {
+      "ru": [
+        "шницель"
+      ],
+      "en": [
+        "schnitzel"
+      ],
+      "ar": [
+        "شنيتسل"
+      ]
+    },
+    "id": "schnitzel"
+  },
+  {
+    "dictionaryId": "suppe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Suppe",
+    "plural": "Suppen",
+    "translation": {
+      "ru": [
+        "суп"
+      ],
+      "en": [
+        "soup"
+      ],
+      "ar": [
+        "حساء",
+        "شوربة"
+      ]
+    },
+    "id": "suppe"
+  },
+  {
+    "dictionaryId": "stück",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Stück",
+    "plural": "Stücke",
+    "translation": {
+      "ru": [
+        "кусок",
+        "штука"
+      ],
+      "en": [
+        "piece",
+        "item"
+      ],
+      "ar": [
+        "قطعة"
+      ]
+    },
+    "id": "stück"
+  },
+  {
+    "dictionaryId": "zitrone",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zitrone",
+    "plural": "Zitronen",
+    "translation": {
+      "ru": [
+        "лимон"
+      ],
+      "en": [
+        "lemon"
+      ],
+      "ar": [
+        "ليمون"
+      ]
+    },
+    "id": "zitrone"
+  },
+  {
+    "dictionaryId": "sauber",
+    "type": "other",
+    "word": "sauber",
+    "translation": {
+      "ru": [
+        "чистый",
+        "аккуратный"
+      ],
+      "en": [
+        "clean",
+        "tidy"
+      ],
+      "ar": [
+        "نظيف",
+        "مرتب"
+      ]
+    },
+    "id": "sauber"
+  },
+  {
+    "dictionaryId": "rind",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Rind",
+    "plural": "Rinder",
+    "translation": {
+      "ru": [
+        "говядина",
+        "корова",
+        "крупный рогатый скот"
+      ],
+      "en": [
+        "beef",
+        "cattle",
+        "cow"
+      ],
+      "ar": [
+        "لحم بقر",
+        "بقرة",
+        "ماشية"
+      ]
+    },
+    "id": "rind"
+  },
+  {
+    "dictionaryId": "braten",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Braten",
+    "plural": "Braten",
+    "translation": {
+      "ru": [
+        "жаркое",
+        "жареное мясо"
+      ],
+      "en": [
+        "roast"
+      ],
+      "ar": [
+        "لحم مشوي"
+      ]
+    },
+    "id": "braten"
+  },
+  {
+    "dictionaryId": "besetzt",
+    "type": "other",
+    "word": "besetzt",
+    "translation": {
+      "ru": [
+        "занято",
+        "занятый"
+      ],
+      "en": [
+        "occupied",
+        "busy"
+      ],
+      "ar": [
+        "مشغول",
+        "محجوز"
+      ]
+    },
+    "id": "besetzt"
+  },
+  {
+    "dictionaryId": "trinkgeld",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Trinkgeld",
+    "plural": "Trinkgelder",
+    "translation": {
+      "ru": [
+        "чаевые"
+      ],
+      "en": [
+        "tip",
+        "gratuity"
+      ],
+      "ar": [
+        "بقشيش"
+      ]
+    },
+    "id": "trinkgeld"
+  }
+]

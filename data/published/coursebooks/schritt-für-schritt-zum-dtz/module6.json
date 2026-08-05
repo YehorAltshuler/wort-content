@@ -1,0 +1,1482 @@
+[
+  {
+    "dictionaryId": "braten",
+    "type": "verb",
+    "infinitive": "braten",
+    "praeteritum": "briet",
+    "perfekt": "hat gebraten",
+    "translation": {
+      "ru": [
+        "жарить"
+      ],
+      "en": [
+        "to fry",
+        "to roast"
+      ],
+      "ar": [
+        "يقلي",
+        "يشوي"
+      ]
+    },
+    "id": "braten"
+  },
+  {
+    "dictionaryId": "hähnchen",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Hähnchen",
+    "plural": "Hähnchen",
+    "translation": {
+      "ru": [
+        "цыплёнок",
+        "курица"
+      ],
+      "en": [
+        "chicken"
+      ],
+      "ar": [
+        "دجاج"
+      ]
+    },
+    "id": "hähnchen"
+  },
+  {
+    "dictionaryId": "stinken",
+    "type": "verb",
+    "infinitive": "stinken",
+    "praeteritum": "stank",
+    "perfekt": "hat gestunken",
+    "translation": {
+      "ru": [
+        "вонять"
+      ],
+      "en": [
+        "to stink"
+      ],
+      "ar": [
+        "ينتن"
+      ]
+    },
+    "id": "stinken"
+  },
+  {
+    "dictionaryId": "lärm",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Lärm",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "шум"
+      ],
+      "en": [
+        "noise"
+      ],
+      "ar": [
+        "ضوضاء"
+      ]
+    },
+    "id": "lärm"
+  },
+  {
+    "dictionaryId": "ärger",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Ärger",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "неприятности",
+        "злость"
+      ],
+      "en": [
+        "trouble",
+        "anger"
+      ],
+      "ar": [
+        "مشكلة",
+        "غضب"
+      ]
+    },
+    "id": "ärger"
+  },
+  {
+    "dictionaryId": "berechtigt",
+    "type": "other",
+    "word": "berechtigt",
+    "translation": {
+      "ru": [
+        "обоснованный",
+        "имеющий право"
+      ],
+      "en": [
+        "justified",
+        "authorized"
+      ],
+      "ar": [
+        "مبرر",
+        "مخول"
+      ]
+    },
+    "id": "berechtigt"
+  },
+  {
+    "dictionaryId": "tolerant",
+    "type": "other",
+    "word": "tolerant",
+    "translation": {
+      "ru": [
+        "терпимый",
+        "толерантный"
+      ],
+      "en": [
+        "tolerant"
+      ],
+      "ar": [
+        "متسامح"
+      ]
+    },
+    "id": "tolerant"
+  },
+  {
+    "dictionaryId": "rücksicht",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Rücksicht",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "внимательность",
+        "уважение к другим"
+      ],
+      "en": [
+        "consideration"
+      ],
+      "ar": [
+        "مراعاة"
+      ]
+    },
+    "id": "rücksicht"
+  },
+  {
+    "dictionaryId": "statistik",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Statistik",
+    "plural": "Statistiken",
+    "translation": {
+      "ru": [
+        "статистика"
+      ],
+      "en": [
+        "statistics"
+      ],
+      "ar": [
+        "إحصائية"
+      ]
+    },
+    "id": "statistik"
+  },
+  {
+    "dictionaryId": "extrem",
+    "type": "other",
+    "word": "extrem",
+    "translation": {
+      "ru": [
+        "крайне",
+        "экстремальный"
+      ],
+      "en": [
+        "extreme",
+        "extremely"
+      ],
+      "ar": [
+        "شديد",
+        "للغاية"
+      ]
+    },
+    "id": "extrem"
+  },
+  {
+    "dictionaryId": "kritik",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kritik",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "критика"
+      ],
+      "en": [
+        "criticism"
+      ],
+      "ar": [
+        "انتقاد"
+      ]
+    },
+    "id": "kritik"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Nichtraucher",
+    "plural": "Nichtraucher",
+    "translation": {
+      "ru": [
+        "некурящий"
+      ],
+      "en": [
+        "non-smoker"
+      ],
+      "ar": [
+        "غير مدخن"
+      ]
+    },
+    "id": "nichtraucher"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nichtraucherin",
+    "plural": "Nichtraucherinnen",
+    "translation": {
+      "ru": [
+        "некурящая"
+      ],
+      "en": [
+        "female non-smoker"
+      ],
+      "ar": [
+        "غير مدخنة"
+      ]
+    },
+    "id": "nichtraucherin"
+  },
+  {
+    "dictionaryId": "vermieter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Vermieter",
+    "plural": "Vermieter",
+    "translation": {
+      "ru": [
+        "арендодатель"
+      ],
+      "en": [
+        "landlord"
+      ],
+      "ar": [
+        "مؤجر"
+      ]
+    },
+    "id": "vermieter"
+  },
+  {
+    "dictionaryId": "vermieterin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Vermieterin",
+    "plural": "Vermieterinnen",
+    "translation": {
+      "ru": [
+        "арендодательница"
+      ],
+      "en": [
+        "female landlord"
+      ],
+      "ar": [
+        "مؤجرة"
+      ]
+    },
+    "id": "vermieterin"
+  },
+  {
+    "dictionaryId": "wenden",
+    "type": "verb",
+    "infinitive": "sich wenden",
+    "praeteritum": "wandte sich",
+    "perfekt": "hat sich gewandt",
+    "translation": {
+      "ru": [
+        "обращаться"
+      ],
+      "en": [
+        "to turn to",
+        "to contact"
+      ],
+      "ar": [
+        "يتوجه إلى"
+      ]
+    },
+    "id": "wenden"
+  },
+  {
+    "dictionaryId": "rechtsanwalt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Rechtsanwalt",
+    "plural": "Rechtsanwälte",
+    "translation": {
+      "ru": [
+        "адвокат"
+      ],
+      "en": [
+        "lawyer"
+      ],
+      "ar": [
+        "محام"
+      ]
+    },
+    "id": "rechtsanwalt"
+  },
+  {
+    "dictionaryId": "rechtsanwältin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Rechtsanwältin",
+    "plural": "Rechtsanwältinnen",
+    "translation": {
+      "ru": [
+        "адвокат"
+      ],
+      "en": [
+        "female lawyer"
+      ],
+      "ar": [
+        "محامية"
+      ]
+    },
+    "id": "rechtsanwältin"
+  },
+  {
+    "dictionaryId": "aufhören",
+    "type": "verb",
+    "infinitive": "aufhören",
+    "praeteritum": "hörte auf",
+    "perfekt": "hat aufgehört",
+    "translation": {
+      "ru": [
+        "прекращать"
+      ],
+      "en": [
+        "to stop"
+      ],
+      "ar": [
+        "يتوقف"
+      ]
+    },
+    "id": "aufhören"
+  },
+  {
+    "dictionaryId": "drinnen",
+    "type": "other",
+    "word": "drinnen",
+    "translation": {
+      "ru": [
+        "внутри"
+      ],
+      "en": [
+        "inside"
+      ],
+      "ar": [
+        "في الداخل"
+      ]
+    },
+    "id": "drinnen"
+  },
+  {
+    "dictionaryId": "bloß",
+    "type": "other",
+    "word": "bloß",
+    "translation": {
+      "ru": [
+        "только",
+        "лишь"
+      ],
+      "en": [
+        "only",
+        "just"
+      ],
+      "ar": [
+        "فقط"
+      ]
+    },
+    "id": "bloss"
+  },
+  {
+    "dictionaryId": "kritisieren",
+    "type": "verb",
+    "infinitive": "kritisieren",
+    "praeteritum": "kritisierte",
+    "perfekt": "hat kritisiert",
+    "translation": {
+      "ru": [
+        "критиковать"
+      ],
+      "en": [
+        "to criticize"
+      ],
+      "ar": [
+        "ينتقد"
+      ]
+    },
+    "id": "kritisieren"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "abmachen",
+    "praeteritum": "machte ab",
+    "perfekt": "hat abgemacht",
+    "translation": {
+      "ru": [
+        "договариваться"
+      ],
+      "en": [
+        "to arrange"
+      ],
+      "ar": [
+        "يتفق"
+      ]
+    },
+    "id": "abmachen"
+  },
+  {
+    "dictionaryId": "merkwürdig",
+    "type": "other",
+    "word": "merkwürdig",
+    "translation": {
+      "ru": [
+        "странный"
+      ],
+      "en": [
+        "strange"
+      ],
+      "ar": [
+        "غريب"
+      ]
+    },
+    "id": "merkwürdig"
+  },
+  {
+    "dictionaryId": "wohl",
+    "type": "other",
+    "word": "wohl",
+    "translation": {
+      "ru": [
+        "вероятно",
+        "пожалуй"
+      ],
+      "en": [
+        "probably"
+      ],
+      "ar": [
+        "على الأرجح"
+      ]
+    },
+    "id": "wohl"
+  },
+  {
+    "dictionaryId": "frechheit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Frechheit",
+    "plural": "Frechheiten",
+    "translation": {
+      "ru": [
+        "наглость"
+      ],
+      "en": [
+        "cheek",
+        "impudence"
+      ],
+      "ar": [
+        "وقاحة"
+      ]
+    },
+    "id": "frechheit"
+  },
+  {
+    "dictionaryId": "augenblick",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Augenblick",
+    "plural": "Augenblicke",
+    "translation": {
+      "ru": [
+        "мгновение"
+      ],
+      "en": [
+        "moment"
+      ],
+      "ar": [
+        "لحظة"
+      ]
+    },
+    "id": "augenblick"
+  },
+  {
+    "dictionaryId": "vertrag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Vertrag",
+    "plural": "Verträge",
+    "translation": {
+      "ru": [
+        "договор"
+      ],
+      "en": [
+        "contract"
+      ],
+      "ar": [
+        "عقد"
+      ]
+    },
+    "id": "vertrag"
+  },
+  {
+    "dictionaryId": "klavier",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Klavier",
+    "plural": "Klaviere",
+    "translation": {
+      "ru": [
+        "пианино"
+      ],
+      "en": [
+        "piano"
+      ],
+      "ar": [
+        "بيانو"
+      ]
+    },
+    "id": "klavier"
+  },
+  {
+    "dictionaryId": "mülleimer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Mülleimer",
+    "plural": "Mülleimer",
+    "translation": {
+      "ru": [
+        "мусорное ведро"
+      ],
+      "en": [
+        "trash can"
+      ],
+      "ar": [
+        "سلة مهملات"
+      ]
+    },
+    "id": "mülleimer"
+  },
+  {
+    "dictionaryId": "kosten",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kosten",
+    "plural": "Kosten",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "расходы",
+        "затраты"
+      ],
+      "en": [
+        "costs"
+      ],
+      "ar": [
+        "تكاليف"
+      ]
+    },
+    "id": "kosten"
+  },
+  {
+    "dictionaryId": "deswegen",
+    "type": "other",
+    "word": "deswegen",
+    "translation": {
+      "ru": [
+        "поэтому"
+      ],
+      "en": [
+        "therefore"
+      ],
+      "ar": [
+        "لذلك"
+      ]
+    },
+    "id": "deswegen"
+  },
+  {
+    "dictionaryId": "trotz",
+    "type": "other",
+    "word": "trotz",
+    "translation": {
+      "ru": [
+        "несмотря на"
+      ],
+      "en": [
+        "despite"
+      ],
+      "ar": [
+        "رغم"
+      ]
+    },
+    "id": "trotz"
+  },
+  {
+    "dictionaryId": "lift",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Lift",
+    "plural": "Lifte",
+    "translation": {
+      "ru": [
+        "лифт"
+      ],
+      "en": [
+        "elevator"
+      ],
+      "ar": [
+        "مصعد"
+      ]
+    },
+    "id": "lift"
+  },
+  {
+    "dictionaryId": "benötigen",
+    "type": "verb",
+    "infinitive": "benötigen",
+    "praeteritum": "benötigte",
+    "perfekt": "hat benötigt",
+    "translation": {
+      "ru": [
+        "нуждаться"
+      ],
+      "en": [
+        "to need"
+      ],
+      "ar": [
+        "يحتاج"
+      ]
+    },
+    "id": "benötigen"
+  },
+  {
+    "dictionaryId": "verbindung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Verbindung",
+    "plural": "Verbindungen",
+    "translation": {
+      "ru": [
+        "соединение",
+        "связь"
+      ],
+      "en": [
+        "connection"
+      ],
+      "ar": [
+        "اتصال"
+      ]
+    },
+    "id": "verbindung"
+  },
+  {
+    "dictionaryId": "leisten",
+    "type": "verb",
+    "infinitive": "sich leisten",
+    "praeteritum": "leistete sich",
+    "perfekt": "hat sich geleistet",
+    "translation": {
+      "ru": [
+        "позволять себе"
+      ],
+      "en": [
+        "to afford"
+      ],
+      "ar": [
+        "يتحمل تكلفته"
+      ]
+    },
+    "id": "leisten"
+  },
+  {
+    "dictionaryId": "keller",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Keller",
+    "plural": "Keller",
+    "translation": {
+      "ru": [
+        "подвал"
+      ],
+      "en": [
+        "basement"
+      ],
+      "ar": [
+        "قبو"
+      ]
+    },
+    "id": "keller"
+  },
+  {
+    "dictionaryId": "kita",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kita",
+    "plural": "Kitas",
+    "translation": {
+      "ru": [
+        "детский сад"
+      ],
+      "en": [
+        "daycare"
+      ],
+      "ar": [
+        "روضة أطفال"
+      ]
+    },
+    "id": "kita"
+  },
+  {
+    "dictionaryId": "einziehen",
+    "type": "verb",
+    "infinitive": "einziehen",
+    "praeteritum": "zog ein",
+    "perfekt": "ist eingezogen",
+    "translation": {
+      "ru": [
+        "въезжать (в квартиру, дом)",
+        "вселяться"
+      ],
+      "en": [
+        "to move in",
+        "to move into a new home"
+      ],
+      "ar": [
+        "ينتقل إلى منزل جديد",
+        "يسكن"
+      ]
+    },
+    "id": "einziehen"
+  },
+  {
+    "dictionaryId": "umgebung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Umgebung",
+    "plural": "Umgebungen",
+    "translation": {
+      "ru": [
+        "окрестность",
+        "окружение"
+      ],
+      "en": [
+        "surroundings"
+      ],
+      "ar": [
+        "محيط"
+      ]
+    },
+    "id": "umgebung"
+  },
+  {
+    "dictionaryId": "innenstadt",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Innenstadt",
+    "plural": "Innenstädte",
+    "translation": {
+      "ru": [
+        "центр города"
+      ],
+      "en": [
+        "city center"
+      ],
+      "ar": [
+        "وسط المدينة"
+      ]
+    },
+    "id": "innenstadt"
+  },
+  {
+    "dictionaryId": "teilweise",
+    "type": "other",
+    "word": "teilweise",
+    "translation": {
+      "ru": [
+        "частично"
+      ],
+      "en": [
+        "partly"
+      ],
+      "ar": [
+        "جزئيًا"
+      ]
+    },
+    "id": "teilweise"
+  },
+  {
+    "dictionaryId": "terrasse",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Terrasse",
+    "plural": "Terrassen",
+    "translation": {
+      "ru": [
+        "терраса"
+      ],
+      "en": [
+        "terrace"
+      ],
+      "ar": [
+        "شرفة"
+      ]
+    },
+    "id": "terrasse"
+  },
+  {
+    "dictionaryId": "fördern",
+    "type": "verb",
+    "infinitive": "fördern",
+    "praeteritum": "förderte",
+    "perfekt": "hat gefördert",
+    "translation": {
+      "ru": [
+        "поддерживать",
+        "способствовать"
+      ],
+      "en": [
+        "to promote"
+      ],
+      "ar": [
+        "يدعم"
+      ]
+    },
+    "id": "fördern"
+  },
+  {
+    "dictionaryId": "gelegenheit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gelegenheit",
+    "plural": "Gelegenheiten",
+    "translation": {
+      "ru": [
+        "возможность"
+      ],
+      "en": [
+        "opportunity"
+      ],
+      "ar": [
+        "فرصة"
+      ]
+    },
+    "id": "gelegenheit"
+  },
+  {
+    "dictionaryId": "bibliothek",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bibliothek",
+    "plural": "Bibliotheken",
+    "translation": {
+      "ru": [
+        "библиотека"
+      ],
+      "en": [
+        "library"
+      ],
+      "ar": [
+        "مكتبة"
+      ]
+    },
+    "id": "bibliothek"
+  },
+  {
+    "dictionaryId": "bedingung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bedingung",
+    "plural": "Bedingungen",
+    "translation": {
+      "ru": [
+        "условие"
+      ],
+      "en": [
+        "condition"
+      ],
+      "ar": [
+        "شرط"
+      ]
+    },
+    "id": "bedingung"
+  },
+  {
+    "dictionaryId": "makler",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Makler",
+    "plural": "Makler",
+    "translation": {
+      "ru": [
+        "маклер",
+        "агент"
+      ],
+      "en": [
+        "broker",
+        "agent"
+      ],
+      "ar": [
+        "وسيط"
+      ]
+    },
+    "id": "makler"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Maklerin",
+    "plural": "Maklerinnen",
+    "translation": {
+      "ru": [
+        "маклер"
+      ],
+      "en": [
+        "female broker"
+      ],
+      "ar": [
+        "وسيطة"
+      ]
+    },
+    "id": "maklerin"
+  },
+  {
+    "dictionaryId": "anzahl",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Anzahl",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "количество"
+      ],
+      "en": [
+        "number",
+        "quantity"
+      ],
+      "ar": [
+        "عدد"
+      ]
+    },
+    "id": "anzahl"
+  },
+  {
+    "dictionaryId": "spülen",
+    "type": "verb",
+    "infinitive": "spülen",
+    "praeteritum": "spülte",
+    "perfekt": "hat gespült",
+    "translation": {
+      "ru": [
+        "мыть (посуду)"
+      ],
+      "en": [
+        "to wash dishes"
+      ],
+      "ar": [
+        "يغسل الصحون"
+      ]
+    },
+    "id": "spülen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "staubsaugen",
+    "praeteritum": "staubsaugte",
+    "perfekt": "hat gestaubsaugt",
+    "translation": {
+      "ru": [
+        "пылесосить"
+      ],
+      "en": [
+        "to vacuum"
+      ],
+      "ar": [
+        "يكنس بالمكنسة الكهربائية"
+      ]
+    },
+    "id": "staubsaugen"
+  },
+  {
+    "dictionaryId": "allerdings",
+    "type": "other",
+    "word": "allerdings",
+    "translation": {
+      "ru": [
+        "однако"
+      ],
+      "en": [
+        "however"
+      ],
+      "ar": [
+        "مع ذلك"
+      ]
+    },
+    "id": "allerdings"
+  },
+  {
+    "dictionaryId": "eigentum",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Eigentum",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "собственность"
+      ],
+      "en": [
+        "property"
+      ],
+      "ar": [
+        "ملكية"
+      ]
+    },
+    "id": "eigentum"
+  },
+  {
+    "dictionaryId": "pflicht",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Pflicht",
+    "plural": "Pflichten",
+    "translation": {
+      "ru": [
+        "обязанность"
+      ],
+      "en": [
+        "duty"
+      ],
+      "ar": [
+        "واجب"
+      ]
+    },
+    "id": "pflicht"
+  },
+  {
+    "dictionaryId": "schreien",
+    "type": "verb",
+    "infinitive": "schreien",
+    "praeteritum": "schrie",
+    "perfekt": "hat geschrien",
+    "translation": {
+      "ru": [
+        "кричать"
+      ],
+      "en": [
+        "to shout"
+      ],
+      "ar": [
+        "يصرخ"
+      ]
+    },
+    "id": "schreien"
+  },
+  {
+    "dictionaryId": "beleidigen",
+    "type": "verb",
+    "infinitive": "beleidigen",
+    "praeteritum": "beleidigte",
+    "perfekt": "hat beleidigt",
+    "translation": {
+      "ru": [
+        "оскорблять"
+      ],
+      "en": [
+        "to insult"
+      ],
+      "ar": [
+        "يهين"
+      ]
+    },
+    "id": "beleidigen"
+  },
+  {
+    "dictionaryId": "besprechen",
+    "type": "verb",
+    "infinitive": "besprechen",
+    "praeteritum": "besprach",
+    "perfekt": "hat besprochen",
+    "translation": {
+      "ru": [
+        "обсуждать"
+      ],
+      "en": [
+        "to discuss"
+      ],
+      "ar": [
+        "يناقش"
+      ]
+    },
+    "id": "besprechen"
+  },
+  {
+    "dictionaryId": "zwar",
+    "type": "other",
+    "word": "zwar",
+    "translation": {
+      "ru": [
+        "правда",
+        "хотя"
+      ],
+      "en": [
+        "indeed",
+        "it is true"
+      ],
+      "ar": [
+        "صحيح أن"
+      ]
+    },
+    "id": "zwar"
+  },
+  {
+    "dictionaryId": "beschäftigen",
+    "type": "verb",
+    "infinitive": "sich beschäftigen",
+    "praeteritum": "beschäftigte sich",
+    "perfekt": "hat sich beschäftigt",
+    "translation": {
+      "ru": [
+        "заниматься чем-либо"
+      ],
+      "en": [
+        "to deal with"
+      ],
+      "ar": [
+        "ينشغل بـ"
+      ]
+    },
+    "id": "beschäftigen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "entweder ... oder",
+    "translation": {
+      "ru": [
+        "либо ... либо"
+      ],
+      "en": [
+        "either ... or"
+      ],
+      "ar": [
+        "إما ... أو"
+      ]
+    },
+    "id": "entweder-oder"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "zu sein",
+    "translation": {
+      "ru": [
+        "быть"
+      ],
+      "en": [
+        "to be"
+      ],
+      "ar": [
+        "أن يكون"
+      ]
+    },
+    "id": "zu-sein"
+  },
+  {
+    "dictionaryId": "erlaubnis",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Erlaubnis",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "разрешение"
+      ],
+      "en": [
+        "permission"
+      ],
+      "ar": [
+        "إذن"
+      ]
+    },
+    "id": "erlaubnis"
+  },
+  {
+    "dictionaryId": "geduld",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Geduld",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "терпение"
+      ],
+      "en": [
+        "patience"
+      ],
+      "ar": [
+        "صبر"
+      ]
+    },
+    "id": "geduld"
+  },
+  {
+    "dictionaryId": "verhalten",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Verhalten",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "поведение"
+      ],
+      "en": [
+        "behavior"
+      ],
+      "ar": [
+        "سلوك"
+      ]
+    },
+    "id": "verhalten"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "o.k.",
+    "translation": {
+      "ru": [
+        "хорошо",
+        "окей"
+      ],
+      "en": [
+        "okay"
+      ],
+      "ar": [
+        "حسنًا"
+      ]
+    },
+    "id": "o-k"
+  },
+  {
+    "dictionaryId": "projekt",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Projekt",
+    "plural": "Projekte",
+    "translation": {
+      "ru": [
+        "проект"
+      ],
+      "en": [
+        "project"
+      ],
+      "ar": [
+        "مشروع"
+      ]
+    },
+    "id": "projekt"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Fotoapparat",
+    "plural": "Fotoapparate",
+    "translation": {
+      "ru": [
+        "фотоаппарат"
+      ],
+      "en": [
+        "camera"
+      ],
+      "ar": [
+        "كاميرا"
+      ]
+    },
+    "id": "fotoapparat"
+  },
+  {
+    "dictionaryId": "wütend",
+    "type": "other",
+    "word": "wütend",
+    "translation": {
+      "ru": [
+        "злой",
+        "разгневанный"
+      ],
+      "en": [
+        "angry"
+      ],
+      "ar": [
+        "غاضب"
+      ]
+    },
+    "id": "wütend"
+  },
+  {
+    "dictionaryId": "verbot",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Verbot",
+    "plural": "Verbote",
+    "translation": {
+      "ru": [
+        "запрет"
+      ],
+      "en": [
+        "prohibition"
+      ],
+      "ar": [
+        "حظر"
+      ]
+    },
+    "id": "verbot"
+  },
+  {
+    "dictionaryId": "beziehung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Beziehung",
+    "plural": "Beziehungen",
+    "translation": {
+      "ru": [
+        "отношение",
+        "отношения",
+        "связь"
+      ],
+      "en": [
+        "relationship",
+        "relation"
+      ],
+      "ar": [
+        "علاقة"
+      ]
+    },
+    "id": "beziehung"
+  },
+  {
+    "dictionaryId": "zufällig",
+    "type": "other",
+    "word": "zufällig",
+    "translation": {
+      "ru": [
+        "случайно"
+      ],
+      "en": [
+        "by chance",
+        "accidentally"
+      ],
+      "ar": [
+        "بالصدفة"
+      ]
+    },
+    "id": "zufällig"
+  }
+]

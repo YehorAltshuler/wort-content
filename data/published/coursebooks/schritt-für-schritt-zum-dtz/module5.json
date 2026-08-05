@@ -1,0 +1,1604 @@
+[
+  {
+    "dictionaryId": "artikel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Artikel",
+    "plural": "Artikel",
+    "translation": {
+      "ru": [
+        "товар",
+        "артикул",
+        "статья"
+      ],
+      "en": [
+        "item",
+        "article"
+      ],
+      "ar": [
+        "سلعة",
+        "مقال"
+      ]
+    },
+    "id": "artikel"
+  },
+  {
+    "dictionaryId": "prospekt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Prospekt",
+    "plural": "Prospekte",
+    "translation": {
+      "ru": [
+        "проспект",
+        "рекламный буклет"
+      ],
+      "en": [
+        "brochure",
+        "leaflet"
+      ],
+      "ar": [
+        "منشور",
+        "كتيب"
+      ]
+    },
+    "id": "prospekt"
+  },
+  {
+    "dictionaryId": "zugang",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Zugang",
+    "plural": "Zugänge",
+    "translation": {
+      "ru": [
+        "доступ",
+        "вход"
+      ],
+      "en": [
+        "access",
+        "entrance"
+      ],
+      "ar": [
+        "وصول",
+        "دخول"
+      ]
+    },
+    "id": "zugang"
+  },
+  {
+    "dictionaryId": "preiswert",
+    "type": "other",
+    "word": "preiswert",
+    "translation": {
+      "ru": [
+        "недорогой",
+        "выгодный"
+      ],
+      "en": [
+        "inexpensive",
+        "good value"
+      ],
+      "ar": [
+        "رخيص",
+        "ذو سعر مناسب"
+      ]
+    },
+    "id": "preiswert"
+  },
+  {
+    "dictionaryId": "händler",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Händler",
+    "plural": "Händler",
+    "translation": {
+      "ru": [
+        "торговец"
+      ],
+      "en": [
+        "dealer",
+        "merchant"
+      ],
+      "ar": [
+        "تاجر"
+      ]
+    },
+    "id": "händler"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Händlerin",
+    "plural": "Händlerinnen",
+    "translation": {
+      "ru": [
+        "торговка"
+      ],
+      "en": [
+        "female dealer"
+      ],
+      "ar": [
+        "تاجرة"
+      ]
+    },
+    "id": "händlerin"
+  },
+  {
+    "dictionaryId": "einzig",
+    "type": "other",
+    "word": "einzig",
+    "translation": {
+      "ru": [
+        "единственный"
+      ],
+      "en": [
+        "only",
+        "sole"
+      ],
+      "ar": [
+        "وحيد"
+      ]
+    },
+    "id": "einzig"
+  },
+  {
+    "dictionaryId": "gebäude",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gebäude",
+    "plural": "Gebäude",
+    "translation": {
+      "ru": [
+        "здание"
+      ],
+      "en": [
+        "building"
+      ],
+      "ar": [
+        "مبنى"
+      ]
+    },
+    "id": "gebäude"
+  },
+  {
+    "dictionaryId": "mehrere",
+    "type": "other",
+    "word": "mehrere",
+    "translation": {
+      "ru": [
+        "несколько"
+      ],
+      "en": [
+        "several"
+      ],
+      "ar": [
+        "عدة"
+      ]
+    },
+    "id": "mehrere"
+  },
+  {
+    "dictionaryId": "gebrauchen",
+    "type": "verb",
+    "infinitive": "gebrauchen",
+    "praeteritum": "gebrauchte",
+    "perfekt": "hat gebraucht",
+    "translation": {
+      "ru": [
+        "использовать"
+      ],
+      "en": [
+        "to use"
+      ],
+      "ar": [
+        "يستخدم"
+      ]
+    },
+    "id": "gebrauchen"
+  },
+  {
+    "dictionaryId": "befinden",
+    "type": "verb",
+    "infinitive": "sich befinden",
+    "praeteritum": "befand sich",
+    "perfekt": "hat sich befunden",
+    "translation": {
+      "ru": [
+        "находиться"
+      ],
+      "en": [
+        "to be located"
+      ],
+      "ar": [
+        "يقع"
+      ]
+    },
+    "id": "befinden"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wolle",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "шерсть"
+      ],
+      "en": [
+        "wool"
+      ],
+      "ar": [
+        "صوف"
+      ]
+    },
+    "id": "wolle"
+  },
+  {
+    "dictionaryId": "pflegen",
+    "type": "verb",
+    "infinitive": "pflegen",
+    "praeteritum": "pflegte",
+    "perfekt": "hat gepflegt",
+    "translation": {
+      "ru": [
+        "ухаживать"
+      ],
+      "en": [
+        "to care for"
+      ],
+      "ar": [
+        "يعتني بـ"
+      ]
+    },
+    "id": "pflegen"
+  },
+  {
+    "dictionaryId": "haut",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Haut",
+    "plural": "Häute",
+    "translation": {
+      "ru": [
+        "кожа"
+      ],
+      "en": [
+        "skin"
+      ],
+      "ar": [
+        "جلد"
+      ]
+    },
+    "id": "haut"
+  },
+  {
+    "dictionaryId": "gewöhnlich",
+    "type": "other",
+    "word": "gewöhnlich",
+    "translation": {
+      "ru": [
+        "обычный",
+        "обычно"
+      ],
+      "en": [
+        "usual",
+        "usually"
+      ],
+      "ar": [
+        "عادي",
+        "عادةً"
+      ]
+    },
+    "id": "gewöhnlich"
+  },
+  {
+    "dictionaryId": "strom",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Strom",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "электричество",
+        "ток"
+      ],
+      "en": [
+        "electricity",
+        "current"
+      ],
+      "ar": [
+        "كهرباء",
+        "تيار"
+      ]
+    },
+    "id": "strom"
+  },
+  {
+    "dictionaryId": "verbrauchen",
+    "type": "verb",
+    "infinitive": "verbrauchen",
+    "praeteritum": "verbrauchte",
+    "perfekt": "hat verbraucht",
+    "translation": {
+      "ru": [
+        "потреблять",
+        "расходовать"
+      ],
+      "en": [
+        "to consume"
+      ],
+      "ar": [
+        "يستهلك"
+      ]
+    },
+    "id": "verbrauchen"
+  },
+  {
+    "dictionaryId": "abhängen",
+    "type": "verb",
+    "infinitive": "abhängen",
+    "praeteritum": "hing ab",
+    "perfekt": "hat abgehangen",
+    "translation": {
+      "ru": [
+        "зависеть"
+      ],
+      "en": [
+        "to depend"
+      ],
+      "ar": [
+        "يعتمد"
+      ]
+    },
+    "id": "abhängen"
+  },
+  {
+    "dictionaryId": "grüßen",
+    "type": "verb",
+    "infinitive": "grüßen",
+    "praeteritum": "grüßte",
+    "perfekt": "hat gegrüßt",
+    "translation": {
+      "ru": [
+        "приветствовать"
+      ],
+      "en": [
+        "to greet"
+      ],
+      "ar": [
+        "يحيي"
+      ]
+    },
+    "id": "grüssen"
+  },
+  {
+    "dictionaryId": "bedanken",
+    "type": "verb",
+    "infinitive": "sich bedanken",
+    "praeteritum": "bedankte sich",
+    "perfekt": "hat sich bedankt",
+    "translation": {
+      "ru": [
+        "благодарить"
+      ],
+      "en": [
+        "to thank"
+      ],
+      "ar": [
+        "يشكر"
+      ]
+    },
+    "id": "bedanken"
+  },
+  {
+    "dictionaryId": "gründen",
+    "type": "verb",
+    "infinitive": "gründen",
+    "praeteritum": "gründete",
+    "perfekt": "hat gegründet",
+    "translation": {
+      "ru": [
+        "основывать"
+      ],
+      "en": [
+        "to found"
+      ],
+      "ar": [
+        "يؤسس"
+      ]
+    },
+    "id": "gründen"
+  },
+  {
+    "dictionaryId": "monatlich",
+    "type": "other",
+    "word": "monatlich",
+    "translation": {
+      "ru": [
+        "ежемесячно"
+      ],
+      "en": [
+        "monthly"
+      ],
+      "ar": [
+        "شهريًا"
+      ]
+    },
+    "id": "monatlich"
+  },
+  {
+    "dictionaryId": "schaufenster",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Schaufenster",
+    "plural": "Schaufenster",
+    "translation": {
+      "ru": [
+        "витрина"
+      ],
+      "en": [
+        "shop window"
+      ],
+      "ar": [
+        "واجهة متجر"
+      ]
+    },
+    "id": "schaufenster"
+  },
+  {
+    "dictionaryId": "aussuchen",
+    "type": "verb",
+    "infinitive": "aussuchen",
+    "praeteritum": "suchte aus",
+    "perfekt": "hat ausgesucht",
+    "translation": {
+      "ru": [
+        "выбирать"
+      ],
+      "en": [
+        "to choose"
+      ],
+      "ar": [
+        "يختار"
+      ]
+    },
+    "id": "aussuchen"
+  },
+  {
+    "dictionaryId": "reagieren",
+    "type": "verb",
+    "infinitive": "reagieren",
+    "praeteritum": "reagierte",
+    "perfekt": "hat reagiert",
+    "translation": {
+      "ru": [
+        "реагировать"
+      ],
+      "en": [
+        "to react"
+      ],
+      "ar": [
+        "يتفاعل"
+      ]
+    },
+    "id": "reagieren"
+  },
+  {
+    "dictionaryId": "speziell",
+    "type": "other",
+    "word": "speziell",
+    "translation": {
+      "ru": [
+        "специальный"
+      ],
+      "en": [
+        "special"
+      ],
+      "ar": [
+        "خاص"
+      ]
+    },
+    "id": "speziell"
+  },
+  {
+    "dictionaryId": "schätzen",
+    "type": "verb",
+    "infinitive": "schätzen",
+    "praeteritum": "schätzte",
+    "perfekt": "hat geschätzt",
+    "translation": {
+      "ru": [
+        "оценивать",
+        "ценить"
+      ],
+      "en": [
+        "to estimate",
+        "to appreciate"
+      ],
+      "ar": [
+        "يقدر"
+      ]
+    },
+    "id": "schätzen"
+  },
+  {
+    "dictionaryId": "leben",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Leben",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "жизнь"
+      ],
+      "en": [
+        "life"
+      ],
+      "ar": [
+        "حياة"
+      ]
+    },
+    "id": "leben"
+  },
+  {
+    "dictionaryId": "konkurrenz",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Konkurrenz",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "конкуренция"
+      ],
+      "en": [
+        "competition"
+      ],
+      "ar": [
+        "منافسة"
+      ]
+    },
+    "id": "konkurrenz"
+  },
+  {
+    "dictionaryId": "geschäftsmann",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Geschäftsmann",
+    "plural": "Geschäftsleute",
+    "translation": {
+      "ru": [
+        "бизнесмен"
+      ],
+      "en": [
+        "businessman"
+      ],
+      "ar": [
+        "رجل أعمال"
+      ]
+    },
+    "id": "geschäftsmann"
+  },
+  {
+    "dictionaryId": "geschäftsfrau",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Geschäftsfrau",
+    "plural": "Geschäftsfrauen",
+    "translation": {
+      "ru": [
+        "бизнесвумен"
+      ],
+      "en": [
+        "businesswoman"
+      ],
+      "ar": [
+        "سيدة أعمال"
+      ]
+    },
+    "id": "geschäftsfrau"
+  },
+  {
+    "dictionaryId": "geschäftsleute",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Geschäftsleute",
+    "plural": "Geschäftsleute",
+    "translation": {
+      "ru": [
+        "бизнесмены",
+        "деловые люди"
+      ],
+      "en": [
+        "businesspeople"
+      ],
+      "ar": [
+        "رجال وسيدات الأعمال"
+      ]
+    },
+    "id": "geschäftsleute"
+  },
+  {
+    "dictionaryId": "leiden",
+    "type": "verb",
+    "infinitive": "leiden",
+    "praeteritum": "litt",
+    "perfekt": "hat gelitten",
+    "translation": {
+      "ru": [
+        "страдать"
+      ],
+      "en": [
+        "to suffer"
+      ],
+      "ar": [
+        "يعاني"
+      ]
+    },
+    "id": "leiden"
+  },
+  {
+    "dictionaryId": "handel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Handel",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "торговля"
+      ],
+      "en": [
+        "trade"
+      ],
+      "ar": [
+        "تجارة"
+      ]
+    },
+    "id": "handel"
+  },
+  {
+    "dictionaryId": "zerstören",
+    "type": "verb",
+    "infinitive": "zerstören",
+    "praeteritum": "zerstörte",
+    "perfekt": "hat zerstört",
+    "translation": {
+      "ru": [
+        "разрушать"
+      ],
+      "en": [
+        "to destroy"
+      ],
+      "ar": [
+        "يدمر"
+      ]
+    },
+    "id": "zerstören"
+  },
+  {
+    "dictionaryId": "begeistert",
+    "type": "other",
+    "word": "begeistert",
+    "translation": {
+      "ru": [
+        "восторженный"
+      ],
+      "en": [
+        "enthusiastic"
+      ],
+      "ar": [
+        "متحمس"
+      ]
+    },
+    "id": "begeistert"
+  },
+  {
+    "dictionaryId": "zweifeln",
+    "type": "verb",
+    "infinitive": "zweifeln",
+    "praeteritum": "zweifelte",
+    "perfekt": "hat gezweifelt",
+    "translation": {
+      "ru": [
+        "сомневаться"
+      ],
+      "en": [
+        "to doubt"
+      ],
+      "ar": [
+        "يشك"
+      ]
+    },
+    "id": "zweifeln"
+  },
+  {
+    "dictionaryId": "finanziell",
+    "type": "other",
+    "word": "finanziell",
+    "translation": {
+      "ru": [
+        "финансовый"
+      ],
+      "en": [
+        "financial"
+      ],
+      "ar": [
+        "مالي"
+      ]
+    },
+    "id": "finanziell"
+  },
+  {
+    "dictionaryId": "risiko",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Risiko",
+    "plural": "Risiken",
+    "translation": {
+      "ru": [
+        "риск"
+      ],
+      "en": [
+        "risk"
+      ],
+      "ar": [
+        "خطر"
+      ]
+    },
+    "id": "risiko"
+  },
+  {
+    "dictionaryId": "klick",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Klick",
+    "plural": "Klicks",
+    "translation": {
+      "ru": [
+        "клик"
+      ],
+      "en": [
+        "click"
+      ],
+      "ar": [
+        "نقرة"
+      ]
+    },
+    "id": "klick"
+  },
+  {
+    "dictionaryId": "lager",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Lager",
+    "plural": "Lager",
+    "translation": {
+      "ru": [
+        "склад"
+      ],
+      "en": [
+        "warehouse"
+      ],
+      "ar": [
+        "مستودع"
+      ]
+    },
+    "id": "lager"
+  },
+  {
+    "dictionaryId": "sichtbar",
+    "type": "other",
+    "word": "sichtbar",
+    "translation": {
+      "ru": [
+        "видимый"
+      ],
+      "en": [
+        "visible"
+      ],
+      "ar": [
+        "مرئي"
+      ]
+    },
+    "id": "sichtbar"
+  },
+  {
+    "dictionaryId": "besitzen",
+    "type": "verb",
+    "infinitive": "besitzen",
+    "praeteritum": "besaß",
+    "perfekt": "hat besessen",
+    "translation": {
+      "ru": [
+        "владеть"
+      ],
+      "en": [
+        "to own"
+      ],
+      "ar": [
+        "يمتلك"
+      ]
+    },
+    "id": "besitzen"
+  },
+  {
+    "dictionaryId": "erreichen",
+    "type": "verb",
+    "infinitive": "erreichen",
+    "praeteritum": "erreichte",
+    "perfekt": "hat erreicht",
+    "translation": {
+      "ru": [
+        "достигать"
+      ],
+      "en": [
+        "to reach"
+      ],
+      "ar": [
+        "يصل إلى"
+      ]
+    },
+    "id": "erreichen"
+  },
+  {
+    "dictionaryId": "einstellen",
+    "type": "verb",
+    "infinitive": "einstellen",
+    "praeteritum": "stellte ein",
+    "perfekt": "hat eingestellt",
+    "translation": {
+      "ru": [
+        "нанимать",
+        "настраивать"
+      ],
+      "en": [
+        "to hire",
+        "to adjust"
+      ],
+      "ar": [
+        "يوظف",
+        "يضبط"
+      ]
+    },
+    "id": "einstellen"
+  },
+  {
+    "dictionaryId": "umwelt",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Umwelt",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "окружающая среда"
+      ],
+      "en": [
+        "environment"
+      ],
+      "ar": [
+        "البيئة"
+      ]
+    },
+    "id": "umwelt"
+  },
+  {
+    "dictionaryId": "installieren",
+    "type": "verb",
+    "infinitive": "installieren",
+    "praeteritum": "installierte",
+    "perfekt": "hat installiert",
+    "translation": {
+      "ru": [
+        "устанавливать"
+      ],
+      "en": [
+        "to install"
+      ],
+      "ar": [
+        "يثبت"
+      ]
+    },
+    "id": "installieren"
+  },
+  {
+    "dictionaryId": "statt",
+    "type": "other",
+    "word": "statt",
+    "translation": {
+      "ru": [
+        "вместо"
+      ],
+      "en": [
+        "instead of"
+      ],
+      "ar": [
+        "بدلاً من"
+      ]
+    },
+    "id": "statt"
+  },
+  {
+    "dictionaryId": "aufforderung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Aufforderung",
+    "plural": "Aufforderungen",
+    "translation": {
+      "ru": [
+        "призыв",
+        "требование"
+      ],
+      "en": [
+        "request",
+        "invitation"
+      ],
+      "ar": [
+        "طلب",
+        "دعوة"
+      ]
+    },
+    "id": "aufforderung"
+  },
+  {
+    "dictionaryId": "beteiligen",
+    "type": "verb",
+    "infinitive": "sich beteiligen",
+    "praeteritum": "beteiligte sich",
+    "perfekt": "hat sich beteiligt",
+    "translation": {
+      "ru": [
+        "участвовать"
+      ],
+      "en": [
+        "to participate"
+      ],
+      "ar": [
+        "يشارك"
+      ]
+    },
+    "id": "beteiligen"
+  },
+  {
+    "dictionaryId": "buchen",
+    "type": "verb",
+    "infinitive": "buchen",
+    "praeteritum": "buchte",
+    "perfekt": "hat gebucht",
+    "translation": {
+      "ru": [
+        "бронировать"
+      ],
+      "en": [
+        "to book"
+      ],
+      "ar": [
+        "يحجز"
+      ]
+    },
+    "id": "buchen"
+  },
+  {
+    "dictionaryId": "anschließen",
+    "type": "verb",
+    "infinitive": "anschließen",
+    "praeteritum": "schloss an",
+    "perfekt": "hat angeschlossen",
+    "translation": {
+      "ru": [
+        "подключать",
+        "присоединять"
+      ],
+      "en": [
+        "to connect"
+      ],
+      "ar": [
+        "يوصل"
+      ]
+    },
+    "id": "anschliessen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bedienungsanleitung",
+    "plural": "Bedienungsanleitungen",
+    "translation": {
+      "ru": [
+        "инструкция по эксплуатации"
+      ],
+      "en": [
+        "manual"
+      ],
+      "ar": [
+        "دليل الاستخدام"
+      ]
+    },
+    "id": "bedienungsanleitung"
+  },
+  {
+    "dictionaryId": "erwarten",
+    "type": "verb",
+    "infinitive": "erwarten",
+    "praeteritum": "erwartete",
+    "perfekt": "hat erwartet",
+    "translation": {
+      "ru": [
+        "ожидать"
+      ],
+      "en": [
+        "to expect"
+      ],
+      "ar": [
+        "يتوقع"
+      ]
+    },
+    "id": "erwarten"
+  },
+  {
+    "dictionaryId": "modell",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Modell",
+    "plural": "Modelle",
+    "translation": {
+      "ru": [
+        "модель"
+      ],
+      "en": [
+        "model"
+      ],
+      "ar": [
+        "نموذج"
+      ]
+    },
+    "id": "modell"
+  },
+  {
+    "dictionaryId": "ersetzen",
+    "type": "verb",
+    "infinitive": "ersetzen",
+    "praeteritum": "ersetzte",
+    "perfekt": "hat ersetzt",
+    "translation": {
+      "ru": [
+        "заменять"
+      ],
+      "en": [
+        "to replace"
+      ],
+      "ar": [
+        "يستبدل"
+      ]
+    },
+    "id": "ersetzen"
+  },
+  {
+    "dictionaryId": "rückmeldung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Rückmeldung",
+    "plural": "Rückmeldungen",
+    "translation": {
+      "ru": [
+        "обратная связь",
+        "ответ"
+      ],
+      "en": [
+        "feedback"
+      ],
+      "ar": [
+        "ملاحظات",
+        "رد"
+      ]
+    },
+    "id": "rückmeldung"
+  },
+  {
+    "dictionaryId": "software",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Software",
+    "plural": "Softwares",
+    "translation": {
+      "ru": [
+        "программное обеспечение"
+      ],
+      "en": [
+        "software"
+      ],
+      "ar": [
+        "برمجيات"
+      ]
+    },
+    "id": "software"
+  },
+  {
+    "dictionaryId": "technik",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Technik",
+    "plural": "Techniken",
+    "translation": {
+      "ru": [
+        "техника",
+        "технология"
+      ],
+      "en": [
+        "technology",
+        "technique"
+      ],
+      "ar": [
+        "تقنية"
+      ]
+    },
+    "id": "technik"
+  },
+  {
+    "dictionaryId": "lokal",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Lokal",
+    "plural": "Lokale",
+    "translation": {
+      "ru": [
+        "заведение",
+        "ресторан"
+      ],
+      "en": [
+        "restaurant",
+        "venue"
+      ],
+      "ar": [
+        "مطعم",
+        "محل"
+      ]
+    },
+    "id": "lokal"
+  },
+  {
+    "dictionaryId": "protestieren",
+    "type": "verb",
+    "infinitive": "protestieren",
+    "praeteritum": "protestierte",
+    "perfekt": "hat protestiert",
+    "translation": {
+      "ru": [
+        "протестовать"
+      ],
+      "en": [
+        "to protest"
+      ],
+      "ar": [
+        "يحتج"
+      ]
+    },
+    "id": "protestieren"
+  },
+  {
+    "dictionaryId": "schlange",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schlange",
+    "plural": "Schlangen",
+    "translation": {
+      "ru": [
+        "очередь",
+        "змея"
+      ],
+      "en": [
+        "queue",
+        "snake"
+      ],
+      "ar": [
+        "طابور",
+        "ثعبان"
+      ]
+    },
+    "id": "schlange"
+  },
+  {
+    "dictionaryId": "bauen",
+    "type": "verb",
+    "infinitive": "bauen",
+    "praeteritum": "baute",
+    "perfekt": "hat gebaut",
+    "translation": {
+      "ru": [
+        "строить"
+      ],
+      "en": [
+        "to build"
+      ],
+      "ar": [
+        "يبني"
+      ]
+    },
+    "id": "bauen"
+  },
+  {
+    "dictionaryId": "fehlen",
+    "type": "verb",
+    "infinitive": "fehlen",
+    "praeteritum": "fehlte",
+    "perfekt": "hat gefehlt",
+    "translation": {
+      "ru": [
+        "отсутствовать",
+        "не хватать"
+      ],
+      "en": [
+        "to be missing"
+      ],
+      "ar": [
+        "ينقص"
+      ]
+    },
+    "id": "fehlen"
+  },
+  {
+    "dictionaryId": "auffordern",
+    "type": "verb",
+    "infinitive": "auffordern",
+    "praeteritum": "forderte auf",
+    "perfekt": "hat aufgefordert",
+    "translation": {
+      "ru": [
+        "призывать",
+        "просить"
+      ],
+      "en": [
+        "to request",
+        "to urge"
+      ],
+      "ar": [
+        "يطلب",
+        "يدعو"
+      ]
+    },
+    "id": "auffordern"
+  },
+  {
+    "dictionaryId": "umtauschen",
+    "type": "verb",
+    "infinitive": "umtauschen",
+    "praeteritum": "tauschte um",
+    "perfekt": "hat umgetauscht",
+    "translation": {
+      "ru": [
+        "обменивать"
+      ],
+      "en": [
+        "to exchange"
+      ],
+      "ar": [
+        "يستبدل"
+      ]
+    },
+    "id": "umtauschen"
+  },
+  {
+    "dictionaryId": "mindestens",
+    "type": "other",
+    "word": "mindestens",
+    "translation": {
+      "ru": [
+        "минимум",
+        "по крайней мере"
+      ],
+      "en": [
+        "at least"
+      ],
+      "ar": [
+        "على الأقل"
+      ]
+    },
+    "id": "mindestens"
+  },
+  {
+    "dictionaryId": "doppel",
+    "type": "other",
+    "word": "Doppel-",
+    "translation": {
+      "ru": [
+        "двойной"
+      ],
+      "en": [
+        "double"
+      ],
+      "ar": [
+        "مزدوج"
+      ]
+    },
+    "id": "doppel"
+  },
+  {
+    "dictionaryId": "renovieren",
+    "type": "verb",
+    "infinitive": "renovieren",
+    "praeteritum": "renovierte",
+    "perfekt": "hat renoviert",
+    "translation": {
+      "ru": [
+        "ремонтировать"
+      ],
+      "en": [
+        "to renovate"
+      ],
+      "ar": [
+        "يرمم"
+      ]
+    },
+    "id": "renovieren"
+  },
+  {
+    "dictionaryId": "vergleichen",
+    "type": "verb",
+    "infinitive": "vergleichen",
+    "praeteritum": "verglich",
+    "perfekt": "hat verglichen",
+    "translation": {
+      "ru": [
+        "сравнивать"
+      ],
+      "en": [
+        "to compare"
+      ],
+      "ar": [
+        "يقارن"
+      ]
+    },
+    "id": "vergleichen"
+  },
+  {
+    "dictionaryId": "genießen",
+    "type": "verb",
+    "infinitive": "genießen",
+    "praeteritum": "genoss",
+    "perfekt": "hat genossen",
+    "translation": {
+      "ru": [
+        "наслаждаться"
+      ],
+      "en": [
+        "to enjoy"
+      ],
+      "ar": [
+        "يستمتع بـ"
+      ]
+    },
+    "id": "geniessen"
+  },
+  {
+    "dictionaryId": "typisch",
+    "type": "other",
+    "word": "typisch",
+    "translation": {
+      "ru": [
+        "типичный"
+      ],
+      "en": [
+        "typical"
+      ],
+      "ar": [
+        "نموذجي"
+      ]
+    },
+    "id": "typisch"
+  },
+  {
+    "dictionaryId": "reservierung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Reservierung",
+    "plural": "Reservierungen",
+    "translation": {
+      "ru": [
+        "бронирование"
+      ],
+      "en": [
+        "reservation"
+      ],
+      "ar": [
+        "حجز"
+      ]
+    },
+    "id": "reservierung"
+  },
+  {
+    "dictionaryId": "dessert",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Dessert",
+    "plural": "Desserts",
+    "translation": {
+      "ru": [
+        "десерт"
+      ],
+      "en": [
+        "dessert"
+      ],
+      "ar": [
+        "حلوى"
+      ]
+    },
+    "id": "dessert"
+  },
+  {
+    "dictionaryId": "fachmann",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Fachmann",
+    "plural": "Fachleute",
+    "translation": {
+      "ru": [
+        "специалист"
+      ],
+      "en": [
+        "expert",
+        "specialist"
+      ],
+      "ar": [
+        "خبير"
+      ]
+    },
+    "id": "fachmann"
+  },
+  {
+    "dictionaryId": "fachleute",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Fachleute",
+    "plural": "Fachleute",
+    "translation": {
+      "ru": [
+        "специалисты"
+      ],
+      "en": [
+        "experts"
+      ],
+      "ar": [
+        "خبراء"
+      ]
+    },
+    "id": "fachleute"
+  },
+  {
+    "dictionaryId": "schutz",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schutz",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "защита"
+      ],
+      "en": [
+        "protection"
+      ],
+      "ar": [
+        "حماية"
+      ]
+    },
+    "id": "schutz"
+  },
+  {
+    "dictionaryId": "fein",
+    "type": "other",
+    "word": "fein",
+    "translation": {
+      "ru": [
+        "тонкий",
+        "изысканный"
+      ],
+      "en": [
+        "fine"
+      ],
+      "ar": [
+        "ناعم",
+        "راقي"
+      ]
+    },
+    "id": "fein"
+  },
+  {
+    "dictionaryId": "auswahl",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Auswahl",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "выбор",
+        "ассортимент"
+      ],
+      "en": [
+        "selection",
+        "choice"
+      ],
+      "ar": [
+        "اختيار",
+        "تشكيلة"
+      ]
+    },
+    "id": "auswahl"
+  }
+]

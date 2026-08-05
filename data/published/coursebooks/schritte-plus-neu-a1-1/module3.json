@@ -1,0 +1,1471 @@
+[
+  {
+    "dictionaryId": "banane",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Banane",
+    "plural": "Bananen",
+    "translation": {
+      "ru": [
+        "банан"
+      ],
+      "en": [
+        "banana"
+      ],
+      "ar": [
+        "موزة"
+      ]
+    },
+    "id": "banane"
+  },
+  {
+    "dictionaryId": "butter",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Butter",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "масло",
+        "сливочное масло"
+      ],
+      "en": [
+        "butter"
+      ],
+      "ar": [
+        "زبدة"
+      ]
+    },
+    "id": "butter"
+  },
+  {
+    "dictionaryId": "ei",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Ei",
+    "plural": "Eier",
+    "translation": {
+      "ru": [
+        "яйцо"
+      ],
+      "en": [
+        "egg"
+      ],
+      "ar": [
+        "بيضة"
+      ]
+    },
+    "id": "ei"
+  },
+  {
+    "dictionaryId": "mehl",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Mehl",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "мука"
+      ],
+      "en": [
+        "flour"
+      ],
+      "ar": [
+        "دقيق"
+      ]
+    },
+    "id": "mehl"
+  },
+  {
+    "dictionaryId": "milch",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Milch",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "молоко"
+      ],
+      "en": [
+        "milk"
+      ],
+      "ar": [
+        "حليب"
+      ]
+    },
+    "id": "milch"
+  },
+  {
+    "dictionaryId": "zucker",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Zucker",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "сахар"
+      ],
+      "en": [
+        "sugar"
+      ],
+      "ar": [
+        "سكر"
+      ]
+    },
+    "id": "zucker"
+  },
+  {
+    "dictionaryId": "pfannkuchen",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Pfannkuchen",
+    "plural": "Pfannkuchen",
+    "translation": {
+      "ru": [
+        "блин",
+        "оладушек",
+        "панкейк"
+      ],
+      "en": [
+        "pancake"
+      ],
+      "ar": [
+        "فطيرة",
+        "بان كيك"
+      ]
+    },
+    "id": "pfannkuchen"
+  },
+  {
+    "dictionaryId": "schokolade",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schokolade",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "шоколад"
+      ],
+      "en": [
+        "chocolate"
+      ],
+      "ar": [
+        "شوكولاتة"
+      ]
+    },
+    "id": "schokolade"
+  },
+  {
+    "dictionaryId": "brauchen",
+    "type": "verb",
+    "infinitive": "brauchen",
+    "praeteritum": "brauchte",
+    "perfekt": "hat gebraucht",
+    "translation": {
+      "ru": [
+        "нуждаться",
+        "нуждаться в",
+        "требоваться"
+      ],
+      "en": [
+        "to need"
+      ],
+      "ar": [
+        "يحتاج"
+      ]
+    },
+    "id": "brauchen"
+  },
+  {
+    "dictionaryId": "kaufen",
+    "type": "verb",
+    "infinitive": "kaufen",
+    "praeteritum": "kaufte",
+    "perfekt": "hat gekauft",
+    "translation": {
+      "ru": [
+        "покупать",
+        "купить"
+      ],
+      "en": [
+        "to buy"
+      ],
+      "ar": [
+        "يشتري"
+      ]
+    },
+    "id": "kaufen"
+  },
+  {
+    "dictionaryId": "hunger",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Hunger",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "голод"
+      ],
+      "en": [
+        "hunger"
+      ],
+      "ar": [
+        "جوع"
+      ]
+    },
+    "id": "hunger"
+  },
+  {
+    "dictionaryId": "euro",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Euro",
+    "plural": "Euro",
+    "translation": {
+      "ru": [
+        "евро"
+      ],
+      "en": [
+        "euro"
+      ],
+      "ar": [
+        "يورو"
+      ]
+    },
+    "id": "euro"
+  },
+  {
+    "dictionaryId": "fleisch",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Fleisch",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "мясо"
+      ],
+      "en": [
+        "meat"
+      ],
+      "ar": [
+        "لحم"
+      ]
+    },
+    "id": "fleisch"
+  },
+  {
+    "dictionaryId": "bier",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Bier",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "пиво"
+      ],
+      "en": [
+        "beer"
+      ],
+      "ar": [
+        "بيرة"
+      ]
+    },
+    "id": "bier"
+  },
+  {
+    "dictionaryId": "käse",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Käse",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "сыр"
+      ],
+      "en": [
+        "cheese"
+      ],
+      "ar": [
+        "جبن"
+      ]
+    },
+    "id": "käse"
+  },
+  {
+    "dictionaryId": "salz",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Salz",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "соль"
+      ],
+      "en": [
+        "salt"
+      ],
+      "ar": [
+        "ملح"
+      ]
+    },
+    "id": "salz"
+  },
+  {
+    "dictionaryId": "tee",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tee",
+    "plural": "Tees",
+    "translation": {
+      "ru": [
+        "чай"
+      ],
+      "en": [
+        "tea"
+      ],
+      "ar": [
+        "شاي"
+      ]
+    },
+    "id": "tee"
+  },
+  {
+    "dictionaryId": "brot",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Brot",
+    "plural": "Brote",
+    "translation": {
+      "ru": [
+        "хлеб"
+      ],
+      "en": [
+        "bread"
+      ],
+      "ar": [
+        "خبز"
+      ]
+    },
+    "id": "brot"
+  },
+  {
+    "dictionaryId": "wein",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Wein",
+    "plural": "Weine",
+    "translation": {
+      "ru": [
+        "вино"
+      ],
+      "en": [
+        "wine"
+      ],
+      "ar": [
+        "نبيذ"
+      ]
+    },
+    "id": "wein"
+  },
+  {
+    "dictionaryId": "mineralwasser",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Mineralwasser",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "минеральная вода"
+      ],
+      "en": [
+        "mineral water"
+      ],
+      "ar": [
+        "مياه معدنية"
+      ]
+    },
+    "id": "mineralwasser"
+  },
+  {
+    "dictionaryId": "reis",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Reis",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "рис"
+      ],
+      "en": [
+        "rice"
+      ],
+      "ar": [
+        "أرز"
+      ]
+    },
+    "id": "reis"
+  },
+  {
+    "dictionaryId": "fisch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Fisch",
+    "plural": "Fische",
+    "translation": {
+      "ru": [
+        "рыба"
+      ],
+      "en": [
+        "fish"
+      ],
+      "ar": [
+        "سمك"
+      ]
+    },
+    "id": "fisch"
+  },
+  {
+    "dictionaryId": "ein",
+    "type": "other",
+    "word": "ein-",
+    "translation": {
+      "ru": [
+        "один",
+        "какой-то",
+        "некий"
+      ],
+      "en": [
+        "a",
+        "an",
+        "one"
+      ],
+      "ar": [
+        "واحد",
+        "أداة نكرة"
+      ]
+    },
+    "id": "ein"
+  },
+  {
+    "dictionaryId": "kein",
+    "type": "other",
+    "word": "kein-",
+    "translation": {
+      "ru": [
+        "никакой",
+        "ни один",
+        "не"
+      ],
+      "en": [
+        "no",
+        "not any"
+      ],
+      "ar": [
+        "لا",
+        "ولا واحد"
+      ]
+    },
+    "id": "kein"
+  },
+  {
+    "dictionaryId": "apfel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Apfel",
+    "plural": "Äpfel",
+    "translation": {
+      "ru": [
+        "яблоко"
+      ],
+      "en": [
+        "apple"
+      ],
+      "ar": [
+        "تفاحة"
+      ]
+    },
+    "id": "apfel"
+  },
+  {
+    "dictionaryId": "orange",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Orange",
+    "plural": "Orangen",
+    "translation": {
+      "ru": [
+        "апельсин"
+      ],
+      "en": [
+        "orange"
+      ],
+      "ar": [
+        "برتقالة"
+      ]
+    },
+    "id": "orange"
+  },
+  {
+    "dictionaryId": "kuchen",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kuchen",
+    "plural": "Kuchen",
+    "translation": {
+      "ru": [
+        "пирог",
+        "торт",
+        "кекс"
+      ],
+      "en": [
+        "cake"
+      ],
+      "ar": [
+        "كعكة"
+      ]
+    },
+    "id": "kuchen"
+  },
+  {
+    "dictionaryId": "kaffee",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kaffee",
+    "plural": "Kaffees",
+    "translation": {
+      "ru": [
+        "кофе"
+      ],
+      "en": [
+        "coffee"
+      ],
+      "ar": [
+        "قهوة"
+      ]
+    },
+    "id": "kaffee"
+  },
+  {
+    "dictionaryId": "saft",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Saft",
+    "plural": "Säfte",
+    "translation": {
+      "ru": [
+        "сок"
+      ],
+      "en": [
+        "juice"
+      ],
+      "ar": [
+        "عصير"
+      ]
+    },
+    "id": "saft"
+  },
+  {
+    "dictionaryId": "brötchen",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Brötchen",
+    "plural": "Brötchen",
+    "translation": {
+      "ru": [
+        "булочка"
+      ],
+      "en": [
+        "bread roll",
+        "roll"
+      ],
+      "ar": [
+        "خبز صغير"
+      ]
+    },
+    "id": "brötchen"
+  },
+  {
+    "dictionaryId": "würstchen",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Würstchen",
+    "plural": "Würstchen",
+    "translation": {
+      "ru": [
+        "сосиска"
+      ],
+      "en": [
+        "small sausage"
+      ],
+      "ar": [
+        "نقانق صغيرة"
+      ]
+    },
+    "id": "würstchen"
+  },
+  {
+    "dictionaryId": "birne",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Birne",
+    "plural": "Birnen",
+    "translation": {
+      "ru": [
+        "груша",
+        "лампочка"
+      ],
+      "en": [
+        "pear",
+        "light bulb"
+      ],
+      "ar": [
+        "كمثرى",
+        "مصباح"
+      ]
+    },
+    "id": "birne"
+  },
+  {
+    "dictionaryId": "tomate",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Tomate",
+    "plural": "Tomaten",
+    "translation": {
+      "ru": [
+        "помидор",
+        "томат"
+      ],
+      "en": [
+        "tomato"
+      ],
+      "ar": [
+        "طماطم"
+      ]
+    },
+    "id": "tomate"
+  },
+  {
+    "dictionaryId": "kartoffel",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kartoffel",
+    "plural": "Kartoffeln",
+    "translation": {
+      "ru": [
+        "картошка",
+        "картофель"
+      ],
+      "en": [
+        "potato"
+      ],
+      "ar": [
+        "بطاطس"
+      ]
+    },
+    "id": "kartoffel"
+  },
+  {
+    "dictionaryId": "joghurt",
+    "type": "noun",
+    "article": [
+      "der",
+      "das"
+    ],
+    "word": "Joghurt",
+    "plural": "Joghurts",
+    "translation": {
+      "ru": [
+        "йогурт"
+      ],
+      "en": [
+        "yogurt",
+        "yoghurt"
+      ],
+      "ar": [
+        "زبادي"
+      ]
+    },
+    "id": "joghurt"
+  },
+  {
+    "dictionaryId": "zwiebel",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zwiebel",
+    "plural": "Zwiebeln",
+    "translation": {
+      "ru": [
+        "лук",
+        "луковица"
+      ],
+      "en": [
+        "onion"
+      ],
+      "ar": [
+        "بصل"
+      ]
+    },
+    "id": "zwiebel"
+  },
+  {
+    "dictionaryId": "regal",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Regal",
+    "plural": "Regale",
+    "translation": {
+      "ru": [
+        "стеллаж",
+        "полка"
+      ],
+      "en": [
+        "shelf",
+        "rack"
+      ],
+      "ar": [
+        "رف"
+      ]
+    },
+    "id": "regal"
+  },
+  {
+    "dictionaryId": "preis",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Preis",
+    "plural": "Preise",
+    "translation": {
+      "ru": [
+        "цена",
+        "приз"
+      ],
+      "en": [
+        "price",
+        "prize"
+      ],
+      "ar": [
+        "سعر",
+        "جائزة"
+      ]
+    },
+    "id": "preis"
+  },
+  {
+    "dictionaryId": "cent",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Cent",
+    "plural": "Cent",
+    "translation": {
+      "ru": [
+        "цент"
+      ],
+      "en": [
+        "cent"
+      ],
+      "ar": [
+        "سنت"
+      ]
+    },
+    "id": "cent"
+  },
+  {
+    "dictionaryId": "prospekt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Prospekt",
+    "plural": "Prospekte",
+    "translation": {
+      "ru": [
+        "рекламный листок",
+        "проспект",
+        "брошюра"
+      ],
+      "en": [
+        "brochure",
+        "leaflet",
+        "flyer"
+      ],
+      "ar": [
+        "نشرة",
+        "كتيب"
+      ]
+    },
+    "id": "prospekt"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Sonderangebot",
+    "plural": "Sonderangebote",
+    "translation": {
+      "ru": [
+        "специальное предложение",
+        "скидка",
+        "акция"
+      ],
+      "en": [
+        "special offer",
+        "deal"
+      ],
+      "ar": [
+        "عرض خاص"
+      ]
+    },
+    "id": "sonderangebot"
+  },
+  {
+    "dictionaryId": "lebensmittel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Lebensmittel",
+    "plural": "Lebensmittel",
+    "translation": {
+      "ru": [
+        "продукты питания",
+        "пищевые продукты"
+      ],
+      "en": [
+        "food",
+        "groceries"
+      ],
+      "ar": [
+        "مواد غذائية"
+      ]
+    },
+    "id": "lebensmittel"
+  },
+  {
+    "dictionaryId": "wie viel",
+    "type": "other",
+    "word": "wie viel",
+    "translation": {
+      "ru": [
+        "сколько"
+      ],
+      "en": [
+        "how much"
+      ],
+      "ar": [
+        "كم"
+      ]
+    },
+    "id": "wie-viel"
+  },
+  {
+    "dictionaryId": "kosten",
+    "type": "verb",
+    "infinitive": "kosten",
+    "praeteritum": "kostete",
+    "perfekt": "hat gekostet",
+    "translation": {
+      "ru": [
+        "стоить"
+      ],
+      "en": [
+        "to cost"
+      ],
+      "ar": [
+        "يكلف"
+      ]
+    },
+    "id": "kosten"
+  },
+  {
+    "dictionaryId": "kilogramm",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Kilogramm",
+    "plural": "Kilogramm",
+    "comment": "kurz: Kilo / kg",
+    "translation": {
+      "ru": [
+        "килограмм",
+        "кило"
+      ],
+      "en": [
+        "kilogram",
+        "kilo"
+      ],
+      "ar": [
+        "كيلوغرام"
+      ]
+    },
+    "id": "kilogramm"
+  },
+  {
+    "dictionaryId": "gramm",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gramm",
+    "plural": "Gramm",
+    "comment": "g",
+    "translation": {
+      "ru": [
+        "грамм"
+      ],
+      "en": [
+        "gram"
+      ],
+      "ar": [
+        "غرام"
+      ]
+    },
+    "id": "gramm"
+  },
+  {
+    "dictionaryId": "liter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Liter",
+    "plural": "Liter",
+    "comment": "l",
+    "translation": {
+      "ru": [
+        "литр"
+      ],
+      "en": [
+        "liter",
+        "litre"
+      ],
+      "ar": [
+        "لتر"
+      ]
+    },
+    "id": "liter"
+  },
+  {
+    "dictionaryId": "flasche",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Flasche",
+    "plural": "Flaschen",
+    "translation": {
+      "ru": [
+        "бутылка"
+      ],
+      "en": [
+        "bottle"
+      ],
+      "ar": [
+        "زجاجة"
+      ]
+    },
+    "id": "flasche"
+  },
+  {
+    "dictionaryId": "dose",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Dose",
+    "plural": "Dosen",
+    "translation": {
+      "ru": [
+        "банка",
+        "жестяная банка"
+      ],
+      "en": [
+        "can",
+        "tin"
+      ],
+      "ar": [
+        "علبة"
+      ]
+    },
+    "id": "dose"
+  },
+  {
+    "dictionaryId": "sahne",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sahne",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "сливки"
+      ],
+      "en": [
+        "cream"
+      ],
+      "ar": [
+        "كريمة"
+      ]
+    },
+    "id": "sahne"
+  },
+  {
+    "dictionaryId": "wurst",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wurst",
+    "plural": "Würste",
+    "translation": {
+      "ru": [
+        "колбаса"
+      ],
+      "en": [
+        "sausage"
+      ],
+      "ar": [
+        "نقانق",
+        "سجق"
+      ]
+    },
+    "id": "wurst"
+  },
+  {
+    "dictionaryId": "hackfleisch",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Hackfleisch",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "фарш",
+        "мясной фарш"
+      ],
+      "en": [
+        "minced meat",
+        "ground meat"
+      ],
+      "ar": [
+        "لحم مفروم"
+      ]
+    },
+    "id": "hackfleisch"
+  },
+  {
+    "dictionaryId": "verkäufer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Verkäufer",
+    "plural": "Verkäufer",
+    "translation": {
+      "ru": [
+        "продавец"
+      ],
+      "en": [
+        "salesman",
+        "seller"
+      ],
+      "ar": [
+        "بائع"
+      ]
+    },
+    "id": "verkäufer"
+  },
+  {
+    "dictionaryId": "verkäuferin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Verkäuferin",
+    "plural": "Verkäuferinnen",
+    "translation": {
+      "ru": [
+        "продавщица",
+        "продавец"
+      ],
+      "en": [
+        "saleswoman",
+        "female seller"
+      ],
+      "ar": [
+        "بائعة"
+      ]
+    },
+    "id": "verkäuferin"
+  },
+  {
+    "dictionaryId": "kunde",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kunde",
+    "plural": "Kunden",
+    "translation": {
+      "ru": [
+        "покупатель",
+        "клиент"
+      ],
+      "en": [
+        "customer",
+        "client"
+      ],
+      "ar": [
+        "زبون",
+        "عميل"
+      ]
+    },
+    "id": "kunde"
+  },
+  {
+    "dictionaryId": "noch",
+    "type": "other",
+    "word": "noch",
+    "translation": {
+      "ru": [
+        "ещё",
+        "всё ещё"
+      ],
+      "en": [
+        "still",
+        "yet",
+        "another"
+      ],
+      "ar": [
+        "ما زال",
+        "أيضًا"
+      ]
+    },
+    "id": "noch"
+  },
+  {
+    "dictionaryId": "all",
+    "type": "other",
+    "word": "all-",
+    "translation": {
+      "ru": [
+        "весь",
+        "вся",
+        "всё",
+        "все"
+      ],
+      "en": [
+        "all",
+        "whole"
+      ],
+      "ar": [
+        "كل"
+      ]
+    },
+    "id": "all"
+  },
+  {
+    "dictionaryId": "möchten",
+    "type": "verb",
+    "infinitive": "möchten",
+    "praeteritum": "mochte",
+    "perfekt": "hat gemocht",
+    "translation": {
+      "ru": [
+        "хотеть",
+        "желать"
+      ],
+      "en": [
+        "would like"
+      ],
+      "ar": [
+        "يرغب"
+      ]
+    },
+    "id": "möchten"
+  },
+  {
+    "dictionaryId": "finden",
+    "type": "verb",
+    "infinitive": "finden",
+    "praeteritum": "fand",
+    "perfekt": "hat gefunden",
+    "translation": {
+      "ru": [
+        "находить",
+        "считать",
+        "думать"
+      ],
+      "en": [
+        "to find",
+        "to think"
+      ],
+      "ar": [
+        "يجد",
+        "يعتقد"
+      ]
+    },
+    "id": "finden"
+  },
+  {
+    "dictionaryId": "laden",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Laden",
+    "plural": "Läden",
+    "translation": {
+      "ru": [
+        "магазин",
+        "лавка"
+      ],
+      "en": [
+        "shop",
+        "store"
+      ],
+      "ar": [
+        "متجر"
+      ]
+    },
+    "id": "laden"
+  },
+  {
+    "dictionaryId": "obst",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Obst",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "фрукты"
+      ],
+      "en": [
+        "fruit"
+      ],
+      "ar": [
+        "فاكهة"
+      ]
+    },
+    "id": "obst"
+  },
+  {
+    "dictionaryId": "gemüse",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gemüse",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "овощи"
+      ],
+      "en": [
+        "vegetables"
+      ],
+      "ar": [
+        "خضار"
+      ]
+    },
+    "id": "gemüse"
+  },
+  {
+    "dictionaryId": "bäckerei",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bäckerei",
+    "plural": "Bäckereien",
+    "translation": {
+      "ru": [
+        "пекарня",
+        "булочная"
+      ],
+      "en": [
+        "bakery"
+      ],
+      "ar": [
+        "مخبز"
+      ]
+    },
+    "id": "bäckerei"
+  },
+  {
+    "dictionaryId": "rezept",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Rezept",
+    "plural": "Rezepte",
+    "translation": {
+      "ru": [
+        "рецепт"
+      ],
+      "en": [
+        "recipe",
+        "prescription"
+      ],
+      "ar": [
+        "وصفة"
+      ]
+    },
+    "id": "rezept"
+  },
+  {
+    "dictionaryId": "für",
+    "type": "other",
+    "word": "für",
+    "translation": {
+      "ru": [
+        "для",
+        "за"
+      ],
+      "en": [
+        "for"
+      ],
+      "ar": [
+        "لـ",
+        "من أجل"
+      ]
+    },
+    "id": "für"
+  },
+  {
+    "dictionaryId": "wasser",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Wasser",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "вода"
+      ],
+      "en": [
+        "water"
+      ],
+      "ar": [
+        "ماء"
+      ]
+    },
+    "id": "wasser"
+  },
+  {
+    "dictionaryId": "pfeffer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Pfeffer",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "перец"
+      ],
+      "en": [
+        "pepper"
+      ],
+      "ar": [
+        "فلفل"
+      ]
+    },
+    "id": "pfeffer"
+  }
+]

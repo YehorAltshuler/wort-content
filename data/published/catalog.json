@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026-08-05.174207",
+  "generatedAt": "2026-08-05T17:42:07.121959Z",
+  "sources": [
+    {
+      "id": "leben-in-deutschland",
+      "type": "coursebook",
+      "url": "coursebooks/leben-in-deutschland/book.json",
+      "sha256": "136448c9c3693373a90be0ece39756c980926724d8513113f6870c06b65d1bd2"
+    },
+    {
+      "id": "schritt-für-schritt-zum-dtz",
+      "type": "coursebook",
+      "url": "coursebooks/schritt-für-schritt-zum-dtz/book.json",
+      "sha256": "fa4bc90eae9483a78300d697364d4891b38780735590d7c3d3f1851c8c7dd6a2"
+    },
+    {
+      "id": "schritte-plus-neu-a1-1",
+      "type": "coursebook",
+      "url": "coursebooks/schritte-plus-neu-a1-1/book.json",
+      "sha256": "06d6220f86a5a0560eb98ce29961f75bae3ef0988e9edad7ad9240fceb140e32"
+    },
+    {
+      "id": "schritte-plus-neu-a1-2",
+      "type": "coursebook",
+      "url": "coursebooks/schritte-plus-neu-a1-2/book.json",
+      "sha256": "7c2e13bafde0a281430d57e0939925272925c2dfdddb796457fb51e498fdebbe"
+    },
+    {
+      "id": "schritte-plus-neu-a2-1",
+      "type": "coursebook",
+      "url": "coursebooks/schritte-plus-neu-a2-1/book.json",
+      "sha256": "527669204e611b2452c6430cd8b026feb5f97bd7bc1230e26130d0a4b215c25e"
+    },
+    {
+      "id": "fixed-preposition-verbs",
+      "type": "exercise",
+      "url": "exercises/fixed-preposition-verbs/exercise.json",
+      "sha256": "3e56edde503058c3bd2fc8b4a4afccba14e55b9357b41ec018d37f85738e23a7"
+    }
+  ]
+}

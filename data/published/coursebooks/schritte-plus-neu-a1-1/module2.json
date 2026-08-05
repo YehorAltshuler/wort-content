@@ -1,0 +1,1338 @@
+[
+  {
+    "dictionaryId": "lernen",
+    "type": "verb",
+    "infinitive": "lernen",
+    "praeteritum": "lernte",
+    "perfekt": "hat gelernt",
+    "translation": {
+      "ru": [
+        "учить",
+        "учиться"
+      ],
+      "en": [
+        "to learn",
+        "to study"
+      ],
+      "ar": [
+        "يتعلم",
+        "يدرس"
+      ]
+    },
+    "id": "lernen"
+  },
+  {
+    "dictionaryId": "park",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Park",
+    "plural": "Parks",
+    "translation": {
+      "ru": [
+        "парк"
+      ],
+      "en": [
+        "park"
+      ],
+      "ar": [
+        "حديقة"
+      ]
+    },
+    "id": "park"
+  },
+  {
+    "dictionaryId": "pause",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Pause",
+    "plural": "Pausen",
+    "translation": {
+      "ru": [
+        "пауза",
+        "перерыв"
+      ],
+      "en": [
+        "break",
+        "pause"
+      ],
+      "ar": [
+        "استراحة",
+        "توقف"
+      ]
+    },
+    "id": "pause"
+  },
+  {
+    "dictionaryId": "familie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Familie",
+    "plural": "Familien",
+    "translation": {
+      "ru": [
+        "семья"
+      ],
+      "en": [
+        "family"
+      ],
+      "ar": [
+        "عائلة"
+      ]
+    },
+    "id": "familie"
+  },
+  {
+    "dictionaryId": "vater",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Vater",
+    "plural": "Väter",
+    "translation": {
+      "ru": [
+        "отец"
+      ],
+      "en": [
+        "father"
+      ],
+      "ar": [
+        "أب"
+      ]
+    },
+    "id": "vater"
+  },
+  {
+    "dictionaryId": "großeltern",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Großeltern",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "бабушка и дедушка",
+        "прародители"
+      ],
+      "en": [
+        "grandparents"
+      ],
+      "ar": [
+        "الأجداد"
+      ]
+    },
+    "id": "grosseltern"
+  },
+  {
+    "dictionaryId": "mutter",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mutter",
+    "plural": "Mütter",
+    "translation": {
+      "ru": [
+        "мама",
+        "мать"
+      ],
+      "en": [
+        "mother"
+      ],
+      "ar": [
+        "أم"
+      ]
+    },
+    "id": "mutter"
+  },
+  {
+    "dictionaryId": "eltern",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Eltern",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "родители"
+      ],
+      "en": [
+        "parents"
+      ],
+      "ar": [
+        "الوالدان"
+      ]
+    },
+    "id": "eltern"
+  },
+  {
+    "dictionaryId": "bruder",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bruder",
+    "plural": "Brüder",
+    "translation": {
+      "ru": [
+        "брат"
+      ],
+      "en": [
+        "brother"
+      ],
+      "ar": [
+        "أخ"
+      ]
+    },
+    "id": "bruder"
+  },
+  {
+    "dictionaryId": "geschwister",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Geschwister",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "братья и сёстры"
+      ],
+      "en": [
+        "siblings"
+      ],
+      "ar": [
+        "إخوة وأخوات"
+      ]
+    },
+    "id": "geschwister"
+  },
+  {
+    "dictionaryId": "jahr",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Jahr",
+    "plural": "Jahre",
+    "translation": {
+      "ru": [
+        "год"
+      ],
+      "en": [
+        "year"
+      ],
+      "ar": [
+        "سنة",
+        "عام"
+      ]
+    },
+    "id": "jahr"
+  },
+  {
+    "dictionaryId": "leben",
+    "type": "verb",
+    "infinitive": "leben",
+    "praeteritum": "lebte",
+    "perfekt": "hat gelebt",
+    "translation": {
+      "ru": [
+        "жить"
+      ],
+      "en": [
+        "to live"
+      ],
+      "ar": [
+        "يعيش"
+      ]
+    },
+    "id": "leben"
+  },
+  {
+    "dictionaryId": "in",
+    "type": "other",
+    "word": "in",
+    "translation": {
+      "ru": [
+        "в"
+      ],
+      "en": [
+        "in",
+        "into"
+      ],
+      "ar": [
+        "في",
+        "إلى"
+      ]
+    },
+    "id": "in"
+  },
+  {
+    "dictionaryId": "gut",
+    "type": "other",
+    "word": "gut",
+    "translation": {
+      "ru": [
+        "хорошо",
+        "хороший"
+      ],
+      "en": [
+        "good",
+        "well"
+      ],
+      "ar": [
+        "جيد",
+        "حسنًا"
+      ]
+    },
+    "id": "gut"
+  },
+  {
+    "dictionaryId": "super",
+    "type": "other",
+    "word": "super",
+    "translation": {
+      "ru": [
+        "супер",
+        "отлично"
+      ],
+      "en": [
+        "super",
+        "great"
+      ],
+      "ar": [
+        "رائع",
+        "ممتاز"
+      ]
+    },
+    "id": "super"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "na ja",
+    "translation": {
+      "ru": [
+        "ну да",
+        "ладно",
+        "ну такое"
+      ],
+      "en": [
+        "well",
+        "oh well"
+      ],
+      "ar": [
+        "حسنًا",
+        "يعني"
+      ]
+    },
+    "id": "na-ja"
+  },
+  {
+    "dictionaryId": "ach",
+    "type": "other",
+    "word": "ach",
+    "translation": {
+      "ru": [
+        "ах",
+        "ой"
+      ],
+      "en": [
+        "oh",
+        "ah"
+      ],
+      "ar": [
+        "آه",
+        "أوه"
+      ]
+    },
+    "id": "ach"
+  },
+  {
+    "dictionaryId": "so",
+    "type": "other",
+    "word": "so",
+    "translation": {
+      "ru": [
+        "так",
+        "такой",
+        "настолько"
+      ],
+      "en": [
+        "so",
+        "like this"
+      ],
+      "ar": [
+        "هكذا",
+        "لذلك"
+      ]
+    },
+    "id": "so"
+  },
+  {
+    "dictionaryId": "sehr",
+    "type": "other",
+    "word": "sehr",
+    "translation": {
+      "ru": [
+        "очень"
+      ],
+      "en": [
+        "very"
+      ],
+      "ar": [
+        "جدًا"
+      ]
+    },
+    "id": "sehr"
+  },
+  {
+    "dictionaryId": "enkel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Enkel",
+    "plural": "Enkel",
+    "translation": {
+      "ru": [
+        "внук"
+      ],
+      "en": [
+        "grandson"
+      ],
+      "ar": [
+        "حفيد"
+      ]
+    },
+    "id": "enkel"
+  },
+  {
+    "dictionaryId": "enkelin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Enkelin",
+    "plural": "Enkelinnen",
+    "translation": {
+      "ru": [
+        "внучка"
+      ],
+      "en": [
+        "granddaughter"
+      ],
+      "ar": [
+        "حفيدة"
+      ]
+    },
+    "id": "enkelin"
+  },
+  {
+    "dictionaryId": "tochter",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Tochter",
+    "plural": "Töchter",
+    "translation": {
+      "ru": [
+        "дочь"
+      ],
+      "en": [
+        "daughter"
+      ],
+      "ar": [
+        "ابنة"
+      ]
+    },
+    "id": "tochter"
+  },
+  {
+    "dictionaryId": "sohn",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Sohn",
+    "plural": "Söhne",
+    "translation": {
+      "ru": [
+        "сын"
+      ],
+      "en": [
+        "son"
+      ],
+      "ar": [
+        "ابن"
+      ]
+    },
+    "id": "sohn"
+  },
+  {
+    "dictionaryId": "schwester",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schwester",
+    "plural": "Schwestern",
+    "translation": {
+      "ru": [
+        "сестра"
+      ],
+      "en": [
+        "sister"
+      ],
+      "ar": [
+        "أخت"
+      ]
+    },
+    "id": "schwester"
+  },
+  {
+    "dictionaryId": "oma",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Oma",
+    "plural": "Omas",
+    "translation": {
+      "ru": [
+        "бабушка"
+      ],
+      "en": [
+        "grandma",
+        "grandmother"
+      ],
+      "ar": [
+        "جدة"
+      ]
+    },
+    "id": "oma"
+  },
+  {
+    "dictionaryId": "mann",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Mann",
+    "plural": "Männer",
+    "translation": {
+      "ru": [
+        "муж",
+        "мужчина"
+      ],
+      "en": [
+        "man",
+        "husband"
+      ],
+      "ar": [
+        "رجل",
+        "زوج"
+      ]
+    },
+    "id": "mann"
+  },
+  {
+    "dictionaryId": "opa",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Opa",
+    "plural": "Opas",
+    "translation": {
+      "ru": [
+        "дедушка"
+      ],
+      "en": [
+        "grandpa",
+        "grandfather"
+      ],
+      "ar": [
+        "جد"
+      ]
+    },
+    "id": "opa"
+  },
+  {
+    "dictionaryId": "dein",
+    "type": "other",
+    "word": "dein-",
+    "translation": {
+      "ru": [
+        "твой"
+      ],
+      "en": [
+        "your"
+      ],
+      "ar": [
+        "ـك",
+        "خاصتك"
+      ]
+    },
+    "id": "dein"
+  },
+  {
+    "dictionaryId": "mein",
+    "type": "other",
+    "word": "mein-",
+    "translation": {
+      "ru": [
+        "мой"
+      ],
+      "en": [
+        "my"
+      ],
+      "ar": [
+        "لي",
+        "خاصتي"
+      ]
+    },
+    "id": "mein"
+  },
+  {
+    "dictionaryId": "ihr",
+    "type": "other",
+    "word": "Ihr-",
+    "translation": {
+      "ru": [
+        "ваш",
+        "Ваш"
+      ],
+      "en": [
+        "your formal"
+      ],
+      "ar": [
+        "حضرتك",
+        "خاصتكم بصيغة الاحترام"
+      ]
+    },
+    "id": "ihr"
+  },
+  {
+    "dictionaryId": "ehemann",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Ehemann",
+    "plural": "Ehemänner",
+    "translation": {
+      "ru": [
+        "муж",
+        "супруг"
+      ],
+      "en": [
+        "husband"
+      ],
+      "ar": [
+        "زوج"
+      ]
+    },
+    "id": "ehemann"
+  },
+  {
+    "dictionaryId": "ehefrau",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ehefrau",
+    "plural": "Ehefrauen",
+    "translation": {
+      "ru": [
+        "жена",
+        "супруга"
+      ],
+      "en": [
+        "wife"
+      ],
+      "ar": [
+        "زوجة"
+      ]
+    },
+    "id": "ehefrau"
+  },
+  {
+    "dictionaryId": "falsch",
+    "type": "other",
+    "word": "falsch",
+    "translation": {
+      "ru": [
+        "неправильно",
+        "неправильный",
+        "ложный"
+      ],
+      "en": [
+        "wrong",
+        "false"
+      ],
+      "ar": [
+        "خطأ",
+        "خاطئ"
+      ]
+    },
+    "id": "falsch"
+  },
+  {
+    "dictionaryId": "sie",
+    "type": "other",
+    "word": "sie",
+    "comment": "Singular",
+    "translation": {
+      "ru": [
+        "она"
+      ],
+      "en": [
+        "she"
+      ],
+      "ar": [
+        "هي"
+      ]
+    },
+    "id": "sie"
+  },
+  {
+    "dictionaryId": "zusammen",
+    "type": "other",
+    "word": "zusammen",
+    "translation": {
+      "ru": [
+        "вместе"
+      ],
+      "en": [
+        "together"
+      ],
+      "ar": [
+        "معًا"
+      ]
+    },
+    "id": "zusammen"
+  },
+  {
+    "dictionaryId": "sie",
+    "type": "other",
+    "word": "sie",
+    "comment": "Plural",
+    "translation": {
+      "ru": [
+        "они"
+      ],
+      "en": [
+        "they"
+      ],
+      "ar": [
+        "هم",
+        "هن"
+      ]
+    },
+    "id": "sie-2"
+  },
+  {
+    "dictionaryId": "geschieden",
+    "type": "other",
+    "word": "geschieden",
+    "translation": {
+      "ru": [
+        "разведённый",
+        "разведена"
+      ],
+      "en": [
+        "divorced"
+      ],
+      "ar": [
+        "مطلق",
+        "مطلقة"
+      ]
+    },
+    "id": "geschieden"
+  },
+  {
+    "dictionaryId": "er",
+    "type": "other",
+    "word": "er",
+    "translation": {
+      "ru": [
+        "он"
+      ],
+      "en": [
+        "he"
+      ],
+      "ar": [
+        "هو"
+      ]
+    },
+    "id": "er"
+  },
+  {
+    "dictionaryId": "wohnen",
+    "type": "verb",
+    "infinitive": "wohnen",
+    "praeteritum": "wohnte",
+    "perfekt": "hat gewohnt",
+    "translation": {
+      "ru": [
+        "жить",
+        "проживать"
+      ],
+      "en": [
+        "to live",
+        "to reside"
+      ],
+      "ar": [
+        "يسكن",
+        "يعيش"
+      ]
+    },
+    "id": "wohnen"
+  },
+  {
+    "dictionaryId": "jetzt",
+    "type": "other",
+    "word": "jetzt",
+    "translation": {
+      "ru": [
+        "сейчас",
+        "теперь"
+      ],
+      "en": [
+        "now"
+      ],
+      "ar": [
+        "الآن"
+      ]
+    },
+    "id": "jetzt"
+  },
+  {
+    "dictionaryId": "ihr",
+    "type": "other",
+    "word": "ihr",
+    "translation": {
+      "ru": [
+        "вы",
+        "её"
+      ],
+      "en": [
+        "you plural",
+        "her"
+      ],
+      "ar": [
+        "أنتم",
+        "لها"
+      ]
+    },
+    "id": "ihr-2"
+  },
+  {
+    "dictionaryId": "wir",
+    "type": "other",
+    "word": "wir",
+    "translation": {
+      "ru": [
+        "мы"
+      ],
+      "en": [
+        "we"
+      ],
+      "ar": [
+        "نحن"
+      ]
+    },
+    "id": "wir"
+  },
+  {
+    "dictionaryId": "zahl",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zahl",
+    "plural": "Zahlen",
+    "translation": {
+      "ru": [
+        "число",
+        "цифра",
+        "номер"
+      ],
+      "en": [
+        "number",
+        "digit"
+      ],
+      "ar": [
+        "عدد",
+        "رقم"
+      ]
+    },
+    "id": "zahl"
+  },
+  {
+    "dictionaryId": "wo",
+    "type": "other",
+    "word": "wo",
+    "translation": {
+      "ru": [
+        "где"
+      ],
+      "en": [
+        "where"
+      ],
+      "ar": [
+        "أين"
+      ]
+    },
+    "id": "wo"
+  },
+  {
+    "dictionaryId": "geboren",
+    "type": "other",
+    "word": "geboren",
+    "translation": {
+      "ru": [
+        "рождённый"
+      ],
+      "en": [
+        "born"
+      ],
+      "ar": [
+        "مولود"
+      ]
+    },
+    "id": "geboren"
+  },
+  {
+    "dictionaryId": "nummer",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nummer",
+    "plural": "Nummern",
+    "translation": {
+      "ru": [
+        "номер",
+        "число"
+      ],
+      "en": [
+        "number"
+      ],
+      "ar": [
+        "رقم"
+      ]
+    },
+    "id": "nummer"
+  },
+  {
+    "dictionaryId": "verheiratet",
+    "type": "other",
+    "word": "verheiratet",
+    "translation": {
+      "ru": [
+        "женат",
+        "замужем"
+      ],
+      "en": [
+        "married"
+      ],
+      "ar": [
+        "متزوج",
+        "متزوجة"
+      ]
+    },
+    "id": "verheiratet"
+  },
+  {
+    "dictionaryId": "haben",
+    "type": "verb",
+    "infinitive": "haben",
+    "praeteritum": "hatte",
+    "perfekt": "hat gehabt",
+    "translation": {
+      "ru": [
+        "иметь"
+      ],
+      "en": [
+        "to have"
+      ],
+      "ar": [
+        "لديه",
+        "يملك"
+      ]
+    },
+    "id": "haben"
+  },
+  {
+    "dictionaryId": "geburtsort",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Geburtsort",
+    "plural": "Geburtsorte",
+    "translation": {
+      "ru": [
+        "место рождения"
+      ],
+      "en": [
+        "place of birth"
+      ],
+      "ar": [
+        "مكان الميلاد"
+      ]
+    },
+    "id": "geburtsort"
+  },
+  {
+    "dictionaryId": "wohnort",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Wohnort",
+    "plural": "Wohnorte",
+    "translation": {
+      "ru": [
+        "место жительства"
+      ],
+      "en": [
+        "place of residence"
+      ],
+      "ar": [
+        "مكان السكن"
+      ]
+    },
+    "id": "wohnort"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Familienstand",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "семейное положение"
+      ],
+      "en": [
+        "marital status"
+      ],
+      "ar": [
+        "الحالة الاجتماعية"
+      ]
+    },
+    "id": "familienstand"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "ledig",
+    "translation": {
+      "ru": [
+        "холостой",
+        "незамужняя",
+        "неженатый"
+      ],
+      "en": [
+        "single",
+        "unmarried"
+      ],
+      "ar": [
+        "أعزب",
+        "عزباء"
+      ]
+    },
+    "id": "ledig"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "verwitwet",
+    "translation": {
+      "ru": [
+        "овдовевший",
+        "вдовец",
+        "вдова"
+      ],
+      "en": [
+        "widowed"
+      ],
+      "ar": [
+        "أرمل",
+        "أرملة"
+      ]
+    },
+    "id": "verwitwet"
+  },
+  {
+    "dictionaryId": "alter",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Alter",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "возраст"
+      ],
+      "en": [
+        "age"
+      ],
+      "ar": [
+        "العمر"
+      ]
+    },
+    "id": "alter"
+  },
+  {
+    "dictionaryId": "norden",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Norden",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "север"
+      ],
+      "en": [
+        "north"
+      ],
+      "ar": [
+        "الشمال"
+      ]
+    },
+    "id": "norden"
+  },
+  {
+    "dictionaryId": "osten",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Osten",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "восток"
+      ],
+      "en": [
+        "east"
+      ],
+      "ar": [
+        "الشرق"
+      ]
+    },
+    "id": "osten"
+  },
+  {
+    "dictionaryId": "süden",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Süden",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "юг"
+      ],
+      "en": [
+        "south"
+      ],
+      "ar": [
+        "الجنوب"
+      ]
+    },
+    "id": "süden"
+  },
+  {
+    "dictionaryId": "westen",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Westen",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "запад"
+      ],
+      "en": [
+        "west"
+      ],
+      "ar": [
+        "الغرب"
+      ]
+    },
+    "id": "westen"
+  },
+  {
+    "dictionaryId": "hauptstadt",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Hauptstadt",
+    "plural": "Hauptstädte",
+    "translation": {
+      "ru": [
+        "столица"
+      ],
+      "en": [
+        "capital city"
+      ],
+      "ar": [
+        "عاصمة"
+      ]
+    },
+    "id": "hauptstadt"
+  },
+  {
+    "dictionaryId": "süd",
+    "type": "other",
+    "word": "Süd-",
+    "translation": {
+      "ru": [
+        "южный"
+      ],
+      "en": [
+        "south",
+        "southern"
+      ],
+      "ar": [
+        "جنوبي"
+      ]
+    },
+    "id": "süd"
+  },
+  {
+    "dictionaryId": "nord",
+    "type": "other",
+    "word": "Nord-",
+    "translation": {
+      "ru": [
+        "северный"
+      ],
+      "en": [
+        "north",
+        "northern"
+      ],
+      "ar": [
+        "شمالي"
+      ]
+    },
+    "id": "nord"
+  },
+  {
+    "dictionaryId": "lehrer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Lehrer",
+    "plural": "Lehrer",
+    "translation": {
+      "ru": [
+        "учитель",
+        "преподаватель"
+      ],
+      "en": [
+        "teacher"
+      ],
+      "ar": [
+        "معلم"
+      ]
+    },
+    "id": "lehrer"
+  },
+  {
+    "dictionaryId": "lehrerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Lehrerin",
+    "plural": "Lehrerinnen",
+    "translation": {
+      "ru": [
+        "учительница",
+        "преподавательница"
+      ],
+      "en": [
+        "female teacher"
+      ],
+      "ar": [
+        "معلمة"
+      ]
+    },
+    "id": "lehrerin"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Deutsche",
+    "plural": "Deutschen",
+    "translation": {
+      "ru": [
+        "немец"
+      ],
+      "en": [
+        "German man"
+      ],
+      "ar": [
+        "ألماني"
+      ]
+    },
+    "id": "deutsche"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Deutsche",
+    "plural": "Deutschen",
+    "translation": {
+      "ru": [
+        "немка"
+      ],
+      "en": [
+        "German woman"
+      ],
+      "ar": [
+        "ألمانية"
+      ]
+    },
+    "id": "deutsche-2"
+  }
+]

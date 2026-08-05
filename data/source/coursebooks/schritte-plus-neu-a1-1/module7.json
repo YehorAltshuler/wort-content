@@ -1,0 +1,1061 @@
+[
+  {
+    "dictionaryId": "prima",
+    "type": "other",
+    "word": "prima",
+    "translation": {
+      "ru": [
+        "отлично",
+        "здорово"
+      ],
+      "en": [
+        "great",
+        "excellent"
+      ],
+      "ar": [
+        "ممتاز",
+        "رائع"
+      ]
+    },
+    "id": "prima"
+  },
+  {
+    "dictionaryId": "team",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Team",
+    "plural": "Teams",
+    "translation": {
+      "ru": [
+        "команда"
+      ],
+      "en": [
+        "team"
+      ],
+      "ar": [
+        "فريق"
+      ]
+    },
+    "id": "team"
+  },
+  {
+    "dictionaryId": "wecken",
+    "type": "verb",
+    "infinitive": "wecken",
+    "praeteritum": "weckte",
+    "perfekt": "hat geweckt",
+    "translation": {
+      "ru": [
+        "будить",
+        "разбудить"
+      ],
+      "en": [
+        "to wake someone up"
+      ],
+      "ar": [
+        "يوقظ"
+      ]
+    },
+    "id": "wecken"
+  },
+  {
+    "dictionaryId": "frühstück",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Frühstück",
+    "plural": "Frühstücke",
+    "translation": {
+      "ru": [
+        "завтрак"
+      ],
+      "en": [
+        "breakfast"
+      ],
+      "ar": [
+        "فطور"
+      ]
+    },
+    "id": "frühstück"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "fertig sein",
+    "translation": {
+      "ru": [
+        "быть готовым"
+      ],
+      "en": [
+        "to be ready",
+        "to be finished"
+      ],
+      "ar": [
+        "يكون جاهزًا"
+      ]
+    },
+    "id": "fertig-sein"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "los sein",
+    "translation": {
+      "ru": [
+        "случаться",
+        "происходить"
+      ],
+      "en": [
+        "to be going on",
+        "to be happening"
+      ],
+      "ar": [
+        "يحدث"
+      ]
+    },
+    "id": "los-sein"
+  },
+  {
+    "dictionaryId": "schreiben",
+    "type": "verb",
+    "infinitive": "schreiben",
+    "praeteritum": "schrieb",
+    "perfekt": "hat geschrieben",
+    "translation": {
+      "ru": [
+        "писать"
+      ],
+      "en": [
+        "to write"
+      ],
+      "ar": [
+        "يكتب"
+      ]
+    },
+    "id": "schreiben"
+  },
+  {
+    "dictionaryId": "mathematik",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mathematik",
+    "plural": "",
+    "comment": "Sg.; kurz: Mathe",
+    "translation": {
+      "ru": [
+        "математика"
+      ],
+      "en": [
+        "mathematics",
+        "math"
+      ],
+      "ar": [
+        "رياضيات"
+      ]
+    },
+    "id": "mathematik"
+  },
+  {
+    "dictionaryId": "test",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Test",
+    "plural": "Tests",
+    "translation": {
+      "ru": [
+        "тест",
+        "контрольная"
+      ],
+      "en": [
+        "test"
+      ],
+      "ar": [
+        "اختبار"
+      ]
+    },
+    "id": "test"
+  },
+  {
+    "dictionaryId": "pünktlich",
+    "type": "other",
+    "word": "pünktlich",
+    "translation": {
+      "ru": [
+        "пунктуальный",
+        "вовремя"
+      ],
+      "en": [
+        "punctual",
+        "on time"
+      ],
+      "ar": [
+        "دقيق في الموعد"
+      ]
+    },
+    "id": "pünktlich"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "auf keinen Fall",
+    "translation": {
+      "ru": [
+        "ни в коем случае"
+      ],
+      "en": [
+        "by no means",
+        "under no circumstances"
+      ],
+      "ar": [
+        "بأي حال من الأحوال"
+      ]
+    },
+    "id": "auf-keinen-fall"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "auf jeden Fall",
+    "translation": {
+      "ru": [
+        "в любом случае",
+        "обязательно"
+      ],
+      "en": [
+        "in any case",
+        "definitely"
+      ],
+      "ar": [
+        "على أي حال",
+        "بالتأكيد"
+      ]
+    },
+    "id": "auf-jeden-fall"
+  },
+  {
+    "dictionaryId": "schmecken",
+    "type": "verb",
+    "infinitive": "schmecken",
+    "praeteritum": "schmeckte",
+    "perfekt": "hat geschmeckt",
+    "translation": {
+      "ru": [
+        "быть вкусным",
+        "иметь вкус"
+      ],
+      "en": [
+        "to taste",
+        "to taste good"
+      ],
+      "ar": [
+        "يكون طعمه",
+        "يعجب مذاقه"
+      ]
+    },
+    "id": "schmecken"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "nach Hause",
+    "translation": {
+      "ru": [
+        "домой"
+      ],
+      "en": [
+        "home"
+      ],
+      "ar": [
+        "إلى البيت"
+      ]
+    },
+    "id": "nach-hause"
+  },
+  {
+    "dictionaryId": "schule",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schule",
+    "plural": "Schulen",
+    "translation": {
+      "ru": [
+        "школа"
+      ],
+      "en": [
+        "school"
+      ],
+      "ar": [
+        "مدرسة"
+      ]
+    },
+    "id": "schule"
+  },
+  {
+    "dictionaryId": "können",
+    "type": "verb",
+    "infinitive": "können",
+    "praeteritum": "konnte",
+    "perfekt": "hat gekonnt",
+    "translation": {
+      "ru": [
+        "мочь",
+        "уметь"
+      ],
+      "en": [
+        "can",
+        "to be able to"
+      ],
+      "ar": [
+        "يستطيع"
+      ]
+    },
+    "id": "können"
+  },
+  {
+    "dictionaryId": "krank",
+    "type": "other",
+    "word": "krank",
+    "translation": {
+      "ru": [
+        "больной"
+      ],
+      "en": [
+        "sick",
+        "ill"
+      ],
+      "ar": [
+        "مريض"
+      ]
+    },
+    "id": "krank"
+  },
+  {
+    "dictionaryId": "arzt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Arzt",
+    "plural": "Ärzte",
+    "translation": {
+      "ru": [
+        "врач",
+        "доктор"
+      ],
+      "en": [
+        "doctor",
+        "physician"
+      ],
+      "ar": [
+        "طبيب"
+      ]
+    },
+    "id": "arzt"
+  },
+  {
+    "dictionaryId": "ärztin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ärztin",
+    "plural": "Ärztinnen",
+    "translation": {
+      "ru": [
+        "врач",
+        "женщина-врач"
+      ],
+      "en": [
+        "female doctor",
+        "doctor"
+      ],
+      "ar": [
+        "طبيبة"
+      ]
+    },
+    "id": "ärztin"
+  },
+  {
+    "dictionaryId": "backen",
+    "type": "verb",
+    "infinitive": "backen",
+    "praeteritum": "backte / buk",
+    "perfekt": "hat gebacken",
+    "translation": {
+      "ru": [
+        "печь",
+        "выпекать"
+      ],
+      "en": [
+        "to bake"
+      ],
+      "ar": [
+        "يخبز"
+      ]
+    },
+    "id": "backen"
+  },
+  {
+    "dictionaryId": "singen",
+    "type": "verb",
+    "infinitive": "singen",
+    "praeteritum": "sang",
+    "perfekt": "hat gesungen",
+    "translation": {
+      "ru": [
+        "петь"
+      ],
+      "en": [
+        "to sing"
+      ],
+      "ar": [
+        "يغني"
+      ]
+    },
+    "id": "singen"
+  },
+  {
+    "dictionaryId": "reiten",
+    "type": "verb",
+    "infinitive": "reiten",
+    "praeteritum": "ritt",
+    "perfekt": "ist/hat geritten",
+    "translation": {
+      "ru": [
+        "ездить верхом"
+      ],
+      "en": [
+        "to ride a horse"
+      ],
+      "ar": [
+        "يركب الخيل"
+      ]
+    },
+    "id": "reiten"
+  },
+  {
+    "dictionaryId": "klavier",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Klavier",
+    "plural": "Klaviere",
+    "translation": {
+      "ru": [
+        "пианино",
+        "фортепиано"
+      ],
+      "en": [
+        "piano"
+      ],
+      "ar": [
+        "بيانو"
+      ]
+    },
+    "id": "klavier"
+  },
+  {
+    "dictionaryId": "malen",
+    "type": "verb",
+    "infinitive": "malen",
+    "praeteritum": "malte",
+    "perfekt": "hat gemalt",
+    "translation": {
+      "ru": [
+        "рисовать",
+        "писать красками"
+      ],
+      "en": [
+        "to paint",
+        "to draw"
+      ],
+      "ar": [
+        "يرسم"
+      ]
+    },
+    "id": "malen"
+  },
+  {
+    "dictionaryId": "ski",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Ski",
+    "plural": "Skier",
+    "translation": {
+      "ru": [
+        "лыжа"
+      ],
+      "en": [
+        "ski"
+      ],
+      "ar": [
+        "زلاجة تزلج"
+      ]
+    },
+    "id": "ski"
+  },
+  {
+    "dictionaryId": "tennis",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Tennis",
+    "plural": "",
+    "comment": "Sg.; Tennis spielen",
+    "translation": {
+      "ru": [
+        "теннис",
+        "играть в теннис"
+      ],
+      "en": [
+        "tennis",
+        "to play tennis"
+      ],
+      "ar": [
+        "تنس",
+        "يلعب التنس"
+      ]
+    },
+    "id": "tennis"
+  },
+  {
+    "dictionaryId": "wollen",
+    "type": "verb",
+    "infinitive": "wollen",
+    "praeteritum": "wollte",
+    "perfekt": "hat gewollt",
+    "translation": {
+      "ru": [
+        "хотеть"
+      ],
+      "en": [
+        "to want"
+      ],
+      "ar": [
+        "يريد"
+      ]
+    },
+    "id": "wollen"
+  },
+  {
+    "dictionaryId": "endlich",
+    "type": "other",
+    "word": "endlich",
+    "translation": {
+      "ru": [
+        "наконец",
+        "наконец-то"
+      ],
+      "en": [
+        "finally",
+        "at last"
+      ],
+      "ar": [
+        "أخيرًا"
+      ]
+    },
+    "id": "endlich"
+  },
+  {
+    "dictionaryId": "lied",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Lied",
+    "plural": "Lieder",
+    "translation": {
+      "ru": [
+        "песня"
+      ],
+      "en": [
+        "song"
+      ],
+      "ar": [
+        "أغنية"
+      ]
+    },
+    "id": "lied"
+  },
+  {
+    "dictionaryId": "üben",
+    "type": "verb",
+    "infinitive": "üben",
+    "praeteritum": "übte",
+    "perfekt": "hat geübt",
+    "translation": {
+      "ru": [
+        "тренировать",
+        "упражняться",
+        "повторять"
+      ],
+      "en": [
+        "to practice",
+        "to rehearse"
+      ],
+      "ar": [
+        "يتدرب",
+        "يمارس"
+      ]
+    },
+    "id": "üben"
+  },
+  {
+    "dictionaryId": "text",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Text",
+    "plural": "Texte",
+    "translation": {
+      "ru": [
+        "текст"
+      ],
+      "en": [
+        "text"
+      ],
+      "ar": [
+        "نص"
+      ]
+    },
+    "id": "text"
+  },
+  {
+    "dictionaryId": "übung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Übung",
+    "plural": "Übungen",
+    "translation": {
+      "ru": [
+        "упражнение",
+        "тренировка"
+      ],
+      "en": [
+        "exercise",
+        "practice"
+      ],
+      "ar": [
+        "تمرين"
+      ]
+    },
+    "id": "übung"
+  },
+  {
+    "dictionaryId": "brief",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Brief",
+    "plural": "Briefe",
+    "translation": {
+      "ru": [
+        "письмо"
+      ],
+      "en": [
+        "letter"
+      ],
+      "ar": [
+        "رسالة"
+      ]
+    },
+    "id": "brief"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Diktat",
+    "plural": "Diktate",
+    "translation": {
+      "ru": [
+        "диктант"
+      ],
+      "en": [
+        "dictation"
+      ],
+      "ar": [
+        "إملاء"
+      ]
+    },
+    "id": "diktat"
+  },
+  {
+    "dictionaryId": "buch",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Buch",
+    "plural": "Bücher",
+    "translation": {
+      "ru": [
+        "книга"
+      ],
+      "en": [
+        "book"
+      ],
+      "ar": [
+        "كتاب"
+      ]
+    },
+    "id": "buch"
+  },
+  {
+    "dictionaryId": "schade",
+    "type": "other",
+    "word": "schade",
+    "translation": {
+      "ru": [
+        "жаль"
+      ],
+      "en": [
+        "pity",
+        "too bad"
+      ],
+      "ar": [
+        "للأسف"
+      ]
+    },
+    "id": "schade"
+  },
+  {
+    "dictionaryId": "kilometer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kilometer",
+    "plural": "Kilometer",
+    "translation": {
+      "ru": [
+        "километр"
+      ],
+      "en": [
+        "kilometer",
+        "kilometre"
+      ],
+      "ar": [
+        "كيلومتر"
+      ]
+    },
+    "id": "kilometer"
+  },
+  {
+    "dictionaryId": "kommunikation",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kommunikation",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "коммуникация",
+        "общение"
+      ],
+      "en": [
+        "communication"
+      ],
+      "ar": [
+        "تواصل",
+        "اتصال"
+      ]
+    },
+    "id": "kommunikation"
+  },
+  {
+    "dictionaryId": "lieb",
+    "type": "other",
+    "word": "lieb-",
+    "translation": {
+      "ru": [
+        "милый",
+        "дорогой",
+        "любимый"
+      ],
+      "en": [
+        "dear",
+        "nice",
+        "lovely"
+      ],
+      "ar": [
+        "عزيز",
+        "لطيف"
+      ]
+    },
+    "id": "lieb"
+  },
+  {
+    "dictionaryId": "mädchen",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Mädchen",
+    "plural": "Mädchen",
+    "translation": {
+      "ru": [
+        "девочка",
+        "девушка"
+      ],
+      "en": [
+        "girl"
+      ],
+      "ar": [
+        "فتاة"
+      ]
+    },
+    "id": "mädchen"
+  },
+  {
+    "dictionaryId": "junge",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Junge",
+    "plural": "Jungen",
+    "translation": {
+      "ru": [
+        "мальчик",
+        "юноша"
+      ],
+      "en": [
+        "boy"
+      ],
+      "ar": [
+        "ولد"
+      ]
+    },
+    "id": "junge"
+  },
+  {
+    "dictionaryId": "klasse",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Klasse",
+    "plural": "Klassen",
+    "translation": {
+      "ru": [
+        "класс"
+      ],
+      "en": [
+        "class"
+      ],
+      "ar": [
+        "صف",
+        "فصل"
+      ]
+    },
+    "id": "klasse"
+  },
+  {
+    "dictionaryId": "schwimmbad",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Schwimmbad",
+    "plural": "Schwimmbäder",
+    "translation": {
+      "ru": [
+        "бассейн"
+      ],
+      "en": [
+        "swimming pool"
+      ],
+      "ar": [
+        "مسبح"
+      ]
+    },
+    "id": "schwimmbad"
+  },
+  {
+    "dictionaryId": "eintritt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Eintritt",
+    "plural": "",
+    "comment": "обычно Sg.",
+    "translation": {
+      "ru": [
+        "вход",
+        "входная плата",
+        "проход"
+      ],
+      "en": [
+        "entrance",
+        "admission",
+        "entry fee"
+      ],
+      "ar": [
+        "دخول",
+        "رسوم الدخول"
+      ]
+    },
+    "id": "eintritt"
+  },
+  {
+    "dictionaryId": "losfahren",
+    "type": "verb",
+    "infinitive": "losfahren",
+    "praeteritum": "fuhr los",
+    "perfekt": "ist losgefahren",
+    "translation": {
+      "ru": [
+        "отправляться",
+        "выезжать"
+      ],
+      "en": [
+        "to set off",
+        "to leave"
+      ],
+      "ar": [
+        "ينطلق",
+        "يغادر"
+      ]
+    },
+    "id": "losfahren"
+  },
+  {
+    "dictionaryId": "zurückkommen",
+    "type": "verb",
+    "infinitive": "zurückkommen",
+    "praeteritum": "kam zurück",
+    "perfekt": "ist zurückgekommen",
+    "translation": {
+      "ru": [
+        "возвращаться",
+        "вернуться"
+      ],
+      "en": [
+        "to come back",
+        "to return"
+      ],
+      "ar": [
+        "يعود"
+      ]
+    },
+    "id": "zurückkommen"
+  },
+  {
+    "dictionaryId": "grundschule",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Grundschule",
+    "plural": "Grundschulen",
+    "translation": {
+      "ru": [
+        "начальная школа"
+      ],
+      "en": [
+        "primary school",
+        "elementary school"
+      ],
+      "ar": [
+        "مدرسة ابتدائية"
+      ]
+    },
+    "id": "grundschule"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "mitkommen",
+    "praeteritum": "kam mit",
+    "perfekt": "ist mitgekommen",
+    "translation": {
+      "ru": [
+        "пойти вместе",
+        "пойти с кем-то",
+        "присоединиться"
+      ],
+      "en": [
+        "to come along",
+        "to come with"
+      ],
+      "ar": [
+        "يرافق",
+        "يأتي مع"
+      ]
+    },
+    "id": "mitkommen"
+  },
+  {
+    "dictionaryId": "unterricht",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Unterricht",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "урок",
+        "занятие",
+        "обучение"
+      ],
+      "en": [
+        "lesson",
+        "class",
+        "instruction"
+      ],
+      "ar": [
+        "درس",
+        "حصة"
+      ]
+    },
+    "id": "unterricht"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "leidtun",
+    "praeteritum": "tat leid",
+    "perfekt": "hat leidgetan",
+    "translation": {
+      "ru": [
+        "сожалеть",
+        "быть жаль",
+        "причинять боль"
+      ],
+      "en": [
+        "to be sorry",
+        "to feel sorry"
+      ],
+      "ar": [
+        "يأسف",
+        "يحزن"
+      ]
+    },
+    "id": "leidtun"
+  }
+]

@@ -1,0 +1,1116 @@
+[
+  {
+    "dictionaryId": "auflistung",
+    "type": "noun",
+    "word": "Auflistung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "список, перечень, перечисление, листинг, распечатка",
+        "составление (напр. таблицы)"
+      ],
+      "en": [
+        "listing, list"
+      ]
+    },
+    "id": "auflistung"
+  },
+  {
+    "dictionaryId": "aufstand",
+    "type": "noun",
+    "word": "Aufstand",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "восстание, мятеж"
+      ],
+      "en": [
+        "uprising, insurrection"
+      ]
+    },
+    "id": "aufstand"
+  },
+  {
+    "dictionaryId": "ausdruck",
+    "type": "noun",
+    "word": "Ausdruck",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "выражение, проявление",
+        "выражение (лица), мина",
+        "выражение, выразительность, экспрессия; чувство"
+      ],
+      "en": [
+        "expression, term",
+        "diction",
+        "expression, manifestation"
+      ]
+    },
+    "id": "ausdruck"
+  },
+  {
+    "dictionaryId": "ausdrücken",
+    "type": "verb",
+    "infinitive": "ausdrücken",
+    "translation": {
+      "ru": [
+        "выжимать, выдавливать; выталкивать",
+        "выражать",
+        "sich ~ выражаться, проявляться, находить выражение (в чём-л.)"
+      ],
+      "en": [
+        "to squeeze, to squeeze out",
+        "to stub out (a cigarette)",
+        "to express"
+      ]
+    },
+    "id": "ausdrücken"
+  },
+  {
+    "dictionaryId": "basilika",
+    "type": "noun",
+    "word": "Basilika",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "базилика"
+      ],
+      "en": [
+        "basilica"
+      ]
+    },
+    "id": "basilika"
+  },
+  {
+    "dictionaryId": "befreiung",
+    "type": "noun",
+    "word": "Befreiung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "освобождение, избавление (von D от кого-л., от чего-л.; aus D от чего-л., из чего-л.)",
+        "увольнение (со службы)"
+      ],
+      "en": [
+        "liberation",
+        "exemption"
+      ]
+    },
+    "id": "befreiung"
+  },
+  {
+    "dictionaryId": "beitritt",
+    "type": "noun",
+    "word": "Beitritt",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "вступление (zu D в организацию)",
+        "присоединение (zu D, напр., к договору)"
+      ],
+      "en": [
+        "the joining, entry into, becoming a member of (a club, organization, etc.)"
+      ]
+    },
+    "id": "beitritt"
+  },
+  {
+    "dictionaryId": "berühmen",
+    "type": "verb",
+    "infinitive": "berühmen",
+    "translation": {
+      "en": [
+        "to boast, to pride oneself (in/on/of)",
+        "to invoke, cite a law, authority, etc.",
+        "to praise, celebrate (someone or something)"
+      ]
+    },
+    "id": "berühmen"
+  },
+  {
+    "dictionaryId": "besetzen",
+    "type": "verb",
+    "infinitive": "besetzen",
+    "translation": {
+      "ru": [
+        "занимать (место, помещение и т. п.)",
+        "(mit D) уставлять (что-л. чем-л.)",
+        "воен. оккупировать; занимать (войсками)"
+      ],
+      "en": [
+        "to occupy",
+        "to cast (choose someone for a performing part)"
+      ]
+    },
+    "id": "besetzen"
+  },
+  {
+    "dictionaryId": "bundesrepublik",
+    "type": "noun",
+    "word": "Bundesrepublik",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "полит. федеративная республика"
+      ],
+      "en": [
+        "federal republic",
+        "Federal Republic of Germany"
+      ]
+    },
+    "id": "bundesrepublik"
+  },
+  {
+    "dictionaryId": "demut",
+    "type": "noun",
+    "word": "Demut",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "смирение, покорность; уничижённость"
+      ],
+      "en": [
+        "humility, meekness (comprehension or expression of one’s own lowliness)"
+      ]
+    },
+    "id": "demut"
+  },
+  {
+    "dictionaryId": "eisern",
+    "type": "other",
+    "word": "eisern",
+    "translation": {
+      "ru": [
+        "железный (тж. перен. о воле, дисциплине, здоровье и т. п.)"
+      ],
+      "en": [
+        "iron, ironclad, made of iron",
+        "staunch, unyielding"
+      ]
+    },
+    "id": "eisern"
+  },
+  {
+    "dictionaryId": "erinnern",
+    "type": "verb",
+    "infinitive": "erinnern",
+    "translation": {
+      "ru": [
+        "напоминать (кому-либо о чём-либо)",
+        "замечать, возражать, критиковать",
+        "помнить, вспоминать (о чём-либо)"
+      ],
+      "en": [
+        "to remind",
+        "to remember, to be reminded of",
+        "to remember, to commemorate"
+      ]
+    },
+    "id": "erinnern"
+  },
+  {
+    "dictionaryId": "erreichbar",
+    "type": "other",
+    "word": "erreichbar",
+    "translation": {
+      "ru": [
+        "достижимый, доступный"
+      ],
+      "en": [
+        "reachable, achievable, attainable",
+        "accessible, approachable"
+      ]
+    },
+    "id": "erreichbar"
+  },
+  {
+    "dictionaryId": "fahne",
+    "type": "noun",
+    "word": "Fahne",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "знамя, флаг",
+        "полигр. гранка",
+        "разг. запах, исходящий от пьяного"
+      ],
+      "en": [
+        "flag, banner (any cloth or fabric used as a symbol)",
+        "idea, ideal",
+        "the noticeable smell of alcohol on one's breath"
+      ]
+    },
+    "id": "fahne"
+  },
+  {
+    "dictionaryId": "feierlich",
+    "type": "other",
+    "word": "feierlich",
+    "translation": {
+      "ru": [
+        "торжественный; праздничный; церемониальный",
+        "торжественно; празднично"
+      ],
+      "en": [
+        "solemn, ceremonious"
+      ]
+    },
+    "id": "feierlich"
+  },
+  {
+    "dictionaryId": "flagge",
+    "type": "noun",
+    "word": "Flagge",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "флаг"
+      ],
+      "en": [
+        "flag"
+      ]
+    },
+    "id": "flagge"
+  },
+  {
+    "dictionaryId": "gebet",
+    "type": "noun",
+    "word": "Gebet",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "молитва; моление"
+      ],
+      "en": [
+        "prayer"
+      ]
+    },
+    "id": "gebet"
+  },
+  {
+    "dictionaryId": "gebiet",
+    "type": "noun",
+    "word": "Gebiet",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "область; зона; территория; район; округ",
+        "гидрол. бассейн, водосбор",
+        "перен. область, сфера; ведомство"
+      ],
+      "en": [
+        "area, region",
+        "territory",
+        "a set with certain properties:"
+      ]
+    },
+    "id": "gebiet"
+  },
+  {
+    "dictionaryId": "gedenkstätte",
+    "type": "noun",
+    "word": "Gedenkstätte",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "памятное место"
+      ],
+      "en": [
+        "memorial"
+      ]
+    },
+    "id": "gedenkstätte"
+  },
+  {
+    "dictionaryId": "gedenktag",
+    "type": "noun",
+    "word": "Gedenktag",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "день памяти, годовщина"
+      ],
+      "en": [
+        "anniversary",
+        "day of remembrance"
+      ]
+    },
+    "id": "gedenktag"
+  },
+  {
+    "dictionaryId": "geheimdienst",
+    "type": "noun",
+    "word": "Geheimdienst",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "спецслужба"
+      ],
+      "en": [
+        "intelligence agency, secret agency, intelligence service"
+      ]
+    },
+    "id": "geheimdienst"
+  },
+  {
+    "dictionaryId": "grab",
+    "type": "noun",
+    "word": "Grab",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "могила",
+        "гроб"
+      ],
+      "en": [
+        "grave",
+        "tomb"
+      ]
+    },
+    "id": "grab"
+  },
+  {
+    "dictionaryId": "grenzen",
+    "type": "verb",
+    "infinitive": "grenzen",
+    "translation": {
+      "ru": [
+        "(an A) граничить (с чем-л.)",
+        "(an A) соприкасаться (с чем-л.)",
+        "прилегать (к чему-л.)"
+      ],
+      "en": [
+        "to border",
+        "to come close to, to almost be (to be very similar)"
+      ]
+    },
+    "id": "grenzen"
+  },
+  {
+    "dictionaryId": "hammer",
+    "type": "noun",
+    "word": "Hammer",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "молот (тж. спорт.); молоток",
+        "молоток (как символ аукциона)"
+      ],
+      "en": [
+        "hammer, mallet",
+        "sensation, something extraordinary (be it positive or negative)",
+        "a hard shot, slam"
+      ]
+    },
+    "id": "hammer"
+  },
+  {
+    "dictionaryId": "kapitalismus",
+    "type": "noun",
+    "word": "Kapitalismus",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "капитализм"
+      ],
+      "en": [
+        "capitalism"
+      ]
+    },
+    "id": "kapitalismus"
+  },
+  {
+    "dictionaryId": "landesweit",
+    "type": "other",
+    "word": "landesweit",
+    "translation": {
+      "en": [
+        "nationwide, national",
+        "statewide, on the level of Bundesland"
+      ]
+    },
+    "id": "landesweit"
+  },
+  {
+    "dictionaryId": "liberal",
+    "type": "other",
+    "word": "liberal",
+    "translation": {
+      "ru": [
+        "либеральный"
+      ],
+      "en": [
+        "liberal; permissive; allowing personal freedoms",
+        "libertarian; liberal in the traditional sense (see usage notes below)"
+      ]
+    },
+    "id": "liberal"
+  },
+  {
+    "dictionaryId": "marktwirtschaft",
+    "type": "noun",
+    "word": "Marktwirtschaft",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "рыночная экономика"
+      ],
+      "en": [
+        "market economy (type of economy)"
+      ]
+    },
+    "id": "marktwirtschaft"
+  },
+  {
+    "dictionaryId": "mauer",
+    "type": "noun",
+    "word": "Mauer",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "(каменная, кирпичная) стена (ограда); каменная стенка (конный спорт); плотина (из кладки)",
+        "перен. оплот, (надёжная) защита",
+        "городская (крепостная) стена, черта города"
+      ],
+      "en": [
+        "a wall, usually one made of stone or concrete",
+        "several players forming a blockade against the ball",
+        "the Berlin Wall"
+      ]
+    },
+    "id": "mauer"
+  },
+  {
+    "dictionaryId": "militärbündnis",
+    "type": "noun",
+    "word": "Militärbündnis",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "en": [
+        "military alliance"
+      ]
+    },
+    "id": "militärbündnis"
+  },
+  {
+    "dictionaryId": "million",
+    "type": "noun",
+    "word": "Million",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "(сокр. Mill., Mio.) миллион"
+      ],
+      "en": [
+        "million (10⁶)"
+      ]
+    },
+    "id": "million"
+  },
+  {
+    "dictionaryId": "ministerium",
+    "type": "noun",
+    "word": "Ministerium",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "министерство"
+      ],
+      "en": [
+        "ministry"
+      ]
+    },
+    "id": "ministerium"
+  },
+  {
+    "dictionaryId": "moschee",
+    "type": "noun",
+    "word": "Moschee",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "религ. мечеть"
+      ],
+      "en": [
+        "mosque"
+      ]
+    },
+    "id": "moschee"
+  },
+  {
+    "dictionaryId": "namen",
+    "type": "noun",
+    "word": "Namen",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "Namur, a city in southern Belgium.",
+        "Namur, a former countship in present Belgium, named after its above capital city.",
+        "Namur, a province of Belgium, named after its above capital city."
+      ]
+    },
+    "id": "namen"
+  },
+  {
+    "dictionaryId": "nation",
+    "type": "noun",
+    "word": "Nation",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "нация, народ",
+        "страна, государство"
+      ],
+      "en": [
+        "nation (community of people)",
+        "nation (a sovereign state)"
+      ]
+    },
+    "id": "nation"
+  },
+  {
+    "dictionaryId": "nu",
+    "type": "noun",
+    "word": "Nu",
+    "article": [
+      "der",
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "миг, мгновение"
+      ],
+      "en": [
+        "only used in im Nu (“immediately, in no time”, literally “in the now”)"
+      ]
+    },
+    "id": "nu"
+  },
+  {
+    "dictionaryId": "opfer",
+    "type": "noun",
+    "word": "Opfer",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "жертва",
+        "пожертвование",
+        "уничиж., жарг. слабак, слизняк, тряпка, терпила (о слабом или бесхарактерном человеке)"
+      ],
+      "en": [
+        "sacrifice",
+        "victim",
+        "loser, wimp (someone weak or dependent; one who cannot stand up for themselves)"
+      ]
+    },
+    "id": "opfer"
+  },
+  {
+    "dictionaryId": "pakt",
+    "type": "noun",
+    "word": "Pakt",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "пакт, договор, соглашение"
+      ],
+      "en": [
+        "pact, agreement"
+      ]
+    },
+    "id": "pakt"
+  },
+  {
+    "dictionaryId": "plenarsaal",
+    "type": "noun",
+    "word": "Plenarsaal",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "plenary chamber"
+      ]
+    },
+    "id": "plenarsaal"
+  },
+  {
+    "dictionaryId": "politiker",
+    "type": "noun",
+    "word": "Politiker",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "политик, политический деятель"
+      ],
+      "en": [
+        "politician"
+      ]
+    },
+    "id": "politiker"
+  },
+  {
+    "dictionaryId": "polnisch",
+    "type": "noun",
+    "word": "Polnisch",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "польский язык"
+      ],
+      "en": [
+        "the Polish language"
+      ]
+    },
+    "id": "polnisch"
+  },
+  {
+    "dictionaryId": "preuße",
+    "type": "noun",
+    "word": "Preuße",
+    "translation": {
+      "en": [
+        "Prussian",
+        "Northern German"
+      ]
+    },
+    "id": "preusse"
+  },
+  {
+    "dictionaryId": "reich",
+    "type": "noun",
+    "word": "Reich",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "государство, держава, империя, царство",
+        "перен. царство, мир",
+        "рейх, в особенности в качестве приставки Reich-"
+      ],
+      "en": [
+        "empire or significant State",
+        "realm (also e.g. of plants)",
+        "the Holy Roman Empire, the First Reich"
+      ]
+    },
+    "id": "reich"
+  },
+  {
+    "dictionaryId": "republik",
+    "type": "noun",
+    "word": "Republik",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "республика"
+      ],
+      "en": [
+        "republic (type of state)"
+      ]
+    },
+    "id": "republik"
+  },
+  {
+    "dictionaryId": "resolution",
+    "type": "noun",
+    "word": "Resolution",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "резолюция, решение; постановление",
+        "решимость, решительность",
+        "мед. рассасывание, прекращение воспалительных явлений"
+      ],
+      "en": [
+        "resolution"
+      ]
+    },
+    "id": "resolution"
+  },
+  {
+    "dictionaryId": "rundfunk",
+    "type": "noun",
+    "word": "Rundfunk",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "вещание"
+      ],
+      "en": [
+        "broadcasting (The business or profession of radio and television.)",
+        "radio (technical means)"
+      ]
+    },
+    "id": "rundfunk"
+  },
+  {
+    "dictionaryId": "sogenannt",
+    "type": "other",
+    "word": "sogenannt",
+    "translation": {
+      "ru": [
+        "так называемый"
+      ],
+      "en": [
+        "so-called"
+      ]
+    },
+    "id": "sogenannt"
+  },
+  {
+    "dictionaryId": "sozialdemokratie",
+    "type": "noun",
+    "word": "Sozialdemokratie",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "социал-демократия"
+      ],
+      "en": [
+        "social democracy"
+      ]
+    },
+    "id": "sozialdemokratie"
+  },
+  {
+    "dictionaryId": "sozialismus",
+    "type": "noun",
+    "word": "Sozialismus",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "полит. социализм"
+      ],
+      "en": [
+        "socialism"
+      ]
+    },
+    "id": "sozialismus"
+  },
+  {
+    "dictionaryId": "stand",
+    "type": "noun",
+    "word": "Stand",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "стояние, стойка, стоячее положение",
+        "место, (место)положение, расположение",
+        "положение, состояние"
+      ],
+      "en": [
+        "standing, state, status, position, situation",
+        "class, stratum (group of people with a certain social status)",
+        "estate"
+      ]
+    },
+    "id": "stand"
+  },
+  {
+    "dictionaryId": "stolperstein",
+    "type": "noun",
+    "word": "Stolperstein",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "камень преткновения",
+        "перен. подводный камень"
+      ],
+      "en": [
+        "stumbling block (raised or uneven stone or paving slab over which someone could stumble)",
+        "pitfall, obstacle, hindrance, stumbling block",
+        "stolperstein (small, cobblestone-sized memorial for an individual victim of Nazism)"
+      ]
+    },
+    "id": "stolperstein"
+  },
+  {
+    "dictionaryId": "streik",
+    "type": "noun",
+    "word": "Streik",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "забастовка, стачка"
+      ],
+      "en": [
+        "strike (work stoppage)"
+      ]
+    },
+    "id": "streik"
+  },
+  {
+    "dictionaryId": "unbekannte",
+    "type": "noun",
+    "word": "Unbekannte",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "незнакомый"
+      ],
+      "en": [
+        "unknown"
+      ]
+    },
+    "id": "unbekannte"
+  },
+  {
+    "dictionaryId": "verabschiedung",
+    "type": "noun",
+    "word": "Verabschiedung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "увольнение; отставка",
+        "проводы",
+        "принятие, утверждение (напр., закона)"
+      ],
+      "en": [
+        "dismissal",
+        "seeing off",
+        "enactment, passage, adoption"
+      ]
+    },
+    "id": "verabschiedung"
+  },
+  {
+    "dictionaryId": "vergebung",
+    "type": "noun",
+    "word": "Vergebung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "раздача; выдача",
+        "прощение"
+      ],
+      "en": [
+        "pardon (forgiveness for an offense), forgiveness (action of forgiving)",
+        "remission (pardon of a sin)"
+      ]
+    },
+    "id": "vergebung"
+  },
+  {
+    "dictionaryId": "vernichtungslager",
+    "type": "noun",
+    "word": "Vernichtungslager",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "лагерь смерти"
+      ],
+      "en": [
+        "death camp, extermination camp"
+      ]
+    },
+    "id": "vernichtungslager"
+  },
+  {
+    "dictionaryId": "vorschlag",
+    "type": "noun",
+    "word": "Vorschlag",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "первый удар (молотком, цепом и т. д.); первый взмах (косы при косьбе)",
+        "предложение; предложенное",
+        "муз. форшлаг"
+      ],
+      "en": [
+        "suggestion, proposal (something proposed)",
+        "an ornament in which one or more notes are added before the principal note, such as an appoggiatura or acciaccatura",
+        "the wad in a muzzleloader"
+      ]
+    },
+    "id": "vorschlag"
+  },
+  {
+    "dictionaryId": "westlich",
+    "type": "other",
+    "word": "westlich",
+    "translation": {
+      "ru": [
+        "западный"
+      ],
+      "en": [
+        "west, western"
+      ]
+    },
+    "id": "westlich"
+  },
+  {
+    "dictionaryId": "wiedervereinigung",
+    "type": "noun",
+    "word": "Wiedervereinigung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "воссоединение"
+      ],
+      "en": [
+        "reunification"
+      ]
+    },
+    "id": "wiedervereinigung"
+  },
+  {
+    "dictionaryId": "wirtschaftswunder",
+    "type": "noun",
+    "word": "Wirtschaftswunder",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "экон. экономическое чудо"
+      ],
+      "en": [
+        "economic miracle, economic growth that is considered prodigious",
+        "the Miracle on the Rhine; a period of high-speed economic development of Germany and Austria after World War II"
+      ]
+    },
+    "id": "wirtschaftswunder"
+  },
+  {
+    "dictionaryId": "zeitraum",
+    "type": "noun",
+    "word": "Zeitraum",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "период, промежуток (времени), временной интервал"
+      ],
+      "en": [
+        "period (of time)"
+      ]
+    },
+    "id": "zeitraum"
+  },
+  {
+    "dictionaryId": "zirkel",
+    "type": "noun",
+    "word": "Zirkel",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "циркуль",
+        "кружок (общество по изучению чего-либо)"
+      ],
+      "en": [
+        "pair of compasses, compass (device to draw circles)",
+        "circle (geometrical figure)",
+        "circle (group of persons with a common interest)"
+      ]
+    },
+    "id": "zirkel"
+  },
+  {
+    "dictionaryId": "östlich",
+    "type": "other",
+    "word": "östlich",
+    "translation": {
+      "ru": [
+        "восточнее"
+      ],
+      "en": [
+        "east, eastern"
+      ]
+    },
+    "id": "östlich"
+  }
+]

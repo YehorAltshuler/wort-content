@@ -1,0 +1,42 @@
+{
+  "id": "schritte-plus-neu-a2-1",
+  "title": "Schritte plus neu A2.1",
+  "level": "A2.1",
+  "modules": [
+    {
+      "id": "module1",
+      "title": "Modul 1: Ankommen",
+      "file": "module1.json"
+    },
+    {
+      "id": "module2",
+      "title": "Modul 2: Zu Hause",
+      "file": "module2.json"
+    },
+    {
+      "id": "module3",
+      "title": "Modul 3: Essen und Trinken",
+      "file": "module3.json"
+    },
+    {
+      "id": "module4",
+      "title": "Modul 4: Arbeitswelt",
+      "file": "module4.json"
+    },
+    {
+      "id": "module5",
+      "title": "Modul 5: Sport und Fitness",
+      "file": "module5.json"
+    },
+    {
+      "id": "module6",
+      "title": "Modul 6: Schule und Ausbildung",
+      "file": "module6.json"
+    },
+    {
+      "id": "module7",
+      "title": "Modul 7: Feste und Geschenke",
+      "file": "module7.json"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fixed-preposition-verbs",
+  "title": "Verben mit festen Präpositionen",
+  "description": {
+    "ru": [
+      "Глаголы с фиксированными предлогами и падежами"
+    ],
+    "en": [
+      "Verbs with fixed prepositions and cases"
+    ],
+    "ar": [
+      "أفعال مع حروف جر وحالات ثابتة"
+    ]
+  },
+  "wordsFile": "words.json"
+}

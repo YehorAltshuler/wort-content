@@ -1,0 +1,1255 @@
+[
+  {
+    "dictionaryId": "tasche",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Tasche",
+    "plural": "Taschen",
+    "translation": {
+      "ru": [
+        "сумка",
+        "карман"
+      ],
+      "en": [
+        "bag",
+        "pocket"
+      ],
+      "ar": [
+        "حقيبة",
+        "جيب"
+      ]
+    },
+    "id": "tasche"
+  },
+  {
+    "dictionaryId": "tüte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Tüte",
+    "plural": "Tüten",
+    "translation": {
+      "ru": [
+        "пакет"
+      ],
+      "en": [
+        "bag",
+        "plastic bag"
+      ],
+      "ar": [
+        "كيس"
+      ]
+    },
+    "id": "tüte"
+  },
+  {
+    "dictionaryId": "rechnung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Rechnung",
+    "plural": "Rechnungen",
+    "translation": {
+      "ru": [
+        "счёт",
+        "чек",
+        "счёт-фактура"
+      ],
+      "en": [
+        "bill",
+        "invoice",
+        "receipt"
+      ],
+      "ar": [
+        "فاتورة",
+        "إيصال"
+      ]
+    },
+    "id": "rechnung"
+  },
+  {
+    "dictionaryId": "kaputt",
+    "type": "other",
+    "word": "kaputt",
+    "translation": {
+      "ru": [
+        "сломанный",
+        "испорченный"
+      ],
+      "en": [
+        "broken",
+        "damaged"
+      ],
+      "ar": [
+        "مكسور",
+        "تالف"
+      ]
+    },
+    "id": "kaputt"
+  },
+  {
+    "dictionaryId": "reparieren",
+    "type": "verb",
+    "infinitive": "reparieren",
+    "praeteritum": "reparierte",
+    "perfekt": "hat repariert",
+    "translation": {
+      "ru": [
+        "ремонтировать",
+        "чинить"
+      ],
+      "en": [
+        "to repair",
+        "to fix"
+      ],
+      "ar": [
+        "يصلح"
+      ]
+    },
+    "id": "reparieren"
+  },
+  {
+    "dictionaryId": "sauer",
+    "type": "other",
+    "word": "sauer",
+    "translation": {
+      "ru": [
+        "кислый",
+        "сердитый"
+      ],
+      "en": [
+        "sour",
+        "angry"
+      ],
+      "ar": [
+        "حامض",
+        "غاضب"
+      ]
+    },
+    "id": "sauer"
+  },
+  {
+    "dictionaryId": "unfreundlich",
+    "type": "other",
+    "word": "unfreundlich",
+    "translation": {
+      "ru": [
+        "недружелюбный",
+        "неприветливый"
+      ],
+      "en": [
+        "unfriendly"
+      ],
+      "ar": [
+        "غير ودود"
+      ]
+    },
+    "id": "unfreundlich"
+  },
+  {
+    "dictionaryId": "normal",
+    "type": "other",
+    "word": "normal",
+    "translation": {
+      "ru": [
+        "нормальный",
+        "обычный"
+      ],
+      "en": [
+        "normal",
+        "ordinary"
+      ],
+      "ar": [
+        "عادي",
+        "طبيعي"
+      ]
+    },
+    "id": "normal"
+  },
+  {
+    "dictionaryId": "heimatland",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Heimatland",
+    "plural": "Heimatländer",
+    "translation": {
+      "ru": [
+        "страна происхождения",
+        "родина"
+      ],
+      "en": [
+        "home country",
+        "homeland"
+      ],
+      "ar": [
+        "بلد الأصل",
+        "الوطن"
+      ]
+    },
+    "id": "heimatland"
+  },
+  {
+    "dictionaryId": "training",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Training",
+    "plural": "Trainings",
+    "translation": {
+      "ru": [
+        "тренировка",
+        "обучение"
+      ],
+      "en": [
+        "training",
+        "practice"
+      ],
+      "ar": [
+        "تدريب"
+      ]
+    },
+    "id": "training"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kleider",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "одежда",
+        "платья"
+      ],
+      "en": [
+        "clothes",
+        "dresses"
+      ],
+      "ar": [
+        "ملابس",
+        "فساتين"
+      ]
+    },
+    "id": "kleider"
+  },
+  {
+    "dictionaryId": "nähen",
+    "type": "verb",
+    "infinitive": "nähen",
+    "praeteritum": "nähte",
+    "perfekt": "hat genäht",
+    "translation": {
+      "ru": [
+        "шить"
+      ],
+      "en": [
+        "to sew"
+      ],
+      "ar": [
+        "يخيط"
+      ]
+    },
+    "id": "nähen"
+  },
+  {
+    "dictionaryId": "reparatur",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Reparatur",
+    "plural": "Reparaturen",
+    "translation": {
+      "ru": [
+        "ремонт",
+        "починка"
+      ],
+      "en": [
+        "repair"
+      ],
+      "ar": [
+        "إصلاح"
+      ]
+    },
+    "id": "reparatur"
+  },
+  {
+    "dictionaryId": "duschen",
+    "type": "verb",
+    "infinitive": "duschen",
+    "praeteritum": "duschte",
+    "perfekt": "hat geduscht",
+    "translation": {
+      "ru": [
+        "принимать душ"
+      ],
+      "en": [
+        "to shower"
+      ],
+      "ar": [
+        "يستحم"
+      ]
+    },
+    "id": "duschen"
+  },
+  {
+    "dictionaryId": "aussage",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Aussage",
+    "plural": "Aussagen",
+    "translation": {
+      "ru": [
+        "высказывание",
+        "заявление"
+      ],
+      "en": [
+        "statement"
+      ],
+      "ar": [
+        "تصريح",
+        "بيان"
+      ]
+    },
+    "id": "aussage"
+  },
+  {
+    "dictionaryId": "techniker",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Techniker",
+    "plural": "Techniker",
+    "translation": {
+      "ru": [
+        "техник"
+      ],
+      "en": [
+        "technician"
+      ],
+      "ar": [
+        "فني"
+      ]
+    },
+    "id": "techniker"
+  },
+  {
+    "dictionaryId": "heizung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Heizung",
+    "plural": "Heizungen",
+    "translation": {
+      "ru": [
+        "отопление",
+        "обогреватель"
+      ],
+      "en": [
+        "heating",
+        "heater"
+      ],
+      "ar": [
+        "تدفئة",
+        "مدفأة"
+      ]
+    },
+    "id": "heizung"
+  },
+  {
+    "dictionaryId": "drucker",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Drucker",
+    "plural": "Drucker",
+    "translation": {
+      "ru": [
+        "принтер"
+      ],
+      "en": [
+        "printer"
+      ],
+      "ar": [
+        "طابعة"
+      ]
+    },
+    "id": "drucker"
+  },
+  {
+    "dictionaryId": "modell",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Modell",
+    "plural": "Modelle",
+    "translation": {
+      "ru": [
+        "модель"
+      ],
+      "en": [
+        "model"
+      ],
+      "ar": [
+        "نموذج",
+        "موديل"
+      ]
+    },
+    "id": "modell"
+  },
+  {
+    "dictionaryId": "garantie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Garantie",
+    "plural": "Garantien",
+    "translation": {
+      "ru": [
+        "гарантия"
+      ],
+      "en": [
+        "guarantee",
+        "warranty"
+      ],
+      "ar": [
+        "ضمان"
+      ]
+    },
+    "id": "garantie"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "vorbeibringen",
+    "praeteritum": "brachte vorbei",
+    "perfekt": "hat vorbeigebracht",
+    "translation": {
+      "ru": [
+        "приносить по пути",
+        "заносить"
+      ],
+      "en": [
+        "to bring by"
+      ],
+      "ar": [
+        "يحضر في الطريق",
+        "يجلب"
+      ]
+    },
+    "id": "vorbeibringen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "anmachen",
+    "praeteritum": "machte an",
+    "perfekt": "hat angemacht",
+    "translation": {
+      "ru": [
+        "включать"
+      ],
+      "en": [
+        "to turn on"
+      ],
+      "ar": [
+        "يشغّل"
+      ]
+    },
+    "id": "anmachen"
+  },
+  {
+    "dictionaryId": "tür",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Tür",
+    "plural": "Türen",
+    "translation": {
+      "ru": [
+        "дверь"
+      ],
+      "en": [
+        "door"
+      ],
+      "ar": [
+        "باب"
+      ]
+    },
+    "id": "tür"
+  },
+  {
+    "dictionaryId": "zumachen",
+    "type": "verb",
+    "infinitive": "zumachen",
+    "praeteritum": "machte zu",
+    "perfekt": "hat zugemacht",
+    "translation": {
+      "ru": [
+        "закрывать"
+      ],
+      "en": [
+        "to close"
+      ],
+      "ar": [
+        "يغلق"
+      ]
+    },
+    "id": "zumachen"
+  },
+  {
+    "dictionaryId": "fenster",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Fenster",
+    "plural": "Fenster",
+    "translation": {
+      "ru": [
+        "окно"
+      ],
+      "en": [
+        "window"
+      ],
+      "ar": [
+        "نافذة"
+      ]
+    },
+    "id": "fenster"
+  },
+  {
+    "dictionaryId": "aufmachen",
+    "type": "verb",
+    "infinitive": "aufmachen",
+    "praeteritum": "machte auf",
+    "perfekt": "hat aufgemacht",
+    "translation": {
+      "ru": [
+        "открывать"
+      ],
+      "en": [
+        "to open"
+      ],
+      "ar": [
+        "يفتح"
+      ]
+    },
+    "id": "aufmachen"
+  },
+  {
+    "dictionaryId": "papier",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Papier",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "бумага"
+      ],
+      "en": [
+        "paper"
+      ],
+      "ar": [
+        "ورق"
+      ]
+    },
+    "id": "papier"
+  },
+  {
+    "dictionaryId": "licht",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Licht",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "свет"
+      ],
+      "en": [
+        "light"
+      ],
+      "ar": [
+        "ضوء"
+      ]
+    },
+    "id": "licht"
+  },
+  {
+    "dictionaryId": "spülmaschine",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Spülmaschine",
+    "plural": "Spülmaschinen",
+    "translation": {
+      "ru": [
+        "посудомоечная машина"
+      ],
+      "en": [
+        "dishwasher"
+      ],
+      "ar": [
+        "غسالة صحون"
+      ]
+    },
+    "id": "spülmaschine"
+  },
+  {
+    "dictionaryId": "empfehlen",
+    "type": "verb",
+    "infinitive": "empfehlen",
+    "praeteritum": "empfahl",
+    "perfekt": "hat empfohlen",
+    "translation": {
+      "ru": [
+        "рекомендовать",
+        "советовать"
+      ],
+      "en": [
+        "to recommend"
+      ],
+      "ar": [
+        "يوصي",
+        "ينصح"
+      ]
+    },
+    "id": "empfehlen"
+  },
+  {
+    "dictionaryId": "reservieren",
+    "type": "verb",
+    "infinitive": "reservieren",
+    "praeteritum": "reservierte",
+    "perfekt": "hat reserviert",
+    "translation": {
+      "ru": [
+        "резервировать",
+        "бронировать"
+      ],
+      "en": [
+        "to reserve",
+        "to book"
+      ],
+      "ar": [
+        "يحجز"
+      ]
+    },
+    "id": "reservieren"
+  },
+  {
+    "dictionaryId": "rezeption",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Rezeption",
+    "plural": "Rezeptionen",
+    "translation": {
+      "ru": [
+        "стойка регистрации",
+        "ресепшн"
+      ],
+      "en": [
+        "reception"
+      ],
+      "ar": [
+        "الاستقبال"
+      ]
+    },
+    "id": "rezeption"
+  },
+  {
+    "dictionaryId": "ansage",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ansage",
+    "plural": "Ansagen",
+    "translation": {
+      "ru": [
+        "объявление",
+        "сообщение"
+      ],
+      "en": [
+        "announcement"
+      ],
+      "ar": [
+        "إعلان"
+      ]
+    },
+    "id": "ansage"
+  },
+  {
+    "dictionaryId": "drücken",
+    "type": "verb",
+    "infinitive": "drücken",
+    "praeteritum": "drückte",
+    "perfekt": "hat gedrückt",
+    "translation": {
+      "ru": [
+        "нажимать",
+        "давить"
+      ],
+      "en": [
+        "to press",
+        "to push"
+      ],
+      "ar": [
+        "يضغط"
+      ]
+    },
+    "id": "drücken"
+  },
+  {
+    "dictionaryId": "anmelden",
+    "type": "verb",
+    "infinitive": "sich anmelden",
+    "praeteritum": "meldete sich an",
+    "perfekt": "hat sich angemeldet",
+    "translation": {
+      "ru": [
+        "регистрироваться",
+        "записываться"
+      ],
+      "en": [
+        "to register",
+        "to sign up"
+      ],
+      "ar": [
+        "يسجّل"
+      ]
+    },
+    "id": "anmelden"
+  },
+  {
+    "dictionaryId": "verbinden",
+    "type": "verb",
+    "infinitive": "verbinden",
+    "praeteritum": "verband",
+    "perfekt": "hat verbunden",
+    "translation": {
+      "ru": [
+        "соединять",
+        "связывать",
+        "переключать"
+      ],
+      "en": [
+        "to connect",
+        "to link",
+        "to put through"
+      ],
+      "ar": [
+        "يوصل",
+        "يربط"
+      ]
+    },
+    "id": "verbinden"
+  },
+  {
+    "dictionaryId": "hinterlassen",
+    "type": "verb",
+    "infinitive": "hinterlassen",
+    "praeteritum": "hinterließ",
+    "perfekt": "hat hinterlassen",
+    "translation": {
+      "ru": [
+        "оставлять",
+        "оставлять после себя"
+      ],
+      "en": [
+        "to leave",
+        "to leave behind"
+      ],
+      "ar": [
+        "يترك"
+      ]
+    },
+    "id": "hinterlassen"
+  },
+  {
+    "dictionaryId": "zurückrufen",
+    "type": "verb",
+    "infinitive": "zurückrufen",
+    "praeteritum": "rief zurück",
+    "perfekt": "hat zurückgerufen",
+    "translation": {
+      "ru": [
+        "перезванивать"
+      ],
+      "en": [
+        "to call back"
+      ],
+      "ar": [
+        "يتصل مرة أخرى"
+      ]
+    },
+    "id": "zurückrufen"
+  },
+  {
+    "dictionaryId": "aussehen",
+    "type": "verb",
+    "infinitive": "aussehen",
+    "praeteritum": "sah aus",
+    "perfekt": "hat ausgesehen",
+    "translation": {
+      "ru": [
+        "выглядеть"
+      ],
+      "en": [
+        "to look",
+        "to appear"
+      ],
+      "ar": [
+        "يبدو"
+      ]
+    },
+    "id": "aussehen"
+  },
+  {
+    "dictionaryId": "urlaub",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Urlaub",
+    "plural": "Urlaube",
+    "translation": {
+      "ru": [
+        "отпуск"
+      ],
+      "en": [
+        "vacation",
+        "holiday"
+      ],
+      "ar": [
+        "إجازة"
+      ]
+    },
+    "id": "urlaub"
+  },
+  {
+    "dictionaryId": "draußen",
+    "type": "other",
+    "word": "draußen",
+    "translation": {
+      "ru": [
+        "снаружи",
+        "на улице"
+      ],
+      "en": [
+        "outside"
+      ],
+      "ar": [
+        "في الخارج"
+      ]
+    },
+    "id": "draussen"
+  },
+  {
+    "dictionaryId": "weg",
+    "type": "other",
+    "word": "weg",
+    "translation": {
+      "ru": [
+        "прочь",
+        "ушёл",
+        "нет на месте"
+      ],
+      "en": [
+        "away",
+        "gone"
+      ],
+      "ar": [
+        "بعيد",
+        "ذهب"
+      ]
+    },
+    "id": "weg"
+  },
+  {
+    "dictionaryId": "kaffeemaschine",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kaffeemaschine",
+    "plural": "Kaffeemaschinen",
+    "translation": {
+      "ru": [
+        "кофеварка",
+        "кофемашина"
+      ],
+      "en": [
+        "coffee machine",
+        "coffee maker"
+      ],
+      "ar": [
+        "آلة قهوة"
+      ]
+    },
+    "id": "kaffeemaschine"
+  },
+  {
+    "dictionaryId": "friseur",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Friseur",
+    "plural": "Friseure",
+    "translation": {
+      "ru": [
+        "парикмахер"
+      ],
+      "en": [
+        "hairdresser",
+        "barber"
+      ],
+      "ar": [
+        "حلاق",
+        "مصفف شعر"
+      ]
+    },
+    "id": "friseur"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Friseurin",
+    "plural": "Friseurinnen",
+    "translation": {
+      "ru": [
+        "парикмахерша"
+      ],
+      "en": [
+        "female hairdresser"
+      ],
+      "ar": [
+        "حلاقة",
+        "مصففة شعر"
+      ]
+    },
+    "id": "friseurin"
+  },
+  {
+    "dictionaryId": "bestellen",
+    "type": "verb",
+    "infinitive": "bestellen",
+    "praeteritum": "bestellte",
+    "perfekt": "hat bestellt",
+    "translation": {
+      "ru": [
+        "заказывать"
+      ],
+      "en": [
+        "to order"
+      ],
+      "ar": [
+        "يطلب"
+      ]
+    },
+    "id": "bestellen"
+  },
+  {
+    "dictionaryId": "angebot",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Angebot",
+    "plural": "Angebote",
+    "translation": {
+      "ru": [
+        "предложение",
+        "акция"
+      ],
+      "en": [
+        "offer",
+        "deal"
+      ],
+      "ar": [
+        "عرض"
+      ]
+    },
+    "id": "angebot"
+  },
+  {
+    "dictionaryId": "anbieten",
+    "type": "verb",
+    "infinitive": "anbieten",
+    "praeteritum": "bot an",
+    "perfekt": "hat angeboten",
+    "translation": {
+      "ru": [
+        "предлагать"
+      ],
+      "en": [
+        "to offer"
+      ],
+      "ar": [
+        "يقدّم",
+        "يعرض"
+      ]
+    },
+    "id": "anbieten"
+  },
+  {
+    "dictionaryId": "jugendliche",
+    "type": "noun",
+    "article": [
+      "der",
+      "die"
+    ],
+    "word": "Jugendliche",
+    "plural": "Jugendlichen",
+    "translation": {
+      "ru": [
+        "подросток",
+        "подростка",
+        "молодой человек"
+      ],
+      "en": [
+        "young person",
+        "teenager"
+      ],
+      "ar": [
+        "مراهق",
+        "مراهقة"
+      ]
+    },
+    "id": "jugendliche"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gebrauchsanweisung",
+    "plural": "Gebrauchsanweisungen",
+    "translation": {
+      "ru": [
+        "инструкция",
+        "инструкция по применению"
+      ],
+      "en": [
+        "manual",
+        "instructions",
+        "user guide"
+      ],
+      "ar": [
+        "دليل الاستخدام",
+        "تعليمات الاستخدام"
+      ]
+    },
+    "id": "gebrauchsanweisung"
+  },
+  {
+    "dictionaryId": "reinigung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Reinigung",
+    "plural": "Reinigungen",
+    "translation": {
+      "ru": [
+        "химчистка",
+        "уборка",
+        "чистка"
+      ],
+      "en": [
+        "cleaning",
+        "dry cleaning"
+      ],
+      "ar": [
+        "تنظيف",
+        "تنظيف جاف"
+      ]
+    },
+    "id": "reinigung"
+  },
+  {
+    "dictionaryId": "stecker",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Stecker",
+    "plural": "Stecker",
+    "translation": {
+      "ru": [
+        "вилка",
+        "штекер"
+      ],
+      "en": [
+        "plug"
+      ],
+      "ar": [
+        "قابس"
+      ]
+    },
+    "id": "stecker"
+  },
+  {
+    "dictionaryId": "steckdose",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Steckdose",
+    "plural": "Steckdosen",
+    "translation": {
+      "ru": [
+        "розетка"
+      ],
+      "en": [
+        "socket",
+        "outlet"
+      ],
+      "ar": [
+        "مقبس كهربائي"
+      ]
+    },
+    "id": "steckdose"
+  },
+  {
+    "dictionaryId": "ziehen",
+    "type": "verb",
+    "infinitive": "ziehen",
+    "praeteritum": "zog",
+    "perfekt": "hat gezogen",
+    "translation": {
+      "ru": [
+        "тянуть",
+        "вытащить"
+      ],
+      "en": [
+        "to pull",
+        "to draw"
+      ],
+      "ar": [
+        "يسحب"
+      ]
+    },
+    "id": "ziehen"
+  },
+  {
+    "dictionaryId": "oben",
+    "type": "other",
+    "word": "oben",
+    "translation": {
+      "ru": [
+        "наверху",
+        "вверху"
+      ],
+      "en": [
+        "above",
+        "upstairs",
+        "at the top"
+      ],
+      "ar": [
+        "فوق",
+        "في الأعلى"
+      ]
+    },
+    "id": "oben"
+  },
+  {
+    "dictionaryId": "essig",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Essig",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "уксус"
+      ],
+      "en": [
+        "vinegar"
+      ],
+      "ar": [
+        "خل"
+      ]
+    },
+    "id": "essig"
+  },
+  {
+    "dictionaryId": "taste",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Taste",
+    "plural": "Tasten",
+    "translation": {
+      "ru": [
+        "клавиша",
+        "кнопка"
+      ],
+      "en": [
+        "key",
+        "button"
+      ],
+      "ar": [
+        "زر",
+        "مفتاح"
+      ]
+    },
+    "id": "taste"
+  },
+  {
+    "dictionaryId": "sekunde",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sekunde",
+    "plural": "Sekunden",
+    "translation": {
+      "ru": [
+        "секунда"
+      ],
+      "en": [
+        "second"
+      ],
+      "ar": [
+        "ثانية"
+      ]
+    },
+    "id": "sekunde"
+  }
+]

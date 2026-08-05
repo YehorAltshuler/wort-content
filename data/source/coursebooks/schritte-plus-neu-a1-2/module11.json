@@ -1,0 +1,1369 @@
+[
+  {
+    "dictionaryId": "werkstatt",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Werkstatt",
+    "plural": "Werkstätten",
+    "translation": {
+      "ru": [
+        "мастерская",
+        "автомастерская"
+      ],
+      "en": [
+        "workshop",
+        "garage"
+      ],
+      "ar": [
+        "ورشة",
+        "ورشة تصليح"
+      ]
+    },
+    "id": "werkstatt"
+  },
+  {
+    "dictionaryId": "schlüssel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schlüssel",
+    "plural": "Schlüssel",
+    "translation": {
+      "ru": [
+        "ключ"
+      ],
+      "en": [
+        "key"
+      ],
+      "ar": [
+        "مفتاح"
+      ]
+    },
+    "id": "schlüssel"
+  },
+  {
+    "dictionaryId": "autobahn",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Autobahn",
+    "plural": "Autobahnen",
+    "translation": {
+      "ru": [
+        "автобан",
+        "автомагистраль"
+      ],
+      "en": [
+        "motorway",
+        "highway"
+      ],
+      "ar": [
+        "طريق سريع"
+      ]
+    },
+    "id": "autobahn"
+  },
+  {
+    "dictionaryId": "brücke",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Brücke",
+    "plural": "Brücken",
+    "translation": {
+      "ru": [
+        "мост"
+      ],
+      "en": [
+        "bridge"
+      ],
+      "ar": [
+        "جسر"
+      ]
+    },
+    "id": "brücke"
+  },
+  {
+    "dictionaryId": "rechts",
+    "type": "other",
+    "word": "rechts",
+    "translation": {
+      "ru": [
+        "направо",
+        "справа"
+      ],
+      "en": [
+        "right",
+        "on the right"
+      ],
+      "ar": [
+        "يمين",
+        "على اليمين"
+      ]
+    },
+    "id": "rechts"
+  },
+  {
+    "dictionaryId": "geradeaus",
+    "type": "other",
+    "word": "geradeaus",
+    "translation": {
+      "ru": [
+        "прямо"
+      ],
+      "en": [
+        "straight ahead"
+      ],
+      "ar": [
+        "إلى الأمام مباشرة"
+      ]
+    },
+    "id": "geradeaus"
+  },
+  {
+    "dictionaryId": "links",
+    "type": "other",
+    "word": "links",
+    "translation": {
+      "ru": [
+        "налево",
+        "слева"
+      ],
+      "en": [
+        "left",
+        "on the left"
+      ],
+      "ar": [
+        "يسار",
+        "على اليسار"
+      ]
+    },
+    "id": "links"
+  },
+  {
+    "dictionaryId": "weg",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Weg",
+    "plural": "Wege",
+    "translation": {
+      "ru": [
+        "путь",
+        "дорога",
+        "способ"
+      ],
+      "en": [
+        "way",
+        "path",
+        "road"
+      ],
+      "ar": [
+        "طريق",
+        "مسار"
+      ]
+    },
+    "id": "weg"
+  },
+  {
+    "dictionaryId": "bahnhof",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bahnhof",
+    "plural": "Bahnhöfe",
+    "translation": {
+      "ru": [
+        "вокзал",
+        "железнодорожная станция"
+      ],
+      "en": [
+        "train station",
+        "railway station"
+      ],
+      "ar": [
+        "محطة قطار"
+      ]
+    },
+    "id": "bahnhof"
+  },
+  {
+    "dictionaryId": "metzgerei",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Metzgerei",
+    "plural": "Metzgereien",
+    "translation": {
+      "ru": [
+        "мясная лавка",
+        "мясной магазин"
+      ],
+      "en": [
+        "butcher's shop"
+      ],
+      "ar": [
+        "محل جزارة"
+      ]
+    },
+    "id": "metzgerei"
+  },
+  {
+    "dictionaryId": "post",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Post",
+    "plural": "Posten",
+    "comment": "множественное редко; чаще Sg.",
+    "translation": {
+      "ru": [
+        "почта"
+      ],
+      "en": [
+        "post office",
+        "mail"
+      ],
+      "ar": [
+        "البريد",
+        "مكتب البريد"
+      ]
+    },
+    "id": "post"
+  },
+  {
+    "dictionaryId": "hotel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Hotel",
+    "plural": "Hotels",
+    "translation": {
+      "ru": [
+        "отель",
+        "гостиница"
+      ],
+      "en": [
+        "hotel"
+      ],
+      "ar": [
+        "فندق"
+      ]
+    },
+    "id": "hotel"
+  },
+  {
+    "dictionaryId": "museum",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Museum",
+    "plural": "Museen",
+    "translation": {
+      "ru": [
+        "музей"
+      ],
+      "en": [
+        "museum"
+      ],
+      "ar": [
+        "متحف"
+      ]
+    },
+    "id": "museum"
+  },
+  {
+    "dictionaryId": "ampel",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ampel",
+    "plural": "Ampeln",
+    "translation": {
+      "ru": [
+        "светофор"
+      ],
+      "en": [
+        "traffic light"
+      ],
+      "ar": [
+        "إشارة مرور"
+      ]
+    },
+    "id": "ampel"
+  },
+  {
+    "dictionaryId": "tankstelle",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Tankstelle",
+    "plural": "Tankstellen",
+    "translation": {
+      "ru": [
+        "заправка",
+        "АЗС"
+      ],
+      "en": [
+        "gas station",
+        "petrol station"
+      ],
+      "ar": [
+        "محطة وقود"
+      ]
+    },
+    "id": "tankstelle"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Stadtplan",
+    "plural": "Stadtpläne",
+    "translation": {
+      "ru": [
+        "карта города",
+        "план города"
+      ],
+      "en": [
+        "city map"
+      ],
+      "ar": [
+        "خريطة المدينة"
+      ]
+    },
+    "id": "stadtplan"
+  },
+  {
+    "dictionaryId": "fremd",
+    "type": "other",
+    "word": "fremd",
+    "translation": {
+      "ru": [
+        "чужой",
+        "незнакомый",
+        "иностранный"
+      ],
+      "en": [
+        "strange",
+        "foreign",
+        "unfamiliar"
+      ],
+      "ar": [
+        "غريب",
+        "أجنبي",
+        "غير مألوف"
+      ]
+    },
+    "id": "fremd"
+  },
+  {
+    "dictionaryId": "fliegen",
+    "type": "verb",
+    "infinitive": "fliegen",
+    "praeteritum": "flog",
+    "perfekt": "ist geflogen",
+    "translation": {
+      "ru": [
+        "летать",
+        "лететь"
+      ],
+      "en": [
+        "to fly"
+      ],
+      "ar": [
+        "يطير"
+      ]
+    },
+    "id": "fliegen"
+  },
+  {
+    "dictionaryId": "flugzeug",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Flugzeug",
+    "plural": "Flugzeuge",
+    "translation": {
+      "ru": [
+        "самолёт"
+      ],
+      "en": [
+        "airplane",
+        "plane"
+      ],
+      "ar": [
+        "طائرة"
+      ]
+    },
+    "id": "flugzeug"
+  },
+  {
+    "dictionaryId": "straßenbahn",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Straßenbahn",
+    "plural": "Straßenbahnen",
+    "translation": {
+      "ru": [
+        "трамвай"
+      ],
+      "en": [
+        "tram",
+        "streetcar"
+      ],
+      "ar": [
+        "ترام"
+      ]
+    },
+    "id": "strassenbahn"
+  },
+  {
+    "dictionaryId": "zug",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Zug",
+    "plural": "Züge",
+    "translation": {
+      "ru": [
+        "поезд"
+      ],
+      "en": [
+        "train"
+      ],
+      "ar": [
+        "قطار"
+      ]
+    },
+    "id": "zug"
+  },
+  {
+    "dictionaryId": "u-bahn",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "U-Bahn",
+    "plural": "U-Bahnen",
+    "translation": {
+      "ru": [
+        "метро"
+      ],
+      "en": [
+        "subway",
+        "underground"
+      ],
+      "ar": [
+        "مترو"
+      ]
+    },
+    "id": "u-bahn"
+  },
+  {
+    "dictionaryId": "bus",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bus",
+    "plural": "Busse",
+    "translation": {
+      "ru": [
+        "автобус"
+      ],
+      "en": [
+        "bus"
+      ],
+      "ar": [
+        "حافلة",
+        "باص"
+      ]
+    },
+    "id": "bus"
+  },
+  {
+    "dictionaryId": "s-bahn",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "S-Bahn",
+    "plural": "S-Bahnen",
+    "translation": {
+      "ru": [
+        "городская электричка"
+      ],
+      "en": [
+        "urban train",
+        "suburban train"
+      ],
+      "ar": [
+        "قطار حضري"
+      ]
+    },
+    "id": "s-bahn"
+  },
+  {
+    "dictionaryId": "wohin",
+    "type": "other",
+    "word": "wohin",
+    "translation": {
+      "ru": [
+        "куда"
+      ],
+      "en": [
+        "where to"
+      ],
+      "ar": [
+        "إلى أين"
+      ]
+    },
+    "id": "wohin"
+  },
+  {
+    "dictionaryId": "station",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Station",
+    "plural": "Stationen",
+    "translation": {
+      "ru": [
+        "станция",
+        "остановка"
+      ],
+      "en": [
+        "station",
+        "stop"
+      ],
+      "ar": [
+        "محطة"
+      ]
+    },
+    "id": "station"
+  },
+  {
+    "dictionaryId": "lkw",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Lkw",
+    "plural": "Lkws",
+    "translation": {
+      "ru": [
+        "грузовик"
+      ],
+      "en": [
+        "truck",
+        "lorry"
+      ],
+      "ar": [
+        "شاحنة"
+      ]
+    },
+    "id": "lkw"
+  },
+  {
+    "dictionaryId": "kiosk",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kiosk",
+    "plural": "Kioske",
+    "translation": {
+      "ru": [
+        "киоск"
+      ],
+      "en": [
+        "kiosk"
+      ],
+      "ar": [
+        "كشك"
+      ]
+    },
+    "id": "kiosk"
+  },
+  {
+    "dictionaryId": "haltestelle",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Haltestelle",
+    "plural": "Haltestellen",
+    "translation": {
+      "ru": [
+        "остановка"
+      ],
+      "en": [
+        "stop",
+        "bus stop"
+      ],
+      "ar": [
+        "موقف"
+      ]
+    },
+    "id": "haltestelle"
+  },
+  {
+    "dictionaryId": "buchhandlung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Buchhandlung",
+    "plural": "Buchhandlungen",
+    "translation": {
+      "ru": [
+        "книжный магазин"
+      ],
+      "en": [
+        "bookshop",
+        "bookstore"
+      ],
+      "ar": [
+        "مكتبة",
+        "متجر كتب"
+      ]
+    },
+    "id": "buchhandlung"
+  },
+  {
+    "dictionaryId": "sitzen",
+    "type": "verb",
+    "infinitive": "sitzen",
+    "praeteritum": "saß",
+    "perfekt": "hat gesessen",
+    "translation": {
+      "ru": [
+        "сидеть"
+      ],
+      "en": [
+        "to sit"
+      ],
+      "ar": [
+        "يجلس"
+      ]
+    },
+    "id": "sitzen"
+  },
+  {
+    "dictionaryId": "bücherei",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bücherei",
+    "plural": "Büchereien",
+    "translation": {
+      "ru": [
+        "библиотека"
+      ],
+      "en": [
+        "library"
+      ],
+      "ar": [
+        "مكتبة"
+      ]
+    },
+    "id": "bücherei"
+  },
+  {
+    "dictionaryId": "baum",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Baum",
+    "plural": "Bäume",
+    "translation": {
+      "ru": [
+        "дерево"
+      ],
+      "en": [
+        "tree"
+      ],
+      "ar": [
+        "شجرة"
+      ]
+    },
+    "id": "baum"
+  },
+  {
+    "dictionaryId": "bank",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bank",
+    "plural": "Banken",
+    "translation": {
+      "ru": [
+        "банк",
+        "скамейка"
+      ],
+      "en": [
+        "bank",
+        "bench"
+      ],
+      "ar": [
+        "بنك",
+        "مقعد"
+      ]
+    },
+    "id": "bank"
+  },
+  {
+    "dictionaryId": "an",
+    "type": "other",
+    "word": "an",
+    "translation": {
+      "ru": [
+        "на",
+        "у",
+        "около",
+        "на стене"
+      ],
+      "en": [
+        "at",
+        "on",
+        "by"
+      ],
+      "ar": [
+        "على",
+        "عند",
+        "بجانب"
+      ]
+    },
+    "id": "an"
+  },
+  {
+    "dictionaryId": "auf",
+    "type": "other",
+    "word": "auf",
+    "translation": {
+      "ru": [
+        "на",
+        "на поверхности"
+      ],
+      "en": [
+        "on",
+        "on top of"
+      ],
+      "ar": [
+        "على"
+      ]
+    },
+    "id": "auf"
+  },
+  {
+    "dictionaryId": "hinter",
+    "type": "other",
+    "word": "hinter",
+    "translation": {
+      "ru": [
+        "за",
+        "позади"
+      ],
+      "en": [
+        "behind"
+      ],
+      "ar": [
+        "خلف"
+      ]
+    },
+    "id": "hinter"
+  },
+  {
+    "dictionaryId": "neben",
+    "type": "other",
+    "word": "neben",
+    "translation": {
+      "ru": [
+        "рядом с",
+        "около"
+      ],
+      "en": [
+        "next to",
+        "beside"
+      ],
+      "ar": [
+        "بجانب"
+      ]
+    },
+    "id": "neben"
+  },
+  {
+    "dictionaryId": "über",
+    "type": "other",
+    "word": "über",
+    "translation": {
+      "ru": [
+        "над",
+        "через",
+        "о"
+      ],
+      "en": [
+        "over",
+        "above",
+        "about"
+      ],
+      "ar": [
+        "فوق",
+        "عن"
+      ]
+    },
+    "id": "über"
+  },
+  {
+    "dictionaryId": "unter",
+    "type": "other",
+    "word": "unter",
+    "translation": {
+      "ru": [
+        "под",
+        "среди"
+      ],
+      "en": [
+        "under",
+        "among"
+      ],
+      "ar": [
+        "تحت",
+        "بين"
+      ]
+    },
+    "id": "unter"
+  },
+  {
+    "dictionaryId": "zwischen",
+    "type": "other",
+    "word": "zwischen",
+    "translation": {
+      "ru": [
+        "между"
+      ],
+      "en": [
+        "between"
+      ],
+      "ar": [
+        "بين"
+      ]
+    },
+    "id": "zwischen"
+  },
+  {
+    "dictionaryId": "fußgängerzone",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Fußgängerzone",
+    "plural": "Fußgängerzonen",
+    "translation": {
+      "ru": [
+        "пешеходная зона"
+      ],
+      "en": [
+        "pedestrian zone"
+      ],
+      "ar": [
+        "منطقة مشاة"
+      ]
+    },
+    "id": "fussgängerzone"
+  },
+  {
+    "dictionaryId": "konzert",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Konzert",
+    "plural": "Konzerte",
+    "translation": {
+      "ru": [
+        "концерт"
+      ],
+      "en": [
+        "concert"
+      ],
+      "ar": [
+        "حفلة موسيقية"
+      ]
+    },
+    "id": "konzert"
+  },
+  {
+    "dictionaryId": "ausleihen",
+    "type": "verb",
+    "infinitive": "ausleihen",
+    "praeteritum": "lieh aus",
+    "perfekt": "hat ausgeliehen",
+    "translation": {
+      "ru": [
+        "одалживать",
+        "брать напрокат"
+      ],
+      "en": [
+        "to borrow",
+        "to lend",
+        "to rent"
+      ],
+      "ar": [
+        "يستعير",
+        "يعير"
+      ]
+    },
+    "id": "ausleihen"
+  },
+  {
+    "dictionaryId": "kopieren",
+    "type": "verb",
+    "infinitive": "kopieren",
+    "praeteritum": "kopierte",
+    "perfekt": "hat kopiert",
+    "translation": {
+      "ru": [
+        "копировать"
+      ],
+      "en": [
+        "to copy"
+      ],
+      "ar": [
+        "ينسخ"
+      ]
+    },
+    "id": "kopieren"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "(da) vorne",
+    "translation": {
+      "ru": [
+        "там впереди",
+        "впереди"
+      ],
+      "en": [
+        "there in front",
+        "up front"
+      ],
+      "ar": [
+        "هناك في الأمام"
+      ]
+    },
+    "id": "da-vorne"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "(da) drüben",
+    "translation": {
+      "ru": [
+        "там напротив",
+        "вон там"
+      ],
+      "en": [
+        "over there"
+      ],
+      "ar": [
+        "هناك"
+      ]
+    },
+    "id": "da-drüben"
+  },
+  {
+    "dictionaryId": "ecke",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ecke",
+    "plural": "Ecken",
+    "translation": {
+      "ru": [
+        "угол"
+      ],
+      "en": [
+        "corner"
+      ],
+      "ar": [
+        "زاوية"
+      ]
+    },
+    "id": "ecke"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "(da) hinten",
+    "translation": {
+      "ru": [
+        "там сзади",
+        "сзади"
+      ],
+      "en": [
+        "back there",
+        "at the back"
+      ],
+      "ar": [
+        "هناك في الخلف"
+      ]
+    },
+    "id": "da-hinten"
+  },
+  {
+    "dictionaryId": "abfahren",
+    "type": "verb",
+    "infinitive": "abfahren",
+    "praeteritum": "fuhr ab",
+    "perfekt": "ist abgefahren",
+    "translation": {
+      "ru": [
+        "отъезжать",
+        "отправляться"
+      ],
+      "en": [
+        "to depart",
+        "to leave"
+      ],
+      "ar": [
+        "يغادر",
+        "ينطلق"
+      ]
+    },
+    "id": "abfahren"
+  },
+  {
+    "dictionaryId": "gleis",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gleis",
+    "plural": "Gleise",
+    "translation": {
+      "ru": [
+        "путь",
+        "рельсовый путь",
+        "платформа"
+      ],
+      "en": [
+        "track",
+        "platform"
+      ],
+      "ar": [
+        "رصيف القطار",
+        "سكة"
+      ]
+    },
+    "id": "gleis"
+  },
+  {
+    "dictionaryId": "einsteigen",
+    "type": "verb",
+    "infinitive": "einsteigen",
+    "praeteritum": "stieg ein",
+    "perfekt": "ist eingestiegen",
+    "translation": {
+      "ru": [
+        "садиться",
+        "садиться в транспорт"
+      ],
+      "en": [
+        "to get in",
+        "to board"
+      ],
+      "ar": [
+        "يركب"
+      ]
+    },
+    "id": "einsteigen"
+  },
+  {
+    "dictionaryId": "verspätung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Verspätung",
+    "plural": "Verspätungen",
+    "translation": {
+      "ru": [
+        "опоздание",
+        "задержка"
+      ],
+      "en": [
+        "delay"
+      ],
+      "ar": [
+        "تأخير"
+      ]
+    },
+    "id": "verspätung"
+  },
+  {
+    "dictionaryId": "ankommen",
+    "type": "verb",
+    "infinitive": "ankommen",
+    "praeteritum": "kam an",
+    "perfekt": "ist angekommen",
+    "translation": {
+      "ru": [
+        "прибывать",
+        "приезжать"
+      ],
+      "en": [
+        "to arrive"
+      ],
+      "ar": [
+        "يصل"
+      ]
+    },
+    "id": "ankommen"
+  },
+  {
+    "dictionaryId": "umsteigen",
+    "type": "verb",
+    "infinitive": "umsteigen",
+    "praeteritum": "stieg um",
+    "perfekt": "ist umgestiegen",
+    "translation": {
+      "ru": [
+        "делать пересадку",
+        "пересаживаться"
+      ],
+      "en": [
+        "to transfer",
+        "to change trains"
+      ],
+      "ar": [
+        "يبدّل وسيلة النقل"
+      ]
+    },
+    "id": "umsteigen"
+  },
+  {
+    "dictionaryId": "aussteigen",
+    "type": "verb",
+    "infinitive": "aussteigen",
+    "praeteritum": "stieg aus",
+    "perfekt": "ist ausgestiegen",
+    "translation": {
+      "ru": [
+        "выходить",
+        "выходить из транспорта"
+      ],
+      "en": [
+        "to get out",
+        "to get off"
+      ],
+      "ar": [
+        "ينزل"
+      ]
+    },
+    "id": "aussteigen"
+  },
+  {
+    "dictionaryId": "abfahrt",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Abfahrt",
+    "plural": "Abfahrten",
+    "translation": {
+      "ru": [
+        "отправление",
+        "отъезд"
+      ],
+      "en": [
+        "departure"
+      ],
+      "ar": [
+        "مغادرة"
+      ]
+    },
+    "id": "abfahrt"
+  },
+  {
+    "dictionaryId": "ankunft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ankunft",
+    "plural": "Ankünfte",
+    "translation": {
+      "ru": [
+        "прибытие"
+      ],
+      "en": [
+        "arrival"
+      ],
+      "ar": [
+        "وصول"
+      ]
+    },
+    "id": "ankunft"
+  },
+  {
+    "dictionaryId": "anschluss",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Anschluss",
+    "plural": "Anschlüsse",
+    "translation": {
+      "ru": [
+        "пересадка",
+        "стыковка",
+        "подключение"
+      ],
+      "en": [
+        "connection",
+        "transfer"
+      ],
+      "ar": [
+        "اتصال",
+        "وصلة",
+        "تغيير وسيلة النقل"
+      ]
+    },
+    "id": "anschluss"
+  },
+  {
+    "dictionaryId": "bahnsteig",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bahnsteig",
+    "plural": "Bahnsteige",
+    "translation": {
+      "ru": [
+        "перрон",
+        "платформа"
+      ],
+      "en": [
+        "platform"
+      ],
+      "ar": [
+        "رصيف القطار"
+      ]
+    },
+    "id": "bahnsteig"
+  },
+  {
+    "dictionaryId": "durchsage",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Durchsage",
+    "plural": "Durchsagen",
+    "translation": {
+      "ru": [
+        "объявление"
+      ],
+      "en": [
+        "announcement"
+      ],
+      "ar": [
+        "إعلان"
+      ]
+    },
+    "id": "durchsage"
+  },
+  {
+    "dictionaryId": "schalter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schalter",
+    "plural": "Schalter",
+    "translation": {
+      "ru": [
+        "окошко",
+        "касса",
+        "выключатель"
+      ],
+      "en": [
+        "counter",
+        "ticket counter",
+        "switch"
+      ],
+      "ar": [
+        "شباك",
+        "مفتاح كهربائي"
+      ]
+    },
+    "id": "schalter"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "hin und zurück",
+    "translation": {
+      "ru": [
+        "туда и обратно"
+      ],
+      "en": [
+        "there and back",
+        "round trip"
+      ],
+      "ar": [
+        "ذهابًا وإيابًا"
+      ]
+    },
+    "id": "hin-und-zurück"
+  },
+  {
+    "dictionaryId": "fahrplan",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Fahrplan",
+    "plural": "Fahrpläne",
+    "translation": {
+      "ru": [
+        "расписание"
+      ],
+      "en": [
+        "timetable",
+        "schedule"
+      ],
+      "ar": [
+        "جدول المواعيد"
+      ]
+    },
+    "id": "fahrplan"
+  }
+]

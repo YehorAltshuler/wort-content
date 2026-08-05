@@ -1,0 +1,1783 @@
+[
+  {
+    "dictionaryId": "bewegen",
+    "type": "verb",
+    "infinitive": "sich bewegen",
+    "praeteritum": "bewegte sich",
+    "perfekt": "hat sich bewegt",
+    "translation": {
+      "ru": [
+        "двигаться"
+      ],
+      "en": [
+        "to move"
+      ],
+      "ar": [
+        "يتحرك"
+      ]
+    },
+    "id": "bewegen"
+  },
+  {
+    "dictionaryId": "interessieren",
+    "type": "verb",
+    "infinitive": "sich interessieren",
+    "praeteritum": "interessierte sich",
+    "perfekt": "hat sich interessiert",
+    "translation": {
+      "ru": [
+        "интересоваться"
+      ],
+      "en": [
+        "to be interested"
+      ],
+      "ar": [
+        "يهتم"
+      ]
+    },
+    "id": "interessieren"
+  },
+  {
+    "dictionaryId": "tanz",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tanz",
+    "plural": "Tänze",
+    "translation": {
+      "ru": [
+        "танец"
+      ],
+      "en": [
+        "dance"
+      ],
+      "ar": [
+        "رقصة"
+      ]
+    },
+    "id": "tanz"
+  },
+  {
+    "dictionaryId": "basketball",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Basketball",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "баскетбол"
+      ],
+      "en": [
+        "basketball"
+      ],
+      "ar": [
+        "كرة السلة"
+      ]
+    },
+    "id": "basketball"
+  },
+  {
+    "dictionaryId": "fühlen",
+    "type": "verb",
+    "infinitive": "sich fühlen",
+    "praeteritum": "fühlte sich",
+    "perfekt": "hat sich gefühlt",
+    "translation": {
+      "ru": [
+        "чувствовать себя"
+      ],
+      "en": [
+        "to feel"
+      ],
+      "ar": [
+        "يشعر"
+      ]
+    },
+    "id": "fühlen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "zu wenig",
+    "translation": {
+      "ru": [
+        "слишком мало"
+      ],
+      "en": [
+        "too little"
+      ],
+      "ar": [
+        "قليل جدًا"
+      ]
+    },
+    "id": "zu-wenig"
+  },
+  {
+    "dictionaryId": "video",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Video",
+    "plural": "Videos",
+    "translation": {
+      "ru": [
+        "видео"
+      ],
+      "en": [
+        "video"
+      ],
+      "ar": [
+        "فيديو"
+      ]
+    },
+    "id": "video"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "hinfallen",
+    "praeteritum": "fiel hin",
+    "perfekt": "ist hingefallen",
+    "translation": {
+      "ru": [
+        "упасть",
+        "свалиться"
+      ],
+      "en": [
+        "to fall down"
+      ],
+      "ar": [
+        "يسقط"
+      ]
+    },
+    "id": "hinfallen"
+  },
+  {
+    "dictionaryId": "lust",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Lust",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "желание",
+        "охота"
+      ],
+      "en": [
+        "desire",
+        "motivation"
+      ],
+      "ar": [
+        "رغبة"
+      ]
+    },
+    "id": "lust"
+  },
+  {
+    "dictionaryId": "verein",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Verein",
+    "plural": "Vereine",
+    "translation": {
+      "ru": [
+        "клуб",
+        "общество",
+        "объединение"
+      ],
+      "en": [
+        "club",
+        "association"
+      ],
+      "ar": [
+        "نادي",
+        "جمعية"
+      ]
+    },
+    "id": "verein"
+  },
+  {
+    "dictionaryId": "versuch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Versuch",
+    "plural": "Versuche",
+    "translation": {
+      "ru": [
+        "попытка",
+        "опыт"
+      ],
+      "en": [
+        "attempt",
+        "try"
+      ],
+      "ar": [
+        "محاولة"
+      ]
+    },
+    "id": "versuch"
+  },
+  {
+    "dictionaryId": "meister",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Meister",
+    "plural": "Meister",
+    "translation": {
+      "ru": [
+        "мастер",
+        "чемпион"
+      ],
+      "en": [
+        "master",
+        "champion"
+      ],
+      "ar": [
+        "بطل",
+        "خبير"
+      ]
+    },
+    "id": "meister"
+  },
+  {
+    "dictionaryId": "sportart",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sportart",
+    "plural": "Sportarten",
+    "translation": {
+      "ru": [
+        "вид спорта"
+      ],
+      "en": [
+        "type of sport",
+        "sport"
+      ],
+      "ar": [
+        "نوع رياضة"
+      ]
+    },
+    "id": "sportart"
+  },
+  {
+    "dictionaryId": "entspannung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Entspannung",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "расслабление",
+        "отдых"
+      ],
+      "en": [
+        "relaxation"
+      ],
+      "ar": [
+        "استرخاء"
+      ]
+    },
+    "id": "entspannung"
+  },
+  {
+    "dictionaryId": "ernährung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ernährung",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "питание"
+      ],
+      "en": [
+        "nutrition",
+        "diet"
+      ],
+      "ar": [
+        "تغذية"
+      ]
+    },
+    "id": "ernährung"
+  },
+  {
+    "dictionaryId": "bewegung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bewegung",
+    "plural": "Bewegungen",
+    "translation": {
+      "ru": [
+        "движение",
+        "физическая активность"
+      ],
+      "en": [
+        "movement",
+        "exercise"
+      ],
+      "ar": [
+        "حركة"
+      ]
+    },
+    "id": "bewegung"
+  },
+  {
+    "dictionaryId": "fit",
+    "type": "other",
+    "word": "fit",
+    "translation": {
+      "ru": [
+        "в форме",
+        "здоровый",
+        "подтянутый"
+      ],
+      "en": [
+        "fit"
+      ],
+      "ar": [
+        "بصحة جيدة",
+        "لائق بدنيًا"
+      ]
+    },
+    "id": "fit"
+  },
+  {
+    "dictionaryId": "spaziergang",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Spaziergang",
+    "plural": "Spaziergänge",
+    "translation": {
+      "ru": [
+        "прогулка"
+      ],
+      "en": [
+        "walk"
+      ],
+      "ar": [
+        "نزهة"
+      ]
+    },
+    "id": "spaziergang"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "sich verabreden mit",
+    "praeteritum": "verabredete sich mit",
+    "perfekt": "hat sich mit ... verabredet",
+    "translation": {
+      "ru": [
+        "договариваться о встрече с"
+      ],
+      "en": [
+        "to arrange to meet"
+      ],
+      "ar": [
+        "يتفق على لقاء مع"
+      ]
+    },
+    "id": "sich-verabreden-mit"
+  },
+  {
+    "dictionaryId": "ausruhen",
+    "type": "verb",
+    "infinitive": "sich ausruhen",
+    "praeteritum": "ruhte sich aus",
+    "perfekt": "hat sich ausgeruht",
+    "translation": {
+      "ru": [
+        "отдыхать",
+        "отдохнуть"
+      ],
+      "en": [
+        "to rest"
+      ],
+      "ar": [
+        "يستريح"
+      ]
+    },
+    "id": "ausruhen"
+  },
+  {
+    "dictionaryId": "ernähren",
+    "type": "verb",
+    "infinitive": "sich ernähren",
+    "praeteritum": "ernährte sich",
+    "perfekt": "hat sich ernährt",
+    "translation": {
+      "ru": [
+        "питаться"
+      ],
+      "en": [
+        "to eat",
+        "to nourish oneself"
+      ],
+      "ar": [
+        "يتغذى"
+      ]
+    },
+    "id": "ernähren"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "sich ärgern über",
+    "praeteritum": "ärgerte sich über",
+    "perfekt": "hat sich über ... geärgert",
+    "translation": {
+      "ru": [
+        "злиться из-за",
+        "сердиться на"
+      ],
+      "en": [
+        "to be annoyed about"
+      ],
+      "ar": [
+        "ينزعج من"
+      ]
+    },
+    "id": "sich-ärgern-über"
+  },
+  {
+    "dictionaryId": "schminken",
+    "type": "verb",
+    "infinitive": "sich schminken",
+    "praeteritum": "schminkte sich",
+    "perfekt": "hat sich geschminkt",
+    "translation": {
+      "ru": [
+        "краситься",
+        "наносить макияж"
+      ],
+      "en": [
+        "to put on makeup"
+      ],
+      "ar": [
+        "يضع المكياج"
+      ]
+    },
+    "id": "schminken"
+  },
+  {
+    "dictionaryId": "rasieren",
+    "type": "verb",
+    "infinitive": "sich rasieren",
+    "praeteritum": "rasierte sich",
+    "perfekt": "hat sich rasiert",
+    "translation": {
+      "ru": [
+        "бриться"
+      ],
+      "en": [
+        "to shave"
+      ],
+      "ar": [
+        "يحلق"
+      ]
+    },
+    "id": "rasieren"
+  },
+  {
+    "dictionaryId": "umziehen",
+    "type": "verb",
+    "infinitive": "sich umziehen",
+    "praeteritum": "zog sich um",
+    "perfekt": "hat sich umgezogen",
+    "translation": {
+      "ru": [
+        "переодеваться"
+      ],
+      "en": [
+        "to change clothes"
+      ],
+      "ar": [
+        "يبدل ملابسه"
+      ]
+    },
+    "id": "umziehen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "sich kämmen",
+    "praeteritum": "kämmte sich",
+    "perfekt": "hat sich gekämmt",
+    "translation": {
+      "ru": [
+        "причёсываться"
+      ],
+      "en": [
+        "to comb one's hair"
+      ],
+      "ar": [
+        "يمشط شعره"
+      ]
+    },
+    "id": "sich-kämmen"
+  },
+  {
+    "dictionaryId": "waschen",
+    "type": "verb",
+    "infinitive": "sich waschen",
+    "praeteritum": "wusch sich",
+    "perfekt": "hat sich gewaschen",
+    "translation": {
+      "ru": [
+        "мыться",
+        "умываться"
+      ],
+      "en": [
+        "to wash oneself"
+      ],
+      "ar": [
+        "يغتسل"
+      ]
+    },
+    "id": "waschen"
+  },
+  {
+    "dictionaryId": "beeilen",
+    "type": "verb",
+    "infinitive": "sich beeilen",
+    "praeteritum": "beeilte sich",
+    "perfekt": "hat sich beeilt",
+    "translation": {
+      "ru": [
+        "торопиться",
+        "спешить"
+      ],
+      "en": [
+        "to hurry"
+      ],
+      "ar": [
+        "يستعجل"
+      ]
+    },
+    "id": "beeilen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "sich konzentrieren auf",
+    "praeteritum": "konzentrierte sich auf",
+    "perfekt": "hat sich auf ... konzentriert",
+    "translation": {
+      "ru": [
+        "концентрироваться на"
+      ],
+      "en": [
+        "to concentrate on"
+      ],
+      "ar": [
+        "يركز على"
+      ]
+    },
+    "id": "sich-konzentrieren-auf"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "sich beschweren über",
+    "praeteritum": "beschwerte sich über",
+    "perfekt": "hat sich über ... beschwert",
+    "translation": {
+      "ru": [
+        "жаловаться на"
+      ],
+      "en": [
+        "to complain about"
+      ],
+      "ar": [
+        "يشتكي من"
+      ]
+    },
+    "id": "sich-beschweren-über"
+  },
+  {
+    "dictionaryId": "überhaupt",
+    "type": "other",
+    "word": "überhaupt",
+    "translation": {
+      "ru": [
+        "вообще",
+        "совсем",
+        "в целом"
+      ],
+      "en": [
+        "at all",
+        "generally"
+      ],
+      "ar": [
+        "عمومًا",
+        "على الإطلاق"
+      ]
+    },
+    "id": "überhaupt"
+  },
+  {
+    "dictionaryId": "zeitschrift",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zeitschrift",
+    "plural": "Zeitschriften",
+    "translation": {
+      "ru": [
+        "журнал"
+      ],
+      "en": [
+        "magazine"
+      ],
+      "ar": [
+        "مجلة"
+      ]
+    },
+    "id": "zeitschrift"
+  },
+  {
+    "dictionaryId": "geschichte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Geschichte",
+    "plural": "Geschichten",
+    "translation": {
+      "ru": [
+        "история",
+        "рассказ"
+      ],
+      "en": [
+        "story",
+        "history"
+      ],
+      "ar": [
+        "قصة",
+        "تاريخ"
+      ]
+    },
+    "id": "geschichte"
+  },
+  {
+    "dictionaryId": "theater",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Theater",
+    "plural": "Theater",
+    "translation": {
+      "ru": [
+        "театр"
+      ],
+      "en": [
+        "theater"
+      ],
+      "ar": [
+        "مسرح"
+      ]
+    },
+    "id": "theater"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nachrichten",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "новости",
+        "сообщения"
+      ],
+      "en": [
+        "news",
+        "messages"
+      ],
+      "ar": [
+        "أخبار",
+        "رسائل"
+      ]
+    },
+    "id": "nachrichten"
+  },
+  {
+    "dictionaryId": "weltmeisterschaft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Weltmeisterschaft",
+    "plural": "Weltmeisterschaften",
+    "translation": {
+      "ru": [
+        "чемпионат мира"
+      ],
+      "en": [
+        "world championship",
+        "World Cup"
+      ],
+      "ar": [
+        "بطولة العالم"
+      ]
+    },
+    "id": "weltmeisterschaft"
+  },
+  {
+    "dictionaryId": "wettervorhersage",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wettervorhersage",
+    "plural": "Wettervorhersagen",
+    "translation": {
+      "ru": [
+        "прогноз погоды"
+      ],
+      "en": [
+        "weather forecast"
+      ],
+      "ar": [
+        "توقعات الطقس"
+      ]
+    },
+    "id": "wettervorhersage"
+  },
+  {
+    "dictionaryId": "mannschaft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mannschaft",
+    "plural": "Mannschaften",
+    "translation": {
+      "ru": [
+        "команда"
+      ],
+      "en": [
+        "team"
+      ],
+      "ar": [
+        "فريق"
+      ]
+    },
+    "id": "mannschaft"
+  },
+  {
+    "dictionaryId": "besuch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Besuch",
+    "plural": "Besuche",
+    "translation": {
+      "ru": [
+        "визит",
+        "посещение",
+        "гость"
+      ],
+      "en": [
+        "visit",
+        "visitor"
+      ],
+      "ar": [
+        "زيارة",
+        "زائر"
+      ]
+    },
+    "id": "besuch"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "sich kümmern um",
+    "praeteritum": "kümmerte sich um",
+    "perfekt": "hat sich um ... gekümmert",
+    "translation": {
+      "ru": [
+        "заботиться о",
+        "заниматься чем-то"
+      ],
+      "en": [
+        "to take care of",
+        "to look after"
+      ],
+      "ar": [
+        "يهتم بـ",
+        "يعتني بـ"
+      ]
+    },
+    "id": "sich-kümmern-um"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "träumen von",
+    "praeteritum": "träumte von",
+    "perfekt": "hat von ... geträumt",
+    "translation": {
+      "ru": [
+        "мечтать о",
+        "видеть во сне"
+      ],
+      "en": [
+        "to dream of",
+        "to dream about"
+      ],
+      "ar": [
+        "يحلم بـ"
+      ]
+    },
+    "id": "träumen-von"
+  },
+  {
+    "dictionaryId": "angst",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Angst",
+    "plural": "Ängste",
+    "translation": {
+      "ru": [
+        "страх",
+        "тревога"
+      ],
+      "en": [
+        "fear",
+        "anxiety"
+      ],
+      "ar": [
+        "خوف",
+        "قلق"
+      ]
+    },
+    "id": "angst"
+  },
+  {
+    "dictionaryId": "ehrlich",
+    "type": "other",
+    "word": "ehrlich",
+    "translation": {
+      "ru": [
+        "честный",
+        "искренний"
+      ],
+      "en": [
+        "honest"
+      ],
+      "ar": [
+        "صادق"
+      ]
+    },
+    "id": "ehrlich"
+  },
+  {
+    "dictionaryId": "gold",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gold",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "золото"
+      ],
+      "en": [
+        "gold"
+      ],
+      "ar": [
+        "ذهب"
+      ]
+    },
+    "id": "gold"
+  },
+  {
+    "dictionaryId": "saison",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Saison",
+    "plural": "Saisons",
+    "translation": {
+      "ru": [
+        "сезон"
+      ],
+      "en": [
+        "season"
+      ],
+      "ar": [
+        "موسم"
+      ]
+    },
+    "id": "saison"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "sich erinnern an",
+    "praeteritum": "erinnerte sich an",
+    "perfekt": "hat sich an ... erinnert",
+    "translation": {
+      "ru": [
+        "вспоминать",
+        "помнить о"
+      ],
+      "en": [
+        "to remember"
+      ],
+      "ar": [
+        "يتذكر"
+      ]
+    },
+    "id": "sich-erinnern-an"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "denken an",
+    "praeteritum": "dachte an",
+    "perfekt": "hat an ... gedacht",
+    "translation": {
+      "ru": [
+        "думать о"
+      ],
+      "en": [
+        "to think of",
+        "to think about"
+      ],
+      "ar": [
+        "يفكر في"
+      ]
+    },
+    "id": "denken-an"
+  },
+  {
+    "dictionaryId": "ferien",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ferien",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "каникулы",
+        "отпуск"
+      ],
+      "en": [
+        "holidays",
+        "vacation"
+      ],
+      "ar": [
+        "عطلة"
+      ]
+    },
+    "id": "ferien"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gymnastik",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "гимнастика"
+      ],
+      "en": [
+        "gymnastics"
+      ],
+      "ar": [
+        "جمباز"
+      ]
+    },
+    "id": "gymnastik"
+  },
+  {
+    "dictionaryId": "tischtennis",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Tischtennis",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "настольный теннис"
+      ],
+      "en": [
+        "table tennis"
+      ],
+      "ar": [
+        "تنس الطاولة"
+      ]
+    },
+    "id": "tischtennis"
+  },
+  {
+    "dictionaryId": "volleyball",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Volleyball",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "волейбол"
+      ],
+      "en": [
+        "volleyball"
+      ],
+      "ar": [
+        "كرة الطائرة"
+      ]
+    },
+    "id": "volleyball"
+  },
+  {
+    "dictionaryId": "fitness",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Fitness",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "фитнес",
+        "физическая форма"
+      ],
+      "en": [
+        "fitness"
+      ],
+      "ar": [
+        "لياقة بدنية"
+      ]
+    },
+    "id": "fitness"
+  },
+  {
+    "dictionaryId": "beitrag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Beitrag",
+    "plural": "Beiträge",
+    "translation": {
+      "ru": [
+        "взнос",
+        "вклад",
+        "сообщение"
+      ],
+      "en": [
+        "contribution",
+        "fee",
+        "post"
+      ],
+      "ar": [
+        "مساهمة",
+        "اشتراك"
+      ]
+    },
+    "id": "beitrag"
+  },
+  {
+    "dictionaryId": "betragen",
+    "type": "verb",
+    "infinitive": "betragen",
+    "praeteritum": "betrug",
+    "perfekt": "hat betragen",
+    "translation": {
+      "ru": [
+        "составлять",
+        "равняться"
+      ],
+      "en": [
+        "to amount to"
+      ],
+      "ar": [
+        "يبلغ"
+      ]
+    },
+    "id": "betragen"
+  },
+  {
+    "dictionaryId": "gruppe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gruppe",
+    "plural": "Gruppen",
+    "translation": {
+      "ru": [
+        "группа"
+      ],
+      "en": [
+        "group"
+      ],
+      "ar": [
+        "مجموعة"
+      ]
+    },
+    "id": "gruppe"
+  },
+  {
+    "dictionaryId": "ermäßigung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ermäßigung",
+    "plural": "Ermäßigungen",
+    "translation": {
+      "ru": [
+        "скидка",
+        "льгота"
+      ],
+      "en": [
+        "discount",
+        "reduction"
+      ],
+      "ar": [
+        "تخفيض"
+      ]
+    },
+    "id": "ermässigung"
+  },
+  {
+    "dictionaryId": "kostenlos",
+    "type": "other",
+    "word": "kostenlos",
+    "translation": {
+      "ru": [
+        "бесплатный",
+        "бесплатно"
+      ],
+      "en": [
+        "free of charge"
+      ],
+      "ar": [
+        "مجاني"
+      ]
+    },
+    "id": "kostenlos"
+  },
+  {
+    "dictionaryId": "azubi",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Azubi",
+    "plural": "Azubis",
+    "translation": {
+      "ru": [
+        "ученик на Ausbildung",
+        "стажёр"
+      ],
+      "en": [
+        "trainee",
+        "apprentice"
+      ],
+      "ar": [
+        "متدرب مهني"
+      ]
+    },
+    "id": "azubi"
+  },
+  {
+    "dictionaryId": "zusätzlich",
+    "type": "other",
+    "word": "zusätzlich",
+    "translation": {
+      "ru": [
+        "дополнительно",
+        "дополнительный"
+      ],
+      "en": [
+        "additional",
+        "additionally"
+      ],
+      "ar": [
+        "إضافي"
+      ]
+    },
+    "id": "zusätzlich"
+  },
+  {
+    "dictionaryId": "aktiv",
+    "type": "other",
+    "word": "aktiv",
+    "translation": {
+      "ru": [
+        "активный"
+      ],
+      "en": [
+        "active"
+      ],
+      "ar": [
+        "نشط"
+      ]
+    },
+    "id": "aktiv"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "joggen",
+    "praeteritum": "joggte",
+    "perfekt": "ist gejoggt",
+    "translation": {
+      "ru": [
+        "бегать трусцой"
+      ],
+      "en": [
+        "to jog"
+      ],
+      "ar": [
+        "يركض"
+      ]
+    },
+    "id": "joggen"
+  },
+  {
+    "dictionaryId": "halten",
+    "type": "verb",
+    "infinitive": "sich halten",
+    "praeteritum": "hielt sich",
+    "perfekt": "hat sich gehalten",
+    "translation": {
+      "ru": [
+        "держаться",
+        "придерживаться"
+      ],
+      "en": [
+        "to keep oneself",
+        "to stick to"
+      ],
+      "ar": [
+        "يلتزم",
+        "يحافظ على نفسه"
+      ]
+    },
+    "id": "halten"
+  },
+  {
+    "dictionaryId": "häufig",
+    "type": "other",
+    "word": "häufig",
+    "translation": {
+      "ru": [
+        "часто",
+        "частый"
+      ],
+      "en": [
+        "frequent",
+        "often"
+      ],
+      "ar": [
+        "متكرر",
+        "غالبًا"
+      ]
+    },
+    "id": "häufig"
+  },
+  {
+    "dictionaryId": "ursache",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ursache",
+    "plural": "Ursachen",
+    "translation": {
+      "ru": [
+        "причина"
+      ],
+      "en": [
+        "cause"
+      ],
+      "ar": [
+        "سبب"
+      ]
+    },
+    "id": "ursache"
+  },
+  {
+    "dictionaryId": "krankheit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Krankheit",
+    "plural": "Krankheiten",
+    "translation": {
+      "ru": [
+        "болезнь",
+        "заболевание"
+      ],
+      "en": [
+        "illness",
+        "disease"
+      ],
+      "ar": [
+        "مرض"
+      ]
+    },
+    "id": "krankheit"
+  },
+  {
+    "dictionaryId": "bildschirm",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bildschirm",
+    "plural": "Bildschirme",
+    "translation": {
+      "ru": [
+        "экран",
+        "монитор"
+      ],
+      "en": [
+        "screen",
+        "monitor"
+      ],
+      "ar": [
+        "شاشة"
+      ]
+    },
+    "id": "bildschirm"
+  },
+  {
+    "dictionaryId": "körper",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Körper",
+    "plural": "Körper",
+    "translation": {
+      "ru": [
+        "тело"
+      ],
+      "en": [
+        "body"
+      ],
+      "ar": [
+        "جسم"
+      ]
+    },
+    "id": "körper"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "außerdem",
+    "translation": {
+      "ru": [
+        "кроме того",
+        "также"
+      ],
+      "en": [
+        "besides",
+        "moreover"
+      ],
+      "ar": [
+        "بالإضافة إلى ذلك"
+      ]
+    },
+    "id": "ausserdem"
+  },
+  {
+    "dictionaryId": "luft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Luft",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "воздух"
+      ],
+      "en": [
+        "air"
+      ],
+      "ar": [
+        "هواء"
+      ]
+    },
+    "id": "luft"
+  },
+  {
+    "dictionaryId": "untersuchung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Untersuchung",
+    "plural": "Untersuchungen",
+    "translation": {
+      "ru": [
+        "обследование",
+        "исследование",
+        "осмотр"
+      ],
+      "en": [
+        "examination",
+        "investigation"
+      ],
+      "ar": [
+        "فحص",
+        "دراسة"
+      ]
+    },
+    "id": "untersuchung"
+  },
+  {
+    "dictionaryId": "schaffen",
+    "type": "verb",
+    "infinitive": "schaffen",
+    "praeteritum": "schaffte",
+    "perfekt": "hat geschafft",
+    "translation": {
+      "ru": [
+        "справляться",
+        "успевать",
+        "создавать"
+      ],
+      "en": [
+        "to manage",
+        "to create"
+      ],
+      "ar": [
+        "ينجز",
+        "يخلق"
+      ]
+    },
+    "id": "schaffen"
+  },
+  {
+    "dictionaryId": "preiswert",
+    "type": "other",
+    "word": "preiswert",
+    "translation": {
+      "ru": [
+        "недорогой",
+        "выгодный"
+      ],
+      "en": [
+        "inexpensive",
+        "good value"
+      ],
+      "ar": [
+        "رخيص",
+        "بسعر مناسب"
+      ]
+    },
+    "id": "preiswert"
+  },
+  {
+    "dictionaryId": "laufen",
+    "type": "verb",
+    "infinitive": "laufen",
+    "praeteritum": "lief",
+    "perfekt": "ist gelaufen",
+    "translation": {
+      "ru": [
+        "бежать",
+        "идти",
+        "ходить"
+      ],
+      "en": [
+        "to run",
+        "to walk"
+      ],
+      "ar": [
+        "يجري",
+        "يمشي"
+      ]
+    },
+    "id": "laufen"
+  },
+  {
+    "dictionaryId": "trend",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Trend",
+    "plural": "Trends",
+    "translation": {
+      "ru": [
+        "тренд",
+        "тенденция"
+      ],
+      "en": [
+        "trend"
+      ],
+      "ar": [
+        "اتجاه"
+      ]
+    },
+    "id": "trend"
+  },
+  {
+    "dictionaryId": "spielplatz",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Spielplatz",
+    "plural": "Spielplätze",
+    "translation": {
+      "ru": [
+        "детская площадка"
+      ],
+      "en": [
+        "playground"
+      ],
+      "ar": [
+        "ملعب أطفال"
+      ]
+    },
+    "id": "spielplatz"
+  },
+  {
+    "dictionaryId": "extra",
+    "type": "other",
+    "word": "extra",
+    "translation": {
+      "ru": [
+        "дополнительно",
+        "специально",
+        "отдельно"
+      ],
+      "en": [
+        "extra",
+        "separately"
+      ],
+      "ar": [
+        "إضافي",
+        "خصوصًا"
+      ]
+    },
+    "id": "extra"
+  },
+  {
+    "dictionaryId": "flexibel",
+    "type": "other",
+    "word": "flexibel",
+    "translation": {
+      "ru": [
+        "гибкий"
+      ],
+      "en": [
+        "flexible"
+      ],
+      "ar": [
+        "مرن"
+      ]
+    },
+    "id": "flexibel"
+  },
+  {
+    "dictionaryId": "umwelt",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Umwelt",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "окружающая среда"
+      ],
+      "en": [
+        "environment"
+      ],
+      "ar": [
+        "بيئة"
+      ]
+    },
+    "id": "umwelt"
+  },
+  {
+    "dictionaryId": "krankenkasse",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Krankenkasse",
+    "plural": "Krankenkassen",
+    "translation": {
+      "ru": [
+        "медицинская страховая касса"
+      ],
+      "en": [
+        "health insurance company"
+      ],
+      "ar": [
+        "شركة تأمين صحي"
+      ]
+    },
+    "id": "krankenkasse"
+  },
+  {
+    "dictionaryId": "beliebt",
+    "type": "other",
+    "word": "beliebt",
+    "translation": {
+      "ru": [
+        "популярный",
+        "любимый"
+      ],
+      "en": [
+        "popular"
+      ],
+      "ar": [
+        "محبوب",
+        "شائع"
+      ]
+    },
+    "id": "beliebt"
+  },
+  {
+    "dictionaryId": "strecke",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Strecke",
+    "plural": "Strecken",
+    "translation": {
+      "ru": [
+        "дистанция",
+        "маршрут",
+        "участок пути"
+      ],
+      "en": [
+        "route",
+        "distance",
+        "stretch"
+      ],
+      "ar": [
+        "مسافة",
+        "طريق"
+      ]
+    },
+    "id": "strecke"
+  },
+  {
+    "dictionaryId": "klar",
+    "type": "other",
+    "word": "klar",
+    "translation": {
+      "ru": [
+        "ясный",
+        "понятный",
+        "конечно"
+      ],
+      "en": [
+        "clear",
+        "of course"
+      ],
+      "ar": [
+        "واضح",
+        "بالطبع"
+      ]
+    },
+    "id": "klar"
+  },
+  {
+    "dictionaryId": "übertreiben",
+    "type": "verb",
+    "infinitive": "übertreiben",
+    "praeteritum": "übertrieb",
+    "perfekt": "hat übertrieben",
+    "translation": {
+      "ru": [
+        "преувеличивать",
+        "перебарщивать"
+      ],
+      "en": [
+        "to exaggerate",
+        "to overdo"
+      ],
+      "ar": [
+        "يبالغ"
+      ]
+    },
+    "id": "übertreiben"
+  },
+  {
+    "dictionaryId": "selbstverständlich",
+    "type": "other",
+    "word": "selbstverständlich",
+    "translation": {
+      "ru": [
+        "само собой разумеется",
+        "конечно"
+      ],
+      "en": [
+        "of course",
+        "naturally"
+      ],
+      "ar": [
+        "بالطبع",
+        "من البديهي"
+      ]
+    },
+    "id": "selbstverständlich"
+  }
+]

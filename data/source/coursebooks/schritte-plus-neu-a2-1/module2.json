@@ -1,0 +1,1669 @@
+[
+  {
+    "dictionaryId": "energie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Energie",
+    "plural": "Energien",
+    "translation": {
+      "ru": [
+        "энергия"
+      ],
+      "en": [
+        "energy"
+      ],
+      "ar": [
+        "طاقة"
+      ]
+    },
+    "id": "energie"
+  },
+  {
+    "dictionaryId": "selbst",
+    "type": "other",
+    "word": "selbst",
+    "translation": {
+      "ru": [
+        "сам",
+        "сама",
+        "само",
+        "сами"
+      ],
+      "en": [
+        "self",
+        "even"
+      ],
+      "ar": [
+        "نفسه",
+        "حتى"
+      ]
+    },
+    "id": "selbst"
+  },
+  {
+    "dictionaryId": "wechseln",
+    "type": "verb",
+    "infinitive": "wechseln",
+    "praeteritum": "wechselte",
+    "perfekt": "hat gewechselt",
+    "translation": {
+      "ru": [
+        "менять",
+        "сменять",
+        "переключать"
+      ],
+      "en": [
+        "to change",
+        "to switch"
+      ],
+      "ar": [
+        "يغيّر",
+        "يبدّل"
+      ]
+    },
+    "id": "wechseln"
+  },
+  {
+    "dictionaryId": "decke",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Decke",
+    "plural": "Decken",
+    "translation": {
+      "ru": [
+        "одеяло",
+        "потолок"
+      ],
+      "en": [
+        "blanket",
+        "ceiling"
+      ],
+      "ar": [
+        "بطانية",
+        "سقف"
+      ]
+    },
+    "id": "decke"
+  },
+  {
+    "dictionaryId": "hängen",
+    "type": "verb",
+    "infinitive": "hängen",
+    "praeteritum": "hängte / hing",
+    "perfekt": "hat gehängt / hat gehangen",
+    "translation": {
+      "ru": [
+        "вешать",
+        "висеть"
+      ],
+      "en": [
+        "to hang",
+        "to be hanging"
+      ],
+      "ar": [
+        "يعلّق",
+        "يتدلّى"
+      ]
+    },
+    "id": "hängen"
+  },
+  {
+    "dictionaryId": "dank",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Dank",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "благодарность",
+        "спасибо"
+      ],
+      "en": [
+        "thanks",
+        "gratitude"
+      ],
+      "ar": [
+        "شكر",
+        "امتنان"
+      ]
+    },
+    "id": "dank"
+  },
+  {
+    "dictionaryId": "nichts",
+    "type": "other",
+    "word": "nichts",
+    "translation": {
+      "ru": [
+        "ничего"
+      ],
+      "en": [
+        "nothing"
+      ],
+      "ar": [
+        "لا شيء"
+      ]
+    },
+    "id": "nichts"
+  },
+  {
+    "dictionaryId": "menge",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Menge",
+    "plural": "Mengen",
+    "translation": {
+      "ru": [
+        "количество",
+        "множество",
+        "масса"
+      ],
+      "en": [
+        "amount",
+        "quantity",
+        "crowd"
+      ],
+      "ar": [
+        "كمية",
+        "كثرة"
+      ]
+    },
+    "id": "menge"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kugelschreiber",
+    "plural": "Kugelschreiber",
+    "translation": {
+      "ru": [
+        "шариковая ручка",
+        "ручка"
+      ],
+      "en": [
+        "ballpoint pen",
+        "pen"
+      ],
+      "ar": [
+        "قلم حبر جاف"
+      ]
+    },
+    "id": "kugelschreiber"
+  },
+  {
+    "dictionaryId": "stecken",
+    "type": "verb",
+    "infinitive": "stecken",
+    "praeteritum": "steckte",
+    "perfekt": "hat gesteckt",
+    "translation": {
+      "ru": [
+        "торчать",
+        "находиться",
+        "засовывать",
+        "вставлять"
+      ],
+      "en": [
+        "to be stuck",
+        "to put",
+        "to insert"
+      ],
+      "ar": [
+        "يضع",
+        "يدخل",
+        "يكون عالقًا"
+      ]
+    },
+    "id": "stecken"
+  },
+  {
+    "dictionaryId": "schloss",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Schloss",
+    "plural": "Schlösser",
+    "translation": {
+      "ru": [
+        "замок",
+        "дворец"
+      ],
+      "en": [
+        "lock",
+        "castle",
+        "palace"
+      ],
+      "ar": [
+        "قفل",
+        "قصر"
+      ]
+    },
+    "id": "schloss"
+  },
+  {
+    "dictionaryId": "stehen",
+    "type": "verb",
+    "infinitive": "stehen",
+    "praeteritum": "stand",
+    "perfekt": "hat gestanden",
+    "translation": {
+      "ru": [
+        "стоять"
+      ],
+      "en": [
+        "to stand"
+      ],
+      "ar": [
+        "يقف"
+      ]
+    },
+    "id": "stehen"
+  },
+  {
+    "dictionaryId": "bild",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Bild",
+    "plural": "Bilder",
+    "translation": {
+      "ru": [
+        "картина",
+        "изображение",
+        "фотография"
+      ],
+      "en": [
+        "picture",
+        "image",
+        "photo"
+      ],
+      "ar": [
+        "صورة",
+        "لوحة"
+      ]
+    },
+    "id": "bild"
+  },
+  {
+    "dictionaryId": "wand",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wand",
+    "plural": "Wände",
+    "translation": {
+      "ru": [
+        "стена"
+      ],
+      "en": [
+        "wall"
+      ],
+      "ar": [
+        "جدار"
+      ]
+    },
+    "id": "wand"
+  },
+  {
+    "dictionaryId": "katze",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Katze",
+    "plural": "Katzen",
+    "translation": {
+      "ru": [
+        "кошка"
+      ],
+      "en": [
+        "cat"
+      ],
+      "ar": [
+        "قطة"
+      ]
+    },
+    "id": "katze"
+  },
+  {
+    "dictionaryId": "legen",
+    "type": "verb",
+    "infinitive": "legen",
+    "praeteritum": "legte",
+    "perfekt": "hat gelegt",
+    "translation": {
+      "ru": [
+        "класть",
+        "положить"
+      ],
+      "en": [
+        "to lay",
+        "to put"
+      ],
+      "ar": [
+        "يضع"
+      ]
+    },
+    "id": "legen"
+  },
+  {
+    "dictionaryId": "ruhe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ruhe",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "покой",
+        "тишина",
+        "спокойствие"
+      ],
+      "en": [
+        "peace",
+        "quiet",
+        "calm"
+      ],
+      "ar": [
+        "هدوء",
+        "سكينة"
+      ]
+    },
+    "id": "ruhe"
+  },
+  {
+    "dictionaryId": "schild",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Schild",
+    "plural": "Schilder",
+    "translation": {
+      "ru": [
+        "табличка",
+        "вывеска",
+        "знак"
+      ],
+      "en": [
+        "sign",
+        "signboard",
+        "label"
+      ],
+      "ar": [
+        "لافتة",
+        "علامة"
+      ]
+    },
+    "id": "schild"
+  },
+  {
+    "dictionaryId": "stören",
+    "type": "verb",
+    "infinitive": "stören",
+    "praeteritum": "störte",
+    "perfekt": "hat gestört",
+    "translation": {
+      "ru": [
+        "мешать",
+        "беспокоить",
+        "тревожить"
+      ],
+      "en": [
+        "to disturb",
+        "to bother"
+      ],
+      "ar": [
+        "يزعج",
+        "يقلق"
+      ]
+    },
+    "id": "stören"
+  },
+  {
+    "dictionaryId": "stellen",
+    "type": "verb",
+    "infinitive": "stellen",
+    "praeteritum": "stellte",
+    "perfekt": "hat gestellt",
+    "translation": {
+      "ru": [
+        "ставить",
+        "поставить"
+      ],
+      "en": [
+        "to put",
+        "to place"
+      ],
+      "ar": [
+        "يضع"
+      ]
+    },
+    "id": "stellen"
+  },
+  {
+    "dictionaryId": "stift",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Stift",
+    "plural": "Stifte",
+    "translation": {
+      "ru": [
+        "карандаш",
+        "ручка",
+        "письменная принадлежность"
+      ],
+      "en": [
+        "pen",
+        "pencil"
+      ],
+      "ar": [
+        "قلم"
+      ]
+    },
+    "id": "stift"
+  },
+  {
+    "dictionaryId": "bauen",
+    "type": "verb",
+    "infinitive": "bauen",
+    "praeteritum": "baute",
+    "perfekt": "hat gebaut",
+    "translation": {
+      "ru": [
+        "строить"
+      ],
+      "en": [
+        "to build"
+      ],
+      "ar": [
+        "يبني"
+      ]
+    },
+    "id": "bauen"
+  },
+  {
+    "dictionaryId": "dahin",
+    "type": "other",
+    "word": "dahin",
+    "translation": {
+      "ru": [
+        "туда"
+      ],
+      "en": [
+        "there",
+        "to there"
+      ],
+      "ar": [
+        "إلى هناك"
+      ]
+    },
+    "id": "dahin"
+  },
+  {
+    "dictionaryId": "pflanze",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Pflanze",
+    "plural": "Pflanzen",
+    "translation": {
+      "ru": [
+        "растение"
+      ],
+      "en": [
+        "plant"
+      ],
+      "ar": [
+        "نبات"
+      ]
+    },
+    "id": "pflanze"
+  },
+  {
+    "dictionaryId": "dorthin",
+    "type": "other",
+    "word": "dorthin",
+    "translation": {
+      "ru": [
+        "туда",
+        "в ту сторону"
+      ],
+      "en": [
+        "there",
+        "to there"
+      ],
+      "ar": [
+        "إلى هناك"
+      ]
+    },
+    "id": "dorthin"
+  },
+  {
+    "dictionaryId": "vorsicht",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Vorsicht",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "осторожность",
+        "внимание"
+      ],
+      "en": [
+        "caution",
+        "care"
+      ],
+      "ar": [
+        "حذر",
+        "انتباه"
+      ]
+    },
+    "id": "vorsicht"
+  },
+  {
+    "dictionaryId": "herunter",
+    "type": "other",
+    "word": "herunter-",
+    "translation": {
+      "ru": [
+        "вниз",
+        "сверху вниз"
+      ],
+      "en": [
+        "down",
+        "downwards"
+      ],
+      "ar": [
+        "إلى الأسفل"
+      ]
+    },
+    "id": "herunter"
+  },
+  {
+    "dictionaryId": "runter",
+    "type": "other",
+    "word": "runter-",
+    "translation": {
+      "ru": [
+        "вниз"
+      ],
+      "en": [
+        "down"
+      ],
+      "ar": [
+        "إلى الأسفل"
+      ]
+    },
+    "id": "runter"
+  },
+  {
+    "dictionaryId": "fallen",
+    "type": "verb",
+    "infinitive": "fallen",
+    "praeteritum": "fiel",
+    "perfekt": "ist gefallen",
+    "translation": {
+      "ru": [
+        "падать"
+      ],
+      "en": [
+        "to fall"
+      ],
+      "ar": [
+        "يسقط"
+      ]
+    },
+    "id": "fallen"
+  },
+  {
+    "dictionaryId": "rein",
+    "type": "other",
+    "word": "rein",
+    "translation": {
+      "ru": [
+        "внутрь"
+      ],
+      "en": [
+        "inside",
+        "in"
+      ],
+      "ar": [
+        "إلى الداخل"
+      ]
+    },
+    "id": "rein"
+  },
+  {
+    "dictionaryId": "müll",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Müll",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "мусор"
+      ],
+      "en": [
+        "trash",
+        "garbage",
+        "waste"
+      ],
+      "ar": [
+        "قمامة",
+        "نفايات"
+      ]
+    },
+    "id": "müll"
+  },
+  {
+    "dictionaryId": "raus",
+    "type": "other",
+    "word": "raus",
+    "translation": {
+      "ru": [
+        "наружу",
+        "вон"
+      ],
+      "en": [
+        "out",
+        "outside"
+      ],
+      "ar": [
+        "إلى الخارج"
+      ]
+    },
+    "id": "raus"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "reinkommen",
+    "praeteritum": "kam rein",
+    "perfekt": "ist reingekommen",
+    "translation": {
+      "ru": [
+        "заходить",
+        "входить"
+      ],
+      "en": [
+        "to come in",
+        "to enter"
+      ],
+      "ar": [
+        "يدخل"
+      ]
+    },
+    "id": "reinkommen"
+  },
+  {
+    "dictionaryId": "mitteilung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mitteilung",
+    "plural": "Mitteilungen",
+    "translation": {
+      "ru": [
+        "сообщение",
+        "уведомление"
+      ],
+      "en": [
+        "message",
+        "notification",
+        "notice"
+      ],
+      "ar": [
+        "رسالة",
+        "إشعار"
+      ]
+    },
+    "id": "mitteilung"
+  },
+  {
+    "dictionaryId": "bewohner",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bewohner",
+    "plural": "Bewohner",
+    "translation": {
+      "ru": [
+        "житель",
+        "жилец"
+      ],
+      "en": [
+        "resident",
+        "inhabitant"
+      ],
+      "ar": [
+        "ساكن",
+        "مقيم"
+      ]
+    },
+    "id": "bewohner"
+  },
+  {
+    "dictionaryId": "bewohnerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bewohnerin",
+    "plural": "Bewohnerinnen",
+    "translation": {
+      "ru": [
+        "жительница",
+        "жилица"
+      ],
+      "en": [
+        "female resident"
+      ],
+      "ar": [
+        "ساكنة",
+        "مقيمة"
+      ]
+    },
+    "id": "bewohnerin"
+  },
+  {
+    "dictionaryId": "trennen",
+    "type": "verb",
+    "infinitive": "trennen",
+    "praeteritum": "trennte",
+    "perfekt": "hat getrennt",
+    "translation": {
+      "ru": [
+        "разделять",
+        "отделять",
+        "расставаться"
+      ],
+      "en": [
+        "to separate",
+        "to divide"
+      ],
+      "ar": [
+        "يفصل",
+        "يقسم"
+      ]
+    },
+    "id": "trennen"
+  },
+  {
+    "dictionaryId": "abfall",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Abfall",
+    "plural": "Abfälle",
+    "translation": {
+      "ru": [
+        "отходы",
+        "мусор"
+      ],
+      "en": [
+        "waste",
+        "garbage"
+      ],
+      "ar": [
+        "نفايات"
+      ]
+    },
+    "id": "abfall"
+  },
+  {
+    "dictionaryId": "plastik",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Plastik",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "пластик"
+      ],
+      "en": [
+        "plastic"
+      ],
+      "ar": [
+        "بلاستيك"
+      ]
+    },
+    "id": "plastik"
+  },
+  {
+    "dictionaryId": "beachten",
+    "type": "verb",
+    "infinitive": "beachten",
+    "praeteritum": "beachtete",
+    "perfekt": "hat beachtet",
+    "translation": {
+      "ru": [
+        "обращать внимание",
+        "соблюдать",
+        "учитывать"
+      ],
+      "en": [
+        "to pay attention to",
+        "to observe",
+        "to follow"
+      ],
+      "ar": [
+        "ينتبه إلى",
+        "يراعي"
+      ]
+    },
+    "id": "beachten"
+  },
+  {
+    "dictionaryId": "müllabfuhr",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Müllabfuhr",
+    "plural": "",
+    "comment": "обычно Sg.",
+    "translation": {
+      "ru": [
+        "вывоз мусора",
+        "служба вывоза мусора"
+      ],
+      "en": [
+        "garbage collection",
+        "waste collection"
+      ],
+      "ar": [
+        "جمع القمامة"
+      ]
+    },
+    "id": "müllabfuhr"
+  },
+  {
+    "dictionaryId": "mülltonne",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mülltonne",
+    "plural": "Mülltonnen",
+    "translation": {
+      "ru": [
+        "мусорный бак",
+        "мусорный контейнер"
+      ],
+      "en": [
+        "trash bin",
+        "garbage bin"
+      ],
+      "ar": [
+        "حاوية قمامة"
+      ]
+    },
+    "id": "mülltonne"
+  },
+  {
+    "dictionaryId": "abstellen",
+    "type": "verb",
+    "infinitive": "abstellen",
+    "praeteritum": "stellte ab",
+    "perfekt": "hat abgestellt",
+    "translation": {
+      "ru": [
+        "ставить",
+        "оставлять",
+        "выключать"
+      ],
+      "en": [
+        "to put down",
+        "to leave",
+        "to turn off"
+      ],
+      "ar": [
+        "يضع",
+        "يترك",
+        "يطفئ"
+      ]
+    },
+    "id": "abstellen"
+  },
+  {
+    "dictionaryId": "einfahrt",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Einfahrt",
+    "plural": "Einfahrten",
+    "translation": {
+      "ru": [
+        "въезд",
+        "подъезд"
+      ],
+      "en": [
+        "driveway",
+        "entrance"
+      ],
+      "ar": [
+        "مدخل",
+        "طريق دخول"
+      ]
+    },
+    "id": "einfahrt"
+  },
+  {
+    "dictionaryId": "hof",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Hof",
+    "plural": "Höfe",
+    "translation": {
+      "ru": [
+        "двор"
+      ],
+      "en": [
+        "courtyard",
+        "yard"
+      ],
+      "ar": [
+        "فناء",
+        "ساحة"
+      ]
+    },
+    "id": "hof"
+  },
+  {
+    "dictionaryId": "kündigen",
+    "type": "verb",
+    "infinitive": "kündigen",
+    "praeteritum": "kündigte",
+    "perfekt": "hat gekündigt",
+    "translation": {
+      "ru": [
+        "расторгать",
+        "увольнять",
+        "увольняться",
+        "отменять договор"
+      ],
+      "en": [
+        "to terminate",
+        "to cancel",
+        "to resign"
+      ],
+      "ar": [
+        "ينهي عقدًا",
+        "يلغي",
+        "يستقيل"
+      ]
+    },
+    "id": "kündigen"
+  },
+  {
+    "dictionaryId": "vertrag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Vertrag",
+    "plural": "Verträge",
+    "translation": {
+      "ru": [
+        "договор",
+        "контракт"
+      ],
+      "en": [
+        "contract",
+        "agreement"
+      ],
+      "ar": [
+        "عقد",
+        "اتفاق"
+      ]
+    },
+    "id": "vertrag"
+  },
+  {
+    "dictionaryId": "hoffen",
+    "type": "verb",
+    "infinitive": "hoffen",
+    "praeteritum": "hoffte",
+    "perfekt": "hat gehofft",
+    "translation": {
+      "ru": [
+        "надеяться"
+      ],
+      "en": [
+        "to hope"
+      ],
+      "ar": [
+        "يأمل"
+      ]
+    },
+    "id": "hoffen"
+  },
+  {
+    "dictionaryId": "verständnis",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Verständnis",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "понимание"
+      ],
+      "en": [
+        "understanding"
+      ],
+      "ar": [
+        "فهم",
+        "تفهّم"
+      ]
+    },
+    "id": "verständnis"
+  },
+  {
+    "dictionaryId": "abschließen",
+    "type": "verb",
+    "infinitive": "abschließen",
+    "praeteritum": "schloss ab",
+    "perfekt": "hat abgeschlossen",
+    "translation": {
+      "ru": [
+        "закрывать",
+        "завершать",
+        "заключать"
+      ],
+      "en": [
+        "to lock",
+        "to finish",
+        "to conclude"
+      ],
+      "ar": [
+        "يغلق",
+        "ينهي",
+        "يبرم"
+      ]
+    },
+    "id": "abschliessen"
+  },
+  {
+    "dictionaryId": "niedrig",
+    "type": "other",
+    "word": "niedrig",
+    "translation": {
+      "ru": [
+        "низкий"
+      ],
+      "en": [
+        "low"
+      ],
+      "ar": [
+        "منخفض"
+      ]
+    },
+    "id": "niedrig"
+  },
+  {
+    "dictionaryId": "kosten",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kosten",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "расходы",
+        "затраты",
+        "стоимость"
+      ],
+      "en": [
+        "costs",
+        "expenses"
+      ],
+      "ar": [
+        "تكاليف",
+        "مصاريف"
+      ]
+    },
+    "id": "kosten"
+  },
+  {
+    "dictionaryId": "erhöhen",
+    "type": "verb",
+    "infinitive": "sich erhöhen",
+    "praeteritum": "erhöhte sich",
+    "perfekt": "hat sich erhöht",
+    "translation": {
+      "ru": [
+        "увеличиваться",
+        "повышаться"
+      ],
+      "en": [
+        "to increase",
+        "to rise"
+      ],
+      "ar": [
+        "يزداد",
+        "يرتفع"
+      ]
+    },
+    "id": "erhöhen"
+  },
+  {
+    "dictionaryId": "entfernen",
+    "type": "verb",
+    "infinitive": "entfernen",
+    "praeteritum": "entfernte",
+    "perfekt": "hat entfernt",
+    "translation": {
+      "ru": [
+        "удалять",
+        "убирать",
+        "отдалять"
+      ],
+      "en": [
+        "to remove",
+        "to delete"
+      ],
+      "ar": [
+        "يزيل",
+        "يحذف"
+      ]
+    },
+    "id": "entfernen"
+  },
+  {
+    "dictionaryId": "gegenstand",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Gegenstand",
+    "plural": "Gegenstände",
+    "translation": {
+      "ru": [
+        "предмет",
+        "вещь"
+      ],
+      "en": [
+        "object",
+        "item"
+      ],
+      "ar": [
+        "غرض",
+        "شيء"
+      ]
+    },
+    "id": "gegenstand"
+  },
+  {
+    "dictionaryId": "heizen",
+    "type": "verb",
+    "infinitive": "heizen",
+    "praeteritum": "heizte",
+    "perfekt": "hat geheizt",
+    "translation": {
+      "ru": [
+        "отапливать",
+        "топить",
+        "греть"
+      ],
+      "en": [
+        "to heat"
+      ],
+      "ar": [
+        "يسخّن",
+        "يدفّئ"
+      ]
+    },
+    "id": "heizen"
+  },
+  {
+    "dictionaryId": "kinderwagen",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kinderwagen",
+    "plural": "Kinderwagen",
+    "translation": {
+      "ru": [
+        "детская коляска",
+        "коляска"
+      ],
+      "en": [
+        "stroller",
+        "pram"
+      ],
+      "ar": [
+        "عربة أطفال"
+      ]
+    },
+    "id": "kinderwagen"
+  },
+  {
+    "dictionaryId": "aufzug",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Aufzug",
+    "plural": "Aufzüge",
+    "translation": {
+      "ru": [
+        "лифт"
+      ],
+      "en": [
+        "elevator",
+        "lift"
+      ],
+      "ar": [
+        "مصعد"
+      ]
+    },
+    "id": "aufzug"
+  },
+  {
+    "dictionaryId": "treppe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Treppe",
+    "plural": "Treppen",
+    "translation": {
+      "ru": [
+        "лестница"
+      ],
+      "en": [
+        "stairs",
+        "staircase"
+      ],
+      "ar": [
+        "درج",
+        "سلم"
+      ]
+    },
+    "id": "treppe"
+  },
+  {
+    "dictionaryId": "briefkasten",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Briefkasten",
+    "plural": "Briefkästen",
+    "translation": {
+      "ru": [
+        "почтовый ящик"
+      ],
+      "en": [
+        "mailbox",
+        "letterbox"
+      ],
+      "ar": [
+        "صندوق بريد"
+      ]
+    },
+    "id": "briefkasten"
+  },
+  {
+    "dictionaryId": "lösung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Lösung",
+    "plural": "Lösungen",
+    "translation": {
+      "ru": [
+        "решение"
+      ],
+      "en": [
+        "solution"
+      ],
+      "ar": [
+        "حل"
+      ]
+    },
+    "id": "lösung"
+  },
+  {
+    "dictionaryId": "ziemlich",
+    "type": "other",
+    "word": "ziemlich",
+    "translation": {
+      "ru": [
+        "довольно",
+        "достаточно"
+      ],
+      "en": [
+        "quite",
+        "rather"
+      ],
+      "ar": [
+        "إلى حد ما",
+        "تمامًا"
+      ]
+    },
+    "id": "ziemlich"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "recht haben",
+    "praeteritum": "hatte recht",
+    "perfekt": "hat recht gehabt",
+    "translation": {
+      "ru": [
+        "быть правым"
+      ],
+      "en": [
+        "to be right"
+      ],
+      "ar": [
+        "يكون على حق"
+      ]
+    },
+    "id": "recht-haben"
+  },
+  {
+    "dictionaryId": "frage",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Frage",
+    "plural": "Fragen",
+    "translation": {
+      "ru": [
+        "вопрос"
+      ],
+      "en": [
+        "question"
+      ],
+      "ar": [
+        "سؤال"
+      ]
+    },
+    "id": "frage"
+  },
+  {
+    "dictionaryId": "bitte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bitte",
+    "plural": "Bitten",
+    "translation": {
+      "ru": [
+        "просьба"
+      ],
+      "en": [
+        "request"
+      ],
+      "ar": [
+        "طلب",
+        "رجاء"
+      ]
+    },
+    "id": "bitte"
+  },
+  {
+    "dictionaryId": "absicht",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Absicht",
+    "plural": "Absichten",
+    "translation": {
+      "ru": [
+        "намерение",
+        "замысел"
+      ],
+      "en": [
+        "intention",
+        "purpose"
+      ],
+      "ar": [
+        "نية",
+        "قصد"
+      ]
+    },
+    "id": "absicht"
+  },
+  {
+    "dictionaryId": "lassen",
+    "type": "verb",
+    "infinitive": "lassen",
+    "praeteritum": "ließ",
+    "perfekt": "hat gelassen",
+    "translation": {
+      "ru": [
+        "позволять",
+        "оставлять",
+        "давать сделать"
+      ],
+      "en": [
+        "to let",
+        "to leave"
+      ],
+      "ar": [
+        "يسمح",
+        "يترك"
+      ]
+    },
+    "id": "lassen"
+  },
+  {
+    "dictionaryId": "werfen",
+    "type": "verb",
+    "infinitive": "werfen",
+    "praeteritum": "warf",
+    "perfekt": "hat geworfen",
+    "translation": {
+      "ru": [
+        "бросать",
+        "кидать"
+      ],
+      "en": [
+        "to throw"
+      ],
+      "ar": [
+        "يرمي"
+      ]
+    },
+    "id": "werfen"
+  },
+  {
+    "dictionaryId": "aufpassen",
+    "type": "verb",
+    "infinitive": "aufpassen",
+    "praeteritum": "passte auf",
+    "perfekt": "hat aufgepasst",
+    "translation": {
+      "ru": [
+        "быть внимательным",
+        "следить",
+        "присматривать"
+      ],
+      "en": [
+        "to pay attention",
+        "to watch out",
+        "to take care"
+      ],
+      "ar": [
+        "ينتبه",
+        "يراقب"
+      ]
+    },
+    "id": "aufpassen"
+  },
+  {
+    "dictionaryId": "gießen",
+    "type": "verb",
+    "infinitive": "gießen",
+    "praeteritum": "goss",
+    "perfekt": "hat gegossen",
+    "translation": {
+      "ru": [
+        "поливать",
+        "лить"
+      ],
+      "en": [
+        "to water",
+        "to pour"
+      ],
+      "ar": [
+        "يسقي",
+        "يسكب"
+      ]
+    },
+    "id": "giessen"
+  },
+  {
+    "dictionaryId": "wirklich",
+    "type": "other",
+    "word": "wirklich",
+    "translation": {
+      "ru": [
+        "действительно",
+        "правда"
+      ],
+      "en": [
+        "really",
+        "truly"
+      ],
+      "ar": [
+        "حقًا",
+        "فعلاً"
+      ]
+    },
+    "id": "wirklich"
+  },
+  {
+    "dictionaryId": "klingeln",
+    "type": "verb",
+    "infinitive": "klingeln",
+    "praeteritum": "klingelte",
+    "perfekt": "hat geklingelt",
+    "translation": {
+      "ru": [
+        "звонить"
+      ],
+      "en": [
+        "to ring"
+      ],
+      "ar": [
+        "يرن"
+      ]
+    },
+    "id": "klingeln"
+  },
+  {
+    "dictionaryId": "besprechen",
+    "type": "verb",
+    "infinitive": "besprechen",
+    "praeteritum": "besprach",
+    "perfekt": "hat besprochen",
+    "translation": {
+      "ru": [
+        "обсуждать",
+        "договариваться"
+      ],
+      "en": [
+        "to discuss"
+      ],
+      "ar": [
+        "يناقش"
+      ]
+    },
+    "id": "besprechen"
+  },
+  {
+    "dictionaryId": "füttern",
+    "type": "verb",
+    "infinitive": "füttern",
+    "praeteritum": "fütterte",
+    "perfekt": "hat gefüttert",
+    "translation": {
+      "ru": [
+        "кормить"
+      ],
+      "en": [
+        "to feed"
+      ],
+      "ar": [
+        "يطعم"
+      ]
+    },
+    "id": "füttern"
+  },
+  {
+    "dictionaryId": "handwerker",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Handwerker",
+    "plural": "Handwerker",
+    "translation": {
+      "ru": [
+        "мастер",
+        "ремесленник",
+        "рабочий"
+      ],
+      "en": [
+        "craftsman",
+        "tradesman",
+        "handyman"
+      ],
+      "ar": [
+        "حرفي",
+        "عامل ماهر"
+      ]
+    },
+    "id": "handwerker"
+  }
+]

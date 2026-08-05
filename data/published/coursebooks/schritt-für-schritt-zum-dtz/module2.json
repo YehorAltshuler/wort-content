@@ -1,0 +1,1092 @@
+[
+  {
+    "dictionaryId": "krimi",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Krimi",
+    "plural": "Krimis",
+    "translation": {
+      "ru": [
+        "детектив"
+      ],
+      "en": [
+        "crime novel",
+        "crime story"
+      ],
+      "ar": [
+        "رواية بوليسية"
+      ]
+    },
+    "id": "krimi"
+  },
+  {
+    "dictionaryId": "serie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Serie",
+    "plural": "Serien",
+    "translation": {
+      "ru": [
+        "сериал",
+        "серия"
+      ],
+      "en": [
+        "series"
+      ],
+      "ar": [
+        "مسلسل"
+      ]
+    },
+    "id": "serie"
+  },
+  {
+    "dictionaryId": "folge",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Folge",
+    "plural": "Folgen",
+    "translation": {
+      "ru": [
+        "серия",
+        "эпизод"
+      ],
+      "en": [
+        "episode"
+      ],
+      "ar": [
+        "حلقة"
+      ]
+    },
+    "id": "folge"
+  },
+  {
+    "dictionaryId": "erfolgreich",
+    "type": "other",
+    "word": "erfolgreich",
+    "translation": {
+      "ru": [
+        "успешный"
+      ],
+      "en": [
+        "successful"
+      ],
+      "ar": [
+        "ناجح"
+      ]
+    },
+    "id": "erfolgreich"
+  },
+  {
+    "dictionaryId": "obwohl",
+    "type": "other",
+    "word": "obwohl",
+    "translation": {
+      "ru": [
+        "хотя"
+      ],
+      "en": [
+        "although",
+        "though"
+      ],
+      "ar": [
+        "على الرغم من أن"
+      ]
+    },
+    "id": "obwohl"
+  },
+  {
+    "dictionaryId": "blut",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Blut",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "кровь"
+      ],
+      "en": [
+        "blood"
+      ],
+      "ar": [
+        "دم"
+      ]
+    },
+    "id": "blut"
+  },
+  {
+    "dictionaryId": "operation",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Operation",
+    "plural": "Operationen",
+    "translation": {
+      "ru": [
+        "операция"
+      ],
+      "en": [
+        "operation",
+        "surgery"
+      ],
+      "ar": [
+        "عملية جراحية"
+      ]
+    },
+    "id": "operation"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Haupt-",
+    "translation": {
+      "ru": [
+        "главный",
+        "основной"
+      ],
+      "en": [
+        "main",
+        "principal"
+      ],
+      "ar": [
+        "رئيسي"
+      ]
+    },
+    "id": "haupt"
+  },
+  {
+    "dictionaryId": "figur",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Figur",
+    "plural": "Figuren",
+    "translation": {
+      "ru": [
+        "персонаж",
+        "фигура"
+      ],
+      "en": [
+        "character",
+        "figure"
+      ],
+      "ar": [
+        "شخصية"
+      ]
+    },
+    "id": "figur"
+  },
+  {
+    "dictionaryId": "könig",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "König",
+    "plural": "Könige",
+    "translation": {
+      "ru": [
+        "король"
+      ],
+      "en": [
+        "king"
+      ],
+      "ar": [
+        "ملك"
+      ]
+    },
+    "id": "könig"
+  },
+  {
+    "dictionaryId": "star",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Star",
+    "plural": "Stars",
+    "translation": {
+      "ru": [
+        "звезда"
+      ],
+      "en": [
+        "star"
+      ],
+      "ar": [
+        "نجم"
+      ]
+    },
+    "id": "star"
+  },
+  {
+    "dictionaryId": "abenteuer",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Abenteuer",
+    "plural": "Abenteuer",
+    "translation": {
+      "ru": [
+        "приключение"
+      ],
+      "en": [
+        "adventure"
+      ],
+      "ar": [
+        "مغامرة"
+      ]
+    },
+    "id": "abenteuer"
+  },
+  {
+    "dictionaryId": "verändern",
+    "type": "verb",
+    "infinitive": "sich verändern",
+    "praeteritum": "veränderte sich",
+    "perfekt": "hat sich verändert",
+    "translation": {
+      "ru": [
+        "изменяться"
+      ],
+      "en": [
+        "to change"
+      ],
+      "ar": [
+        "يتغير"
+      ]
+    },
+    "id": "verändern"
+  },
+  {
+    "dictionaryId": "bekannt",
+    "type": "other",
+    "word": "bekannt",
+    "translation": {
+      "ru": [
+        "известный"
+      ],
+      "en": [
+        "known",
+        "famous"
+      ],
+      "ar": [
+        "معروف"
+      ]
+    },
+    "id": "bekannt"
+  },
+  {
+    "dictionaryId": "show",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Show",
+    "plural": "Shows",
+    "translation": {
+      "ru": [
+        "шоу"
+      ],
+      "en": [
+        "show"
+      ],
+      "ar": [
+        "عرض"
+      ]
+    },
+    "id": "show"
+  },
+  {
+    "dictionaryId": "zuschauer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Zuschauer",
+    "plural": "Zuschauer",
+    "translation": {
+      "ru": [
+        "зритель"
+      ],
+      "en": [
+        "viewer",
+        "spectator"
+      ],
+      "ar": [
+        "مشاهد"
+      ]
+    },
+    "id": "zuschauer"
+  },
+  {
+    "dictionaryId": "zuschauerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zuschauerin",
+    "plural": "Zuschauerinnen",
+    "translation": {
+      "ru": [
+        "зрительница"
+      ],
+      "en": [
+        "female viewer"
+      ],
+      "ar": [
+        "مشاهدة"
+      ]
+    },
+    "id": "zuschauerin"
+  },
+  {
+    "dictionaryId": "erkennen",
+    "type": "verb",
+    "infinitive": "erkennen",
+    "praeteritum": "erkannte",
+    "perfekt": "hat erkannt",
+    "translation": {
+      "ru": [
+        "узнавать",
+        "распознавать"
+      ],
+      "en": [
+        "to recognize"
+      ],
+      "ar": [
+        "يتعرف على"
+      ]
+    },
+    "id": "erkennen"
+  },
+  {
+    "dictionaryId": "stil",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Stil",
+    "plural": "Stile",
+    "translation": {
+      "ru": [
+        "стиль"
+      ],
+      "en": [
+        "style"
+      ],
+      "ar": [
+        "أسلوب"
+      ]
+    },
+    "id": "stil"
+  },
+  {
+    "dictionaryId": "veröffentlichen",
+    "type": "verb",
+    "infinitive": "veröffentlichen",
+    "praeteritum": "veröffentlichte",
+    "perfekt": "hat veröffentlicht",
+    "translation": {
+      "ru": [
+        "публиковать"
+      ],
+      "en": [
+        "to publish"
+      ],
+      "ar": [
+        "ينشر"
+      ]
+    },
+    "id": "veröffentlichen"
+  },
+  {
+    "dictionaryId": "musiker",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Musiker",
+    "plural": "Musiker",
+    "translation": {
+      "ru": [
+        "музыкант"
+      ],
+      "en": [
+        "musician"
+      ],
+      "ar": [
+        "موسيقي"
+      ]
+    },
+    "id": "musiker"
+  },
+  {
+    "dictionaryId": "musikerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Musikerin",
+    "plural": "Musikerinnen",
+    "translation": {
+      "ru": [
+        "музыкантка"
+      ],
+      "en": [
+        "female musician"
+      ],
+      "ar": [
+        "موسيقية"
+      ]
+    },
+    "id": "musikerin"
+  },
+  {
+    "dictionaryId": "deutlich",
+    "type": "other",
+    "word": "deutlich",
+    "translation": {
+      "ru": [
+        "ясный",
+        "чёткий"
+      ],
+      "en": [
+        "clear",
+        "distinct"
+      ],
+      "ar": [
+        "واضح"
+      ]
+    },
+    "id": "deutlich"
+  },
+  {
+    "dictionaryId": "zählen",
+    "type": "verb",
+    "infinitive": "zählen",
+    "praeteritum": "zählte",
+    "perfekt": "hat gezählt",
+    "translation": {
+      "ru": [
+        "считать"
+      ],
+      "en": [
+        "to count"
+      ],
+      "ar": [
+        "يعد"
+      ]
+    },
+    "id": "zählen"
+  },
+  {
+    "dictionaryId": "sänger",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Sänger",
+    "plural": "Sänger",
+    "translation": {
+      "ru": [
+        "певец"
+      ],
+      "en": [
+        "singer"
+      ],
+      "ar": [
+        "مغنٍ"
+      ]
+    },
+    "id": "sänger"
+  },
+  {
+    "dictionaryId": "sängerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sängerin",
+    "plural": "Sängerinnen",
+    "translation": {
+      "ru": [
+        "певица"
+      ],
+      "en": [
+        "female singer"
+      ],
+      "ar": [
+        "مغنية"
+      ]
+    },
+    "id": "sängerin"
+  },
+  {
+    "dictionaryId": "ausland",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Ausland",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "заграница"
+      ],
+      "en": [
+        "abroad",
+        "foreign countries"
+      ],
+      "ar": [
+        "الخارج"
+      ]
+    },
+    "id": "ausland"
+  },
+  {
+    "dictionaryId": "halle",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Halle",
+    "plural": "Hallen",
+    "translation": {
+      "ru": [
+        "зал"
+      ],
+      "en": [
+        "hall"
+      ],
+      "ar": [
+        "قاعة"
+      ]
+    },
+    "id": "halle"
+  },
+  {
+    "dictionaryId": "außerhalb",
+    "type": "other",
+    "word": "außerhalb",
+    "translation": {
+      "ru": [
+        "вне",
+        "за пределами"
+      ],
+      "en": [
+        "outside of"
+      ],
+      "ar": [
+        "خارج"
+      ]
+    },
+    "id": "ausserhalb"
+  },
+  {
+    "dictionaryId": "instrument",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Instrument",
+    "plural": "Instrumente",
+    "translation": {
+      "ru": [
+        "инструмент",
+        "музыкальный инструмент"
+      ],
+      "en": [
+        "instrument"
+      ],
+      "ar": [
+        "آلة",
+        "آلة موسيقية"
+      ]
+    },
+    "id": "instrument"
+  },
+  {
+    "dictionaryId": "festival",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Festival",
+    "plural": "Festivals",
+    "translation": {
+      "ru": [
+        "фестиваль"
+      ],
+      "en": [
+        "festival"
+      ],
+      "ar": [
+        "مهرجان"
+      ]
+    },
+    "id": "festival"
+  },
+  {
+    "dictionaryId": "miteinander",
+    "type": "other",
+    "word": "miteinander",
+    "translation": {
+      "ru": [
+        "друг с другом"
+      ],
+      "en": [
+        "with each other"
+      ],
+      "ar": [
+        "مع بعضهم البعض"
+      ]
+    },
+    "id": "miteinander"
+  },
+  {
+    "dictionaryId": "song",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Song",
+    "plural": "Songs",
+    "translation": {
+      "ru": [
+        "песня"
+      ],
+      "en": [
+        "song"
+      ],
+      "ar": [
+        "أغنية"
+      ]
+    },
+    "id": "song"
+  },
+  {
+    "dictionaryId": "band",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Band",
+    "plural": "Bands",
+    "translation": {
+      "ru": [
+        "музыкальная группа"
+      ],
+      "en": [
+        "band"
+      ],
+      "ar": [
+        "فرقة موسيقية"
+      ]
+    },
+    "id": "band"
+  },
+  {
+    "dictionaryId": "hit",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Hit",
+    "plural": "Hits",
+    "translation": {
+      "ru": [
+        "хит"
+      ],
+      "en": [
+        "hit"
+      ],
+      "ar": [
+        "أغنية ناجحة"
+      ]
+    },
+    "id": "hit"
+  },
+  {
+    "dictionaryId": "medien",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Medien",
+    "plural": "",
+    "comment": "Pl.",
+    "translation": {
+      "ru": [
+        "СМИ",
+        "медиа"
+      ],
+      "en": [
+        "media"
+      ],
+      "ar": [
+        "وسائل الإعلام"
+      ]
+    },
+    "id": "medien"
+  },
+  {
+    "dictionaryId": "allgemein",
+    "type": "other",
+    "word": "allgemein",
+    "translation": {
+      "ru": [
+        "общий",
+        "в целом"
+      ],
+      "en": [
+        "general",
+        "generally"
+      ],
+      "ar": [
+        "عام"
+      ]
+    },
+    "id": "allgemein"
+  },
+  {
+    "dictionaryId": "scheibe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Scheibe",
+    "plural": "Scheiben",
+    "translation": {
+      "ru": [
+        "диск",
+        "ломтик"
+      ],
+      "en": [
+        "disc",
+        "slice"
+      ],
+      "ar": [
+        "قرص",
+        "شريحة"
+      ]
+    },
+    "id": "scheibe"
+  },
+  {
+    "dictionaryId": "damit",
+    "type": "other",
+    "word": "damit",
+    "translation": {
+      "ru": [
+        "с этим",
+        "чтобы"
+      ],
+      "en": [
+        "with it",
+        "so that"
+      ],
+      "ar": [
+        "بذلك",
+        "لكي"
+      ]
+    },
+    "id": "damit"
+  },
+  {
+    "dictionaryId": "reportage",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Reportage",
+    "plural": "Reportagen",
+    "translation": {
+      "ru": [
+        "репортаж"
+      ],
+      "en": [
+        "reportage",
+        "feature report"
+      ],
+      "ar": [
+        "ريبورتاج"
+      ]
+    },
+    "id": "reportage"
+  },
+  {
+    "dictionaryId": "jugend",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Jugend",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "молодёжь",
+        "юность"
+      ],
+      "en": [
+        "youth"
+      ],
+      "ar": [
+        "شباب",
+        "شبابية"
+      ]
+    },
+    "id": "jugend"
+  },
+  {
+    "dictionaryId": "irgendwann",
+    "type": "other",
+    "word": "irgendwann",
+    "translation": {
+      "ru": [
+        "когда-нибудь"
+      ],
+      "en": [
+        "sometime"
+      ],
+      "ar": [
+        "في وقت ما"
+      ]
+    },
+    "id": "irgendwann"
+  },
+  {
+    "dictionaryId": "link",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Link",
+    "plural": "Links",
+    "translation": {
+      "ru": [
+        "ссылка"
+      ],
+      "en": [
+        "link"
+      ],
+      "ar": [
+        "رابط"
+      ]
+    },
+    "id": "link"
+  },
+  {
+    "dictionaryId": "teilen",
+    "type": "verb",
+    "infinitive": "teilen",
+    "praeteritum": "teilte",
+    "perfekt": "hat geteilt",
+    "translation": {
+      "ru": [
+        "делить",
+        "делиться"
+      ],
+      "en": [
+        "to share",
+        "to divide"
+      ],
+      "ar": [
+        "يشارك",
+        "يقسم"
+      ]
+    },
+    "id": "teilen"
+  },
+  {
+    "dictionaryId": "programm",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Programm",
+    "plural": "Programme",
+    "translation": {
+      "ru": [
+        "программа"
+      ],
+      "en": [
+        "program"
+      ],
+      "ar": [
+        "برنامج"
+      ]
+    },
+    "id": "programm"
+  },
+  {
+    "dictionaryId": "aufnehmen",
+    "type": "verb",
+    "infinitive": "aufnehmen",
+    "praeteritum": "nahm auf",
+    "perfekt": "hat aufgenommen",
+    "translation": {
+      "ru": [
+        "записывать",
+        "принимать"
+      ],
+      "en": [
+        "to record",
+        "to take in"
+      ],
+      "ar": [
+        "يسجل",
+        "يستقبل"
+      ]
+    },
+    "id": "aufnehmen"
+  },
+  {
+    "dictionaryId": "humor",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Humor",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "юмор"
+      ],
+      "en": [
+        "humor"
+      ],
+      "ar": [
+        "فكاهة"
+      ]
+    },
+    "id": "humor"
+  },
+  {
+    "dictionaryId": "verlassen",
+    "type": "verb",
+    "infinitive": "verlassen",
+    "praeteritum": "verließ",
+    "perfekt": "hat verlassen",
+    "translation": {
+      "ru": [
+        "покидать",
+        "оставлять"
+      ],
+      "en": [
+        "to leave"
+      ],
+      "ar": [
+        "يغادر",
+        "يترك"
+      ]
+    },
+    "id": "verlassen"
+  },
+  {
+    "dictionaryId": "reisen",
+    "type": "verb",
+    "infinitive": "reisen",
+    "praeteritum": "reiste",
+    "perfekt": "ist gereist",
+    "translation": {
+      "ru": [
+        "путешествовать"
+      ],
+      "en": [
+        "to travel"
+      ],
+      "ar": [
+        "يسافر"
+      ]
+    },
+    "id": "reisen"
+  },
+  {
+    "dictionaryId": "außen",
+    "type": "other",
+    "word": "außen",
+    "translation": {
+      "ru": [
+        "снаружи"
+      ],
+      "en": [
+        "outside"
+      ],
+      "ar": [
+        "في الخارج"
+      ]
+    },
+    "id": "aussen"
+  },
+  {
+    "dictionaryId": "innen",
+    "type": "other",
+    "word": "innen",
+    "translation": {
+      "ru": [
+        "внутри"
+      ],
+      "en": [
+        "inside"
+      ],
+      "ar": [
+        "في الداخل"
+      ]
+    },
+    "id": "innen"
+  },
+  {
+    "dictionaryId": "normalerweise",
+    "type": "other",
+    "word": "normalerweise",
+    "translation": {
+      "ru": [
+        "обычно"
+      ],
+      "en": [
+        "normally",
+        "usually"
+      ],
+      "ar": [
+        "عادة"
+      ]
+    },
+    "id": "normalerweise"
+  },
+  {
+    "dictionaryId": "stockwerk",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Stockwerk",
+    "plural": "Stockwerke",
+    "translation": {
+      "ru": [
+        "этаж"
+      ],
+      "en": [
+        "floor",
+        "storey"
+      ],
+      "ar": [
+        "طابق"
+      ]
+    },
+    "id": "stockwerk"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "dictionaryId": "bäcker",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bäcker",
+    "plural": "Bäcker",
+    "translation": {
+      "ru": [
+        "пекарь"
+      ],
+      "en": [
+        "baker"
+      ],
+      "ar": [
+        "خباز"
+      ]
+    },
+    "id": "bäcker"
+  },
+  {
+    "dictionaryId": "bäckerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bäckerin",
+    "plural": "Bäckerinnen",
+    "translation": {
+      "ru": [
+        "пекарша"
+      ],
+      "en": [
+        "female baker"
+      ],
+      "ar": [
+        "خبازة"
+      ]
+    },
+    "id": "bäckerin"
+  },
+  {
+    "dictionaryId": "muttersprache",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Muttersprache",
+    "plural": "Muttersprachen",
+    "translation": {
+      "ru": [
+        "родной язык"
+      ],
+      "en": [
+        "native language"
+      ],
+      "ar": [
+        "اللغة الأم"
+      ]
+    },
+    "id": "muttersprache"
+  }
+]

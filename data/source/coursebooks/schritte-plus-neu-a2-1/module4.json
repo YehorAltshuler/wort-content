@@ -1,0 +1,1515 @@
+[
+  {
+    "dictionaryId": "reservierung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Reservierung",
+    "plural": "Reservierungen",
+    "translation": {
+      "ru": [
+        "бронирование"
+      ],
+      "en": [
+        "reservation"
+      ],
+      "ar": [
+        "حجز"
+      ]
+    },
+    "id": "reservierung"
+  },
+  {
+    "dictionaryId": "bestätigung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bestätigung",
+    "plural": "Bestätigungen",
+    "translation": {
+      "ru": [
+        "подтверждение"
+      ],
+      "en": [
+        "confirmation"
+      ],
+      "ar": [
+        "تأكيد"
+      ]
+    },
+    "id": "bestätigung"
+  },
+  {
+    "dictionaryId": "notieren",
+    "type": "verb",
+    "infinitive": "notieren",
+    "praeteritum": "notierte",
+    "perfekt": "hat notiert",
+    "translation": {
+      "ru": [
+        "записывать"
+      ],
+      "en": [
+        "to note down"
+      ],
+      "ar": [
+        "يدوّن"
+      ]
+    },
+    "id": "notieren"
+  },
+  {
+    "dictionaryId": "online",
+    "type": "other",
+    "word": "online",
+    "translation": {
+      "ru": [
+        "онлайн"
+      ],
+      "en": [
+        "online"
+      ],
+      "ar": [
+        "عبر الإنترنت"
+      ]
+    },
+    "id": "online"
+  },
+  {
+    "dictionaryId": "schwierig",
+    "type": "other",
+    "word": "schwierig",
+    "translation": {
+      "ru": [
+        "сложный"
+      ],
+      "en": [
+        "difficult"
+      ],
+      "ar": [
+        "صعب"
+      ]
+    },
+    "id": "schwierig"
+  },
+  {
+    "dictionaryId": "besprechung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Besprechung",
+    "plural": "Besprechungen",
+    "translation": {
+      "ru": [
+        "совещание"
+      ],
+      "en": [
+        "meeting"
+      ],
+      "ar": [
+        "اجتماع"
+      ]
+    },
+    "id": "besprechung"
+  },
+  {
+    "dictionaryId": "nämlich",
+    "type": "other",
+    "word": "nämlich",
+    "translation": {
+      "ru": [
+        "а именно",
+        "потому что"
+      ],
+      "en": [
+        "namely",
+        "because"
+      ],
+      "ar": [
+        "أي",
+        "لأن"
+      ]
+    },
+    "id": "nämlich"
+  },
+  {
+    "dictionaryId": "freundlich",
+    "type": "other",
+    "word": "freundlich",
+    "translation": {
+      "ru": [
+        "дружелюбный"
+      ],
+      "en": [
+        "friendly"
+      ],
+      "ar": [
+        "ودود"
+      ]
+    },
+    "id": "freundlich"
+  },
+  {
+    "dictionaryId": "klug",
+    "type": "other",
+    "word": "klug",
+    "translation": {
+      "ru": [
+        "умный"
+      ],
+      "en": [
+        "smart"
+      ],
+      "ar": [
+        "ذكي"
+      ]
+    },
+    "id": "klug"
+  },
+  {
+    "dictionaryId": "fehler",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Fehler",
+    "plural": "Fehler",
+    "translation": {
+      "ru": [
+        "ошибка"
+      ],
+      "en": [
+        "mistake"
+      ],
+      "ar": [
+        "خطأ"
+      ]
+    },
+    "id": "fehler"
+  },
+  {
+    "dictionaryId": "wenn",
+    "type": "other",
+    "word": "wenn",
+    "translation": {
+      "ru": [
+        "если",
+        "когда"
+      ],
+      "en": [
+        "if",
+        "when"
+      ],
+      "ar": [
+        "إذا",
+        "عندما"
+      ]
+    },
+    "id": "wenn"
+  },
+  {
+    "dictionaryId": "sicher",
+    "type": "other",
+    "word": "sicher",
+    "translation": {
+      "ru": [
+        "надёжный",
+        "уверенный"
+      ],
+      "en": [
+        "safe",
+        "sure"
+      ],
+      "ar": [
+        "آمن",
+        "واثق"
+      ]
+    },
+    "id": "sicher"
+  },
+  {
+    "dictionaryId": "material",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Material",
+    "plural": "Materialien",
+    "translation": {
+      "ru": [
+        "материал"
+      ],
+      "en": [
+        "material"
+      ],
+      "ar": [
+        "مواد"
+      ]
+    },
+    "id": "material"
+  },
+  {
+    "dictionaryId": "teilnehmer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Teilnehmer",
+    "plural": "Teilnehmer",
+    "translation": {
+      "ru": [
+        "участник"
+      ],
+      "en": [
+        "participant"
+      ],
+      "ar": [
+        "مشارك"
+      ]
+    },
+    "id": "teilnehmer"
+  },
+  {
+    "dictionaryId": "teilnehmerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Teilnehmerin",
+    "plural": "Teilnehmerinnen",
+    "translation": {
+      "ru": [
+        "участница"
+      ],
+      "en": [
+        "female participant"
+      ],
+      "ar": [
+        "مشاركة"
+      ]
+    },
+    "id": "teilnehmerin"
+  },
+  {
+    "dictionaryId": "tipp",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tipp",
+    "plural": "Tipps",
+    "translation": {
+      "ru": [
+        "совет"
+      ],
+      "en": [
+        "tip"
+      ],
+      "ar": [
+        "نصيحة"
+      ]
+    },
+    "id": "tipp"
+  },
+  {
+    "dictionaryId": "regelmäßig",
+    "type": "other",
+    "word": "regelmäßig",
+    "translation": {
+      "ru": [
+        "регулярно"
+      ],
+      "en": [
+        "regularly"
+      ],
+      "ar": [
+        "بانتظام"
+      ]
+    },
+    "id": "regelmässig"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "achten auf",
+    "praeteritum": "achtete auf",
+    "perfekt": "hat auf geachtet",
+    "translation": {
+      "ru": [
+        "обращать внимание на"
+      ],
+      "en": [
+        "to pay attention to"
+      ],
+      "ar": [
+        "ينتبه إلى"
+      ]
+    },
+    "id": "achten-auf"
+  },
+  {
+    "dictionaryId": "zettel",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Zettel",
+    "plural": "Zettel",
+    "translation": {
+      "ru": [
+        "записка"
+      ],
+      "en": [
+        "note",
+        "slip"
+      ],
+      "ar": [
+        "مذكرة"
+      ]
+    },
+    "id": "zettel"
+  },
+  {
+    "dictionaryId": "kaufhaus",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Kaufhaus",
+    "plural": "Kaufhäuser",
+    "translation": {
+      "ru": [
+        "универмаг"
+      ],
+      "en": [
+        "department store"
+      ],
+      "ar": [
+        "متجر كبير"
+      ]
+    },
+    "id": "kaufhaus"
+  },
+  {
+    "dictionaryId": "nutzen",
+    "type": "verb",
+    "infinitive": "nutzen",
+    "praeteritum": "nutzte",
+    "perfekt": "hat genutzt",
+    "translation": {
+      "ru": [
+        "использовать"
+      ],
+      "en": [
+        "to use"
+      ],
+      "ar": [
+        "يستخدم"
+      ]
+    },
+    "id": "nutzen"
+  },
+  {
+    "dictionaryId": "plattform",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Plattform",
+    "plural": "Plattformen",
+    "translation": {
+      "ru": [
+        "платформа"
+      ],
+      "en": [
+        "platform"
+      ],
+      "ar": [
+        "منصة"
+      ]
+    },
+    "id": "plattform"
+  },
+  {
+    "dictionaryId": "forum",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Forum",
+    "plural": "Foren",
+    "translation": {
+      "ru": [
+        "форум"
+      ],
+      "en": [
+        "forum"
+      ],
+      "ar": [
+        "منتدى"
+      ]
+    },
+    "id": "forum"
+  },
+  {
+    "dictionaryId": "agentur",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Agentur",
+    "plural": "Agenturen",
+    "translation": {
+      "ru": [
+        "агентство"
+      ],
+      "en": [
+        "agency"
+      ],
+      "ar": [
+        "وكالة"
+      ]
+    },
+    "id": "agentur"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zeitarbeit",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "временная работа"
+      ],
+      "en": [
+        "temporary work"
+      ],
+      "ar": [
+        "عمل مؤقت"
+      ]
+    },
+    "id": "zeitarbeit"
+  },
+  {
+    "dictionaryId": "auszubildende",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Auszubildende",
+    "plural": "Auszubildenden",
+    "translation": {
+      "ru": [
+        "ученик (на практике)"
+      ],
+      "en": [
+        "trainee"
+      ],
+      "ar": [
+        "متدرب"
+      ]
+    },
+    "id": "auszubildende"
+  },
+  {
+    "dictionaryId": "ausschalten",
+    "type": "verb",
+    "infinitive": "ausschalten",
+    "praeteritum": "schaltete aus",
+    "perfekt": "hat ausgeschaltet",
+    "translation": {
+      "ru": [
+        "выключать"
+      ],
+      "en": [
+        "to turn off"
+      ],
+      "ar": [
+        "يطفئ"
+      ]
+    },
+    "id": "ausschalten"
+  },
+  {
+    "dictionaryId": "gewerkschaft",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gewerkschaft",
+    "plural": "Gewerkschaften",
+    "translation": {
+      "ru": [
+        "профсоюз"
+      ],
+      "en": [
+        "trade union"
+      ],
+      "ar": [
+        "نقابة"
+      ]
+    },
+    "id": "gewerkschaft"
+  },
+  {
+    "dictionaryId": "sicherheit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sicherheit",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "безопасность"
+      ],
+      "en": [
+        "safety"
+      ],
+      "ar": [
+        "أمان"
+      ]
+    },
+    "id": "sicherheit"
+  },
+  {
+    "dictionaryId": "schutz",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schutz",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "защита"
+      ],
+      "en": [
+        "protection"
+      ],
+      "ar": [
+        "حماية"
+      ]
+    },
+    "id": "schutz"
+  },
+  {
+    "dictionaryId": "betrieb",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Betrieb",
+    "plural": "Betriebe",
+    "translation": {
+      "ru": [
+        "предприятие"
+      ],
+      "en": [
+        "company",
+        "operation"
+      ],
+      "ar": [
+        "شركة",
+        "مؤسسة"
+      ]
+    },
+    "id": "betrieb"
+  },
+  {
+    "dictionaryId": "versammlung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Versammlung",
+    "plural": "Versammlungen",
+    "translation": {
+      "ru": [
+        "собрание"
+      ],
+      "en": [
+        "meeting",
+        "assembly"
+      ],
+      "ar": [
+        "اجتماع"
+      ]
+    },
+    "id": "versammlung"
+  },
+  {
+    "dictionaryId": "frist",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Frist",
+    "plural": "Fristen",
+    "translation": {
+      "ru": [
+        "срок"
+      ],
+      "en": [
+        "deadline"
+      ],
+      "ar": [
+        "مهلة"
+      ]
+    },
+    "id": "frist"
+  },
+  {
+    "dictionaryId": "weiterbildung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Weiterbildung",
+    "plural": "Weiterbildungen",
+    "translation": {
+      "ru": [
+        "повышение квалификации"
+      ],
+      "en": [
+        "further education"
+      ],
+      "ar": [
+        "تعليم إضافي"
+      ]
+    },
+    "id": "weiterbildung"
+  },
+  {
+    "dictionaryId": "interesse",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Interesse",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "интерес"
+      ],
+      "en": [
+        "interest"
+      ],
+      "ar": [
+        "اهتمام"
+      ]
+    },
+    "id": "interesse"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "in Rente gehen",
+    "praeteritum": "ging in Rente",
+    "perfekt": "ist in Rente gegangen",
+    "translation": {
+      "ru": [
+        "выходить на пенсию"
+      ],
+      "en": [
+        "to retire"
+      ],
+      "ar": [
+        "يتقاعد"
+      ]
+    },
+    "id": "in-rente-gehen"
+  },
+  {
+    "dictionaryId": "leben",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Leben",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "жизнь"
+      ],
+      "en": [
+        "life"
+      ],
+      "ar": [
+        "حياة"
+      ]
+    },
+    "id": "leben"
+  },
+  {
+    "dictionaryId": "rentner",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Rentner",
+    "plural": "Rentner",
+    "translation": {
+      "ru": [
+        "пенсионер"
+      ],
+      "en": [
+        "retired person"
+      ],
+      "ar": [
+        "متقاعد"
+      ]
+    },
+    "id": "rentner"
+  },
+  {
+    "dictionaryId": "rentnerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Rentnerin",
+    "plural": "Rentnerinnen",
+    "translation": {
+      "ru": [
+        "пенсионерка"
+      ],
+      "en": [
+        "female retiree"
+      ],
+      "ar": [
+        "متقاعدة"
+      ]
+    },
+    "id": "rentnerin"
+  },
+  {
+    "dictionaryId": "veranstaltung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Veranstaltung",
+    "plural": "Veranstaltungen",
+    "translation": {
+      "ru": [
+        "мероприятие"
+      ],
+      "en": [
+        "event"
+      ],
+      "ar": [
+        "فعالية"
+      ]
+    },
+    "id": "veranstaltung"
+  },
+  {
+    "dictionaryId": "wenden",
+    "type": "verb",
+    "infinitive": "wenden",
+    "praeteritum": "wandte",
+    "perfekt": "hat gewandt",
+    "translation": {
+      "ru": [
+        "поворачивать"
+      ],
+      "en": [
+        "to turn"
+      ],
+      "ar": [
+        "يدير"
+      ]
+    },
+    "id": "wenden"
+  },
+  {
+    "dictionaryId": "stattfinden",
+    "type": "verb",
+    "infinitive": "stattfinden",
+    "praeteritum": "fand statt",
+    "perfekt": "hat stattgefunden",
+    "translation": {
+      "ru": [
+        "происходить"
+      ],
+      "en": [
+        "to take place"
+      ],
+      "ar": [
+        "يحدث"
+      ]
+    },
+    "id": "stattfinden"
+  },
+  {
+    "dictionaryId": "betriebsrat",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Betriebsrat",
+    "plural": "Betriebsräte",
+    "translation": {
+      "ru": [
+        "производственный совет"
+      ],
+      "en": [
+        "works council"
+      ],
+      "ar": [
+        "مجلس العمل"
+      ]
+    },
+    "id": "betriebsrat"
+  },
+  {
+    "dictionaryId": "berichten",
+    "type": "verb",
+    "infinitive": "berichten",
+    "praeteritum": "berichtete",
+    "perfekt": "hat berichtet",
+    "translation": {
+      "ru": [
+        "сообщать"
+      ],
+      "en": [
+        "to report"
+      ],
+      "ar": [
+        "يبلغ"
+      ]
+    },
+    "id": "berichten"
+  },
+  {
+    "dictionaryId": "beraten",
+    "type": "verb",
+    "infinitive": "beraten",
+    "praeteritum": "beriet",
+    "perfekt": "hat beraten",
+    "translation": {
+      "ru": [
+        "консультировать"
+      ],
+      "en": [
+        "to advise"
+      ],
+      "ar": [
+        "ينصح"
+      ]
+    },
+    "id": "beraten"
+  },
+  {
+    "dictionaryId": "tarif",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tarif",
+    "plural": "Tarife",
+    "translation": {
+      "ru": [
+        "тариф"
+      ],
+      "en": [
+        "tariff"
+      ],
+      "ar": [
+        "تعرفة"
+      ]
+    },
+    "id": "tarif"
+  },
+  {
+    "dictionaryId": "recht",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Recht",
+    "plural": "Rechte",
+    "translation": {
+      "ru": [
+        "право"
+      ],
+      "en": [
+        "right"
+      ],
+      "ar": [
+        "حق"
+      ]
+    },
+    "id": "recht"
+  },
+  {
+    "dictionaryId": "kündigung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kündigung",
+    "plural": "Kündigungen",
+    "translation": {
+      "ru": [
+        "увольнение",
+        "расторжение"
+      ],
+      "en": [
+        "termination"
+      ],
+      "ar": [
+        "إنهاء العقد"
+      ]
+    },
+    "id": "kündigung"
+  },
+  {
+    "dictionaryId": "entlassung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Entlassung",
+    "plural": "Entlassungen",
+    "translation": {
+      "ru": [
+        "увольнение"
+      ],
+      "en": [
+        "dismissal"
+      ],
+      "ar": [
+        "فصل"
+      ]
+    },
+    "id": "entlassung"
+  },
+  {
+    "dictionaryId": "vorschrift",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Vorschrift",
+    "plural": "Vorschriften",
+    "translation": {
+      "ru": [
+        "правило"
+      ],
+      "en": [
+        "regulation"
+      ],
+      "ar": [
+        "قاعدة"
+      ]
+    },
+    "id": "vorschrift"
+  },
+  {
+    "dictionaryId": "ohne",
+    "type": "other",
+    "word": "ohne",
+    "translation": {
+      "ru": [
+        "без"
+      ],
+      "en": [
+        "without"
+      ],
+      "ar": [
+        "بدون"
+      ]
+    },
+    "id": "ohne"
+  },
+  {
+    "dictionaryId": "entlassen",
+    "type": "verb",
+    "infinitive": "entlassen",
+    "praeteritum": "entließ",
+    "perfekt": "hat entlassen",
+    "translation": {
+      "ru": [
+        "увольнять"
+      ],
+      "en": [
+        "to dismiss"
+      ],
+      "ar": [
+        "يفصل"
+      ]
+    },
+    "id": "entlassen"
+  },
+  {
+    "dictionaryId": "schützen",
+    "type": "verb",
+    "infinitive": "schützen",
+    "praeteritum": "schützte",
+    "perfekt": "hat geschützt",
+    "translation": {
+      "ru": [
+        "защищать"
+      ],
+      "en": [
+        "to protect"
+      ],
+      "ar": [
+        "يحمي"
+      ]
+    },
+    "id": "schützen"
+  },
+  {
+    "dictionaryId": "bedanken",
+    "type": "verb",
+    "infinitive": "sich bedanken",
+    "praeteritum": "bedankte sich",
+    "perfekt": "hat sich bedankt",
+    "translation": {
+      "ru": [
+        "благодарить"
+      ],
+      "en": [
+        "to thank"
+      ],
+      "ar": [
+        "يشكر"
+      ]
+    },
+    "id": "bedanken"
+  },
+  {
+    "dictionaryId": "ausrichten",
+    "type": "verb",
+    "infinitive": "ausrichten",
+    "praeteritum": "richtete aus",
+    "perfekt": "hat ausgerichtet",
+    "translation": {
+      "ru": [
+        "передавать (сообщение)"
+      ],
+      "en": [
+        "to convey"
+      ],
+      "ar": [
+        "ينقل"
+      ]
+    },
+    "id": "ausrichten"
+  },
+  {
+    "dictionaryId": "versuchen",
+    "type": "verb",
+    "infinitive": "versuchen",
+    "praeteritum": "versuchte",
+    "perfekt": "hat versucht",
+    "translation": {
+      "ru": [
+        "пытаться"
+      ],
+      "en": [
+        "to try"
+      ],
+      "ar": [
+        "يحاول"
+      ]
+    },
+    "id": "versuchen"
+  },
+  {
+    "dictionaryId": "export",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Export",
+    "plural": "Exporte",
+    "translation": {
+      "ru": [
+        "экспорт"
+      ],
+      "en": [
+        "export"
+      ],
+      "ar": [
+        "تصدير"
+      ]
+    },
+    "id": "export"
+  },
+  {
+    "dictionaryId": "niemand",
+    "type": "other",
+    "word": "niemand",
+    "translation": {
+      "ru": [
+        "никто"
+      ],
+      "en": [
+        "nobody"
+      ],
+      "ar": [
+        "لا أحد"
+      ]
+    },
+    "id": "niemand"
+  },
+  {
+    "dictionaryId": "feierabend",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Feierabend",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "конец рабочего дня"
+      ],
+      "en": [
+        "end of workday"
+      ],
+      "ar": [
+        "نهاية العمل"
+      ]
+    },
+    "id": "feierabend"
+  },
+  {
+    "dictionaryId": "import",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Import",
+    "plural": "Importe",
+    "translation": {
+      "ru": [
+        "импорт"
+      ],
+      "en": [
+        "import"
+      ],
+      "ar": [
+        "استيراد"
+      ]
+    },
+    "id": "import"
+  },
+  {
+    "dictionaryId": "arbeitnehmer",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Arbeitnehmer",
+    "plural": "Arbeitnehmer",
+    "translation": {
+      "ru": [
+        "работник"
+      ],
+      "en": [
+        "employee"
+      ],
+      "ar": [
+        "موظف"
+      ]
+    },
+    "id": "arbeitnehmer"
+  },
+  {
+    "dictionaryId": "arbeitnehmerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Arbeitnehmerin",
+    "plural": "Arbeitnehmerinnen",
+    "translation": {
+      "ru": [
+        "работница"
+      ],
+      "en": [
+        "female employee"
+      ],
+      "ar": [
+        "موظفة"
+      ]
+    },
+    "id": "arbeitnehmerin"
+  },
+  {
+    "dictionaryId": "durchschnittlich",
+    "type": "other",
+    "word": "durchschnittlich",
+    "translation": {
+      "ru": [
+        "в среднем"
+      ],
+      "en": [
+        "on average"
+      ],
+      "ar": [
+        "في المتوسط"
+      ]
+    },
+    "id": "durchschnittlich"
+  },
+  {
+    "dictionaryId": "ahnung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ahnung",
+    "plural": "Ahnungen",
+    "translation": {
+      "ru": [
+        "представление"
+      ],
+      "en": [
+        "idea"
+      ],
+      "ar": [
+        "فكرة"
+      ]
+    },
+    "id": "ahnung"
+  },
+  {
+    "dictionaryId": "nationalfeiertag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Nationalfeiertag",
+    "plural": "Nationalfeiertage",
+    "translation": {
+      "ru": [
+        "национальный праздник"
+      ],
+      "en": [
+        "national holiday"
+      ],
+      "ar": [
+        "عيد وطني"
+      ]
+    },
+    "id": "nationalfeiertag"
+  },
+  {
+    "dictionaryId": "überstunde",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Überstunde",
+    "plural": "Überstunden",
+    "translation": {
+      "ru": [
+        "сверхурочный час"
+      ],
+      "en": [
+        "overtime"
+      ],
+      "ar": [
+        "عمل إضافي"
+      ]
+    },
+    "id": "überstunde"
+  },
+  {
+    "dictionaryId": "lohn",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Lohn",
+    "plural": "Löhne",
+    "translation": {
+      "ru": [
+        "зарплата"
+      ],
+      "en": [
+        "wage"
+      ],
+      "ar": [
+        "أجر"
+      ]
+    },
+    "id": "lohn"
+  },
+  {
+    "dictionaryId": "bieten",
+    "type": "verb",
+    "infinitive": "bieten",
+    "praeteritum": "bot",
+    "perfekt": "hat geboten",
+    "translation": {
+      "ru": [
+        "предлагать"
+      ],
+      "en": [
+        "to offer"
+      ],
+      "ar": [
+        "يقدم"
+      ]
+    },
+    "id": "bieten"
+  },
+  {
+    "dictionaryId": "regel",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Regel",
+    "plural": "Regeln",
+    "translation": {
+      "ru": [
+        "правило"
+      ],
+      "en": [
+        "rule"
+      ],
+      "ar": [
+        "قاعدة"
+      ]
+    },
+    "id": "regel"
+  },
+  {
+    "dictionaryId": "industrie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Industrie",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "промышленность"
+      ],
+      "en": [
+        "industry"
+      ],
+      "ar": [
+        "صناعة"
+      ]
+    },
+    "id": "industrie"
+  },
+  {
+    "dictionaryId": "durchschnitt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Durchschnitt",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "среднее значение"
+      ],
+      "en": [
+        "average"
+      ],
+      "ar": [
+        "متوسط"
+      ]
+    },
+    "id": "durchschnitt"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "meiste",
+    "translation": {
+      "ru": [
+        "большинство"
+      ],
+      "en": [
+        "most"
+      ],
+      "ar": [
+        "الأكثر"
+      ]
+    },
+    "id": "meiste"
+  },
+  {
+    "dictionaryId": "insgesamt",
+    "type": "other",
+    "word": "insgesamt",
+    "translation": {
+      "ru": [
+        "всего",
+        "в целом"
+      ],
+      "en": [
+        "in total"
+      ],
+      "ar": [
+        "إجمالاً"
+      ]
+    },
+    "id": "insgesamt"
+  },
+  {
+    "dictionaryId": "gelten",
+    "type": "verb",
+    "infinitive": "gelten",
+    "praeteritum": "galt",
+    "perfekt": "hat gegolten",
+    "translation": {
+      "ru": [
+        "считаться",
+        "действовать"
+      ],
+      "en": [
+        "to apply",
+        "to be valid"
+      ],
+      "ar": [
+        "يسري",
+        "يعتبر"
+      ]
+    },
+    "id": "gelten"
+  },
+  {
+    "dictionaryId": "mindestens",
+    "type": "other",
+    "word": "mindestens",
+    "translation": {
+      "ru": [
+        "как минимум"
+      ],
+      "en": [
+        "at least"
+      ],
+      "ar": [
+        "على الأقل"
+      ]
+    },
+    "id": "mindestens"
+  }
+]

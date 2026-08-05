@@ -1,0 +1,3027 @@
+[
+  {
+    "dictionaryId": "abhalten",
+    "type": "verb",
+    "infinitive": "abhalten",
+    "translation": {
+      "ru": [
+        "задерживать, удерживать",
+        "удерживать, отговаривать (кого-либо от чего-либо) (Akk, von Dat)",
+        "проводить (мероприятие)"
+      ],
+      "en": [
+        "to keep off, away, or out; to hold off",
+        "to stop (someone from doing something); to block; to hold back or up",
+        "to hold (a service, ceremony, etc.)"
+      ]
+    },
+    "id": "abhalten"
+  },
+  {
+    "dictionaryId": "abkommen",
+    "type": "noun",
+    "word": "Abkommen",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "соглашение, договор; сделка; конвенция",
+        "воен. отклонение линии прицеливания в момент выстрела",
+        "спорт. старт"
+      ],
+      "en": [
+        "accord, agreement"
+      ]
+    },
+    "id": "abkommen"
+  },
+  {
+    "dictionaryId": "absichtlich",
+    "type": "other",
+    "word": "absichtlich",
+    "translation": {
+      "ru": [
+        "намеренный, преднамеренный, умышленный"
+      ],
+      "en": [
+        "intentional",
+        "intentionally"
+      ]
+    },
+    "id": "absichtlich"
+  },
+  {
+    "dictionaryId": "adressieren",
+    "type": "verb",
+    "infinitive": "adressieren",
+    "translation": {
+      "ru": [
+        "адресовать (тж. перен.)",
+        "надписывать адрес (на конверте, посылке)"
+      ],
+      "en": [
+        "to address"
+      ]
+    },
+    "id": "adressieren"
+  },
+  {
+    "dictionaryId": "adventszeit",
+    "type": "noun",
+    "word": "Adventszeit",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "предрождественское время"
+      ],
+      "en": [
+        "Advent, Advent Time (liturgical season of Advent)"
+      ]
+    },
+    "id": "adventszeit"
+  },
+  {
+    "dictionaryId": "alleinerziehender",
+    "type": "noun",
+    "word": "Alleinerziehender",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "одинокий родитель, отец-одиночка"
+      ],
+      "en": [
+        "single father"
+      ]
+    },
+    "id": "alleinerziehender"
+  },
+  {
+    "dictionaryId": "allerheiligen",
+    "type": "noun",
+    "word": "Allerheiligen",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "Навий День, День Всех Святых"
+      ],
+      "en": [
+        "All Saints' Day; Hallowmas (1 November; generally a public holiday in Catholic parts of German-speaking Europe)"
+      ]
+    },
+    "id": "allerheiligen"
+  },
+  {
+    "dictionaryId": "anspruch",
+    "type": "noun",
+    "word": "Anspruch",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "притязание, претензия (auf на что-л.); требование; право (требовать чего-л.); правопритязание"
+      ],
+      "en": [
+        "entitlement, demand, expectation of what should come from someone or something",
+        "claim, the right against a subject of law that an action is performed or omitted by it",
+        "the raised procedural form of a claim that the defendant do or omit something"
+      ]
+    },
+    "id": "anspruch"
+  },
+  {
+    "dictionaryId": "anwalt",
+    "type": "noun",
+    "word": "Anwalt",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "адвокат, поверенный, защитник",
+        "прокурор",
+        "(полномочный) представитель, уполномоченный"
+      ],
+      "en": [
+        "attorney, lawyer"
+      ]
+    },
+    "id": "anwalt"
+  },
+  {
+    "dictionaryId": "anwältin",
+    "type": "noun",
+    "word": "Anwältin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "адвокат (о женщине)"
+      ]
+    },
+    "id": "anwältin"
+  },
+  {
+    "dictionaryId": "arbeitsverhältnis",
+    "type": "noun",
+    "word": "Arbeitsverhältnis",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "отношения, вытекающие из трудового договора; работа по найму ( по договору)"
+      ]
+    },
+    "id": "arbeitsverhältnis"
+  },
+  {
+    "dictionaryId": "attest",
+    "type": "noun",
+    "word": "Attest",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "удостоверение, свидетельство, аттестат; заключение (экспертное, врачебное)"
+      ],
+      "en": [
+        "medical certificate"
+      ]
+    },
+    "id": "attest"
+  },
+  {
+    "dictionaryId": "aufschreiben",
+    "type": "verb",
+    "infinitive": "aufschreiben",
+    "translation": {
+      "ru": [
+        "(на)писать; записывать; отмечать, брать на заметку; заносить (в книгу)",
+        "разг. прописать (что-л.), выписать рецепт (на что-л.)"
+      ],
+      "en": [
+        "to write down, mark down, to make a note (of something)",
+        "to mark out",
+        "to prescribe (medicine)"
+      ]
+    },
+    "id": "aufschreiben"
+  },
+  {
+    "dictionaryId": "ausgebildet",
+    "type": "other",
+    "word": "ausgebildet",
+    "translation": {
+      "ru": [
+        "обученный, подготовленный"
+      ]
+    },
+    "id": "ausgebildet"
+  },
+  {
+    "dictionaryId": "austauschen",
+    "type": "verb",
+    "infinitive": "austauschen",
+    "translation": {
+      "ru": [
+        "(gegen A) обменивать, менять (что-л. на что-л.)",
+        "обмениваться (чем-л.)"
+      ],
+      "en": [
+        "to exchange",
+        "to replace; to substitute"
+      ]
+    },
+    "id": "austauschen"
+  },
+  {
+    "dictionaryId": "auswanderer",
+    "type": "noun",
+    "word": "Auswanderer",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "эмигрант, экспатриант; переселенец (в другую страну)"
+      ],
+      "en": [
+        "emigrant (male or of unspecified gender)"
+      ]
+    },
+    "id": "auswanderer"
+  },
+  {
+    "dictionaryId": "bayerisch",
+    "type": "other",
+    "word": "bayerisch",
+    "translation": {
+      "ru": [
+        "баварский"
+      ]
+    },
+    "id": "bayerisch"
+  },
+  {
+    "dictionaryId": "beenden",
+    "type": "verb",
+    "infinitive": "beenden",
+    "translation": {
+      "ru": [
+        "оканчивать (окончить), кончать (кончить), прекращать (прекратить); завершать (завершить)"
+      ],
+      "en": [
+        "to finish, to complete, to (bring/put to an) end",
+        "to terminate",
+        "to exit"
+      ]
+    },
+    "id": "beenden"
+  },
+  {
+    "dictionaryId": "begriff",
+    "type": "noun",
+    "word": "Begriff",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "лог., психол. понятие, идея",
+        "разг. (привычное) понятие, представление (о чём-л.)"
+      ],
+      "en": [
+        "term, word",
+        "idea, conception, perception, understanding",
+        "concept"
+      ]
+    },
+    "id": "begriff"
+  },
+  {
+    "dictionaryId": "begründen",
+    "type": "verb",
+    "infinitive": "begründen",
+    "translation": {
+      "ru": [
+        "основывать, создавать, учреждать",
+        "обосновывать, мотивировать"
+      ],
+      "en": [
+        "to justify, to explain (to give a reason for a chosen course of action)",
+        "to found, to lay the foundation for (a tradition, dynasty, field; with the focus on something that develops or exists through time from then on)"
+      ]
+    },
+    "id": "begründen"
+  },
+  {
+    "dictionaryId": "behandeln",
+    "type": "verb",
+    "infinitive": "behandeln",
+    "translation": {
+      "ru": [
+        "обращаться, поступать"
+      ],
+      "en": [
+        "to treat (medicinally)",
+        "to treat (physically, psychologically)",
+        "to cover"
+      ]
+    },
+    "id": "behandeln"
+  },
+  {
+    "dictionaryId": "behandlung",
+    "type": "noun",
+    "word": "Behandlung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "обращение, обхождение (с кем-л., с чем-л.)",
+        "техн. обслуживание (машины), обращение (с машиной), уход (за машиной)",
+        "обработка"
+      ],
+      "en": [
+        "treatment"
+      ]
+    },
+    "id": "behandlung"
+  },
+  {
+    "dictionaryId": "behinderung",
+    "type": "noun",
+    "word": "Behinderung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "препятствие, помеха"
+      ],
+      "en": [
+        "handicap, disability",
+        "hindrance, impediment, obstacle"
+      ]
+    },
+    "id": "behinderung"
+  },
+  {
+    "dictionaryId": "bemalen",
+    "type": "verb",
+    "infinitive": "bemalen",
+    "translation": {
+      "ru": [
+        "раскрашивать, расписывать (красками); (на)красить (губы, лицо и т. п.)"
+      ],
+      "en": [
+        "to paint (to add paint to)"
+      ]
+    },
+    "id": "bemalen"
+  },
+  {
+    "dictionaryId": "benachteiligen",
+    "type": "verb",
+    "infinitive": "benachteiligen",
+    "translation": {
+      "ru": [
+        "причинять ущерб"
+      ],
+      "en": [
+        "to disadvantage"
+      ]
+    },
+    "id": "benachteiligen"
+  },
+  {
+    "dictionaryId": "benutzung",
+    "type": "noun",
+    "word": "Benutzung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "пользование, использование, употребление"
+      ],
+      "en": [
+        "use"
+      ]
+    },
+    "id": "benutzung"
+  },
+  {
+    "dictionaryId": "bescheid",
+    "type": "noun",
+    "word": "Bescheid",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "ответ; разъяснение, справка; сообщение, информация",
+        "указание, распоряжение; решение (административного органа; тк. прокуратуры о прекращении или невозбуждении уголовного дела); заключение, приговор"
+      ],
+      "en": [
+        "notification, information"
+      ]
+    },
+    "id": "bescheid"
+  },
+  {
+    "dictionaryId": "beschweren",
+    "type": "verb",
+    "infinitive": "beschweren",
+    "translation": {
+      "ru": [
+        "нажаловаться"
+      ],
+      "en": [
+        "to weight, to weight down",
+        "to complain"
+      ]
+    },
+    "id": "beschweren"
+  },
+  {
+    "dictionaryId": "beschützen",
+    "type": "verb",
+    "infinitive": "beschützen",
+    "translation": {
+      "ru": [
+        "(vor D, gegen A) защищать, оберегать (кого-л., что-л. от кого-л., от чего-л.); охранять (границы)",
+        "покровительствовать (кому-л.)"
+      ],
+      "en": [
+        "to protect, to guard, to defend"
+      ]
+    },
+    "id": "beschützen"
+  },
+  {
+    "dictionaryId": "bestrafen",
+    "type": "verb",
+    "infinitive": "bestrafen",
+    "translation": {
+      "ru": [
+        "(für A, wegen G) штрафовать; карать, наказывать (кого-л. за что-л.)"
+      ],
+      "en": [
+        "to punish"
+      ]
+    },
+    "id": "bestrafen"
+  },
+  {
+    "dictionaryId": "bitten",
+    "type": "verb",
+    "infinitive": "bitten",
+    "translation": {
+      "ru": [
+        "просить",
+        "приглашать (на что-либо)"
+      ],
+      "en": [
+        "to ask, to beg, to plead, to bid, to request",
+        "to ask, to invite"
+      ]
+    },
+    "id": "bitten"
+  },
+  {
+    "dictionaryId": "brauch",
+    "type": "noun",
+    "word": "Brauch",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "обычай",
+        "устар., диал. употребление, использование, применение (чего-л.); нужда, потребность (в чём-л.)"
+      ],
+      "en": [
+        "custom"
+      ]
+    },
+    "id": "brauch"
+  },
+  {
+    "dictionaryId": "bundesagentur",
+    "type": "noun",
+    "word": "Bundesagentur",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "federal agency"
+      ]
+    },
+    "id": "bundesagentur"
+  },
+  {
+    "dictionaryId": "bunt",
+    "type": "other",
+    "word": "bunt",
+    "translation": {
+      "ru": [
+        "пёстрый; цветной; разноцветный",
+        "пёстрый, смешанный, разнородный, разнообразный",
+        "пятнистый, пёстрый (о животных)"
+      ],
+      "en": [
+        "spotted, speckled",
+        "multi-colored; colorful; variegated",
+        "mixed, varied, heterogeneous"
+      ]
+    },
+    "id": "bunt"
+  },
+  {
+    "dictionaryId": "christentum",
+    "type": "noun",
+    "word": "Christentum",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "христианство"
+      ],
+      "en": [
+        "Christendom",
+        "Christianity"
+      ]
+    },
+    "id": "christentum"
+  },
+  {
+    "dictionaryId": "damalig",
+    "type": "other",
+    "word": "damalig",
+    "translation": {
+      "ru": [
+        "тогдашний"
+      ],
+      "en": [
+        "then, at the time"
+      ]
+    },
+    "id": "damalig"
+  },
+  {
+    "dictionaryId": "demonstration",
+    "type": "noun",
+    "word": "Demonstration",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "демонстрация",
+        "демонстрация, показ (напр., опытов)"
+      ],
+      "en": [
+        "demonstration (act of demonstrating)",
+        "demonstration (show of military force)",
+        "demonstration (rally, protest, march)"
+      ]
+    },
+    "id": "demonstration"
+  },
+  {
+    "dictionaryId": "demonstrieren",
+    "type": "verb",
+    "infinitive": "demonstrieren",
+    "translation": {
+      "ru": [
+        "демонстрировать, показывать"
+      ],
+      "en": [
+        "to demonstrate (to participate in or organize a public display of group opinion)"
+      ]
+    },
+    "id": "demonstrieren"
+  },
+  {
+    "dictionaryId": "deutschsprachig",
+    "type": "other",
+    "word": "deutschsprachig",
+    "translation": {
+      "ru": [
+        "немецкоязычный, говорящий на немецком языке, написанный на немецком языке"
+      ],
+      "en": [
+        "germanophone"
+      ]
+    },
+    "id": "deutschsprachig"
+  },
+  {
+    "dictionaryId": "diskriminierung",
+    "type": "noun",
+    "word": "Diskriminierung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "дискриминация"
+      ],
+      "en": [
+        "discrimination"
+      ]
+    },
+    "id": "diskriminierung"
+  },
+  {
+    "dictionaryId": "drohen",
+    "type": "verb",
+    "infinitive": "drohen",
+    "translation": {
+      "ru": [
+        "грозить, угрожать (чем-л.)"
+      ],
+      "en": [
+        "to threaten",
+        "to loom, to be able to happen in the future [with dative ‘to someone’] (of negative events or consequences, often expressed in English as \"there is a risk of...\")",
+        "to be in danger of something, to be on the verge of something, to threaten"
+      ]
+    },
+    "id": "drohen"
+  },
+  {
+    "dictionaryId": "egal",
+    "type": "other",
+    "word": "egal",
+    "translation": {
+      "ru": [
+        "ладно, неважно (не имеет значения)"
+      ],
+      "en": [
+        "all the same, unimportant",
+        "the same, identical, alike, matching",
+        "no matter"
+      ]
+    },
+    "id": "egal"
+  },
+  {
+    "dictionaryId": "ehegatte",
+    "type": "noun",
+    "word": "Ehegatte",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "супруг, муж"
+      ],
+      "en": [
+        "spouse"
+      ]
+    },
+    "id": "ehegatte"
+  },
+  {
+    "dictionaryId": "ehepartner",
+    "type": "noun",
+    "word": "Ehepartner",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "супруг, муж"
+      ],
+      "en": [
+        "spouse"
+      ]
+    },
+    "id": "ehepartner"
+  },
+  {
+    "dictionaryId": "ehrenamt",
+    "type": "noun",
+    "word": "Ehrenamt",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "почётная (выборная) (неоплачиваемая) должность; общественная работа"
+      ],
+      "en": [
+        "volunteer work"
+      ]
+    },
+    "id": "ehrenamt"
+  },
+  {
+    "dictionaryId": "einheitlich",
+    "type": "other",
+    "word": "einheitlich",
+    "translation": {
+      "ru": [
+        "единый",
+        "единообразный"
+      ],
+      "en": [
+        "uniform, unified"
+      ]
+    },
+    "id": "einheitlich"
+  },
+  {
+    "dictionaryId": "einlegen",
+    "type": "verb",
+    "infinitive": "einlegen",
+    "translation": {
+      "ru": [
+        "вкладывать, вставлять, помещать; закладывать",
+        "мариновать; консервировать",
+        "инкрустировать"
+      ],
+      "en": [
+        "to insert",
+        "to put in",
+        "to inlay"
+      ]
+    },
+    "id": "einlegen"
+  },
+  {
+    "dictionaryId": "einreisen",
+    "type": "verb",
+    "infinitive": "einreisen",
+    "translation": {
+      "ru": [
+        "въезжать (в страну)"
+      ],
+      "en": [
+        "to enter, to travel"
+      ]
+    },
+    "id": "einreisen"
+  },
+  {
+    "dictionaryId": "einrichtung",
+    "type": "noun",
+    "word": "Einrichtung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "устройство, организация; оборудование (действие)",
+        "учреждение",
+        "обстановка; оборудование; устройство"
+      ],
+      "en": [
+        "facility, institution",
+        "constitution, installation, establishment",
+        "furnishing, furniture"
+      ]
+    },
+    "id": "einrichtung"
+  },
+  {
+    "dictionaryId": "einspruch",
+    "type": "noun",
+    "word": "Einspruch",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "возражение, протест; отпор",
+        "юр. отзыв, возражение (в гражданском процессе); возражение против судебного приказа (в уголовном процессе); жалоба на административное распоряжение"
+      ],
+      "en": [
+        "objection, protest, appeal",
+        "objection! (kind of protest in the court procedures of some countries)"
+      ]
+    },
+    "id": "einspruch"
+  },
+  {
+    "dictionaryId": "eintreten",
+    "type": "verb",
+    "infinitive": "eintreten",
+    "translation": {
+      "ru": [
+        "входить"
+      ],
+      "en": [
+        "to enter, to come into",
+        "to occur, to eventuate",
+        "to join a club association etc. [with in (+ accusative)]"
+      ]
+    },
+    "id": "eintreten"
+  },
+  {
+    "dictionaryId": "einwanderer",
+    "type": "noun",
+    "word": "Einwanderer",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "иммигрант, переселенец"
+      ],
+      "en": [
+        "immigrant (male or of unspecified gender)"
+      ]
+    },
+    "id": "einwanderer"
+  },
+  {
+    "dictionaryId": "einwilligung",
+    "type": "noun",
+    "word": "Einwilligung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "согласие (zu D на что-л.)",
+        "юр. предварительное согласие (третьего лица на совершение сделки)"
+      ],
+      "en": [
+        "consent"
+      ]
+    },
+    "id": "einwilligung"
+  },
+  {
+    "dictionaryId": "elterlich",
+    "type": "other",
+    "word": "elterlich",
+    "translation": {
+      "ru": [
+        "родительский"
+      ],
+      "en": [
+        "parental"
+      ]
+    },
+    "id": "elterlich"
+  },
+  {
+    "dictionaryId": "elternzeit",
+    "type": "noun",
+    "word": "Elternzeit",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "parental leave"
+      ]
+    },
+    "id": "elternzeit"
+  },
+  {
+    "dictionaryId": "englisch",
+    "type": "noun",
+    "word": "Englisch",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "английский язык"
+      ],
+      "en": [
+        "English (language)",
+        "A children’s game for three or more participants played with one goal. Players try to reduce the goalkeeper’s points by scoring volley goals. Missing the goal makes the respective player the goalkeeper. The first player to forfeit all their points is the loser."
+      ]
+    },
+    "id": "englisch"
+  },
+  {
+    "dictionaryId": "entscheidung",
+    "type": "noun",
+    "word": "Entscheidung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "решение",
+        "спорт. финал; решение",
+        "юр. приговор, решение (определение) суда"
+      ],
+      "en": [
+        "decision"
+      ]
+    },
+    "id": "entscheidung"
+  },
+  {
+    "dictionaryId": "erfahrung",
+    "type": "noun",
+    "word": "Erfahrung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "опыт"
+      ],
+      "en": [
+        "experience (event through which empirical knowledge is gained)"
+      ]
+    },
+    "id": "erfahrung"
+  },
+  {
+    "dictionaryId": "erhalten",
+    "type": "verb",
+    "infinitive": "erhalten",
+    "translation": {
+      "ru": [
+        "получать",
+        "сохранять; содержать; поддерживать",
+        "содержать, поддерживать, кормить, обеспечивать (материально), иметь на иждивении (семью)"
+      ],
+      "en": [
+        "to receive (something given, sent, won, etc.)",
+        "to receive (a rebuke, punishment, fine, prison sentence, etc.)",
+        "to receive (an injury, etc.)"
+      ]
+    },
+    "id": "erhalten"
+  },
+  {
+    "dictionaryId": "erntedankfest",
+    "type": "noun",
+    "word": "Erntedankfest",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "en": [
+        "Harvest Festival"
+      ]
+    },
+    "id": "erntedankfest"
+  },
+  {
+    "dictionaryId": "erwachsen",
+    "type": "other",
+    "word": "erwachsen",
+    "translation": {
+      "ru": [
+        "(aus D) происходить, проистекать (из чего-л., от чего-л.)",
+        "высок. происходить, быть родом"
+      ],
+      "en": [
+        "to grow up, to grow",
+        "to spring up, to spring from, to proceed from",
+        "to accrue"
+      ]
+    },
+    "id": "erwachsen"
+  },
+  {
+    "dictionaryId": "erziehung",
+    "type": "noun",
+    "word": "Erziehung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "воспитание; обучение"
+      ],
+      "en": [
+        "education; upbringing; character formation (process of imparting basic knowledge, judgment, morals, and manners, especially to a child)",
+        "training (of a pet)"
+      ]
+    },
+    "id": "erziehung"
+  },
+  {
+    "dictionaryId": "eröffnen",
+    "type": "verb",
+    "infinitive": "eröffnen",
+    "translation": {
+      "ru": [
+        "открывать, начинать",
+        "открывать, поверять (тайну); сообщать (планы, намерения)",
+        "высок. sich ~ (D) довериться, открыться (кому-л.)"
+      ],
+      "en": [
+        "to open (to the public)",
+        "to open, begin, commence an event (usually with many participants)",
+        "to open (also figuratively) thus far as to become accessible or available, to open up"
+      ]
+    },
+    "id": "eröffnen"
+  },
+  {
+    "dictionaryId": "fest",
+    "type": "other",
+    "word": "fest",
+    "translation": {
+      "ru": [
+        "твёрдый",
+        "крепкий, прочный, устойчивый",
+        "постоянный"
+      ],
+      "en": [
+        "firm; compact; hard",
+        "firm; fixed; rigid",
+        "firm; steadfast"
+      ]
+    },
+    "id": "fest"
+  },
+  {
+    "dictionaryId": "festlegung",
+    "type": "noun",
+    "word": "Festlegung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "установление, определение",
+        "вкладывание (капитала)",
+        "закрепление; трассировка"
+      ],
+      "en": [
+        "fixing, determination"
+      ]
+    },
+    "id": "festlegung"
+  },
+  {
+    "dictionaryId": "freundschaft",
+    "type": "noun",
+    "word": "Freundschaft",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "дружба",
+        "родство"
+      ],
+      "en": [
+        "friendship",
+        "relations, relatives"
+      ]
+    },
+    "id": "freundschaft"
+  },
+  {
+    "dictionaryId": "frieden",
+    "type": "noun",
+    "word": "Frieden",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "мир (состояние без войны), согласие",
+        "покой, спокойствие"
+      ],
+      "en": [
+        "peace"
+      ]
+    },
+    "id": "frieden"
+  },
+  {
+    "dictionaryId": "frost",
+    "type": "noun",
+    "word": "Frost",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "мороз, стужа; заморозки; холод",
+        "озноб",
+        "мерзлота"
+      ],
+      "en": [
+        "frost; freezing weather (weather conditions below 0 °C)",
+        "frost; ice; all the natural phenomena caused by such weather collectively",
+        "a sensation of cold, especially due to illness"
+      ]
+    },
+    "id": "frost"
+  },
+  {
+    "dictionaryId": "fächer",
+    "type": "noun",
+    "word": "Fächer",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "веер, опахало"
+      ],
+      "en": [
+        "fan (handheld device used to induce airflow, especially in order to cool oneself)"
+      ]
+    },
+    "id": "fächer"
+  },
+  {
+    "dictionaryId": "gastarbeiter",
+    "type": "noun",
+    "word": "Gastarbeiter",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "гастарбайтер"
+      ],
+      "en": [
+        "guest worker, migrant worker, foreign worker (male or of unspecified gender)"
+      ]
+    },
+    "id": "gastarbeiter"
+  },
+  {
+    "dictionaryId": "geburt",
+    "type": "noun",
+    "word": "Geburt",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "рождение",
+        "перен. создание, основание",
+        "происхождение"
+      ],
+      "en": [
+        "birth"
+      ]
+    },
+    "id": "geburt"
+  },
+  {
+    "dictionaryId": "gedenken",
+    "type": "verb",
+    "infinitive": "gedenken",
+    "translation": {
+      "ru": [
+        "помнить, вспоминать (о ком-л., о чём-л.)",
+        "(в сочетании с инфинитивом) думать, намереваться, собираться (что-л. сделать)",
+        "(j-m) припомнить (что-л. кому-л.)"
+      ],
+      "en": [
+        "to remember, to commemorate",
+        "to intend"
+      ]
+    },
+    "id": "gedenken"
+  },
+  {
+    "dictionaryId": "gefeiert",
+    "type": "other",
+    "word": "gefeiert",
+    "translation": {
+      "en": [
+        "celebrated, acclaimed"
+      ]
+    },
+    "id": "gefeiert"
+  },
+  {
+    "dictionaryId": "gehalt",
+    "type": "noun",
+    "word": "Gehalt",
+    "article": [
+      "der",
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "оклад; жалованье; заработная плата (служащих)",
+        "содержание (напр., литературного произведения); содержательность",
+        "хим., техн. содержание (напр., металла в руде, витаминов в пище); проба (металла)"
+      ],
+      "en": [
+        "content, fraction (amount or percentage of some material in a mass)",
+        "content (that which is inside, contained)",
+        "salary"
+      ]
+    },
+    "id": "gehalt"
+  },
+  {
+    "dictionaryId": "gemeinschaft",
+    "type": "noun",
+    "word": "Gemeinschaft",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "общность, единство, единение, содружество; связь, общение",
+        "общество, объединение",
+        "истор. в ГДР — звено (пионерское); кружок (в школе и т. п.)"
+      ],
+      "en": [
+        "community, collective, syndicate, consortium"
+      ]
+    },
+    "id": "gemeinschaft"
+  },
+  {
+    "dictionaryId": "genehmigung",
+    "type": "noun",
+    "word": "Genehmigung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "одобрение, согласие"
+      ],
+      "en": [
+        "permit"
+      ]
+    },
+    "id": "genehmigung"
+  },
+  {
+    "dictionaryId": "gestorben",
+    "type": "other",
+    "word": "gestorben",
+    "translation": {
+      "en": [
+        "deceased (no longer alive)"
+      ]
+    },
+    "id": "gestorben"
+  },
+  {
+    "dictionaryId": "gesundheitsamt",
+    "type": "noun",
+    "word": "Gesundheitsamt",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "отдел здравоохранения, здравотдел"
+      ]
+    },
+    "id": "gesundheitsamt"
+  },
+  {
+    "dictionaryId": "gleichbehandlung",
+    "type": "noun",
+    "word": "Gleichbehandlung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "соблюдение равенства (напр при рассмотрении чего-л), единый подход (к чему-л)"
+      ],
+      "en": [
+        "equal treatment"
+      ]
+    },
+    "id": "gleichbehandlung"
+  },
+  {
+    "dictionaryId": "gleichen",
+    "type": "verb",
+    "infinitive": "gleichen",
+    "translation": {
+      "ru": [
+        "устар. выравнивать, ровнять, сглаживать",
+        "устар. проверять, выверять; уравнивать",
+        "(D in D) равняться (чему-л.), быть равным (кому-л., чему-л. в чём-л.)"
+      ],
+      "en": [
+        "to be like, to equal to, to resemble",
+        "to be alike"
+      ]
+    },
+    "id": "gleichen"
+  },
+  {
+    "dictionaryId": "gott",
+    "type": "noun",
+    "word": "Gott",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "религ. бог, Бог; божество"
+      ],
+      "en": [
+        "god",
+        "God"
+      ]
+    },
+    "id": "gott"
+  },
+  {
+    "dictionaryId": "grundsatz",
+    "type": "noun",
+    "word": "Grundsatz",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "принцип, основное положение",
+        "принцип, правило (поведения)"
+      ],
+      "en": [
+        "principle, tenet"
+      ]
+    },
+    "id": "grundsatz"
+  },
+  {
+    "dictionaryId": "grundsätzlich",
+    "type": "other",
+    "word": "grundsätzlich",
+    "translation": {
+      "ru": [
+        "принципиальный"
+      ],
+      "en": [
+        "based on principle",
+        "fundamental, elementary, principial",
+        "in principle, generally, as a rule (but with exceptions)"
+      ]
+    },
+    "id": "grundsätzlich"
+  },
+  {
+    "dictionaryId": "gründung",
+    "type": "noun",
+    "word": "Gründung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "основание, учреждение (действие)",
+        "строит. фундамент; основание (сооружения)"
+      ],
+      "en": [
+        "foundation (act of founding)",
+        "green manure (fertilizer of plant origin)"
+      ]
+    },
+    "id": "gründung"
+  },
+  {
+    "dictionaryId": "hauptsächlich",
+    "type": "other",
+    "word": "hauptsächlich",
+    "translation": {
+      "ru": [
+        "преимущественно; главным образом"
+      ],
+      "en": [
+        "main",
+        "mainly, primarily"
+      ]
+    },
+    "id": "hauptsächlich"
+  },
+  {
+    "dictionaryId": "hausordnung",
+    "type": "noun",
+    "word": "Hausordnung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "правила внутреннего распорядка; режим (в санатории и т. п.)"
+      ],
+      "en": [
+        "house regulations"
+      ]
+    },
+    "id": "hausordnung"
+  },
+  {
+    "dictionaryId": "hautfarbe",
+    "type": "noun",
+    "word": "Hautfarbe",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "цвет кожи (человека)"
+      ],
+      "en": [
+        "skin color; complexion",
+        "a color similar to the average skin color of white people in central and northern Europe, often found in colored pencils; flesh"
+      ]
+    },
+    "id": "hautfarbe"
+  },
+  {
+    "dictionaryId": "hochschule",
+    "type": "noun",
+    "word": "Hochschule",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "вуз"
+      ],
+      "en": [
+        "college; university; graduate school; institute; academy (educational institution for advanced studies, usually academic, but also arts, etc.)"
+      ]
+    },
+    "id": "hochschule"
+  },
+  {
+    "dictionaryId": "hungern",
+    "type": "verb",
+    "infinitive": "hungern",
+    "translation": {
+      "ru": [
+        "голодать, быть голодным"
+      ],
+      "en": [
+        "to hunger, to starve"
+      ]
+    },
+    "id": "hungern"
+  },
+  {
+    "dictionaryId": "inhalt",
+    "type": "noun",
+    "word": "Inhalt",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "содержание",
+        "содержимое",
+        "ёмкость, объём, вместимость"
+      ],
+      "en": [
+        "content"
+      ]
+    },
+    "id": "inhalt"
+  },
+  {
+    "dictionaryId": "integration",
+    "type": "noun",
+    "word": "Integration",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "интеграция"
+      ],
+      "en": [
+        "integration"
+      ]
+    },
+    "id": "integration"
+  },
+  {
+    "dictionaryId": "islam",
+    "type": "noun",
+    "word": "Islam",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "ислам"
+      ],
+      "en": [
+        "Islam"
+      ]
+    },
+    "id": "islam"
+  },
+  {
+    "dictionaryId": "jubiläum",
+    "type": "noun",
+    "word": "Jubiläum",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "юбилей"
+      ],
+      "en": [
+        "an anniversary, a jubilee"
+      ]
+    },
+    "id": "jubiläum"
+  },
+  {
+    "dictionaryId": "jugendamt",
+    "type": "noun",
+    "word": "Jugendamt",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "(местное) управление по делам молодёжи (орган попечения о несовершеннолетних)"
+      ],
+      "en": [
+        "youth welfare agency"
+      ]
+    },
+    "id": "jugendamt"
+  },
+  {
+    "dictionaryId": "jährig",
+    "type": "other",
+    "word": "jährig",
+    "translation": {
+      "ru": [
+        "годичный, годовой, одногодичный"
+      ],
+      "en": [
+        "one-year-old"
+      ]
+    },
+    "id": "jährig"
+  },
+  {
+    "dictionaryId": "jährlich",
+    "type": "other",
+    "word": "jährlich",
+    "translation": {
+      "ru": [
+        "ежегодный",
+        "каждогодно"
+      ],
+      "en": [
+        "annual, yearly",
+        "annually"
+      ]
+    },
+    "id": "jährlich"
+  },
+  {
+    "dictionaryId": "katholisch",
+    "type": "other",
+    "word": "katholisch",
+    "translation": {
+      "ru": [
+        "религ. католический"
+      ],
+      "en": [
+        "catholic",
+        "Catholic",
+        "Roman Catholic"
+      ]
+    },
+    "id": "katholisch"
+  },
+  {
+    "dictionaryId": "kindererziehung",
+    "type": "noun",
+    "word": "Kindererziehung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "воспитание детей"
+      ],
+      "en": [
+        "parenting"
+      ]
+    },
+    "id": "kindererziehung"
+  },
+  {
+    "dictionaryId": "kindergartenplatz",
+    "type": "noun",
+    "word": "Kindergartenplatz",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "место в детском саду"
+      ]
+    },
+    "id": "kindergartenplatz"
+  },
+  {
+    "dictionaryId": "klagen",
+    "type": "verb",
+    "infinitive": "klagen",
+    "translation": {
+      "ru": [
+        "(über А) жаловаться, сетовать (на кого-либо или чего-либо)",
+        "(um А) оплакивать (кого-либо)",
+        "(gegen А) подавать в суд (на кого-либо)"
+      ],
+      "en": [
+        "to complain (to express feelings of pain, dissatisfaction, or resentment)",
+        "to wail, lament",
+        "to sue"
+      ]
+    },
+    "id": "klagen"
+  },
+  {
+    "dictionaryId": "knüpfen",
+    "type": "verb",
+    "infinitive": "knüpfen",
+    "translation": {
+      "ru": [
+        "завязывать (узел, тж. перен.)",
+        "(an A) привязывать (что-л. к чему-л.); связывать (что-л. с чем-л., тж. перен.); обусловливать (что-л. чем-л.)",
+        "плести (напр., сети, ковры)"
+      ],
+      "en": [
+        "to tie",
+        "to knot"
+      ]
+    },
+    "id": "knüpfen"
+  },
+  {
+    "dictionaryId": "kommission",
+    "type": "noun",
+    "word": "Kommission",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "комиссия",
+        "комиссия, комиссионное поручение",
+        "комиссия, комиссионное вознаграждение"
+      ],
+      "en": [
+        "commission (a body or group of people, officially tasked with carrying out a particular function)"
+      ]
+    },
+    "id": "kommission"
+  },
+  {
+    "dictionaryId": "kostüm",
+    "type": "noun",
+    "word": "Kostüm",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "костюм (женский; тж. театральный, народный и т. п.)"
+      ],
+      "en": [
+        "skirt suit (women’s business suit consisting of a skirt and jacket)",
+        "costume (outfit worn by an actor)",
+        "costume, fancy dress (outfit worn for masquerade)"
+      ]
+    },
+    "id": "kostüm"
+  },
+  {
+    "dictionaryId": "krankenversicherung",
+    "type": "noun",
+    "word": "Krankenversicherung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "страхование на случай болезни"
+      ],
+      "en": [
+        "health insurance"
+      ]
+    },
+    "id": "krankenversicherung"
+  },
+  {
+    "dictionaryId": "kultur",
+    "type": "noun",
+    "word": "Kultur",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "культура",
+        "с.-х. культура",
+        "с.-х. возделывание, обработка"
+      ],
+      "en": [
+        "culture"
+      ]
+    },
+    "id": "kultur"
+  },
+  {
+    "dictionaryId": "kündigungsfrist",
+    "type": "noun",
+    "word": "Kündigungsfrist",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "срок для расторжения договора (увольнения с работы, ухода с работы)"
+      ],
+      "en": [
+        "notice period; cancellation period"
+      ]
+    },
+    "id": "kündigungsfrist"
+  },
+  {
+    "dictionaryId": "lebensform",
+    "type": "noun",
+    "word": "Lebensform",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "уклад (образ) жизни"
+      ],
+      "en": [
+        "lifeform",
+        "lifestyle"
+      ]
+    },
+    "id": "lebensform"
+  },
+  {
+    "dictionaryId": "lohnsteuer",
+    "type": "noun",
+    "word": "Lohnsteuer",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "подоходный налог (с трудящихся)"
+      ],
+      "en": [
+        "wage tax"
+      ]
+    },
+    "id": "lohnsteuer"
+  },
+  {
+    "dictionaryId": "londoner",
+    "type": "noun",
+    "word": "Londoner",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "A Londoner, a person from, or an inhabitant of, London (male or of unspecified gender)."
+      ]
+    },
+    "id": "londoner"
+  },
+  {
+    "dictionaryId": "maske",
+    "type": "noun",
+    "word": "Maske",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "в разн. знач. маска"
+      ],
+      "en": [
+        "mask",
+        "workspace of an make-up artist",
+        "form (group of text fields, checkboxes etc. with a shared purpose)"
+      ]
+    },
+    "id": "maske"
+  },
+  {
+    "dictionaryId": "mitgliedschaft",
+    "type": "noun",
+    "word": "Mitgliedschaft",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "членство",
+        "собир. коллектив, члены; число (численность) членов (организации)"
+      ],
+      "en": [
+        "membership (fact of being a member)"
+      ]
+    },
+    "id": "mitgliedschaft"
+  },
+  {
+    "dictionaryId": "mitgliedstaat",
+    "type": "noun",
+    "word": "Mitgliedstaat",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "государство-член (организации); страна-участница (какого-л. блока, пакта)"
+      ],
+      "en": [
+        "member state"
+      ]
+    },
+    "id": "mitgliedstaat"
+  },
+  {
+    "dictionaryId": "mitternacht",
+    "type": "noun",
+    "word": "Mitternacht",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "полночь"
+      ],
+      "en": [
+        "midnight",
+        "north"
+      ]
+    },
+    "id": "mitternacht"
+  },
+  {
+    "dictionaryId": "nachbarland",
+    "type": "noun",
+    "word": "Nachbarland",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "соседняя страна"
+      ],
+      "en": [
+        "neighbouring country"
+      ]
+    },
+    "id": "nachbarland"
+  },
+  {
+    "dictionaryId": "nachholen",
+    "type": "verb",
+    "infinitive": "nachholen",
+    "translation": {
+      "ru": [
+        "навёрстывать, нагонять, догонять; успеть сделать (упущенное ранее)"
+      ],
+      "en": [
+        "to do (something) at a later time than planned, on a rescheduled date; to make up, catch up (on)",
+        "to get, fetch (someone or something) at another time or one more time"
+      ]
+    },
+    "id": "nachholen"
+  },
+  {
+    "dictionaryId": "nationalsozialistisch",
+    "type": "other",
+    "word": "nationalsozialistisch",
+    "translation": {
+      "ru": [
+        "национал-социалистский"
+      ],
+      "en": [
+        "national socialist, National Socialist"
+      ]
+    },
+    "id": "nationalsozialistisch"
+  },
+  {
+    "dictionaryId": "oktoberfest",
+    "type": "noun",
+    "word": "Oktoberfest",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "традиционные октябрьские народные гуляния"
+      ],
+      "en": [
+        "A two-week public festival in Munich (Bavaria, southern Germany), held yearly in late September and early October, known especially for the large party tents in which revellers consume beer on long benches.",
+        "One of a number of much smaller festivals that have been organised in some other places of Germany and the world since the late 20th century, generally involving stereotypical elements of Bavarian culture."
+      ]
+    },
+    "id": "oktoberfest"
+  },
+  {
+    "dictionaryId": "orten",
+    "type": "verb",
+    "infinitive": "orten",
+    "translation": {
+      "ru": [
+        "определять (устанавливать) местонахождение (координаты) (самолёта, судна)"
+      ],
+      "en": [
+        "to locate"
+      ]
+    },
+    "id": "orten"
+  },
+  {
+    "dictionaryId": "ostern",
+    "type": "noun",
+    "word": "Ostern",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "пасха, Пасха"
+      ],
+      "en": [
+        "Easter"
+      ]
+    },
+    "id": "ostern"
+  },
+  {
+    "dictionaryId": "packen",
+    "type": "verb",
+    "infinitive": "packen",
+    "translation": {
+      "ru": [
+        "паковать"
+      ],
+      "en": [
+        "to pack (luggage, a bundle, etc.); to get packed",
+        "to grab, to grip, to take",
+        "to manage, to stand, to cope"
+      ]
+    },
+    "id": "packen"
+  },
+  {
+    "dictionaryId": "pariser",
+    "type": "noun",
+    "word": "Pariser",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "парижанин"
+      ],
+      "en": [
+        "Parisian",
+        "Frenchie, condom"
+      ]
+    },
+    "id": "pariser"
+  },
+  {
+    "dictionaryId": "partner",
+    "type": "noun",
+    "word": "Partner",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "партнёр"
+      ],
+      "en": [
+        "partner, associate (male or of unspecified gender)"
+      ]
+    },
+    "id": "partner"
+  },
+  {
+    "dictionaryId": "partnerin",
+    "type": "noun",
+    "word": "Partnerin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "партнёрша"
+      ]
+    },
+    "id": "partnerin"
+  },
+  {
+    "dictionaryId": "pfingsten",
+    "type": "noun",
+    "word": "Pfingsten",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "религ. троица, троицын день; пятидесятница"
+      ],
+      "en": [
+        "Pentecost"
+      ]
+    },
+    "id": "pfingsten"
+  },
+  {
+    "dictionaryId": "prägen",
+    "type": "verb",
+    "infinitive": "prägen",
+    "translation": {
+      "ru": [
+        "чеканить, тиснить",
+        "штамповать (детали машин и т. п.)",
+        "создавать"
+      ],
+      "en": [
+        "to mint",
+        "to shape",
+        "to characterize"
+      ]
+    },
+    "id": "prägen"
+  },
+  {
+    "dictionaryId": "rakete",
+    "type": "noun",
+    "word": "Rakete",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "ракета",
+        "реактивный снаряд"
+      ],
+      "en": [
+        "rocket, missile"
+      ]
+    },
+    "id": "rakete"
+  },
+  {
+    "dictionaryId": "regeln",
+    "type": "verb",
+    "infinitive": "regeln",
+    "translation": {
+      "ru": [
+        "регулировать (тж. тех.); управлять; регламентировать",
+        "(у)регулировать, приводить в порядок, улаживать"
+      ],
+      "en": [
+        "to regulate",
+        "to control (to adjust an apparatus)",
+        "to take care of, to deal with, to see to (errands, a situation, a small task)"
+      ]
+    },
+    "id": "regeln"
+  },
+  {
+    "dictionaryId": "reklamieren",
+    "type": "verb",
+    "infinitive": "reklamieren",
+    "translation": {
+      "ru": [
+        "заявлять рекламацию (претензию, жалобу, протест) (на что-л.)",
+        "требовать; претендовать (на что-л.)",
+        "освобождать от военной службы, отзывать (кого-л.) из армии (на производство), предоставлять броню (кому-л.)"
+      ],
+      "en": [
+        "to complain (about something purchased)",
+        "to complain about; to query (something purchased)"
+      ]
+    },
+    "id": "reklamieren"
+  },
+  {
+    "dictionaryId": "respektieren",
+    "type": "verb",
+    "infinitive": "respektieren",
+    "translation": {
+      "ru": [
+        "уважать; относиться с уважением ( почтительно ) (к кому-л.)",
+        "уважать, соблюдать (что-л.), считаться (с чем-л.)",
+        "признавать, принимать к оплате (вексель)"
+      ],
+      "en": [
+        "to respect"
+      ]
+    },
+    "id": "respektieren"
+  },
+  {
+    "dictionaryId": "rollstuhl",
+    "type": "noun",
+    "word": "Rollstuhl",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "инвалидная коляска, инвалидное кресло"
+      ],
+      "en": [
+        "wheelchair"
+      ]
+    },
+    "id": "rollstuhl"
+  },
+  {
+    "dictionaryId": "rosenmontag",
+    "type": "noun",
+    "word": "Rosenmontag",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "\"Бешеный понедельник\", \"Розовый понедельник\". В Германии - главный день карнавальных торжеств, первый день пасхального поста"
+      ],
+      "en": [
+        "Shrove Monday, Collop Monday, Rose Monday, Merry Monday, Hall Monday (the Monday before Ash Wednesday, highlight of the German carnival season)"
+      ]
+    },
+    "id": "rosenmontag"
+  },
+  {
+    "dictionaryId": "römisch",
+    "type": "other",
+    "word": "römisch",
+    "translation": {
+      "ru": [
+        "римский"
+      ],
+      "en": [
+        "Roman"
+      ]
+    },
+    "id": "römisch"
+  },
+  {
+    "dictionaryId": "scheiden",
+    "type": "verb",
+    "infinitive": "scheiden",
+    "translation": {
+      "ru": [
+        "разделять, отделять; сепарировать",
+        "сортировать; очищать",
+        "разводить (супругов)"
+      ],
+      "en": [
+        "to separate",
+        "to leave one another; to part; to be separated; to be divided",
+        "to dissolve (a marriage); to divorce (a couple)"
+      ]
+    },
+    "id": "scheiden"
+  },
+  {
+    "dictionaryId": "scheidung",
+    "type": "noun",
+    "word": "Scheidung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "развод, расторжение брака",
+        "разделение, отделение; сепарация; сортировка"
+      ],
+      "en": [
+        "separation",
+        "divorce"
+      ]
+    },
+    "id": "scheidung"
+  },
+  {
+    "dictionaryId": "schichtarbeiter",
+    "type": "noun",
+    "word": "Schichtarbeiter",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "рабочий смены"
+      ]
+    },
+    "id": "schichtarbeiter"
+  },
+  {
+    "dictionaryId": "schlagen",
+    "type": "verb",
+    "infinitive": "schlagen",
+    "translation": {
+      "ru": [
+        "бить, ударять; колотить",
+        "вбивать, вколачивать; пробивать",
+        "бить (во что-либо, издавая звуки)"
+      ],
+      "en": [
+        "to beat; to hit; to knock; to strike; to punch; to hammer; to pound",
+        "to beat; to win against; to defeat",
+        "to beat; to strike repeatedly; to pound"
+      ]
+    },
+    "id": "schlagen"
+  },
+  {
+    "dictionaryId": "schmücken",
+    "type": "verb",
+    "infinitive": "schmücken",
+    "translation": {
+      "ru": [
+        "украшать"
+      ],
+      "en": [
+        "to adorn, to decorate"
+      ]
+    },
+    "id": "schmücken"
+  },
+  {
+    "dictionaryId": "schulamt",
+    "type": "noun",
+    "word": "Schulamt",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "департамент школьного образования"
+      ]
+    },
+    "id": "schulamt"
+  },
+  {
+    "dictionaryId": "schulen",
+    "type": "verb",
+    "infinitive": "schulen",
+    "translation": {
+      "ru": [
+        "готовить (für A - для чего-л.), обучать",
+        "тренировать, упражнять, развивать (память, слух, зрение и т.п.)"
+      ],
+      "en": [
+        "to school"
+      ]
+    },
+    "id": "schulen"
+  },
+  {
+    "dictionaryId": "schwarzarbeit",
+    "type": "noun",
+    "word": "Schwarzarbeit",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "незаконное занятие каким-л. промыслом; \"левая\" работа (разг.)"
+      ],
+      "en": [
+        "moonlighting; work that is paid for, but not reported to a tax agency and thus not taxed"
+      ]
+    },
+    "id": "schwarzarbeit"
+  },
+  {
+    "dictionaryId": "situation",
+    "type": "noun",
+    "word": "Situation",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "ситуация, положение, обстановка"
+      ],
+      "en": [
+        "situation, circumstances",
+        "setting (background, atmosphere)"
+      ]
+    },
+    "id": "situation"
+  },
+  {
+    "dictionaryId": "sitz",
+    "type": "noun",
+    "word": "Sitz",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "сиденье; место",
+        "местопребывание, местожительство; резиденция",
+        "сидячее положение, поза (сидячего); спорт. посадка (напр., на лошади); сед"
+      ],
+      "en": [
+        "seat",
+        "domicile"
+      ]
+    },
+    "id": "sitz"
+  },
+  {
+    "dictionaryId": "spenden",
+    "type": "verb",
+    "infinitive": "spenden",
+    "translation": {
+      "ru": [
+        "жертвовать (пожертвовать), давать (дать), подавать (подать); дарить",
+        "в сочет. с существительным обозначает действие, на характер которого указывает существительное"
+      ],
+      "en": [
+        "to donate, to give as charity",
+        "To cause the action implied by a noun to take place.",
+        "to provide"
+      ]
+    },
+    "id": "spenden"
+  },
+  {
+    "dictionaryId": "staatsbürger",
+    "type": "noun",
+    "word": "Staatsbürger",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "гражданин"
+      ],
+      "en": [
+        "citizen (legal member of a state) (male or unspecified)"
+      ]
+    },
+    "id": "staatsbürger"
+  },
+  {
+    "dictionaryId": "staatspräsident",
+    "type": "noun",
+    "word": "Staatspräsident",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "президент земли (ФРГ)"
+      ],
+      "en": [
+        "president (head of state)"
+      ]
+    },
+    "id": "staatspräsident"
+  },
+  {
+    "dictionaryId": "standesamt",
+    "type": "noun",
+    "word": "Standesamt",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "бюро записи актов гражданского состояния, загс"
+      ],
+      "en": [
+        "register office"
+      ]
+    },
+    "id": "standesamt"
+  },
+  {
+    "dictionaryId": "steuererklärung",
+    "type": "noun",
+    "word": "Steuererklärung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "налоговая декларация"
+      ],
+      "en": [
+        "tax return"
+      ]
+    },
+    "id": "steuererklärung"
+  },
+  {
+    "dictionaryId": "tannenbaum",
+    "type": "noun",
+    "word": "Tannenbaum",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "ёлка (новогодняя, рождественская)"
+      ],
+      "en": [
+        "fir tree",
+        "Christmas tree"
+      ]
+    },
+    "id": "tannenbaum"
+  },
+  {
+    "dictionaryId": "taschengeld",
+    "type": "noun",
+    "word": "Taschengeld",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "карманные деньги"
+      ],
+      "en": [
+        "pocket money"
+      ]
+    },
+    "id": "taschengeld"
+  },
+  {
+    "dictionaryId": "toleranz",
+    "type": "noun",
+    "word": "Toleranz",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "терпимость, толерантность",
+        "выносливость",
+        "техн. допуск"
+      ],
+      "en": [
+        "tolerance"
+      ]
+    },
+    "id": "toleranz"
+  },
+  {
+    "dictionaryId": "tote",
+    "type": "noun",
+    "word": "Tote",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "мертвец"
+      ]
+    },
+    "id": "tote"
+  },
+  {
+    "dictionaryId": "tradition",
+    "type": "noun",
+    "word": "Tradition",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "традиция"
+      ],
+      "en": [
+        "tradition"
+      ]
+    },
+    "id": "tradition"
+  },
+  {
+    "dictionaryId": "umsatzsteuer",
+    "type": "noun",
+    "word": "Umsatzsteuer",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "налог с оборота"
+      ],
+      "en": [
+        "turnover tax",
+        "value added tax"
+      ]
+    },
+    "id": "umsatzsteuer"
+  },
+  {
+    "dictionaryId": "unbedingt",
+    "type": "other",
+    "word": "unbedingt",
+    "translation": {
+      "ru": [
+        "безусловный, безоговорочный",
+        "полный, абсолютный"
+      ],
+      "en": [
+        "absolute",
+        "(prison sentence) unconditional, without probation",
+        "absolutely, definitely"
+      ]
+    },
+    "id": "unbedingt"
+  },
+  {
+    "dictionaryId": "unbegrenzt",
+    "type": "other",
+    "word": "unbegrenzt",
+    "translation": {
+      "ru": [
+        "неограниченный"
+      ],
+      "en": [
+        "unlimited; indefinite",
+        "limitless, unbounded"
+      ]
+    },
+    "id": "unbegrenzt"
+  },
+  {
+    "dictionaryId": "ungar",
+    "type": "noun",
+    "word": "Ungar",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "венгр"
+      ],
+      "en": [
+        "Hungarian (person)"
+      ]
+    },
+    "id": "ungar"
+  },
+  {
+    "dictionaryId": "ungefragt",
+    "type": "other",
+    "word": "ungefragt",
+    "translation": {
+      "ru": [
+        "неспрошенный",
+        "не имеющий спроса (о товаре)"
+      ],
+      "en": [
+        "unasked; not asked for",
+        "without having asked"
+      ]
+    },
+    "id": "ungefragt"
+  },
+  {
+    "dictionaryId": "union",
+    "type": "noun",
+    "word": "Union",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "союз; объединение",
+        "церковная уния"
+      ],
+      "en": [
+        "union",
+        "The CDU/CSU: the union of the two Christian democratic parties in Germany, the CSU in Bavaria and the CDU in the rest of Germany."
+      ]
+    },
+    "id": "union"
+  },
+  {
+    "dictionaryId": "untergehen",
+    "type": "verb",
+    "infinitive": "untergehen",
+    "translation": {
+      "ru": [
+        "заходить, опускаться (за горизонт), садиться (о солнце)",
+        "(за)тонуть, пойти ко дну, утонуть",
+        "погибать; рушиться; уничтожаться"
+      ],
+      "en": [
+        "to set (of a heavenly body: to disappear below the horizon)",
+        "to fall, to go down (to be defeated)",
+        "to perish, to vanish"
+      ]
+    },
+    "id": "untergehen"
+  },
+  {
+    "dictionaryId": "unterstützung",
+    "type": "noun",
+    "word": "Unterstützung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "поддерживание, подпирание",
+        "опора",
+        "поддержка, помощь"
+      ],
+      "en": [
+        "support, assistance, backing, also endorsement",
+        "that which supports"
+      ]
+    },
+    "id": "unterstützung"
+  },
+  {
+    "dictionaryId": "verantwortlich",
+    "type": "other",
+    "word": "verantwortlich",
+    "translation": {
+      "ru": [
+        "ответственный"
+      ],
+      "en": [
+        "responsible",
+        "answerable"
+      ]
+    },
+    "id": "verantwortlich"
+  },
+  {
+    "dictionaryId": "verheiraten",
+    "type": "verb",
+    "infinitive": "verheiraten",
+    "translation": {
+      "ru": [
+        "(mit j-m) женить (кого-л. на ком-л.); (an j-n) выдавать замуж (за кого-л.)",
+        "sich ~ (mit j-m) вступать в брак (с кем-л.); жениться (на ком-л.); выходить замуж (за кого-л.)"
+      ],
+      "en": [
+        "to wed; to marry (officially join two people in marriage)",
+        "to marry off; to find a spouse for",
+        "to marry; to get married"
+      ]
+    },
+    "id": "verheiraten"
+  },
+  {
+    "dictionaryId": "verkehrsmittel",
+    "type": "noun",
+    "word": "Verkehrsmittel",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "средство сообщения, средство передвижения; транспортное средство",
+        "мн. ч. способы общения",
+        "мн. ч. средства связи"
+      ],
+      "en": [
+        "transport",
+        "vehicle"
+      ]
+    },
+    "id": "verkehrsmittel"
+  },
+  {
+    "dictionaryId": "verkleiden",
+    "type": "verb",
+    "infinitive": "verkleiden",
+    "translation": {
+      "ru": [
+        "переодевать (с целью маскировки)",
+        "обшивать; облицовывать; обкладывать; футеровать; обивать (материей)",
+        "маскировать; скрывать, прикрывать"
+      ],
+      "en": [
+        "to dress up, to disguise",
+        "to cover, to panel"
+      ]
+    },
+    "id": "verkleiden"
+  },
+  {
+    "dictionaryId": "verlängern",
+    "type": "verb",
+    "infinitive": "verlängern",
+    "translation": {
+      "ru": [
+        "удлинять (напр., платье)",
+        "продлевать, удлинять (срок); отсрочивать (вексель)",
+        "разг. разбавлять (молоко, суп)"
+      ],
+      "en": [
+        "to lengthen",
+        "to prolong, to extend"
+      ]
+    },
+    "id": "verlängern"
+  },
+  {
+    "dictionaryId": "verpflichtung",
+    "type": "noun",
+    "word": "Verpflichtung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "обязанность",
+        "обязательство"
+      ],
+      "en": [
+        "obligation, responsibility",
+        "commitment"
+      ]
+    },
+    "id": "verpflichtung"
+  },
+  {
+    "dictionaryId": "verstecken",
+    "type": "verb",
+    "infinitive": "verstecken",
+    "translation": {
+      "ru": [
+        "прятать",
+        "(sich) прятаться"
+      ],
+      "en": [
+        "to conceal",
+        "to hide (oneself)"
+      ]
+    },
+    "id": "verstecken"
+  },
+  {
+    "dictionaryId": "verstoßen",
+    "type": "verb",
+    "infinitive": "verstoßen",
+    "translation": {
+      "ru": [
+        "(gegen A) (по)грешить (против чего-л.); нарушать (напр., закон)"
+      ],
+      "en": [
+        "to cast out (of a community), to disown",
+        "to infringe, to break, to violate, to be contrary to",
+        "to obturate, to occlude by propping something into"
+      ]
+    },
+    "id": "verstossen"
+  },
+  {
+    "dictionaryId": "verwandte",
+    "type": "noun",
+    "word": "Verwandte",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "родственница"
+      ]
+    },
+    "id": "verwandte"
+  },
+  {
+    "dictionaryId": "volkshochschule",
+    "type": "noun",
+    "word": "Volkshochschule",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "народный (вечерний) университет (культуры); (вечерние) общеобразовательные курсы"
+      ],
+      "en": [
+        "A kind of post secondary school, see Folk High School - a European version of continuing education."
+      ]
+    },
+    "id": "volkshochschule"
+  },
+  {
+    "dictionaryId": "volljährig",
+    "type": "other",
+    "word": "volljährig",
+    "translation": {
+      "ru": [
+        "совершеннолетний"
+      ],
+      "en": [
+        "of age, of legal age"
+      ]
+    },
+    "id": "volljährig"
+  },
+  {
+    "dictionaryId": "vorliegen",
+    "type": "verb",
+    "infinitive": "vorliegen",
+    "translation": {
+      "ru": [
+        "лежать (перед чем-л.)",
+        "иметься, существовать, быть налицо"
+      ],
+      "en": [
+        "to be available (of documentation/information)",
+        "to be present, to be the case (of a specific type of situation)"
+      ]
+    },
+    "id": "vorliegen"
+  },
+  {
+    "dictionaryId": "wahlfreiheit",
+    "type": "noun",
+    "word": "Wahlfreiheit",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "право (свобода) выбора",
+        "свобода выборов"
+      ]
+    },
+    "id": "wahlfreiheit"
+  },
+  {
+    "dictionaryId": "wegwerfen",
+    "type": "verb",
+    "infinitive": "wegwerfen",
+    "translation": {
+      "ru": [
+        "выбрасывать; отбрасывать",
+        "(sich) унижаться, ронять своё достоинство"
+      ],
+      "en": [
+        "to throw away, to discard"
+      ]
+    },
+    "id": "wegwerfen"
+  },
+  {
+    "dictionaryId": "wehren",
+    "type": "verb",
+    "infinitive": "wehren",
+    "translation": {
+      "ru": [
+        "воспрещать, запрещать; препятствовать (в чём-л. кому-л.)",
+        "не допускать (чего-л.); помешать (чему-л.)",
+        "sich ~ (gegen A, wider A) обороняться, защищаться, отбиваться (от кого-л., от чего-л.)"
+      ],
+      "en": [
+        "to defend oneself",
+        "to prevent the spread of something, to fight",
+        "to deny, to prevent someone from doing something"
+      ]
+    },
+    "id": "wehren"
+  },
+  {
+    "dictionaryId": "weihnachten",
+    "type": "noun",
+    "word": "Weihnachten",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "религ. рождество (Рождество)"
+      ],
+      "en": [
+        "Christmas"
+      ]
+    },
+    "id": "weihnachten"
+  },
+  {
+    "dictionaryId": "widerspruch",
+    "type": "noun",
+    "word": "Widerspruch",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "противоречие"
+      ],
+      "en": [
+        "objection, protest",
+        "contradiction"
+      ]
+    },
+    "id": "widerspruch"
+  },
+  {
+    "dictionaryId": "zukunft",
+    "type": "noun",
+    "word": "Zukunft",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "будущее"
+      ],
+      "en": [
+        "future",
+        "future tense"
+      ]
+    },
+    "id": "zukunft"
+  },
+  {
+    "dictionaryId": "zusammenleben",
+    "type": "noun",
+    "word": "Zusammenleben",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "совместная жизнь"
+      ],
+      "en": [
+        "living together"
+      ]
+    },
+    "id": "zusammenleben"
+  },
+  {
+    "dictionaryId": "zusammenschluss",
+    "type": "noun",
+    "word": "Zusammenschluss",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "объединение; слияние"
+      ],
+      "en": [
+        "union, federation, merger, amalgamation, alliance"
+      ]
+    },
+    "id": "zusammenschluss"
+  },
+  {
+    "dictionaryId": "zweijährig",
+    "type": "other",
+    "word": "zweijährig",
+    "translation": {
+      "en": [
+        "two-year, biennial",
+        "two-year-old"
+      ]
+    },
+    "id": "zweijährig"
+  }
+]

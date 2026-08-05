@@ -1,0 +1,1695 @@
+[
+  {
+    "dictionaryId": "ordner",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Ordner",
+    "plural": "Ordner",
+    "translation": {
+      "ru": [
+        "папка",
+        "скоросшиватель"
+      ],
+      "en": [
+        "folder",
+        "binder"
+      ],
+      "ar": [
+        "مجلد"
+      ]
+    },
+    "id": "ordner"
+  },
+  {
+    "dictionaryId": "datei",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Datei",
+    "plural": "Dateien",
+    "translation": {
+      "ru": [
+        "файл"
+      ],
+      "en": [
+        "file"
+      ],
+      "ar": [
+        "ملف"
+      ]
+    },
+    "id": "datei"
+  },
+  {
+    "dictionaryId": "herunterladen",
+    "type": "verb",
+    "infinitive": "herunterladen",
+    "praeteritum": "lud herunter",
+    "perfekt": "hat heruntergeladen",
+    "translation": {
+      "ru": [
+        "скачивать"
+      ],
+      "en": [
+        "to download"
+      ],
+      "ar": [
+        "يحمّل"
+      ]
+    },
+    "id": "herunterladen"
+  },
+  {
+    "dictionaryId": "empfangen",
+    "type": "verb",
+    "infinitive": "empfangen",
+    "praeteritum": "empfing",
+    "perfekt": "hat empfangen",
+    "translation": {
+      "ru": [
+        "получать",
+        "принимать"
+      ],
+      "en": [
+        "to receive"
+      ],
+      "ar": [
+        "يستقبل",
+        "يتلقى"
+      ]
+    },
+    "id": "empfangen"
+  },
+  {
+    "dictionaryId": "anklicken",
+    "type": "verb",
+    "infinitive": "anklicken",
+    "praeteritum": "klickte an",
+    "perfekt": "hat angeklickt",
+    "translation": {
+      "ru": [
+        "кликать",
+        "нажимать"
+      ],
+      "en": [
+        "to click on"
+      ],
+      "ar": [
+        "ينقر على"
+      ]
+    },
+    "id": "anklicken"
+  },
+  {
+    "dictionaryId": "festplatte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Festplatte",
+    "plural": "Festplatten",
+    "translation": {
+      "ru": [
+        "жёсткий диск"
+      ],
+      "en": [
+        "hard drive"
+      ],
+      "ar": [
+        "قرص صلب"
+      ]
+    },
+    "id": "festplatte"
+  },
+  {
+    "dictionaryId": "elektronisch",
+    "type": "other",
+    "word": "elektronisch",
+    "translation": {
+      "ru": [
+        "электронный"
+      ],
+      "en": [
+        "electronic"
+      ],
+      "ar": [
+        "إلكتروني"
+      ]
+    },
+    "id": "elektronisch"
+  },
+  {
+    "dictionaryId": "aktion",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Aktion",
+    "plural": "Aktionen",
+    "translation": {
+      "ru": [
+        "акция",
+        "действие"
+      ],
+      "en": [
+        "campaign",
+        "action"
+      ],
+      "ar": [
+        "حملة",
+        "إجراء"
+      ]
+    },
+    "id": "aktion"
+  },
+  {
+    "dictionaryId": "nachdem",
+    "type": "other",
+    "word": "nachdem",
+    "translation": {
+      "ru": [
+        "после того как"
+      ],
+      "en": [
+        "after"
+      ],
+      "ar": [
+        "بعد أن"
+      ]
+    },
+    "id": "nachdem"
+  },
+  {
+    "dictionaryId": "digital",
+    "type": "other",
+    "word": "digital",
+    "translation": {
+      "ru": [
+        "цифровой"
+      ],
+      "en": [
+        "digital"
+      ],
+      "ar": [
+        "رقمي"
+      ]
+    },
+    "id": "digital"
+  },
+  {
+    "dictionaryId": "bevor",
+    "type": "other",
+    "word": "bevor",
+    "translation": {
+      "ru": [
+        "прежде чем"
+      ],
+      "en": [
+        "before"
+      ],
+      "ar": [
+        "قبل أن"
+      ]
+    },
+    "id": "bevor"
+  },
+  {
+    "dictionaryId": "neulich",
+    "type": "other",
+    "word": "neulich",
+    "translation": {
+      "ru": [
+        "недавно"
+      ],
+      "en": [
+        "recently"
+      ],
+      "ar": [
+        "مؤخرًا"
+      ]
+    },
+    "id": "neulich"
+  },
+  {
+    "dictionaryId": "außer",
+    "type": "other",
+    "word": "außer",
+    "translation": {
+      "ru": [
+        "кроме"
+      ],
+      "en": [
+        "except"
+      ],
+      "ar": [
+        "باستثناء"
+      ]
+    },
+    "id": "ausser"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kopierer",
+    "plural": "Kopierer",
+    "translation": {
+      "ru": [
+        "копировальный аппарат"
+      ],
+      "en": [
+        "copier"
+      ],
+      "ar": [
+        "آلة تصوير"
+      ]
+    },
+    "id": "kopierer"
+  },
+  {
+    "dictionaryId": "kopie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kopie",
+    "plural": "Kopien",
+    "translation": {
+      "ru": [
+        "копия"
+      ],
+      "en": [
+        "copy"
+      ],
+      "ar": [
+        "نسخة"
+      ]
+    },
+    "id": "kopie"
+  },
+  {
+    "dictionaryId": "neugierig",
+    "type": "other",
+    "word": "neugierig",
+    "translation": {
+      "ru": [
+        "любопытный"
+      ],
+      "en": [
+        "curious"
+      ],
+      "ar": [
+        "فضولي"
+      ]
+    },
+    "id": "neugierig"
+  },
+  {
+    "dictionaryId": "rechner",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Rechner",
+    "plural": "Rechner",
+    "translation": {
+      "ru": [
+        "компьютер"
+      ],
+      "en": [
+        "computer"
+      ],
+      "ar": [
+        "حاسوب"
+      ]
+    },
+    "id": "rechner"
+  },
+  {
+    "dictionaryId": "virus",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Virus",
+    "plural": "Viren",
+    "translation": {
+      "ru": [
+        "вирус"
+      ],
+      "en": [
+        "virus"
+      ],
+      "ar": [
+        "فيروس"
+      ]
+    },
+    "id": "virus"
+  },
+  {
+    "dictionaryId": "senden",
+    "type": "verb",
+    "infinitive": "senden",
+    "praeteritum": "sandte",
+    "perfekt": "hat gesandt",
+    "translation": {
+      "ru": [
+        "отправлять"
+      ],
+      "en": [
+        "to send"
+      ],
+      "ar": [
+        "يرسل"
+      ]
+    },
+    "id": "senden"
+  },
+  {
+    "dictionaryId": "teilnehmen",
+    "type": "verb",
+    "infinitive": "teilnehmen",
+    "praeteritum": "nahm teil",
+    "perfekt": "hat teilgenommen",
+    "translation": {
+      "ru": [
+        "участвовать"
+      ],
+      "en": [
+        "to participate"
+      ],
+      "ar": [
+        "يشارك"
+      ]
+    },
+    "id": "teilnehmen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "hinweisen (auf)",
+    "praeteritum": "wies hin",
+    "perfekt": "hat hingewiesen",
+    "translation": {
+      "ru": [
+        "указывать на",
+        "обращать внимание на"
+      ],
+      "en": [
+        "to point out",
+        "to refer to"
+      ],
+      "ar": [
+        "يشير إلى"
+      ]
+    },
+    "id": "hinweisen-auf"
+  },
+  {
+    "dictionaryId": "ordnen",
+    "type": "verb",
+    "infinitive": "ordnen",
+    "praeteritum": "ordnete",
+    "perfekt": "hat geordnet",
+    "translation": {
+      "ru": [
+        "упорядочивать"
+      ],
+      "en": [
+        "to organize",
+        "to sort"
+      ],
+      "ar": [
+        "يرتب"
+      ]
+    },
+    "id": "ordnen"
+  },
+  {
+    "dictionaryId": "besorgen",
+    "type": "verb",
+    "infinitive": "besorgen",
+    "praeteritum": "besorgte",
+    "perfekt": "hat besorgt",
+    "translation": {
+      "ru": [
+        "доставать",
+        "покупать"
+      ],
+      "en": [
+        "to get",
+        "to obtain"
+      ],
+      "ar": [
+        "يحضر",
+        "يوفر"
+      ]
+    },
+    "id": "besorgen"
+  },
+  {
+    "dictionaryId": "bereit",
+    "type": "other",
+    "word": "bereit",
+    "translation": {
+      "ru": [
+        "готовый"
+      ],
+      "en": [
+        "ready"
+      ],
+      "ar": [
+        "جاهز"
+      ]
+    },
+    "id": "bereit"
+  },
+  {
+    "dictionaryId": "folgen",
+    "type": "verb",
+    "infinitive": "folgen",
+    "praeteritum": "folgte",
+    "perfekt": "ist gefolgt",
+    "translation": {
+      "ru": [
+        "следовать"
+      ],
+      "en": [
+        "to follow"
+      ],
+      "ar": [
+        "يتبع"
+      ]
+    },
+    "id": "folgen"
+  },
+  {
+    "dictionaryId": "einwerfen",
+    "type": "verb",
+    "infinitive": "einwerfen",
+    "praeteritum": "warf ein",
+    "perfekt": "hat eingeworfen",
+    "translation": {
+      "ru": [
+        "бросать внутрь",
+        "опускать"
+      ],
+      "en": [
+        "to throw in",
+        "to post"
+      ],
+      "ar": [
+        "يلقي في"
+      ]
+    },
+    "id": "einwerfen"
+  },
+  {
+    "dictionaryId": "gewicht",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gewicht",
+    "plural": "Gewichte",
+    "translation": {
+      "ru": [
+        "вес"
+      ],
+      "en": [
+        "weight"
+      ],
+      "ar": [
+        "وزن"
+      ]
+    },
+    "id": "gewicht"
+  },
+  {
+    "dictionaryId": "schwer",
+    "type": "other",
+    "word": "schwer",
+    "translation": {
+      "ru": [
+        "тяжёлый"
+      ],
+      "en": [
+        "heavy"
+      ],
+      "ar": [
+        "ثقيل"
+      ]
+    },
+    "id": "schwer"
+  },
+  {
+    "dictionaryId": "anzeigen",
+    "type": "verb",
+    "infinitive": "anzeigen",
+    "praeteritum": "zeigte an",
+    "perfekt": "hat angezeigt",
+    "translation": {
+      "ru": [
+        "показывать",
+        "отображать"
+      ],
+      "en": [
+        "to display",
+        "to show"
+      ],
+      "ar": [
+        "يعرض"
+      ]
+    },
+    "id": "anzeigen"
+  },
+  {
+    "dictionaryId": "kissen",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Kissen",
+    "plural": "Kissen",
+    "translation": {
+      "ru": [
+        "подушка"
+      ],
+      "en": [
+        "pillow",
+        "cushion"
+      ],
+      "ar": [
+        "وسادة"
+      ]
+    },
+    "id": "kissen"
+  },
+  {
+    "dictionaryId": "ausschließlich",
+    "type": "other",
+    "word": "ausschließlich",
+    "translation": {
+      "ru": [
+        "исключительно",
+        "только"
+      ],
+      "en": [
+        "exclusively"
+      ],
+      "ar": [
+        "حصريًا"
+      ]
+    },
+    "id": "ausschliesslich"
+  },
+  {
+    "dictionaryId": "empfehlung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Empfehlung",
+    "plural": "Empfehlungen",
+    "translation": {
+      "ru": [
+        "рекомендация"
+      ],
+      "en": [
+        "recommendation"
+      ],
+      "ar": [
+        "توصية"
+      ]
+    },
+    "id": "empfehlung"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Waschmittel",
+    "plural": "Waschmittel",
+    "translation": {
+      "ru": [
+        "стиральный порошок",
+        "моющее средство"
+      ],
+      "en": [
+        "detergent"
+      ],
+      "ar": [
+        "منظف"
+      ]
+    },
+    "id": "waschmittel"
+  },
+  {
+    "dictionaryId": "menge",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Menge",
+    "plural": "Mengen",
+    "translation": {
+      "ru": [
+        "количество"
+      ],
+      "en": [
+        "amount",
+        "quantity"
+      ],
+      "ar": [
+        "كمية"
+      ]
+    },
+    "id": "menge"
+  },
+  {
+    "dictionaryId": "knopf",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Knopf",
+    "plural": "Knöpfe",
+    "translation": {
+      "ru": [
+        "кнопка",
+        "пуговица"
+      ],
+      "en": [
+        "button"
+      ],
+      "ar": [
+        "زر"
+      ]
+    },
+    "id": "knopf"
+  },
+  {
+    "dictionaryId": "unterbrechen",
+    "type": "verb",
+    "infinitive": "unterbrechen",
+    "praeteritum": "unterbrach",
+    "perfekt": "hat unterbrochen",
+    "translation": {
+      "ru": [
+        "прерывать"
+      ],
+      "en": [
+        "to interrupt"
+      ],
+      "ar": [
+        "يقاطع"
+      ]
+    },
+    "id": "unterbrechen"
+  },
+  {
+    "dictionaryId": "fortsetzen",
+    "type": "verb",
+    "infinitive": "fortsetzen",
+    "praeteritum": "setzte fort",
+    "perfekt": "hat fortgesetzt",
+    "translation": {
+      "ru": [
+        "продолжать"
+      ],
+      "en": [
+        "to continue"
+      ],
+      "ar": [
+        "يواصل"
+      ]
+    },
+    "id": "fortsetzen"
+  },
+  {
+    "dictionaryId": "stoppen",
+    "type": "verb",
+    "infinitive": "stoppen",
+    "praeteritum": "stoppte",
+    "perfekt": "hat gestoppt",
+    "translation": {
+      "ru": [
+        "останавливать"
+      ],
+      "en": [
+        "to stop"
+      ],
+      "ar": [
+        "يوقف"
+      ]
+    },
+    "id": "stoppen"
+  },
+  {
+    "dictionaryId": "tarif",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tarif",
+    "plural": "Tarife",
+    "translation": {
+      "ru": [
+        "тариф"
+      ],
+      "en": [
+        "tariff",
+        "rate"
+      ],
+      "ar": [
+        "تعرفة"
+      ]
+    },
+    "id": "tarif"
+  },
+  {
+    "dictionaryId": "verzeihung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Verzeihung",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "извинение",
+        "простите"
+      ],
+      "en": [
+        "excuse me",
+        "forgiveness"
+      ],
+      "ar": [
+        "عذرًا",
+        "مسامحة"
+      ]
+    },
+    "id": "verzeihung"
+  },
+  {
+    "dictionaryId": "zuletzt",
+    "type": "other",
+    "word": "zuletzt",
+    "translation": {
+      "ru": [
+        "в последний раз",
+        "в конце"
+      ],
+      "en": [
+        "last",
+        "finally"
+      ],
+      "ar": [
+        "أخيرًا",
+        "آخر مرة"
+      ]
+    },
+    "id": "zuletzt"
+  },
+  {
+    "dictionaryId": "symbol",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Symbol",
+    "plural": "Symbole",
+    "translation": {
+      "ru": [
+        "символ"
+      ],
+      "en": [
+        "symbol"
+      ],
+      "ar": [
+        "رمز"
+      ]
+    },
+    "id": "symbol"
+  },
+  {
+    "dictionaryId": "angestellte",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Angestellte",
+    "plural": "Angestellten",
+    "translation": {
+      "ru": [
+        "служащий",
+        "сотрудник"
+      ],
+      "en": [
+        "employee"
+      ],
+      "ar": [
+        "موظف"
+      ]
+    },
+    "id": "angestellte"
+  },
+  {
+    "dictionaryId": "führen",
+    "type": "verb",
+    "infinitive": "führen",
+    "praeteritum": "führte",
+    "perfekt": "hat geführt",
+    "translation": {
+      "ru": [
+        "вести",
+        "руководить"
+      ],
+      "en": [
+        "to lead"
+      ],
+      "ar": [
+        "يقود"
+      ]
+    },
+    "id": "führen"
+  },
+  {
+    "dictionaryId": "golf",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Golf",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "гольф"
+      ],
+      "en": [
+        "golf"
+      ],
+      "ar": [
+        "غولف"
+      ]
+    },
+    "id": "golf"
+  },
+  {
+    "dictionaryId": "wahrheit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wahrheit",
+    "plural": "Wahrheiten",
+    "translation": {
+      "ru": [
+        "правда",
+        "истина"
+      ],
+      "en": [
+        "truth"
+      ],
+      "ar": [
+        "حقيقة"
+      ]
+    },
+    "id": "wahrheit"
+  },
+  {
+    "dictionaryId": "ehe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ehe",
+    "plural": "Ehen",
+    "translation": {
+      "ru": [
+        "брак"
+      ],
+      "en": [
+        "marriage"
+      ],
+      "ar": [
+        "زواج"
+      ]
+    },
+    "id": "ehe"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "als ob",
+    "translation": {
+      "ru": [
+        "как будто"
+      ],
+      "en": [
+        "as if"
+      ],
+      "ar": [
+        "كما لو"
+      ]
+    },
+    "id": "als-ob"
+  },
+  {
+    "dictionaryId": "wirklichkeit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wirklichkeit",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "реальность"
+      ],
+      "en": [
+        "reality"
+      ],
+      "ar": [
+        "واقع"
+      ]
+    },
+    "id": "wirklichkeit"
+  },
+  {
+    "dictionaryId": "swimmingpool",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Swimmingpool",
+    "plural": "Swimmingpools",
+    "translation": {
+      "ru": [
+        "бассейн"
+      ],
+      "en": [
+        "swimming pool"
+      ],
+      "ar": [
+        "مسبح"
+      ]
+    },
+    "id": "swimmingpool"
+  },
+  {
+    "dictionaryId": "studio",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Studio",
+    "plural": "Studios",
+    "translation": {
+      "ru": [
+        "студия"
+      ],
+      "en": [
+        "studio"
+      ],
+      "ar": [
+        "استوديو"
+      ]
+    },
+    "id": "studio"
+  },
+  {
+    "dictionaryId": "anfangs",
+    "type": "other",
+    "word": "anfangs",
+    "translation": {
+      "ru": [
+        "сначала"
+      ],
+      "en": [
+        "at first"
+      ],
+      "ar": [
+        "في البداية"
+      ]
+    },
+    "id": "anfangs"
+  },
+  {
+    "dictionaryId": "moderator",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Moderator",
+    "plural": "Moderatoren",
+    "translation": {
+      "ru": [
+        "ведущий"
+      ],
+      "en": [
+        "host",
+        "moderator"
+      ],
+      "ar": [
+        "مقدم البرامج"
+      ]
+    },
+    "id": "moderator"
+  },
+  {
+    "dictionaryId": "markt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Markt",
+    "plural": "Märkte",
+    "translation": {
+      "ru": [
+        "рынок"
+      ],
+      "en": [
+        "market"
+      ],
+      "ar": [
+        "سوق"
+      ]
+    },
+    "id": "markt"
+  },
+  {
+    "dictionaryId": "kreis",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kreis",
+    "plural": "Kreise",
+    "translation": {
+      "ru": [
+        "круг",
+        "район"
+      ],
+      "en": [
+        "circle",
+        "district"
+      ],
+      "ar": [
+        "دائرة"
+      ]
+    },
+    "id": "kreis"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "aus sein",
+    "praeteritum": "war aus",
+    "perfekt": "ist aus gewesen",
+    "translation": {
+      "ru": [
+        "быть выключенным"
+      ],
+      "en": [
+        "to be switched off"
+      ],
+      "ar": [
+        "يكون مطفأً"
+      ]
+    },
+    "id": "aus-sein"
+  },
+  {
+    "dictionaryId": "seite",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Seite",
+    "plural": "Seiten",
+    "translation": {
+      "ru": [
+        "страница",
+        "сторона"
+      ],
+      "en": [
+        "page",
+        "side"
+      ],
+      "ar": [
+        "صفحة",
+        "جانب"
+      ]
+    },
+    "id": "seite"
+  },
+  {
+    "dictionaryId": "umsonst",
+    "type": "other",
+    "word": "umsonst",
+    "translation": {
+      "ru": [
+        "бесплатно"
+      ],
+      "en": [
+        "free of charge"
+      ],
+      "ar": [
+        "مجانًا"
+      ]
+    },
+    "id": "umsonst"
+  },
+  {
+    "dictionaryId": "entwickeln",
+    "type": "verb",
+    "infinitive": "sich entwickeln",
+    "praeteritum": "entwickelte sich",
+    "perfekt": "hat sich entwickelt",
+    "translation": {
+      "ru": [
+        "развиваться"
+      ],
+      "en": [
+        "to develop"
+      ],
+      "ar": [
+        "يتطور"
+      ]
+    },
+    "id": "entwickeln"
+  },
+  {
+    "dictionaryId": "leiten",
+    "type": "verb",
+    "infinitive": "leiten",
+    "praeteritum": "leitete",
+    "perfekt": "hat geleitet",
+    "translation": {
+      "ru": [
+        "руководить"
+      ],
+      "en": [
+        "to lead",
+        "to manage"
+      ],
+      "ar": [
+        "يدير",
+        "يقود"
+      ]
+    },
+    "id": "leiten"
+  },
+  {
+    "dictionaryId": "standpunkt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Standpunkt",
+    "plural": "Standpunkte",
+    "translation": {
+      "ru": [
+        "точка зрения"
+      ],
+      "en": [
+        "point of view"
+      ],
+      "ar": [
+        "وجهة نظر"
+      ]
+    },
+    "id": "standpunkt"
+  },
+  {
+    "dictionaryId": "ändern",
+    "type": "verb",
+    "infinitive": "sich ändern",
+    "praeteritum": "änderte sich",
+    "perfekt": "hat sich geändert",
+    "translation": {
+      "ru": [
+        "изменяться"
+      ],
+      "en": [
+        "to change"
+      ],
+      "ar": [
+        "يتغير"
+      ]
+    },
+    "id": "ändern"
+  },
+  {
+    "dictionaryId": "unterrichten",
+    "type": "verb",
+    "infinitive": "unterrichten",
+    "praeteritum": "unterrichtete",
+    "perfekt": "hat unterrichtet",
+    "translation": {
+      "ru": [
+        "преподавать"
+      ],
+      "en": [
+        "to teach"
+      ],
+      "ar": [
+        "يدرّس"
+      ]
+    },
+    "id": "unterrichten"
+  },
+  {
+    "dictionaryId": "fortschritt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Fortschritt",
+    "plural": "Fortschritte",
+    "translation": {
+      "ru": [
+        "прогресс"
+      ],
+      "en": [
+        "progress"
+      ],
+      "ar": [
+        "تقدم"
+      ]
+    },
+    "id": "fortschritt"
+  },
+  {
+    "dictionaryId": "e-book",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "E-Book",
+    "plural": "E-Books",
+    "translation": {
+      "ru": [
+        "электронная книга"
+      ],
+      "en": [
+        "e-book"
+      ],
+      "ar": [
+        "كتاب إلكتروني"
+      ]
+    },
+    "id": "e-book"
+  },
+  {
+    "dictionaryId": "passwort",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Passwort",
+    "plural": "Passwörter",
+    "translation": {
+      "ru": [
+        "пароль"
+      ],
+      "en": [
+        "password"
+      ],
+      "ar": [
+        "كلمة مرور"
+      ]
+    },
+    "id": "passwort"
+  },
+  {
+    "dictionaryId": "klicken",
+    "type": "verb",
+    "infinitive": "klicken",
+    "praeteritum": "klickte",
+    "perfekt": "hat geklickt",
+    "translation": {
+      "ru": [
+        "кликать"
+      ],
+      "en": [
+        "to click"
+      ],
+      "ar": [
+        "ينقر"
+      ]
+    },
+    "id": "klicken"
+  },
+  {
+    "dictionaryId": "voraussetzung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Voraussetzung",
+    "plural": "Voraussetzungen",
+    "translation": {
+      "ru": [
+        "предпосылка",
+        "условие"
+      ],
+      "en": [
+        "requirement",
+        "condition"
+      ],
+      "ar": [
+        "شرط"
+      ]
+    },
+    "id": "voraussetzung"
+  },
+  {
+    "dictionaryId": "gratis",
+    "type": "other",
+    "word": "gratis",
+    "translation": {
+      "ru": [
+        "бесплатно"
+      ],
+      "en": [
+        "free of charge"
+      ],
+      "ar": [
+        "مجانًا"
+      ]
+    },
+    "id": "gratis"
+  },
+  {
+    "dictionaryId": "fahrzeug",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Fahrzeug",
+    "plural": "Fahrzeuge",
+    "translation": {
+      "ru": [
+        "транспортное средство"
+      ],
+      "en": [
+        "vehicle"
+      ],
+      "ar": [
+        "مركبة"
+      ]
+    },
+    "id": "fahrzeug"
+  },
+  {
+    "dictionaryId": "entstehen",
+    "type": "verb",
+    "infinitive": "entstehen",
+    "praeteritum": "entstand",
+    "perfekt": "ist entstanden",
+    "translation": {
+      "ru": [
+        "возникать"
+      ],
+      "en": [
+        "to arise",
+        "to develop"
+      ],
+      "ar": [
+        "ينشأ"
+      ]
+    },
+    "id": "entstehen"
+  },
+  {
+    "dictionaryId": "parkhaus",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Parkhaus",
+    "plural": "Parkhäuser",
+    "translation": {
+      "ru": [
+        "крытая парковка"
+      ],
+      "en": [
+        "parking garage"
+      ],
+      "ar": [
+        "مرآب سيارات"
+      ]
+    },
+    "id": "parkhaus"
+  },
+  {
+    "dictionaryId": "beleg",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Beleg",
+    "plural": "Belege",
+    "translation": {
+      "ru": [
+        "чек",
+        "квитанция"
+      ],
+      "en": [
+        "receipt"
+      ],
+      "ar": [
+        "إيصال"
+      ]
+    },
+    "id": "beleg"
+  },
+  {
+    "dictionaryId": "per",
+    "type": "other",
+    "word": "per",
+    "translation": {
+      "ru": [
+        "через",
+        "посредством"
+      ],
+      "en": [
+        "via",
+        "by"
+      ],
+      "ar": [
+        "عبر"
+      ]
+    },
+    "id": "per"
+  },
+  {
+    "dictionaryId": "gewinn",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Gewinn",
+    "plural": "Gewinne",
+    "translation": {
+      "ru": [
+        "прибыль",
+        "выигрыш"
+      ],
+      "en": [
+        "profit",
+        "gain"
+      ],
+      "ar": [
+        "ربح"
+      ]
+    },
+    "id": "gewinn"
+  },
+  {
+    "dictionaryId": "übernachtung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Übernachtung",
+    "plural": "Übernachtungen",
+    "translation": {
+      "ru": [
+        "ночёвка"
+      ],
+      "en": [
+        "overnight stay"
+      ],
+      "ar": [
+        "مبيت"
+      ]
+    },
+    "id": "übernachtung"
+  },
+  {
+    "dictionaryId": "wanderung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Wanderung",
+    "plural": "Wanderungen",
+    "translation": {
+      "ru": [
+        "поход",
+        "пешая прогулка"
+      ],
+      "en": [
+        "hike"
+      ],
+      "ar": [
+        "رحلة مشي"
+      ]
+    },
+    "id": "wanderung"
+  },
+  {
+    "dictionaryId": "erholung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Erholung",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "отдых"
+      ],
+      "en": [
+        "recreation",
+        "recovery"
+      ],
+      "ar": [
+        "راحة"
+      ]
+    },
+    "id": "erholung"
+  },
+  {
+    "dictionaryId": "verständlich",
+    "type": "other",
+    "word": "verständlich",
+    "translation": {
+      "ru": [
+        "понятный"
+      ],
+      "en": [
+        "understandable"
+      ],
+      "ar": [
+        "مفهوم"
+      ]
+    },
+    "id": "verständlich"
+  },
+  {
+    "dictionaryId": "geschwindigkeitsbeschränkung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Geschwindigkeitsbeschränkung",
+    "plural": "Geschwindigkeitsbeschränkungen",
+    "translation": {
+      "ru": [
+        "ограничение скорости"
+      ],
+      "en": [
+        "speed limit"
+      ],
+      "ar": [
+        "تحديد السرعة"
+      ]
+    },
+    "id": "geschwindigkeitsbeschränkung"
+  },
+  {
+    "dictionaryId": "einfahrt",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Einfahrt",
+    "plural": "Einfahrten",
+    "translation": {
+      "ru": [
+        "въезд"
+      ],
+      "en": [
+        "entrance",
+        "driveway"
+      ],
+      "ar": [
+        "مدخل",
+        "ممر سيارات"
+      ]
+    },
+    "id": "einfahrt"
+  },
+  {
+    "dictionaryId": "ansicht",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ansicht",
+    "plural": "Ansichten",
+    "translation": {
+      "ru": [
+        "мнение",
+        "вид"
+      ],
+      "en": [
+        "view",
+        "opinion"
+      ],
+      "ar": [
+        "رأي",
+        "منظر"
+      ]
+    },
+    "id": "ansicht"
+  },
+  {
+    "dictionaryId": "anbieter",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Anbieter",
+    "plural": "Anbieter",
+    "translation": {
+      "ru": [
+        "поставщик",
+        "провайдер"
+      ],
+      "en": [
+        "provider",
+        "supplier"
+      ],
+      "ar": [
+        "مزود"
+      ]
+    },
+    "id": "anbieter"
+  }
+]

@@ -1,0 +1,1545 @@
+[
+  {
+    "dictionaryId": "zeugnis",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Zeugnis",
+    "plural": "Zeugnisse",
+    "translation": {
+      "ru": [
+        "аттестат",
+        "табель",
+        "свидетельство"
+      ],
+      "en": [
+        "report card",
+        "certificate"
+      ],
+      "ar": [
+        "شهادة",
+        "كشف درجات"
+      ]
+    },
+    "id": "zeugnis"
+  },
+  {
+    "dictionaryId": "fach",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Fach",
+    "plural": "Fächer",
+    "translation": {
+      "ru": [
+        "предмет",
+        "дисциплина"
+      ],
+      "en": [
+        "subject"
+      ],
+      "ar": [
+        "مادة دراسية"
+      ]
+    },
+    "id": "fach"
+  },
+  {
+    "dictionaryId": "note",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Note",
+    "plural": "Noten",
+    "translation": {
+      "ru": [
+        "оценка"
+      ],
+      "en": [
+        "grade",
+        "mark"
+      ],
+      "ar": [
+        "علامة",
+        "درجة"
+      ]
+    },
+    "id": "note"
+  },
+  {
+    "dictionaryId": "gymnasium",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Gymnasium",
+    "plural": "Gymnasien",
+    "translation": {
+      "ru": [
+        "гимназия"
+      ],
+      "en": [
+        "grammar school",
+        "high school"
+      ],
+      "ar": [
+        "ثانوية"
+      ]
+    },
+    "id": "gymnasium"
+  },
+  {
+    "dictionaryId": "referat",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Referat",
+    "plural": "Referate",
+    "translation": {
+      "ru": [
+        "доклад",
+        "реферат"
+      ],
+      "en": [
+        "presentation",
+        "report"
+      ],
+      "ar": [
+        "عرض",
+        "تقرير"
+      ]
+    },
+    "id": "referat"
+  },
+  {
+    "dictionaryId": "abitur",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Abitur",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "абитур",
+        "экзамен на аттестат зрелости"
+      ],
+      "en": [
+        "Abitur",
+        "school-leaving exam"
+      ],
+      "ar": [
+        "امتحان الثانوية العامة"
+      ]
+    },
+    "id": "abitur"
+  },
+  {
+    "dictionaryId": "abschluss",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Abschluss",
+    "plural": "Abschlüsse",
+    "translation": {
+      "ru": [
+        "окончание",
+        "диплом",
+        "квалификация"
+      ],
+      "en": [
+        "graduation",
+        "qualification",
+        "degree"
+      ],
+      "ar": [
+        "تخرج",
+        "مؤهل"
+      ]
+    },
+    "id": "abschluss"
+  },
+  {
+    "dictionaryId": "prüfung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Prüfung",
+    "plural": "Prüfungen",
+    "translation": {
+      "ru": [
+        "экзамен",
+        "проверка"
+      ],
+      "en": [
+        "exam",
+        "test"
+      ],
+      "ar": [
+        "امتحان"
+      ]
+    },
+    "id": "prüfung"
+  },
+  {
+    "dictionaryId": "faul",
+    "type": "other",
+    "word": "faul",
+    "translation": {
+      "ru": [
+        "ленивый"
+      ],
+      "en": [
+        "lazy"
+      ],
+      "ar": [
+        "كسول"
+      ]
+    },
+    "id": "faul"
+  },
+  {
+    "dictionaryId": "schrecklich",
+    "type": "other",
+    "word": "schrecklich",
+    "translation": {
+      "ru": [
+        "ужасный"
+      ],
+      "en": [
+        "terrible",
+        "awful"
+      ],
+      "ar": [
+        "فظيع"
+      ]
+    },
+    "id": "schrecklich"
+  },
+  {
+    "dictionaryId": "fleißig",
+    "type": "other",
+    "word": "fleißig",
+    "translation": {
+      "ru": [
+        "прилежный",
+        "трудолюбивый"
+      ],
+      "en": [
+        "hard-working",
+        "diligent"
+      ],
+      "ar": [
+        "مجتهد"
+      ]
+    },
+    "id": "fleissig"
+  },
+  {
+    "dictionaryId": "intelligent",
+    "type": "other",
+    "word": "intelligent",
+    "translation": {
+      "ru": [
+        "умный",
+        "интеллектуальный"
+      ],
+      "en": [
+        "intelligent"
+      ],
+      "ar": [
+        "ذكي"
+      ]
+    },
+    "id": "intelligent"
+  },
+  {
+    "dictionaryId": "streiten",
+    "type": "verb",
+    "infinitive": "sich streiten",
+    "praeteritum": "stritt sich",
+    "perfekt": "hat sich gestritten",
+    "translation": {
+      "ru": [
+        "ссориться",
+        "спорить"
+      ],
+      "en": [
+        "to argue",
+        "to quarrel"
+      ],
+      "ar": [
+        "يتشاجر",
+        "يتجادل"
+      ]
+    },
+    "id": "streiten"
+  },
+  {
+    "dictionaryId": "dass",
+    "type": "other",
+    "word": "dass",
+    "translation": {
+      "ru": [
+        "что"
+      ],
+      "en": [
+        "that"
+      ],
+      "ar": [
+        "أن"
+      ]
+    },
+    "id": "dass"
+  },
+  {
+    "dictionaryId": "verbessern",
+    "type": "verb",
+    "infinitive": "sich verbessern",
+    "praeteritum": "verbesserte sich",
+    "perfekt": "hat sich verbessert",
+    "translation": {
+      "ru": [
+        "улучшаться"
+      ],
+      "en": [
+        "to improve"
+      ],
+      "ar": [
+        "يتحسن"
+      ]
+    },
+    "id": "verbessern"
+  },
+  {
+    "dictionaryId": "verhalten",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Verhalten",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "поведение"
+      ],
+      "en": [
+        "behavior"
+      ],
+      "ar": [
+        "سلوك"
+      ]
+    },
+    "id": "verhalten"
+  },
+  {
+    "dictionaryId": "streng",
+    "type": "other",
+    "word": "streng",
+    "translation": {
+      "ru": [
+        "строгий"
+      ],
+      "en": [
+        "strict"
+      ],
+      "ar": [
+        "صارم"
+      ]
+    },
+    "id": "streng"
+  },
+  {
+    "dictionaryId": "wunsch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Wunsch",
+    "plural": "Wünsche",
+    "translation": {
+      "ru": [
+        "желание"
+      ],
+      "en": [
+        "wish"
+      ],
+      "ar": [
+        "رغبة",
+        "أمنية"
+      ]
+    },
+    "id": "wunsch"
+  },
+  {
+    "dictionaryId": "plan",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Plan",
+    "plural": "Pläne",
+    "translation": {
+      "ru": [
+        "план"
+      ],
+      "en": [
+        "plan"
+      ],
+      "ar": [
+        "خطة"
+      ]
+    },
+    "id": "plan"
+  },
+  {
+    "dictionaryId": "astronaut",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Astronaut",
+    "plural": "Astronauten",
+    "translation": {
+      "ru": [
+        "астронавт"
+      ],
+      "en": [
+        "astronaut"
+      ],
+      "ar": [
+        "رائد فضاء"
+      ]
+    },
+    "id": "astronaut"
+  },
+  {
+    "dictionaryId": "astronautin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Astronautin",
+    "plural": "Astronautinnen",
+    "translation": {
+      "ru": [
+        "женщина-астронавт"
+      ],
+      "en": [
+        "female astronaut"
+      ],
+      "ar": [
+        "رائدة فضاء"
+      ]
+    },
+    "id": "astronautin"
+  },
+  {
+    "dictionaryId": "vorhin",
+    "type": "other",
+    "word": "vorhin",
+    "translation": {
+      "ru": [
+        "только что",
+        "ранее"
+      ],
+      "en": [
+        "earlier",
+        "just before"
+      ],
+      "ar": [
+        "قبل قليل"
+      ]
+    },
+    "id": "vorhin"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "mittler-",
+    "translation": {
+      "ru": [
+        "средний"
+      ],
+      "en": [
+        "middle",
+        "medium"
+      ],
+      "ar": [
+        "متوسط"
+      ]
+    },
+    "id": "mittler"
+  },
+  {
+    "dictionaryId": "aktivität",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Aktivität",
+    "plural": "Aktivitäten",
+    "translation": {
+      "ru": [
+        "активность",
+        "деятельность"
+      ],
+      "en": [
+        "activity"
+      ],
+      "ar": [
+        "نشاط"
+      ]
+    },
+    "id": "aktivität"
+  },
+  {
+    "dictionaryId": "gesamtschule",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Gesamtschule",
+    "plural": "Gesamtschulen",
+    "translation": {
+      "ru": [
+        "общеобразовательная школа"
+      ],
+      "en": [
+        "comprehensive school"
+      ],
+      "ar": [
+        "مدرسة شاملة"
+      ]
+    },
+    "id": "gesamtschule"
+  },
+  {
+    "dictionaryId": "realschule",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Realschule",
+    "plural": "Realschulen",
+    "translation": {
+      "ru": [
+        "реальная школа"
+      ],
+      "en": [
+        "secondary modern school"
+      ],
+      "ar": [
+        "مدرسة متوسطة"
+      ]
+    },
+    "id": "realschule"
+  },
+  {
+    "dictionaryId": "hauptschule",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Hauptschule",
+    "plural": "Hauptschulen",
+    "translation": {
+      "ru": [
+        "основная школа"
+      ],
+      "en": [
+        "secondary school"
+      ],
+      "ar": [
+        "مدرسة أساسية"
+      ]
+    },
+    "id": "hauptschule"
+  },
+  {
+    "dictionaryId": "mittelschule",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mittelschule",
+    "plural": "Mittelschulen",
+    "translation": {
+      "ru": [
+        "средняя школа"
+      ],
+      "en": [
+        "middle school"
+      ],
+      "ar": [
+        "مدرسة متوسطة"
+      ]
+    },
+    "id": "mittelschule"
+  },
+  {
+    "dictionaryId": "berufsschule",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Berufsschule",
+    "plural": "Berufsschulen",
+    "translation": {
+      "ru": [
+        "профессиональная школа"
+      ],
+      "en": [
+        "vocational school"
+      ],
+      "ar": [
+        "مدرسة مهنية"
+      ]
+    },
+    "id": "berufsschule"
+  },
+  {
+    "dictionaryId": "freiwillig",
+    "type": "other",
+    "word": "freiwillig",
+    "translation": {
+      "ru": [
+        "добровольный"
+      ],
+      "en": [
+        "voluntary"
+      ],
+      "ar": [
+        "طوعي"
+      ]
+    },
+    "id": "freiwillig"
+  },
+  {
+    "dictionaryId": "krippe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Krippe",
+    "plural": "Krippen",
+    "translation": {
+      "ru": [
+        "ясли"
+      ],
+      "en": [
+        "nursery",
+        "creche"
+      ],
+      "ar": [
+        "حضانة"
+      ]
+    },
+    "id": "krippe"
+  },
+  {
+    "dictionaryId": "physik",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Physik",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "физика"
+      ],
+      "en": [
+        "physics"
+      ],
+      "ar": [
+        "فيزياء"
+      ]
+    },
+    "id": "physik"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sozialkunde",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "обществознание"
+      ],
+      "en": [
+        "social studies"
+      ],
+      "ar": [
+        "دراسات اجتماعية"
+      ]
+    },
+    "id": "sozialkunde"
+  },
+  {
+    "dictionaryId": "biologie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Biologie",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "биология"
+      ],
+      "en": [
+        "biology"
+      ],
+      "ar": [
+        "أحياء"
+      ]
+    },
+    "id": "biologie"
+  },
+  {
+    "dictionaryId": "chemie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Chemie",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "химия"
+      ],
+      "en": [
+        "chemistry"
+      ],
+      "ar": [
+        "كيمياء"
+      ]
+    },
+    "id": "chemie"
+  },
+  {
+    "dictionaryId": "geografie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Geografie",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "география"
+      ],
+      "en": [
+        "geography"
+      ],
+      "ar": [
+        "جغرافيا"
+      ]
+    },
+    "id": "geografie"
+  },
+  {
+    "dictionaryId": "kunst",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kunst",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "искусство"
+      ],
+      "en": [
+        "art"
+      ],
+      "ar": [
+        "فن"
+      ]
+    },
+    "id": "kunst"
+  },
+  {
+    "dictionaryId": "geschichte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Geschichte",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "история"
+      ],
+      "en": [
+        "history"
+      ],
+      "ar": [
+        "تاريخ"
+      ]
+    },
+    "id": "geschichte"
+  },
+  {
+    "dictionaryId": "hassen",
+    "type": "verb",
+    "infinitive": "hassen",
+    "praeteritum": "hasste",
+    "perfekt": "hat gehasst",
+    "translation": {
+      "ru": [
+        "ненавидеть"
+      ],
+      "en": [
+        "to hate"
+      ],
+      "ar": [
+        "يكره"
+      ]
+    },
+    "id": "hassen"
+  },
+  {
+    "dictionaryId": "frühjahr",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Frühjahr",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "весна"
+      ],
+      "en": [
+        "spring"
+      ],
+      "ar": [
+        "الربيع"
+      ]
+    },
+    "id": "frühjahr"
+  },
+  {
+    "dictionaryId": "beginn",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Beginn",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "начало"
+      ],
+      "en": [
+        "beginning"
+      ],
+      "ar": [
+        "بداية"
+      ]
+    },
+    "id": "beginn"
+  },
+  {
+    "dictionaryId": "theorie",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Theorie",
+    "plural": "Theorien",
+    "translation": {
+      "ru": [
+        "теория"
+      ],
+      "en": [
+        "theory"
+      ],
+      "ar": [
+        "نظرية"
+      ]
+    },
+    "id": "theorie"
+  },
+  {
+    "dictionaryId": "einführung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Einführung",
+    "plural": "Einführungen",
+    "translation": {
+      "ru": [
+        "введение"
+      ],
+      "en": [
+        "introduction"
+      ],
+      "ar": [
+        "مقدمة"
+      ]
+    },
+    "id": "einführung"
+  },
+  {
+    "dictionaryId": "speichern",
+    "type": "verb",
+    "infinitive": "speichern",
+    "praeteritum": "speicherte",
+    "perfekt": "hat gespeichert",
+    "translation": {
+      "ru": [
+        "сохранять"
+      ],
+      "en": [
+        "to save",
+        "to store"
+      ],
+      "ar": [
+        "يحفظ"
+      ]
+    },
+    "id": "speichern"
+  },
+  {
+    "dictionaryId": "migrant",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Migrant",
+    "plural": "Migranten",
+    "translation": {
+      "ru": [
+        "мигрант"
+      ],
+      "en": [
+        "migrant"
+      ],
+      "ar": [
+        "مهاجر"
+      ]
+    },
+    "id": "migrant"
+  },
+  {
+    "dictionaryId": "migrantin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Migrantin",
+    "plural": "Migrantinnen",
+    "translation": {
+      "ru": [
+        "мигрантка"
+      ],
+      "en": [
+        "female migrant"
+      ],
+      "ar": [
+        "مهاجرة"
+      ]
+    },
+    "id": "migrantin"
+  },
+  {
+    "dictionaryId": "sozial",
+    "type": "other",
+    "word": "sozial",
+    "translation": {
+      "ru": [
+        "социальный"
+      ],
+      "en": [
+        "social"
+      ],
+      "ar": [
+        "اجتماعي"
+      ]
+    },
+    "id": "sozial"
+  },
+  {
+    "dictionaryId": "vortrag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Vortrag",
+    "plural": "Vorträge",
+    "translation": {
+      "ru": [
+        "доклад",
+        "лекция"
+      ],
+      "en": [
+        "lecture",
+        "presentation"
+      ],
+      "ar": [
+        "محاضرة",
+        "عرض"
+      ]
+    },
+    "id": "vortrag"
+  },
+  {
+    "dictionaryId": "bewerben",
+    "type": "verb",
+    "infinitive": "sich bewerben",
+    "praeteritum": "bewarb sich",
+    "perfekt": "hat sich beworben",
+    "translation": {
+      "ru": [
+        "подавать заявку",
+        "откликаться"
+      ],
+      "en": [
+        "to apply"
+      ],
+      "ar": [
+        "يتقدم بطلب"
+      ]
+    },
+    "id": "bewerben"
+  },
+  {
+    "dictionaryId": "präsentieren",
+    "type": "verb",
+    "infinitive": "präsentieren",
+    "praeteritum": "präsentierte",
+    "perfekt": "hat präsentiert",
+    "translation": {
+      "ru": [
+        "презентовать",
+        "представлять"
+      ],
+      "en": [
+        "to present"
+      ],
+      "ar": [
+        "يقدم",
+        "يعرض"
+      ]
+    },
+    "id": "präsentieren"
+  },
+  {
+    "dictionaryId": "experte",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Experte",
+    "plural": "Experten",
+    "translation": {
+      "ru": [
+        "эксперт"
+      ],
+      "en": [
+        "expert"
+      ],
+      "ar": [
+        "خبير"
+      ]
+    },
+    "id": "experte"
+  },
+  {
+    "dictionaryId": "expertin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Expertin",
+    "plural": "Expertinnen",
+    "translation": {
+      "ru": [
+        "экспертка"
+      ],
+      "en": [
+        "female expert"
+      ],
+      "ar": [
+        "خبيرة"
+      ]
+    },
+    "id": "expertin"
+  },
+  {
+    "dictionaryId": "vorbereitung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Vorbereitung",
+    "plural": "Vorbereitungen",
+    "translation": {
+      "ru": [
+        "подготовка"
+      ],
+      "en": [
+        "preparation"
+      ],
+      "ar": [
+        "تحضير"
+      ]
+    },
+    "id": "vorbereitung"
+  },
+  {
+    "dictionaryId": "zertifikat",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Zertifikat",
+    "plural": "Zertifikate",
+    "translation": {
+      "ru": [
+        "сертификат"
+      ],
+      "en": [
+        "certificate"
+      ],
+      "ar": [
+        "شهادة"
+      ]
+    },
+    "id": "zertifikat"
+  },
+  {
+    "dictionaryId": "förderung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Förderung",
+    "plural": "Förderungen",
+    "translation": {
+      "ru": [
+        "поддержка",
+        "содействие"
+      ],
+      "en": [
+        "support",
+        "promotion"
+      ],
+      "ar": [
+        "دعم"
+      ]
+    },
+    "id": "förderung"
+  },
+  {
+    "dictionaryId": "möglich",
+    "type": "other",
+    "word": "möglich",
+    "translation": {
+      "ru": [
+        "возможный"
+      ],
+      "en": [
+        "possible"
+      ],
+      "ar": [
+        "ممكن"
+      ]
+    },
+    "id": "möglich"
+  },
+  {
+    "dictionaryId": "beratung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Beratung",
+    "plural": "Beratungen",
+    "translation": {
+      "ru": [
+        "консультация"
+      ],
+      "en": [
+        "consultation",
+        "advice"
+      ],
+      "ar": [
+        "استشارة"
+      ]
+    },
+    "id": "beratung"
+  },
+  {
+    "dictionaryId": "verletzen",
+    "type": "verb",
+    "infinitive": "sich verletzen",
+    "praeteritum": "verletzte sich",
+    "perfekt": "hat sich verletzt",
+    "translation": {
+      "ru": [
+        "пораниться",
+        "травмироваться"
+      ],
+      "en": [
+        "to injure oneself"
+      ],
+      "ar": [
+        "يجرح نفسه"
+      ]
+    },
+    "id": "verletzen"
+  },
+  {
+    "dictionaryId": "bluten",
+    "type": "verb",
+    "infinitive": "bluten",
+    "praeteritum": "blutete",
+    "perfekt": "hat geblutet",
+    "translation": {
+      "ru": [
+        "кровоточить"
+      ],
+      "en": [
+        "to bleed"
+      ],
+      "ar": [
+        "ينزف"
+      ]
+    },
+    "id": "bluten"
+  },
+  {
+    "dictionaryId": "studium",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Studium",
+    "plural": "Studien",
+    "translation": {
+      "ru": [
+        "учёба в вузе",
+        "обучение"
+      ],
+      "en": [
+        "studies",
+        "degree program"
+      ],
+      "ar": [
+        "دراسة جامعية"
+      ]
+    },
+    "id": "studium"
+  },
+  {
+    "dictionaryId": "tagesablauf",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tagesablauf",
+    "plural": "Tagesabläufe",
+    "translation": {
+      "ru": [
+        "распорядок дня"
+      ],
+      "en": [
+        "daily routine"
+      ],
+      "ar": [
+        "الروتين اليومي"
+      ]
+    },
+    "id": "tagesablauf"
+  },
+  {
+    "dictionaryId": "bestehen",
+    "type": "verb",
+    "infinitive": "bestehen",
+    "praeteritum": "bestand",
+    "perfekt": "hat bestanden",
+    "translation": {
+      "ru": [
+        "сдавать (экзамен)",
+        "существовать"
+      ],
+      "en": [
+        "to pass",
+        "to exist"
+      ],
+      "ar": [
+        "ينجح",
+        "يوجد"
+      ]
+    },
+    "id": "bestehen"
+  },
+  {
+    "dictionaryId": "migrationshintergrund",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Migrationshintergrund",
+    "plural": "Migrationshintergründe",
+    "translation": {
+      "ru": [
+        "миграционное происхождение"
+      ],
+      "en": [
+        "migration background"
+      ],
+      "ar": [
+        "خلفية مهاجرة"
+      ]
+    },
+    "id": "migrationshintergrund"
+  },
+  {
+    "dictionaryId": "stolz",
+    "type": "other",
+    "word": "stolz",
+    "translation": {
+      "ru": [
+        "гордый"
+      ],
+      "en": [
+        "proud"
+      ],
+      "ar": [
+        "فخور"
+      ]
+    },
+    "id": "stolz"
+  },
+  {
+    "dictionaryId": "elektrisch",
+    "type": "other",
+    "word": "elektrisch",
+    "translation": {
+      "ru": [
+        "электрический"
+      ],
+      "en": [
+        "electrical",
+        "electric"
+      ],
+      "ar": [
+        "كهربائي"
+      ]
+    },
+    "id": "elektrisch"
+  },
+  {
+    "dictionaryId": "technik",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Technik",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "техника",
+        "технология"
+      ],
+      "en": [
+        "technology",
+        "technique"
+      ],
+      "ar": [
+        "تقنية"
+      ]
+    },
+    "id": "technik"
+  },
+  {
+    "dictionaryId": "kontakt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kontakt",
+    "plural": "Kontakte",
+    "translation": {
+      "ru": [
+        "контакт"
+      ],
+      "en": [
+        "contact"
+      ],
+      "ar": [
+        "اتصال"
+      ]
+    },
+    "id": "kontakt"
+  },
+  {
+    "dictionaryId": "anerkennen",
+    "type": "verb",
+    "infinitive": "anerkennen",
+    "praeteritum": "erkannte an",
+    "perfekt": "hat anerkannt",
+    "translation": {
+      "ru": [
+        "признавать"
+      ],
+      "en": [
+        "to recognize",
+        "to acknowledge"
+      ],
+      "ar": [
+        "يعترف",
+        "يقر"
+      ]
+    },
+    "id": "anerkennen"
+  },
+  {
+    "dictionaryId": "prüfen",
+    "type": "verb",
+    "infinitive": "prüfen",
+    "praeteritum": "prüfte",
+    "perfekt": "hat geprüft",
+    "translation": {
+      "ru": [
+        "проверять"
+      ],
+      "en": [
+        "to check",
+        "to examine"
+      ],
+      "ar": [
+        "يفحص"
+      ]
+    },
+    "id": "prüfen"
+  },
+  {
+    "dictionaryId": "kompliziert",
+    "type": "other",
+    "word": "kompliziert",
+    "translation": {
+      "ru": [
+        "сложный"
+      ],
+      "en": [
+        "complicated"
+      ],
+      "ar": [
+        "معقد"
+      ]
+    },
+    "id": "kompliziert"
+  },
+  {
+    "dictionaryId": "bäcker",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bäcker",
+    "plural": "Bäcker",
+    "translation": {
+      "ru": [
+        "пекарь"
+      ],
+      "en": [
+        "baker"
+      ],
+      "ar": [
+        "خباز"
+      ]
+    },
+    "id": "bäcker"
+  },
+  {
+    "dictionaryId": "bäckerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bäckerin",
+    "plural": "Bäckerinnen",
+    "translation": {
+      "ru": [
+        "пекарша"
+      ],
+      "en": [
+        "female baker"
+      ],
+      "ar": [
+        "خبازة"
+      ]
+    },
+    "id": "bäckerin"
+  },
+  {
+    "dictionaryId": "schauspieler",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Schauspieler",
+    "plural": "Schauspieler",
+    "translation": {
+      "ru": [
+        "актёр"
+      ],
+      "en": [
+        "actor"
+      ],
+      "ar": [
+        "ممثل"
+      ]
+    },
+    "id": "schauspieler"
+  },
+  {
+    "dictionaryId": "schauspielerin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schauspielerin",
+    "plural": "Schauspielerinnen",
+    "translation": {
+      "ru": [
+        "актриса"
+      ],
+      "en": [
+        "actress"
+      ],
+      "ar": [
+        "ممثلة"
+      ]
+    },
+    "id": "schauspielerin"
+  }
+]

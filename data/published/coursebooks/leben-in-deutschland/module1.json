@@ -1,0 +1,2426 @@
+[
+  {
+    "dictionaryId": "abkürzung",
+    "type": "noun",
+    "word": "Abkürzung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "сокращение, аббревиатура",
+        "сокращение пути, более короткий путь"
+      ],
+      "en": [
+        "abbreviation",
+        "shortcut"
+      ]
+    },
+    "id": "abkürzung"
+  },
+  {
+    "dictionaryId": "abstimmung",
+    "type": "noun",
+    "word": "Abstimmung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "голосование, баллотировка",
+        "настройка",
+        "согласование"
+      ],
+      "en": [
+        "vote",
+        "co-ordination, synchronising, agreement"
+      ]
+    },
+    "id": "abstimmung"
+  },
+  {
+    "dictionaryId": "afd",
+    "type": "noun",
+    "word": "AfD",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "AfD: initialism of Alternative für Deutschland (“right-wing German political party”, literally “Alternative for Germany”)"
+      ]
+    },
+    "id": "afd"
+  },
+  {
+    "dictionaryId": "ampelkoalition",
+    "type": "noun",
+    "word": "Ampelkoalition",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "полит. трёхпартийная коалиция (СДПГ, СвДП, Зелёные)"
+      ],
+      "en": [
+        "A coalition consisting of the Social Democratic Party, Free Democratic Party, and the Greens."
+      ]
+    },
+    "id": "ampelkoalition"
+  },
+  {
+    "dictionaryId": "amtsgericht",
+    "type": "noun",
+    "word": "Amtsgericht",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "юр. участковый суд, суд низшей инстанции (в Германии); суд первой инстанции"
+      ],
+      "en": [
+        "local / district court"
+      ]
+    },
+    "id": "amtsgericht"
+  },
+  {
+    "dictionaryId": "angestellt",
+    "type": "other",
+    "word": "angestellt",
+    "translation": {
+      "en": [
+        "employed, hired"
+      ]
+    },
+    "id": "angestellt"
+  },
+  {
+    "dictionaryId": "arbeitsunfähig",
+    "type": "other",
+    "word": "arbeitsunfähig",
+    "translation": {
+      "ru": [
+        "неработоспособный, нетрудоспособный"
+      ],
+      "en": [
+        "unfit for work",
+        "unable to work"
+      ]
+    },
+    "id": "arbeitsunfähig"
+  },
+  {
+    "dictionaryId": "arbeitszeit",
+    "type": "noun",
+    "word": "Arbeitszeit",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "рабочее время"
+      ],
+      "en": [
+        "working hours (the time of duty at a workplace, the time spend working)"
+      ]
+    },
+    "id": "arbeitszeit"
+  },
+  {
+    "dictionaryId": "aufgabe",
+    "type": "noun",
+    "word": "Aufgabe",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "задача; задание; урок",
+        "сдача, отправление (письма, багажа); подача; загрузка, засыпка; питание",
+        "отказ; отречение; капитуляция, сдача"
+      ],
+      "en": [
+        "task, job",
+        "corresponding to other senses of the verb aufgeben"
+      ]
+    },
+    "id": "aufgabe"
+  },
+  {
+    "dictionaryId": "aufhängen",
+    "type": "verb",
+    "infinitive": "aufhängen",
+    "translation": {
+      "ru": [
+        "вешать; подвешивать; развешивать",
+        "вешать, предавать смертной казни через повешение",
+        "(j-m) разг. навязывать, всучивать (кому-л. плохой товар); сваливать, взваливать (на кого-л. трудную работу)"
+      ],
+      "en": [
+        "to hang, to suspend",
+        "to hang up (the telephone)",
+        "to hang (someone)"
+      ]
+    },
+    "id": "aufhängen"
+  },
+  {
+    "dictionaryId": "aufruf",
+    "type": "noun",
+    "word": "Aufruf",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "восклицание",
+        "перекличка; сбор",
+        "воззвание, призыв, обращение"
+      ],
+      "en": [
+        "call to action",
+        "roll call",
+        "call"
+      ]
+    },
+    "id": "aufruf"
+  },
+  {
+    "dictionaryId": "auslegung",
+    "type": "noun",
+    "word": "Auslegung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "выкладывание; инкрустирование; выстилание; настилка",
+        "настил; (внутренняя) обшивка",
+        "раскладывание, выкладывание"
+      ],
+      "en": [
+        "interpretation",
+        "exegesis"
+      ]
+    },
+    "id": "auslegung"
+  },
+  {
+    "dictionaryId": "außenpolitik",
+    "type": "noun",
+    "word": "Außenpolitik",
+    "translation": {
+      "ru": [
+        "внешняя политика"
+      ],
+      "en": [
+        "foreign policy, foreign affairs"
+      ]
+    },
+    "id": "aussenpolitik"
+  },
+  {
+    "dictionaryId": "auswirkung",
+    "type": "noun",
+    "word": "Auswirkung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "воздействие, влияние"
+      ],
+      "en": [
+        "implication, effect, consequence, ramification, repercussion"
+      ]
+    },
+    "id": "auswirkung"
+  },
+  {
+    "dictionaryId": "auszählung",
+    "type": "noun",
+    "word": "Auszählung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "платёж, выплата; выдача (денег и т. п.)",
+        "расчёт (с рабочими), выдача (выплата) заработной платы",
+        "денежный перевод (международный)"
+      ],
+      "en": [
+        "count (especially of votes)"
+      ]
+    },
+    "id": "auszählung"
+  },
+  {
+    "dictionaryId": "benachrichtigung",
+    "type": "noun",
+    "word": "Benachrichtigung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "сообщение, оповещение, предупреждение"
+      ],
+      "en": [
+        "notification"
+      ]
+    },
+    "id": "benachrichtigung"
+  },
+  {
+    "dictionaryId": "besondere",
+    "type": "other",
+    "word": "besondere",
+    "translation": {
+      "en": [
+        "special, particular, extraordinary"
+      ]
+    },
+    "id": "besondere"
+  },
+  {
+    "dictionaryId": "bestehend",
+    "type": "other",
+    "word": "bestehend",
+    "translation": {
+      "ru": [
+        "существующий"
+      ],
+      "en": [
+        "existing, established"
+      ]
+    },
+    "id": "bestehend"
+  },
+  {
+    "dictionaryId": "bezeichnen",
+    "type": "verb",
+    "infinitive": "bezeichnen",
+    "translation": {
+      "ru": [
+        "заполнять рисунками, разрисовывать",
+        "помечать, отмечать, намечать, обозначать; указывать",
+        "обозначать; называть"
+      ],
+      "en": [
+        "to name (give a name to), to call, to designate, to denote",
+        "to identify with, to indicate, to describe as",
+        "to describe oneself, to identify"
+      ]
+    },
+    "id": "bezeichnen"
+  },
+  {
+    "dictionaryId": "bezirksamt",
+    "type": "noun",
+    "word": "Bezirksamt",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "en": [
+        "the administrative authority of a Bezirk (district or borough)"
+      ]
+    },
+    "id": "bezirksamt"
+  },
+  {
+    "dictionaryId": "bezug",
+    "type": "noun",
+    "word": "Bezug",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "обивка (мебели)",
+        "покрышка",
+        "чехол"
+      ],
+      "en": [
+        "reference",
+        "cover (e.g. of a cushion or couch)",
+        "salary (of a civil servant)"
+      ]
+    },
+    "id": "bezug"
+  },
+  {
+    "dictionaryId": "bon",
+    "type": "noun",
+    "word": "Bon",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "voucher"
+      ]
+    },
+    "id": "bon"
+  },
+  {
+    "dictionaryId": "botschafter",
+    "type": "noun",
+    "word": "Botschafter",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "посол"
+      ],
+      "en": [
+        "ambassador, emissary, head of mission; messenger (male or of unspecified gender)"
+      ]
+    },
+    "id": "botschafter"
+  },
+  {
+    "dictionaryId": "bundesgerichtshof",
+    "type": "noun",
+    "word": "Bundesgerichtshof",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "федеральная судебная палата; верховный суд"
+      ],
+      "en": [
+        "federal court"
+      ]
+    },
+    "id": "bundesgerichtshof"
+  },
+  {
+    "dictionaryId": "bundeskanzler",
+    "type": "noun",
+    "word": "Bundeskanzler",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "полит. федеральный канцлер (ФРГ)"
+      ],
+      "en": [
+        "federal chancellor (male or of unspecified gender) (head of the German or Austrian federal government)"
+      ]
+    },
+    "id": "bundeskanzler"
+  },
+  {
+    "dictionaryId": "bundeskanzleramt",
+    "type": "noun",
+    "word": "Bundeskanzleramt",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "en": [
+        "chancellery, especially:"
+      ]
+    },
+    "id": "bundeskanzleramt"
+  },
+  {
+    "dictionaryId": "bundeskanzlerin",
+    "type": "noun",
+    "word": "Bundeskanzlerin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "федеральный канцлер (о женщине – в ФРГ)"
+      ],
+      "en": [
+        "federal chancellor (female head of the German or Austrian federal government)"
+      ]
+    },
+    "id": "bundeskanzlerin"
+  },
+  {
+    "dictionaryId": "bundesminister",
+    "type": "noun",
+    "word": "Bundesminister",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "федеральный министр (ФРГ, Австрия)"
+      ],
+      "en": [
+        "federal minister"
+      ]
+    },
+    "id": "bundesminister"
+  },
+  {
+    "dictionaryId": "bundesministerin",
+    "type": "noun",
+    "word": "Bundesministerin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "федеральный министр (о женщине – в ФРГ, Австрии)"
+      ]
+    },
+    "id": "bundesministerin"
+  },
+  {
+    "dictionaryId": "bundespräsident",
+    "type": "noun",
+    "word": "Bundespräsident",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "федеральный президент (главная представительная должность в Германии и Австрии)"
+      ],
+      "en": [
+        "president (especially of the Federal Republic of Germany)"
+      ]
+    },
+    "id": "bundespräsident"
+  },
+  {
+    "dictionaryId": "bundespräsidentin",
+    "type": "noun",
+    "word": "Bundespräsidentin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "федеральный президент (для лиц женского пола)"
+      ]
+    },
+    "id": "bundespräsidentin"
+  },
+  {
+    "dictionaryId": "bundesrat",
+    "type": "noun",
+    "word": "Bundesrat",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "бундесрат; федеральный совет (представительство земель; ФРГ, Австрия)",
+        "федеральный совет (правительство) Швейцарской Конфедерации",
+        "член федерального совета (Австрия)"
+      ],
+      "en": [
+        "a federal council, especially: the federal council of the Federal Republic of Germany, of Austria, of Switzerland, or of the German Empire"
+      ]
+    },
+    "id": "bundesrat"
+  },
+  {
+    "dictionaryId": "bundesregierung",
+    "type": "noun",
+    "word": "Bundesregierung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "федеральное правительство (ФРГ, Австрия)"
+      ],
+      "en": [
+        "federal government"
+      ]
+    },
+    "id": "bundesregierung"
+  },
+  {
+    "dictionaryId": "bundestag",
+    "type": "noun",
+    "word": "Bundestag",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "бундестаг (верхняя палата парламента ФРГ)",
+        "истор. бундестаг (высший орган Германского союза)"
+      ],
+      "en": [
+        "Bundestag; federal/state parliament"
+      ]
+    },
+    "id": "bundestag"
+  },
+  {
+    "dictionaryId": "bundestagswahl",
+    "type": "noun",
+    "word": "Bundestagswahl",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "выборы в бундестаг"
+      ],
+      "en": [
+        "federal election"
+      ]
+    },
+    "id": "bundestagswahl"
+  },
+  {
+    "dictionaryId": "bundeswehr",
+    "type": "noun",
+    "word": "Bundeswehr",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "бундесвер"
+      ],
+      "en": [
+        "The national army of the Federal Republic of Germany."
+      ]
+    },
+    "id": "bundeswehr"
+  },
+  {
+    "dictionaryId": "bündnis",
+    "type": "noun",
+    "word": "Bündnis",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "союз"
+      ],
+      "en": [
+        "alliance, confederation"
+      ]
+    },
+    "id": "bündnis"
+  },
+  {
+    "dictionaryId": "bürgerin",
+    "type": "noun",
+    "word": "Bürgerin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "female citizen"
+      ]
+    },
+    "id": "bürgerin"
+  },
+  {
+    "dictionaryId": "bürgerinitiative",
+    "type": "noun",
+    "word": "Bürgerinitiative",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "гражданская инициатива (инициативный комитет в защиту интересов граждан, в капиталистических странах)"
+      ],
+      "en": [
+        "citizen action group"
+      ]
+    },
+    "id": "bürgerinitiative"
+  },
+  {
+    "dictionaryId": "christlich",
+    "type": "other",
+    "word": "christlich",
+    "translation": {
+      "ru": [
+        "христианский"
+      ],
+      "en": [
+        "Christian",
+        "fair, acceptable, not too harsh or unusual"
+      ]
+    },
+    "id": "christlich"
+  },
+  {
+    "dictionaryId": "club",
+    "type": "noun",
+    "word": "Club",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "club (association of members)",
+        "club (nightclub, discotheque)"
+      ]
+    },
+    "id": "club"
+  },
+  {
+    "dictionaryId": "demokratisch",
+    "type": "other",
+    "word": "demokratisch",
+    "translation": {
+      "ru": [
+        "демократический",
+        "демократичный"
+      ],
+      "en": [
+        "democratic"
+      ]
+    },
+    "id": "demokratisch"
+  },
+  {
+    "dictionaryId": "demonstrativ",
+    "type": "other",
+    "word": "demonstrativ",
+    "translation": {
+      "ru": [
+        "демонстративный, нарочитый",
+        "демонстративный (основанный на показе)",
+        "указательный (о местоимении)"
+      ],
+      "en": [
+        "demonstrative"
+      ]
+    },
+    "id": "demonstrativ"
+  },
+  {
+    "dictionaryId": "desto",
+    "type": "other",
+    "word": "desto",
+    "translation": {
+      "ru": [
+        "тем"
+      ],
+      "en": [
+        "the (forming the parallel comparative with je)",
+        "used instead of je in the je ... desto construction"
+      ]
+    },
+    "id": "desto"
+  },
+  {
+    "dictionaryId": "ehren",
+    "type": "verb",
+    "infinitive": "ehren",
+    "translation": {
+      "ru": [
+        "уважать, почитать"
+      ],
+      "en": [
+        "to honor"
+      ]
+    },
+    "id": "ehren"
+  },
+  {
+    "dictionaryId": "einhaltung",
+    "type": "noun",
+    "word": "Einhaltung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "соблюдение (условия, срока и т. п.)"
+      ],
+      "en": [
+        "adherence, compliance (with a law, etc.)"
+      ]
+    },
+    "id": "einhaltung"
+  },
+  {
+    "dictionaryId": "einmal",
+    "type": "other",
+    "word": "einmal",
+    "translation": {
+      "ru": [
+        "один раз, один",
+        "иногда"
+      ],
+      "en": [
+        "once, one time (one and only one time)",
+        "once (formerly; during some period in the past)",
+        "sometime (at an indefinite but stated time in the past or future)"
+      ]
+    },
+    "id": "einmal"
+  },
+  {
+    "dictionaryId": "einverständnis",
+    "type": "noun",
+    "word": "Einverständnis",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "согласие; соглашение"
+      ],
+      "en": [
+        "agreement, consent"
+      ]
+    },
+    "id": "einverständnis"
+  },
+  {
+    "dictionaryId": "ende",
+    "type": "noun",
+    "word": "Ende",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "конец; исход; окончание",
+        "край; конец",
+        "высок. смерть, кончина"
+      ],
+      "en": [
+        "end, finish",
+        "conclusion"
+      ]
+    },
+    "id": "ende"
+  },
+  {
+    "dictionaryId": "entwerfen",
+    "type": "verb",
+    "infinitive": "entwerfen",
+    "translation": {
+      "ru": [
+        "разрабатывать, проектировать"
+      ],
+      "en": [
+        "to sketch, to draft",
+        "to devise, design"
+      ]
+    },
+    "id": "entwerfen"
+  },
+  {
+    "dictionaryId": "erbracht",
+    "type": "other",
+    "word": "erbracht",
+    "translation": {
+      "en": [
+        "rendered, performed"
+      ]
+    },
+    "id": "erbracht"
+  },
+  {
+    "dictionaryId": "erhalt",
+    "type": "noun",
+    "word": "Erhalt",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "получение"
+      ],
+      "en": [
+        "receipt, reception, acceptance",
+        "preservation"
+      ]
+    },
+    "id": "erhalt"
+  },
+  {
+    "dictionaryId": "erlauben",
+    "type": "verb",
+    "infinitive": "erlauben",
+    "translation": {
+      "ru": [
+        "позволять"
+      ],
+      "en": [
+        "to allow; to permit"
+      ]
+    },
+    "id": "erlauben"
+  },
+  {
+    "dictionaryId": "erledigen",
+    "type": "verb",
+    "infinitive": "erledigen",
+    "translation": {
+      "ru": [
+        "доделать, закончить; улаживать; покончить, разделаться (с чем-л.)"
+      ],
+      "en": [
+        "to free, to liberate, to release",
+        "to finish, to finalize, to complete, to see to, to handle with the result of completed work",
+        "to cut off the influence of, to lower in status"
+      ]
+    },
+    "id": "erledigen"
+  },
+  {
+    "dictionaryId": "ermöglichen",
+    "type": "verb",
+    "infinitive": "ermöglichen",
+    "translation": {
+      "ru": [
+        "(с)делать возможным (что-л.)",
+        "способствовать, содействовать (чему-л.)"
+      ],
+      "en": [
+        "to make possible"
+      ]
+    },
+    "id": "ermöglichen"
+  },
+  {
+    "dictionaryId": "erschweren",
+    "type": "verb",
+    "infinitive": "erschweren",
+    "translation": {
+      "ru": [
+        "затруднять, отягощать"
+      ],
+      "en": [
+        "to complicate, to make more difficult (due to the circumstances)"
+      ]
+    },
+    "id": "erschweren"
+  },
+  {
+    "dictionaryId": "erststimme",
+    "type": "noun",
+    "word": "Erststimme",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "first vote, candidate vote (in the German electoral system, the vote cast for a specific local candidate in a constituency)"
+      ]
+    },
+    "id": "erststimme"
+  },
+  {
+    "dictionaryId": "freiheitsstrafe",
+    "type": "noun",
+    "word": "Freiheitsstrafe",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "наказание, связанное с лишением свободы"
+      ],
+      "en": [
+        "prison sentence, imprisonment"
+      ]
+    },
+    "id": "freiheitsstrafe"
+  },
+  {
+    "dictionaryId": "funktion",
+    "type": "noun",
+    "word": "Funktion",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "функция, предназначение, роль",
+        "матем. функция"
+      ],
+      "en": [
+        "role",
+        "feature (beneficial capability of a piece of software)",
+        "subroutine"
+      ]
+    },
+    "id": "funktion"
+  },
+  {
+    "dictionaryId": "führend",
+    "type": "other",
+    "word": "führend",
+    "translation": {
+      "ru": [
+        "руководящий, ведущий; главный"
+      ],
+      "en": [
+        "leading, foremost"
+      ]
+    },
+    "id": "führend"
+  },
+  {
+    "dictionaryId": "gar",
+    "type": "other",
+    "word": "gar",
+    "translation": {
+      "ru": [
+        "совершенно, совсем",
+        "южно-нем., австр., швейц. очень, совсем",
+        "возможно даже, уж не"
+      ],
+      "en": [
+        "cooked, done (of food such as meat or vegetables: ready for consumption)",
+        "refined",
+        "at all; even"
+      ]
+    },
+    "id": "gar"
+  },
+  {
+    "dictionaryId": "geheim",
+    "type": "other",
+    "word": "geheim",
+    "translation": {
+      "ru": [
+        "тайный, секретный; затаённый"
+      ],
+      "en": [
+        "secret, clandestine",
+        "familiar, dear",
+        "homely, cozy"
+      ]
+    },
+    "id": "geheim"
+  },
+  {
+    "dictionaryId": "geistig",
+    "type": "other",
+    "word": "geistig",
+    "translation": {
+      "ru": [
+        "духовный"
+      ],
+      "en": [
+        "mental",
+        "intellectual",
+        "spiritual"
+      ]
+    },
+    "id": "geistig"
+  },
+  {
+    "dictionaryId": "gemeinsamkeit",
+    "type": "noun",
+    "word": "Gemeinsamkeit",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "общность",
+        "сходство, совпадение"
+      ],
+      "en": [
+        "common ground",
+        "commonality, commonness, similarity, thing in common, common feature, shared characteristic"
+      ]
+    },
+    "id": "gemeinsamkeit"
+  },
+  {
+    "dictionaryId": "gesetzlich",
+    "type": "other",
+    "word": "gesetzlich",
+    "translation": {
+      "ru": [
+        "законный; легальный"
+      ],
+      "en": [
+        "lawful, legal, legitimate"
+      ]
+    },
+    "id": "gesetzlich"
+  },
+  {
+    "dictionaryId": "gewinnen",
+    "type": "verb",
+    "infinitive": "gewinnen",
+    "translation": {
+      "ru": [
+        "(von D) выигрывать (у кого-л.)",
+        "добывать (полезные ископаемые)",
+        "получать, приобретать (выгоду, влияние и т. п.)"
+      ],
+      "en": [
+        "to win; to be victorious",
+        "to win something; to gain",
+        "to win over; to persuade"
+      ]
+    },
+    "id": "gewinnen"
+  },
+  {
+    "dictionaryId": "grüne",
+    "type": "noun",
+    "word": "Grüne",
+    "article": [
+      "das",
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "воен. воен. зелёный, новобранец",
+        "разг. устар. полицейский",
+        "зелёный цвет, зелёная окраска"
+      ],
+      "en": [
+        "greenness"
+      ]
+    },
+    "id": "grüne"
+  },
+  {
+    "dictionaryId": "gästehaus",
+    "type": "noun",
+    "word": "Gästehaus",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "резиденция (гостиница для) официальных гостей (напр., участников съезда)"
+      ],
+      "en": [
+        "guesthouse"
+      ]
+    },
+    "id": "gästehaus"
+  },
+  {
+    "dictionaryId": "handeln",
+    "type": "verb",
+    "infinitive": "handeln",
+    "translation": {
+      "ru": [
+        "действовать, поступать",
+        "(mit D) торговать (чем-л.), вести (торговые) дела",
+        "(um A) вести переговоры, договариваться (о чём-л.); торговаться (о чём-л.)"
+      ],
+      "en": [
+        "to act; to take action",
+        "to negotiate; to bargain; to haggle",
+        "to trade in; to deal; to sell"
+      ]
+    },
+    "id": "handeln"
+  },
+  {
+    "dictionaryId": "handlung",
+    "type": "noun",
+    "word": "Handlung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "сюжет",
+        "дело, деяние",
+        "действие, акт"
+      ],
+      "en": [
+        "plot (e.g. of a play)",
+        "deed (result of an act)",
+        "action, act"
+      ]
+    },
+    "id": "handlung"
+  },
+  {
+    "dictionaryId": "hauptaufgabe",
+    "type": "noun",
+    "word": "Hauptaufgabe",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "основное задание; главная (основная) задача"
+      ],
+      "en": [
+        "main task"
+      ]
+    },
+    "id": "hauptaufgabe"
+  },
+  {
+    "dictionaryId": "held",
+    "type": "noun",
+    "word": "Held",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "герой",
+        "герой (главное действующее лицо)"
+      ],
+      "en": [
+        "hero",
+        "protagonist"
+      ]
+    },
+    "id": "held"
+  },
+  {
+    "dictionaryId": "holocaust",
+    "type": "noun",
+    "word": "Holocaust",
+    "article": [
+      "der",
+      "das"
+    ],
+    "translation": {
+      "en": [
+        "the Holocaust",
+        "a holocaust"
+      ]
+    },
+    "id": "holocaust"
+  },
+  {
+    "dictionaryId": "hürde",
+    "type": "noun",
+    "word": "Hürde",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "(камышовый) плетень",
+        "загон (для скота)",
+        "спорт. барьер"
+      ],
+      "en": [
+        "hurdle"
+      ]
+    },
+    "id": "hürde"
+  },
+  {
+    "dictionaryId": "israeli",
+    "type": "noun",
+    "word": "Israeli",
+    "article": [
+      "der",
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "израильтянин"
+      ],
+      "en": [
+        "Israeli (native or inhabitant of Israel; male or unspecified sex)"
+      ]
+    },
+    "id": "israeli"
+  },
+  {
+    "dictionaryId": "israelisch",
+    "type": "other",
+    "word": "israelisch",
+    "translation": {
+      "ru": [
+        "израильский"
+      ],
+      "en": [
+        "of Israel; Israeli"
+      ]
+    },
+    "id": "israelisch"
+  },
+  {
+    "dictionaryId": "kanzlerin",
+    "type": "noun",
+    "word": "Kanzlerin",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "канцлер (о женщине)"
+      ],
+      "en": [
+        "chancellor (female)"
+      ]
+    },
+    "id": "kanzlerin"
+  },
+  {
+    "dictionaryId": "kanzlerkandidat",
+    "type": "noun",
+    "word": "Kanzlerkandidat",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "кандидат на пост канцлера"
+      ]
+    },
+    "id": "kanzlerkandidat"
+  },
+  {
+    "dictionaryId": "karte",
+    "type": "noun",
+    "word": "Karte",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "карта (географическая)",
+        "карта (игральная)",
+        "открытка"
+      ],
+      "en": [
+        "card (flat, normally rectangular piece of stiff paper, plastic etc.)",
+        "coordinate chart"
+      ]
+    },
+    "id": "karte"
+  },
+  {
+    "dictionaryId": "kulturell",
+    "type": "other",
+    "word": "kulturell",
+    "translation": {
+      "ru": [
+        "культурный"
+      ],
+      "en": [
+        "cultural"
+      ]
+    },
+    "id": "kulturell"
+  },
+  {
+    "dictionaryId": "kürzung",
+    "type": "noun",
+    "word": "Kürzung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "сокращение; уменьшение"
+      ],
+      "en": [
+        "reduction",
+        "shortening",
+        "cutback"
+      ]
+    },
+    "id": "kürzung"
+  },
+  {
+    "dictionaryId": "langen",
+    "type": "verb",
+    "infinitive": "langen",
+    "translation": {
+      "ru": [
+        "удлинять, надставлять, наращивать (для удлинения)"
+      ],
+      "en": [
+        "to reach, to grab",
+        "to take, to grab",
+        "to pass, to hand something to someone"
+      ]
+    },
+    "id": "langen"
+  },
+  {
+    "dictionaryId": "last",
+    "type": "noun",
+    "word": "Last",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "груз, тяжесть, бремя"
+      ],
+      "en": [
+        "load, burden"
+      ]
+    },
+    "id": "last"
+  },
+  {
+    "dictionaryId": "lebensversicherung",
+    "type": "noun",
+    "word": "Lebensversicherung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "страхование жизни"
+      ],
+      "en": [
+        "life insurance, life assurance"
+      ]
+    },
+    "id": "lebensversicherung"
+  },
+  {
+    "dictionaryId": "leistung",
+    "type": "noun",
+    "word": "Leistung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "выполненная работа",
+        "достижение",
+        "производительность, продуктивность, мощность"
+      ],
+      "en": [
+        "performance, accomplishment, achievement",
+        "service",
+        "contractual performance"
+      ]
+    },
+    "id": "leistung"
+  },
+  {
+    "dictionaryId": "linke",
+    "type": "noun",
+    "word": "Linke",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "left hand",
+        "left (the left side)",
+        "left wing"
+      ]
+    },
+    "id": "linke"
+  },
+  {
+    "dictionaryId": "mehrheit",
+    "type": "noun",
+    "word": "Mehrheit",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "большинство"
+      ],
+      "en": [
+        "majority; bulk",
+        "majority (specified as absolute Mehrheit)",
+        "plurality (specified as relative Mehrheit)"
+      ]
+    },
+    "id": "mehrheit"
+  },
+  {
+    "dictionaryId": "mehrheitlich",
+    "type": "other",
+    "word": "mehrheitlich",
+    "translation": {
+      "ru": [
+        "принятый большинством голосов"
+      ],
+      "en": [
+        "majority",
+        "predominantly",
+        "preponderantly"
+      ]
+    },
+    "id": "mehrheitlich"
+  },
+  {
+    "dictionaryId": "mir",
+    "type": "other",
+    "word": "mir",
+    "translation": {
+      "ru": [
+        "мне"
+      ]
+    },
+    "id": "mir"
+  },
+  {
+    "dictionaryId": "oberlandesgericht",
+    "type": "noun",
+    "word": "Oberlandesgericht",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "апелляционная инстанция окружных судов, верховный суд земли"
+      ],
+      "en": [
+        "regional appeal court"
+      ]
+    },
+    "id": "oberlandesgericht"
+  },
+  {
+    "dictionaryId": "offen",
+    "type": "other",
+    "word": "offen",
+    "translation": {
+      "ru": [
+        "открытый, раскрытый, отверстый",
+        "открытый, незащищённый; неограждённый",
+        "открытый; декольтированный, с большим вырезом"
+      ],
+      "en": [
+        "open",
+        "frank, candid",
+        "honest, sincere"
+      ]
+    },
+    "id": "offen"
+  },
+  {
+    "dictionaryId": "opposition",
+    "type": "noun",
+    "word": "Opposition",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "оппозиция"
+      ],
+      "en": [
+        "the opposition, political opposition; opposition party",
+        "a group opposed (to something or someone)",
+        "opposition (the position of a planet in relation to the sun in positional astronomy)"
+      ]
+    },
+    "id": "opposition"
+  },
+  {
+    "dictionaryId": "orientierung",
+    "type": "noun",
+    "word": "Orientierung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "ориентирование; ориентировка, ориентация"
+      ],
+      "en": [
+        "orientation"
+      ]
+    },
+    "id": "orientierung"
+  },
+  {
+    "dictionaryId": "parlament",
+    "type": "noun",
+    "word": "Parlament",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "парламент"
+      ],
+      "en": [
+        "parliament",
+        "legislative building"
+      ]
+    },
+    "id": "parlament"
+  },
+  {
+    "dictionaryId": "parlamentarisch",
+    "type": "other",
+    "word": "parlamentarisch",
+    "translation": {
+      "ru": [
+        "парламентский"
+      ],
+      "en": [
+        "parliamentary"
+      ]
+    },
+    "id": "parlamentarisch"
+  },
+  {
+    "dictionaryId": "partei",
+    "type": "noun",
+    "word": "Partei",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "партия",
+        "сторона (в процессе, договоре, соревновании и т. п.)",
+        "съёмщик, жилец, квартирант"
+      ],
+      "en": [
+        "political party",
+        "party (person, company, or institution) participating in a legal action or contract",
+        "A party in a given one-party system, especially"
+      ]
+    },
+    "id": "partei"
+  },
+  {
+    "dictionaryId": "parteimitglied",
+    "type": "noun",
+    "word": "Parteimitglied",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "член партии"
+      ],
+      "en": [
+        "party member"
+      ]
+    },
+    "id": "parteimitglied"
+  },
+  {
+    "dictionaryId": "politik",
+    "type": "noun",
+    "word": "Politik",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "политика"
+      ],
+      "en": [
+        "politics",
+        "policy"
+      ]
+    },
+    "id": "politik"
+  },
+  {
+    "dictionaryId": "regieren",
+    "type": "verb",
+    "infinitive": "regieren",
+    "translation": {
+      "ru": [
+        "царствовать"
+      ],
+      "en": [
+        "to govern"
+      ]
+    },
+    "id": "regieren"
+  },
+  {
+    "dictionaryId": "regierungsbildung",
+    "type": "noun",
+    "word": "Regierungsbildung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "образование (сформирование) правительства"
+      ],
+      "en": [
+        "government formation, the formation of a government"
+      ]
+    },
+    "id": "regierungsbildung"
+  },
+  {
+    "dictionaryId": "regierungsvertreter",
+    "type": "noun",
+    "word": "Regierungsvertreter",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "представитель правительства"
+      ],
+      "en": [
+        "government official, government representative"
+      ]
+    },
+    "id": "regierungsvertreter"
+  },
+  {
+    "dictionaryId": "regierungswechsel",
+    "type": "noun",
+    "word": "Regierungswechsel",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "смена правительства"
+      ]
+    },
+    "id": "regierungswechsel"
+  },
+  {
+    "dictionaryId": "religiös",
+    "type": "other",
+    "word": "religiös",
+    "translation": {
+      "ru": [
+        "религиозный (относящийся к религии)",
+        "религиозный, набожный"
+      ],
+      "en": [
+        "religious (concerning religion)",
+        "religious (committed to the practice of religion)"
+      ]
+    },
+    "id": "religiös"
+  },
+  {
+    "dictionaryId": "rentenversicherung",
+    "type": "noun",
+    "word": "Rentenversicherung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "пенсионное страхование"
+      ],
+      "en": [
+        "pension / annuity insurance"
+      ]
+    },
+    "id": "rentenversicherung"
+  },
+  {
+    "dictionaryId": "repräsentieren",
+    "type": "verb",
+    "infinitive": "repräsentieren",
+    "translation": {
+      "ru": [
+        "представлять (какую-л. страну, организацию и т. п.)",
+        "представлять собой (что-л.); быть выражением (чего-л.)",
+        "представительствовать; стремиться подчеркнуть высокое положение (поведением, внешним видом)"
+      ],
+      "en": [
+        "to represent (to stand in the place of)"
+      ]
+    },
+    "id": "repräsentieren"
+  },
+  {
+    "dictionaryId": "richtlinie",
+    "type": "noun",
+    "word": "Richtlinie",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "директива",
+        "(временные) учебные программы"
+      ],
+      "en": [
+        "directive",
+        "guideline",
+        "policy"
+      ]
+    },
+    "id": "richtlinie"
+  },
+  {
+    "dictionaryId": "schulabschluss",
+    "type": "noun",
+    "word": "Schulabschluss",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "окончание школы"
+      ],
+      "en": [
+        "graduation (action or process of graduating and receiving a diploma for completing a course of study from an educational institution)"
+      ]
+    },
+    "id": "schulabschluss"
+  },
+  {
+    "dictionaryId": "schulpflicht",
+    "type": "noun",
+    "word": "Schulpflicht",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "школьная обязанность"
+      ],
+      "en": [
+        "compulsory education"
+      ]
+    },
+    "id": "schulpflicht"
+  },
+  {
+    "dictionaryId": "sichern",
+    "type": "verb",
+    "infinitive": "sichern",
+    "translation": {
+      "ru": [
+        "обеспечивать, гарантировать",
+        "(gegen A, vor D) охранять; предохранять, защищать (от кого-л., от чего-л.)"
+      ],
+      "en": [
+        "to secure",
+        "to guarantee",
+        "to assure"
+      ]
+    },
+    "id": "sichern"
+  },
+  {
+    "dictionaryId": "sitzung",
+    "type": "noun",
+    "word": "Sitzung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "заседание",
+        "сеанс (у художника)"
+      ],
+      "en": [
+        "meeting",
+        "session",
+        "assembly"
+      ]
+    },
+    "id": "sitzung"
+  },
+  {
+    "dictionaryId": "sozialdemokratisch",
+    "type": "other",
+    "word": "sozialdemokratisch",
+    "translation": {
+      "ru": [
+        "социал-демократический"
+      ],
+      "en": [
+        "social democratic"
+      ]
+    },
+    "id": "sozialdemokratisch"
+  },
+  {
+    "dictionaryId": "sozialhilfe",
+    "type": "noun",
+    "word": "Sozialhilfe",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "социальное пособие"
+      ],
+      "en": [
+        "income support, minimal social assistance"
+      ]
+    },
+    "id": "sozialhilfe"
+  },
+  {
+    "dictionaryId": "sozialpolitisch",
+    "type": "other",
+    "word": "sozialpolitisch",
+    "translation": {
+      "ru": [
+        "социально-политический"
+      ],
+      "en": [
+        "sociopolitical"
+      ]
+    },
+    "id": "sozialpolitisch"
+  },
+  {
+    "dictionaryId": "sozialversicherung",
+    "type": "noun",
+    "word": "Sozialversicherung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "(сокр. SV) социальное страхование"
+      ],
+      "en": [
+        "social insurance, social security"
+      ]
+    },
+    "id": "sozialversicherung"
+  },
+  {
+    "dictionaryId": "spat",
+    "type": "noun",
+    "word": "Spat",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "en": [
+        "spar",
+        "parallelepiped",
+        "spavin (horse disease caused by an ulcer in the leg)"
+      ]
+    },
+    "id": "spat"
+  },
+  {
+    "dictionaryId": "staatsoberhaupt",
+    "type": "noun",
+    "word": "Staatsoberhaupt",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "глава государства"
+      ],
+      "en": [
+        "head of state"
+      ]
+    },
+    "id": "staatsoberhaupt"
+  },
+  {
+    "dictionaryId": "straftäter",
+    "type": "noun",
+    "word": "Straftäter",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "(уголовный) преступник"
+      ],
+      "en": [
+        "criminal offender"
+      ]
+    },
+    "id": "straftäter"
+  },
+  {
+    "dictionaryId": "stufe",
+    "type": "noun",
+    "word": "Stufe",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "ступенька",
+        "ступень, этап"
+      ],
+      "en": [
+        "step, tread (of a stair or ladder)",
+        "degree, stage, level, rank, phase",
+        "an aggregation of standalone and well-crystallized mineral"
+      ]
+    },
+    "id": "stufe"
+  },
+  {
+    "dictionaryId": "umweltschutz",
+    "type": "noun",
+    "word": "Umweltschutz",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "защита окружающей среды; охрана окружающей среды"
+      ],
+      "en": [
+        "environmentalism, protection of the environment, environmental protection",
+        "conservation"
+      ]
+    },
+    "id": "umweltschutz"
+  },
+  {
+    "dictionaryId": "unterliegen",
+    "type": "verb",
+    "infinitive": "unterliegen",
+    "translation": {
+      "ru": [
+        "находиться под чем-л., лежать в самом низу; служить основанием чему-л.",
+        "понести поражение; быть побеждённым (кем-л.); уступать (кому-л.); быть слабее (кого-л.)",
+        "находиться в (чьём-л.) ведении, быть подведомственным (кому-л.)"
+      ],
+      "en": [
+        "to be defeated [with dative ‘by’]",
+        "to be subject to, to be influenced [with dative ‘by’]",
+        "to lie beneath"
+      ]
+    },
+    "id": "unterliegen"
+  },
+  {
+    "dictionaryId": "unternehmer",
+    "type": "noun",
+    "word": "Unternehmer",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "предприниматель, бизнесмен"
+      ],
+      "en": [
+        "entrepreneur",
+        "trader, any natural or legal person who is acting, including through any other person acting in that natural or legal person's name or on that person's behalf, for purposes relating to his trade, business, craft or profession",
+        "the redemptor in a locatio conductio operis"
+      ]
+    },
+    "id": "unternehmer"
+  },
+  {
+    "dictionaryId": "verband",
+    "type": "noun",
+    "word": "Verband",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "повязка, бинт; перевязка",
+        "связь, соединение, крепление",
+        "союз, общество"
+      ],
+      "en": [
+        "bandage",
+        "association, union (kind of organization)",
+        "unit"
+      ]
+    },
+    "id": "verband"
+  },
+  {
+    "dictionaryId": "vereinigung",
+    "type": "noun",
+    "word": "Vereinigung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "соединение; (объ)единение",
+        "союз, объединение, корпорация",
+        "слияние (рек; тж. перен.)"
+      ],
+      "en": [
+        "unification (act of unifying), joining",
+        "trade union",
+        "unity"
+      ]
+    },
+    "id": "vereinigung"
+  },
+  {
+    "dictionaryId": "vernichtung",
+    "type": "noun",
+    "word": "Vernichtung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "уничтожение, истребление; разрушение"
+      ],
+      "en": [
+        "destruction (the act of destroying)",
+        "annihilation, extinction (the act of annihilating or state of dying out)"
+      ]
+    },
+    "id": "vernichtung"
+  },
+  {
+    "dictionaryId": "verteidigungspolitik",
+    "type": "noun",
+    "word": "Verteidigungspolitik",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "defense policy (the part of a state's overall policy that deals with national security and the military forces)"
+      ]
+    },
+    "id": "verteidigungspolitik"
+  },
+  {
+    "dictionaryId": "verurteilen",
+    "type": "verb",
+    "infinitive": "verurteilen",
+    "translation": {
+      "ru": [
+        "осуждать (тж. перен.); порицать",
+        "(zu D) присуждать (кого-л. к чему-л., кому-л. что-л.)"
+      ],
+      "en": [
+        "to convict, condemn, sentence",
+        "to condemn, strongly denounce",
+        "to judge, pass a moral judgment"
+      ]
+    },
+    "id": "verurteilen"
+  },
+  {
+    "dictionaryId": "verwaltungsgericht",
+    "type": "noun",
+    "word": "Verwaltungsgericht",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "административный суд"
+      ],
+      "en": [
+        "administrative court"
+      ]
+    },
+    "id": "verwaltungsgericht"
+  },
+  {
+    "dictionaryId": "wahl",
+    "type": "noun",
+    "word": "Wahl",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "выбор",
+        "вариант",
+        "выборы"
+      ],
+      "en": [
+        "choice, selection",
+        "election (process of choosing a leader or representatives)",
+        "quality level"
+      ]
+    },
+    "id": "wahl"
+  },
+  {
+    "dictionaryId": "wahlbenachrichtigung",
+    "type": "noun",
+    "word": "Wahlbenachrichtigung",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "избирательная повестка"
+      ]
+    },
+    "id": "wahlbenachrichtigung"
+  },
+  {
+    "dictionaryId": "wahlhelfer",
+    "type": "noun",
+    "word": "Wahlhelfer",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "агитатор на избирательном участке"
+      ]
+    },
+    "id": "wahlhelfer"
+  },
+  {
+    "dictionaryId": "wahlkabine",
+    "type": "noun",
+    "word": "Wahlkabine",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "кабина для тайного голосования (на избирательном участке)"
+      ]
+    },
+    "id": "wahlkabine"
+  },
+  {
+    "dictionaryId": "wahlkampagne",
+    "type": "noun",
+    "word": "Wahlkampagne",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "en": [
+        "election campaign"
+      ]
+    },
+    "id": "wahlkampagne"
+  },
+  {
+    "dictionaryId": "wahllokal",
+    "type": "noun",
+    "word": "Wahllokal",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "избирательный пункт, помещение, где происходят выборы"
+      ],
+      "en": [
+        "voting station (US), polling station (UK)"
+      ]
+    },
+    "id": "wahllokal"
+  },
+  {
+    "dictionaryId": "wahlrecht",
+    "type": "noun",
+    "word": "Wahlrecht",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "избирательное право (право избирать и быть избранным)"
+      ],
+      "en": [
+        "right to vote, suffrage",
+        "electoral law"
+      ]
+    },
+    "id": "wahlrecht"
+  },
+  {
+    "dictionaryId": "wahlsystem",
+    "type": "noun",
+    "word": "Wahlsystem",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "избирательная система (в стране)"
+      ]
+    },
+    "id": "wahlsystem"
+  },
+  {
+    "dictionaryId": "wechsel",
+    "type": "noun",
+    "word": "Wechsel",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "изменение, перемена",
+        "чередование, смена",
+        "размен (денег)"
+      ],
+      "en": [
+        "change",
+        "bill of exchange"
+      ]
+    },
+    "id": "wechsel"
+  },
+  {
+    "dictionaryId": "weiter",
+    "type": "other",
+    "word": "weiter",
+    "translation": {
+      "ru": [
+        "дальнейший; продолжающийся",
+        "дальше, далее",
+        "больше (никто, нигде и т. п.)"
+      ],
+      "en": [
+        "further, farther, more",
+        "on; expresses the continuation of an action",
+        "go on"
+      ]
+    },
+    "id": "weiter"
+  },
+  {
+    "dictionaryId": "wille",
+    "type": "noun",
+    "word": "Wille",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "воля"
+      ],
+      "en": [
+        "will"
+      ]
+    },
+    "id": "wille"
+  },
+  {
+    "dictionaryId": "wirken",
+    "type": "verb",
+    "infinitive": "wirken",
+    "translation": {
+      "ru": [
+        "действовать",
+        "действовать, воздействовать, влиять, оказывать влияние",
+        "работать"
+      ],
+      "en": [
+        "to function, to be effective, to work",
+        "to appear, to seem",
+        "to have an effect"
+      ]
+    },
+    "id": "wirken"
+  },
+  {
+    "dictionaryId": "wirtschaftspolitik",
+    "type": "noun",
+    "word": "Wirtschaftspolitik",
+    "article": [
+      "die"
+    ],
+    "translation": {
+      "ru": [
+        "экономическая политика"
+      ],
+      "en": [
+        "commercial / economic policy"
+      ]
+    },
+    "id": "wirtschaftspolitik"
+  },
+  {
+    "dictionaryId": "wohngeld",
+    "type": "noun",
+    "word": "Wohngeld",
+    "article": [
+      "das"
+    ],
+    "translation": {
+      "ru": [
+        "пособие на аренду жилья, дотация на аренду жилья"
+      ]
+    },
+    "id": "wohngeld"
+  },
+  {
+    "dictionaryId": "zwang",
+    "type": "noun",
+    "word": "Zwang",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "принуждение; насилие; давление, нажим",
+        "необходимость, обязательность, неизбежность, непреложность (чего-либо)",
+        "стеснение"
+      ],
+      "en": [
+        "compulsion, obligation, duress"
+      ]
+    },
+    "id": "zwang"
+  },
+  {
+    "dictionaryId": "zwingen",
+    "type": "verb",
+    "infinitive": "zwingen",
+    "translation": {
+      "ru": [
+        "вынуждать, вынудить, заставлять, заставить, принуждать, принудить"
+      ],
+      "en": [
+        "to force; to compel; to make (someone do something)"
+      ]
+    },
+    "id": "zwingen"
+  },
+  {
+    "dictionaryId": "ältestenrat",
+    "type": "noun",
+    "word": "Ältestenrat",
+    "article": [
+      "der"
+    ],
+    "translation": {
+      "ru": [
+        "совет старейшин"
+      ]
+    },
+    "id": "ältestenrat"
+  },
+  {
+    "dictionaryId": "überwachen",
+    "type": "verb",
+    "infinitive": "überwachen",
+    "translation": {
+      "ru": [
+        "следить, наблюдать (напр., за арестованным)",
+        "смотреть, присматривать (напр., за ребёнком)",
+        "наблюдать, вести наблюдение, контролировать, следить (за выполнением чего-л.)"
+      ],
+      "en": [
+        "to control, to monitor, to supervise",
+        "to keep under surveillance"
+      ]
+    },
+    "id": "überwachen"
+  }
+]

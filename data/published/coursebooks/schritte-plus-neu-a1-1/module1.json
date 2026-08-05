@@ -1,0 +1,1325 @@
+[
+  {
+    "dictionaryId": "ich",
+    "type": "other",
+    "word": "ich",
+    "translation": {
+      "ru": [
+        "я"
+      ],
+      "en": [
+        "I"
+      ],
+      "ar": [
+        "أنا"
+      ]
+    },
+    "id": "ich"
+  },
+  {
+    "dictionaryId": "heißen",
+    "type": "verb",
+    "infinitive": "heißen",
+    "praeteritum": "hieß",
+    "perfekt": "hat geheißen",
+    "translation": {
+      "ru": [
+        "называться",
+        "зваться"
+      ],
+      "en": [
+        "to be called",
+        "to mean"
+      ],
+      "ar": [
+        "يُدعى",
+        "يعني"
+      ]
+    },
+    "id": "heissen"
+  },
+  {
+    "dictionaryId": "name",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Name",
+    "plural": "Namen",
+    "translation": {
+      "ru": [
+        "имя",
+        "фамилия"
+      ],
+      "en": [
+        "name"
+      ],
+      "ar": [
+        "اسم"
+      ]
+    },
+    "id": "name"
+  },
+  {
+    "dictionaryId": "kommen",
+    "type": "verb",
+    "infinitive": "kommen",
+    "praeteritum": "kam",
+    "perfekt": "ist gekommen",
+    "translation": {
+      "ru": [
+        "приходить",
+        "приезжать"
+      ],
+      "en": [
+        "to come",
+        "to arrive"
+      ],
+      "ar": [
+        "يأتي",
+        "يصل"
+      ]
+    },
+    "id": "kommen"
+  },
+  {
+    "dictionaryId": "deutschland",
+    "type": "other",
+    "word": "Deutschland",
+    "translation": {
+      "ru": [
+        "Германия"
+      ],
+      "en": [
+        "Germany"
+      ],
+      "ar": [
+        "ألمانيا"
+      ]
+    },
+    "id": "deutschland"
+  },
+  {
+    "dictionaryId": "sprechen",
+    "type": "verb",
+    "infinitive": "sprechen",
+    "praeteritum": "sprach",
+    "perfekt": "hat gesprochen",
+    "translation": {
+      "ru": [
+        "говорить",
+        "разговаривать"
+      ],
+      "en": [
+        "to speak",
+        "to talk"
+      ],
+      "ar": [
+        "يتكلم",
+        "يتحدث"
+      ]
+    },
+    "id": "sprechen"
+  },
+  {
+    "dictionaryId": "deutsch",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Deutsch",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "немецкий язык"
+      ],
+      "en": [
+        "German language"
+      ],
+      "ar": [
+        "اللغة الألمانية"
+      ]
+    },
+    "id": "deutsch"
+  },
+  {
+    "dictionaryId": "und",
+    "type": "other",
+    "word": "und",
+    "translation": {
+      "ru": [
+        "и"
+      ],
+      "en": [
+        "and"
+      ],
+      "ar": [
+        "و"
+      ]
+    },
+    "id": "und"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "ein bisschen",
+    "translation": {
+      "ru": [
+        "немного",
+        "чуть-чуть"
+      ],
+      "en": [
+        "a little",
+        "a bit"
+      ],
+      "ar": [
+        "قليلًا"
+      ]
+    },
+    "id": "ein-bisschen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Guten Tag",
+    "translation": {
+      "ru": [
+        "добрый день"
+      ],
+      "en": [
+        "good day",
+        "hello"
+      ],
+      "ar": [
+        "نهارك سعيد",
+        "مرحبًا"
+      ]
+    },
+    "id": "guten-tag"
+  },
+  {
+    "dictionaryId": "hallo",
+    "type": "other",
+    "word": "hallo",
+    "translation": {
+      "ru": [
+        "привет"
+      ],
+      "en": [
+        "hello",
+        "hi"
+      ],
+      "ar": [
+        "مرحبًا",
+        "أهلًا"
+      ]
+    },
+    "id": "hallo"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Auf Wiedersehen",
+    "translation": {
+      "ru": [
+        "до свидания"
+      ],
+      "en": [
+        "goodbye"
+      ],
+      "ar": [
+        "إلى اللقاء"
+      ]
+    },
+    "id": "auf-wiedersehen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "tschüs",
+    "translation": {
+      "ru": [
+        "пока",
+        "чао"
+      ],
+      "en": [
+        "bye"
+      ],
+      "ar": [
+        "وداعًا"
+      ]
+    },
+    "id": "tschüs"
+  },
+  {
+    "dictionaryId": "herr",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Herr",
+    "plural": "Herren",
+    "translation": {
+      "ru": [
+        "господин",
+        "мужчина"
+      ],
+      "en": [
+        "Mr.",
+        "gentleman",
+        "man"
+      ],
+      "ar": [
+        "السيد",
+        "رجل"
+      ]
+    },
+    "id": "herr"
+  },
+  {
+    "dictionaryId": "kind",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Kind",
+    "plural": "Kinder",
+    "translation": {
+      "ru": [
+        "ребёнок"
+      ],
+      "en": [
+        "child"
+      ],
+      "ar": [
+        "طفل"
+      ]
+    },
+    "id": "kind"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Guten Abend",
+    "translation": {
+      "ru": [
+        "добрый вечер"
+      ],
+      "en": [
+        "good evening"
+      ],
+      "ar": [
+        "مساء الخير"
+      ]
+    },
+    "id": "guten-abend"
+  },
+  {
+    "dictionaryId": "dame",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Dame",
+    "plural": "Damen",
+    "translation": {
+      "ru": [
+        "дама",
+        "госпожа"
+      ],
+      "en": [
+        "lady"
+      ],
+      "ar": [
+        "سيدة"
+      ]
+    },
+    "id": "dame"
+  },
+  {
+    "dictionaryId": "willkommen",
+    "type": "other",
+    "word": "willkommen",
+    "translation": {
+      "ru": [
+        "добро пожаловать"
+      ],
+      "en": [
+        "welcome"
+      ],
+      "ar": [
+        "مرحبًا بكم"
+      ]
+    },
+    "id": "willkommen"
+  },
+  {
+    "dictionaryId": "bei",
+    "type": "other",
+    "word": "bei",
+    "translation": {
+      "ru": [
+        "у",
+        "при",
+        "в (у кого-то)"
+      ],
+      "en": [
+        "at",
+        "with",
+        "near"
+      ],
+      "ar": [
+        "عند",
+        "لدى"
+      ]
+    },
+    "id": "bei"
+  },
+  {
+    "dictionaryId": "musik",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Musik",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "музыка"
+      ],
+      "en": [
+        "music"
+      ],
+      "ar": [
+        "موسيقى"
+      ]
+    },
+    "id": "musik"
+  },
+  {
+    "dictionaryId": "international",
+    "type": "other",
+    "word": "international",
+    "translation": {
+      "ru": [
+        "международный"
+      ],
+      "en": [
+        "international"
+      ],
+      "ar": [
+        "دولي"
+      ]
+    },
+    "id": "international"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Guten Morgen",
+    "translation": {
+      "ru": [
+        "доброе утро"
+      ],
+      "en": [
+        "good morning"
+      ],
+      "ar": [
+        "صباح الخير"
+      ]
+    },
+    "id": "guten-morgen"
+  },
+  {
+    "dictionaryId": "frau",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Frau",
+    "plural": "Frauen",
+    "translation": {
+      "ru": [
+        "женщина",
+        "жена",
+        "госпожа"
+      ],
+      "en": [
+        "woman",
+        "wife",
+        "Mrs."
+      ],
+      "ar": [
+        "امرأة",
+        "زوجة",
+        "سيدة"
+      ]
+    },
+    "id": "frau"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "danke",
+    "translation": {
+      "ru": [
+        "спасибо"
+      ],
+      "en": [
+        "thanks",
+        "thank you"
+      ],
+      "ar": [
+        "شكرًا"
+      ]
+    },
+    "id": "danke"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Gute Nacht",
+    "translation": {
+      "ru": [
+        "спокойной ночи"
+      ],
+      "en": [
+        "good night"
+      ],
+      "ar": [
+        "تصبح على خير"
+      ]
+    },
+    "id": "gute-nacht"
+  },
+  {
+    "dictionaryId": "papa",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Papa",
+    "plural": "Papas",
+    "translation": {
+      "ru": [
+        "папа"
+      ],
+      "en": [
+        "dad",
+        "father"
+      ],
+      "ar": [
+        "بابا",
+        "أب"
+      ]
+    },
+    "id": "papa"
+  },
+  {
+    "dictionaryId": "sein",
+    "type": "verb",
+    "infinitive": "sein",
+    "praeteritum": "war",
+    "perfekt": "ist gewesen",
+    "translation": {
+      "ru": [
+        "быть",
+        "являться"
+      ],
+      "en": [
+        "to be"
+      ],
+      "ar": [
+        "يكون"
+      ]
+    },
+    "id": "sein"
+  },
+  {
+    "dictionaryId": "entschuldigung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Entschuldigung",
+    "plural": "Entschuldigungen",
+    "translation": {
+      "ru": [
+        "извинение",
+        "простите"
+      ],
+      "en": [
+        "apology",
+        "excuse me"
+      ],
+      "ar": [
+        "اعتذار",
+        "عفوًا"
+      ]
+    },
+    "id": "entschuldigung"
+  },
+  {
+    "dictionaryId": "wie",
+    "type": "other",
+    "word": "wie",
+    "translation": {
+      "ru": [
+        "как"
+      ],
+      "en": [
+        "how",
+        "like"
+      ],
+      "ar": [
+        "كيف",
+        "مثل"
+      ]
+    },
+    "id": "wie"
+  },
+  {
+    "dictionaryId": "sie",
+    "type": "other",
+    "word": "Sie",
+    "translation": {
+      "ru": [
+        "Вы"
+      ],
+      "en": [
+        "you formal"
+      ],
+      "ar": [
+        "حضرتك",
+        "أنتم بصيغة الاحترام"
+      ]
+    },
+    "id": "sie"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "wer",
+    "translation": {
+      "ru": [
+        "кто"
+      ],
+      "en": [
+        "who"
+      ],
+      "ar": [
+        "من"
+      ]
+    },
+    "id": "wer"
+  },
+  {
+    "dictionaryId": "ja",
+    "type": "other",
+    "word": "ja",
+    "translation": {
+      "ru": [
+        "да"
+      ],
+      "en": [
+        "yes"
+      ],
+      "ar": [
+        "نعم"
+      ]
+    },
+    "id": "ja"
+  },
+  {
+    "dictionaryId": "nein",
+    "type": "other",
+    "word": "nein",
+    "translation": {
+      "ru": [
+        "нет"
+      ],
+      "en": [
+        "no"
+      ],
+      "ar": [
+        "لا"
+      ]
+    },
+    "id": "nein"
+  },
+  {
+    "dictionaryId": "woher",
+    "type": "other",
+    "word": "woher",
+    "translation": {
+      "ru": [
+        "откуда"
+      ],
+      "en": [
+        "where from"
+      ],
+      "ar": [
+        "من أين"
+      ]
+    },
+    "id": "woher"
+  },
+  {
+    "dictionaryId": "aus",
+    "type": "other",
+    "word": "aus",
+    "translation": {
+      "ru": [
+        "из"
+      ],
+      "en": [
+        "from",
+        "out of"
+      ],
+      "ar": [
+        "من"
+      ]
+    },
+    "id": "aus"
+  },
+  {
+    "dictionaryId": "du",
+    "type": "other",
+    "word": "du",
+    "translation": {
+      "ru": [
+        "ты"
+      ],
+      "en": [
+        "you informal"
+      ],
+      "ar": [
+        "أنت"
+      ]
+    },
+    "id": "du"
+  },
+  {
+    "dictionaryId": "österreich",
+    "type": "other",
+    "word": "Österreich",
+    "translation": {
+      "ru": [
+        "Австрия"
+      ],
+      "en": [
+        "Austria"
+      ],
+      "ar": [
+        "النمسا"
+      ]
+    },
+    "id": "österreich"
+  },
+  {
+    "dictionaryId": "schweiz",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Schweiz",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "Швейцария"
+      ],
+      "en": [
+        "Switzerland"
+      ],
+      "ar": [
+        "سويسرا"
+      ]
+    },
+    "id": "schweiz"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "aha",
+    "translation": {
+      "ru": [
+        "ага"
+      ],
+      "en": [
+        "aha",
+        "I see"
+      ],
+      "ar": [
+        "آها",
+        "فهمت"
+      ]
+    },
+    "id": "aha"
+  },
+  {
+    "dictionaryId": "toll",
+    "type": "other",
+    "word": "toll",
+    "translation": {
+      "ru": [
+        "классно",
+        "круто",
+        "здорово"
+      ],
+      "en": [
+        "great",
+        "awesome"
+      ],
+      "ar": [
+        "رائع"
+      ]
+    },
+    "id": "toll"
+  },
+  {
+    "dictionaryId": "interessant",
+    "type": "other",
+    "word": "interessant",
+    "translation": {
+      "ru": [
+        "интересный"
+      ],
+      "en": [
+        "interesting"
+      ],
+      "ar": [
+        "مثير للاهتمام"
+      ]
+    },
+    "id": "interessant"
+  },
+  {
+    "dictionaryId": "was",
+    "type": "other",
+    "word": "was",
+    "translation": {
+      "ru": [
+        "что"
+      ],
+      "en": [
+        "what"
+      ],
+      "ar": [
+        "ماذا"
+      ]
+    },
+    "id": "was"
+  },
+  {
+    "dictionaryId": "auch",
+    "type": "other",
+    "word": "auch",
+    "translation": {
+      "ru": [
+        "тоже",
+        "также"
+      ],
+      "en": [
+        "also",
+        "too"
+      ],
+      "ar": [
+        "أيضًا"
+      ]
+    },
+    "id": "auch"
+  },
+  {
+    "dictionaryId": "sprache",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sprache",
+    "plural": "Sprachen",
+    "translation": {
+      "ru": [
+        "язык"
+      ],
+      "en": [
+        "language"
+      ],
+      "ar": [
+        "لغة"
+      ]
+    },
+    "id": "sprache"
+  },
+  {
+    "dictionaryId": "buchstabe",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Buchstabe",
+    "plural": "Buchstaben",
+    "translation": {
+      "ru": [
+        "буква"
+      ],
+      "en": [
+        "letter"
+      ],
+      "ar": [
+        "حرف"
+      ]
+    },
+    "id": "buchstabe"
+  },
+  {
+    "dictionaryId": "alphabet",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Alphabet",
+    "plural": "Alphabete",
+    "translation": {
+      "ru": [
+        "алфавит"
+      ],
+      "en": [
+        "alphabet"
+      ],
+      "ar": [
+        "أبجدية"
+      ]
+    },
+    "id": "alphabet"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Wie bitte?",
+    "translation": {
+      "ru": [
+        "как простите?",
+        "что вы сказали?"
+      ],
+      "en": [
+        "pardon?",
+        "excuse me?",
+        "what did you say?"
+      ],
+      "ar": [
+        "عفوًا؟",
+        "ماذا قلت؟"
+      ]
+    },
+    "id": "wie-bitte"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "buchstabieren",
+    "praeteritum": "buchstabierte",
+    "perfekt": "hat buchstabiert",
+    "translation": {
+      "ru": [
+        "произносить по буквам"
+      ],
+      "en": [
+        "to spell"
+      ],
+      "ar": [
+        "يتهجى"
+      ]
+    },
+    "id": "buchstabieren"
+  },
+  {
+    "dictionaryId": "bitte",
+    "type": "other",
+    "word": "bitte",
+    "translation": {
+      "ru": [
+        "пожалуйста"
+      ],
+      "en": [
+        "please",
+        "you're welcome"
+      ],
+      "ar": [
+        "من فضلك",
+        "تفضل"
+      ]
+    },
+    "id": "bitte"
+  },
+  {
+    "dictionaryId": "firma",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Firma",
+    "plural": "Firmen",
+    "translation": {
+      "ru": [
+        "фирма",
+        "компания"
+      ],
+      "en": [
+        "company",
+        "firm"
+      ],
+      "ar": [
+        "شركة"
+      ]
+    },
+    "id": "firma"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Vielen Dank",
+    "translation": {
+      "ru": [
+        "большое спасибо"
+      ],
+      "en": [
+        "many thanks",
+        "thank you very much"
+      ],
+      "ar": [
+        "شكرًا جزيلًا"
+      ]
+    },
+    "id": "vielen-dank"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "Auf Wiederhören",
+    "translation": {
+      "ru": [
+        "до свидания по телефону"
+      ],
+      "en": [
+        "goodbye on the phone"
+      ],
+      "ar": [
+        "إلى اللقاء عبر الهاتف"
+      ]
+    },
+    "id": "auf-wiederhören"
+  },
+  {
+    "dictionaryId": "adresse",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Adresse",
+    "plural": "Adressen",
+    "translation": {
+      "ru": [
+        "адрес"
+      ],
+      "en": [
+        "address"
+      ],
+      "ar": [
+        "عنوان"
+      ]
+    },
+    "id": "adresse"
+  },
+  {
+    "dictionaryId": "visitenkarte",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Visitenkarte",
+    "plural": "Visitenkarten",
+    "translation": {
+      "ru": [
+        "визитка"
+      ],
+      "en": [
+        "business card"
+      ],
+      "ar": [
+        "بطاقة عمل"
+      ]
+    },
+    "id": "visitenkarte"
+  },
+  {
+    "dictionaryId": "vorname",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Vorname",
+    "plural": "Vornamen",
+    "translation": {
+      "ru": [
+        "имя"
+      ],
+      "en": [
+        "first name",
+        "given name"
+      ],
+      "ar": [
+        "الاسم الأول"
+      ]
+    },
+    "id": "vorname"
+  },
+  {
+    "dictionaryId": "familienname",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Familienname",
+    "plural": "Familiennamen",
+    "translation": {
+      "ru": [
+        "фамилия"
+      ],
+      "en": [
+        "surname",
+        "family name"
+      ],
+      "ar": [
+        "اسم العائلة"
+      ]
+    },
+    "id": "familienname"
+  },
+  {
+    "dictionaryId": "straße",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Straße",
+    "plural": "Straßen",
+    "translation": {
+      "ru": [
+        "улица"
+      ],
+      "en": [
+        "street"
+      ],
+      "ar": [
+        "شارع"
+      ]
+    },
+    "id": "strasse"
+  },
+  {
+    "dictionaryId": "stadt",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Stadt",
+    "plural": "Städte",
+    "translation": {
+      "ru": [
+        "город"
+      ],
+      "en": [
+        "city",
+        "town"
+      ],
+      "ar": [
+        "مدينة"
+      ]
+    },
+    "id": "stadt"
+  },
+  {
+    "dictionaryId": "land",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Land",
+    "plural": "Länder",
+    "translation": {
+      "ru": [
+        "страна",
+        "земля"
+      ],
+      "en": [
+        "country",
+        "land",
+        "state"
+      ],
+      "ar": [
+        "بلد",
+        "أرض"
+      ]
+    },
+    "id": "land"
+  },
+  {
+    "dictionaryId": "e-mail",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "E-Mail",
+    "plural": "E-Mails",
+    "translation": {
+      "ru": [
+        "электронная почта",
+        "email",
+        "электронное письмо"
+      ],
+      "en": [
+        "email"
+      ],
+      "ar": [
+        "بريد إلكتروني"
+      ]
+    },
+    "id": "e-mail"
+  },
+  {
+    "dictionaryId": "telefon",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Telefon",
+    "plural": "Telefone",
+    "translation": {
+      "ru": [
+        "телефон"
+      ],
+      "en": [
+        "telephone",
+        "phone"
+      ],
+      "ar": [
+        "هاتف"
+      ]
+    },
+    "id": "telefon"
+  },
+  {
+    "dictionaryId": "formular",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Formular",
+    "plural": "Formulare",
+    "translation": {
+      "ru": [
+        "формуляр",
+        "бланк",
+        "форма"
+      ],
+      "en": [
+        "form"
+      ],
+      "ar": [
+        "استمارة",
+        "نموذج"
+      ]
+    },
+    "id": "formular"
+  },
+  {
+    "dictionaryId": "kurs",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kurs",
+    "plural": "Kurse",
+    "translation": {
+      "ru": [
+        "курс"
+      ],
+      "en": [
+        "course"
+      ],
+      "ar": [
+        "دورة"
+      ]
+    },
+    "id": "kurs"
+  },
+  {
+    "dictionaryId": "fremdsprache",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Fremdsprache",
+    "plural": "Fremdsprachen",
+    "translation": {
+      "ru": [
+        "иностранный язык"
+      ],
+      "en": [
+        "foreign language"
+      ],
+      "ar": [
+        "لغة أجنبية"
+      ]
+    },
+    "id": "fremdsprache"
+  },
+  {
+    "dictionaryId": "anmeldung",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Anmeldung",
+    "plural": "Anmeldungen",
+    "translation": {
+      "ru": [
+        "регистрация",
+        "запись"
+      ],
+      "en": [
+        "registration",
+        "sign-up"
+      ],
+      "ar": [
+        "تسجيل"
+      ]
+    },
+    "id": "anmeldung"
+  },
+  {
+    "dictionaryId": "postleitzahl",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Postleitzahl",
+    "plural": "Postleitzahlen",
+    "translation": {
+      "ru": [
+        "почтовый индекс"
+      ],
+      "en": [
+        "postal code",
+        "zip code"
+      ],
+      "ar": [
+        "الرمز البريدي"
+      ]
+    },
+    "id": "postleitzahl"
+  }
+]

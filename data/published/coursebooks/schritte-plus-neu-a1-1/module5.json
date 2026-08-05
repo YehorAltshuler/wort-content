@@ -1,0 +1,1870 @@
+[
+  {
+    "dictionaryId": "machen",
+    "type": "verb",
+    "infinitive": "machen",
+    "praeteritum": "machte",
+    "perfekt": "hat gemacht",
+    "translation": {
+      "ru": [
+        "делать"
+      ],
+      "en": [
+        "to do",
+        "to make"
+      ],
+      "ar": [
+        "يفعل",
+        "يصنع"
+      ]
+    },
+    "id": "machen"
+  },
+  {
+    "dictionaryId": "präsentation",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Präsentation",
+    "plural": "Präsentationen",
+    "translation": {
+      "ru": [
+        "презентация"
+      ],
+      "en": [
+        "presentation"
+      ],
+      "ar": [
+        "عرض تقديمي"
+      ]
+    },
+    "id": "präsentation"
+  },
+  {
+    "dictionaryId": "frühstücken",
+    "type": "verb",
+    "infinitive": "frühstücken",
+    "praeteritum": "frühstückte",
+    "perfekt": "hat gefrühstückt",
+    "translation": {
+      "ru": [
+        "завтракать"
+      ],
+      "en": [
+        "to have breakfast"
+      ],
+      "ar": [
+        "يتناول الفطور"
+      ]
+    },
+    "id": "frühstücken"
+  },
+  {
+    "dictionaryId": "einkaufen",
+    "type": "verb",
+    "infinitive": "einkaufen",
+    "praeteritum": "kaufte ein",
+    "perfekt": "hat eingekauft",
+    "translation": {
+      "ru": [
+        "делать покупки",
+        "закупаться"
+      ],
+      "en": [
+        "to shop",
+        "to buy groceries"
+      ],
+      "ar": [
+        "يتسوق"
+      ]
+    },
+    "id": "einkaufen"
+  },
+  {
+    "dictionaryId": "hören",
+    "type": "verb",
+    "infinitive": "hören",
+    "praeteritum": "hörte",
+    "perfekt": "hat gehört",
+    "translation": {
+      "ru": [
+        "слышать",
+        "слушать"
+      ],
+      "en": [
+        "to hear",
+        "to listen"
+      ],
+      "ar": [
+        "يسمع",
+        "يستمع"
+      ]
+    },
+    "id": "hören"
+  },
+  {
+    "dictionaryId": "kochen",
+    "type": "verb",
+    "infinitive": "kochen",
+    "praeteritum": "kochte",
+    "perfekt": "hat gekocht",
+    "translation": {
+      "ru": [
+        "готовить",
+        "варить"
+      ],
+      "en": [
+        "to cook",
+        "to boil"
+      ],
+      "ar": [
+        "يطبخ",
+        "يغلي"
+      ]
+    },
+    "id": "kochen"
+  },
+  {
+    "dictionaryId": null,
+    "type": "verb",
+    "infinitive": "spazieren gehen",
+    "praeteritum": "ging spazieren",
+    "perfekt": "ist spazieren gegangen",
+    "translation": {
+      "ru": [
+        "гулять",
+        "идти на прогулку"
+      ],
+      "en": [
+        "to go for a walk"
+      ],
+      "ar": [
+        "يتمشى"
+      ]
+    },
+    "id": "spazieren-gehen"
+  },
+  {
+    "dictionaryId": "aufräumen",
+    "type": "verb",
+    "infinitive": "aufräumen",
+    "praeteritum": "räumte auf",
+    "perfekt": "hat aufgeräumt",
+    "translation": {
+      "ru": [
+        "убирать",
+        "приводить в порядок"
+      ],
+      "en": [
+        "to tidy up",
+        "to clean up"
+      ],
+      "ar": [
+        "يرتب",
+        "ينظف"
+      ]
+    },
+    "id": "aufräumen"
+  },
+  {
+    "dictionaryId": "aufstehen",
+    "type": "verb",
+    "infinitive": "aufstehen",
+    "praeteritum": "stand auf",
+    "perfekt": "ist aufgestanden",
+    "translation": {
+      "ru": [
+        "вставать",
+        "подниматься"
+      ],
+      "en": [
+        "to get up",
+        "to stand up"
+      ],
+      "ar": [
+        "ينهض",
+        "يقف"
+      ]
+    },
+    "id": "aufstehen"
+  },
+  {
+    "dictionaryId": "gehen",
+    "type": "verb",
+    "infinitive": "gehen",
+    "praeteritum": "ging",
+    "perfekt": "ist gegangen",
+    "translation": {
+      "ru": [
+        "идти",
+        "ходить"
+      ],
+      "en": [
+        "to go",
+        "to walk"
+      ],
+      "ar": [
+        "يذهب",
+        "يمشي"
+      ]
+    },
+    "id": "gehen"
+  },
+  {
+    "dictionaryId": "oder",
+    "type": "other",
+    "word": "oder",
+    "translation": {
+      "ru": [
+        "или"
+      ],
+      "en": [
+        "or"
+      ],
+      "ar": [
+        "أو"
+      ]
+    },
+    "id": "oder"
+  },
+  {
+    "dictionaryId": "müde",
+    "type": "other",
+    "word": "müde",
+    "translation": {
+      "ru": [
+        "уставший",
+        "сонный"
+      ],
+      "en": [
+        "tired",
+        "sleepy"
+      ],
+      "ar": [
+        "متعب",
+        "نعسان"
+      ]
+    },
+    "id": "müde"
+  },
+  {
+    "dictionaryId": "anrufen",
+    "type": "verb",
+    "infinitive": "anrufen",
+    "praeteritum": "rief an",
+    "perfekt": "hat angerufen",
+    "translation": {
+      "ru": [
+        "звонить",
+        "позвонить по телефону"
+      ],
+      "en": [
+        "to call",
+        "to phone"
+      ],
+      "ar": [
+        "يتصل هاتفيًا"
+      ]
+    },
+    "id": "anrufen"
+  },
+  {
+    "dictionaryId": "früh",
+    "type": "other",
+    "word": "früh",
+    "translation": {
+      "ru": [
+        "рано",
+        "ранний"
+      ],
+      "en": [
+        "early"
+      ],
+      "ar": [
+        "مبكر"
+      ]
+    },
+    "id": "früh"
+  },
+  {
+    "dictionaryId": "supermarkt",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Supermarkt",
+    "plural": "Supermärkte",
+    "translation": {
+      "ru": [
+        "супермаркет"
+      ],
+      "en": [
+        "supermarket"
+      ],
+      "ar": [
+        "سوبرماركت"
+      ]
+    },
+    "id": "supermarkt"
+  },
+  {
+    "dictionaryId": "fernsehen",
+    "type": "verb",
+    "infinitive": "fernsehen",
+    "praeteritum": "sah fern",
+    "perfekt": "hat ferngesehen",
+    "translation": {
+      "ru": [
+        "смотреть телевизор"
+      ],
+      "en": [
+        "to watch TV"
+      ],
+      "ar": [
+        "يشاهد التلفاز"
+      ]
+    },
+    "id": "fernsehen"
+  },
+  {
+    "dictionaryId": "mit",
+    "type": "other",
+    "word": "mit",
+    "translation": {
+      "ru": [
+        "с"
+      ],
+      "en": [
+        "with"
+      ],
+      "ar": [
+        "مع"
+      ]
+    },
+    "id": "mit"
+  },
+  {
+    "dictionaryId": "arbeiten",
+    "type": "verb",
+    "infinitive": "arbeiten",
+    "praeteritum": "arbeitete",
+    "perfekt": "hat gearbeitet",
+    "translation": {
+      "ru": [
+        "работать"
+      ],
+      "en": [
+        "to work"
+      ],
+      "ar": [
+        "يعمل"
+      ]
+    },
+    "id": "arbeiten"
+  },
+  {
+    "dictionaryId": "lange",
+    "type": "other",
+    "word": "lange",
+    "translation": {
+      "ru": [
+        "долго"
+      ],
+      "en": [
+        "long",
+        "for a long time"
+      ],
+      "ar": [
+        "طويلاً"
+      ]
+    },
+    "id": "lange"
+  },
+  {
+    "dictionaryId": "spielen",
+    "type": "verb",
+    "infinitive": "spielen",
+    "praeteritum": "spielte",
+    "perfekt": "hat gespielt",
+    "translation": {
+      "ru": [
+        "играть"
+      ],
+      "en": [
+        "to play"
+      ],
+      "ar": [
+        "يلعب"
+      ]
+    },
+    "id": "spielen"
+  },
+  {
+    "dictionaryId": "essen",
+    "type": "verb",
+    "infinitive": "essen",
+    "praeteritum": "aß",
+    "perfekt": "hat gegessen",
+    "translation": {
+      "ru": [
+        "есть",
+        "кушать"
+      ],
+      "en": [
+        "to eat"
+      ],
+      "ar": [
+        "يأكل"
+      ]
+    },
+    "id": "essen"
+  },
+  {
+    "dictionaryId": "gern",
+    "type": "other",
+    "word": "gern",
+    "translation": {
+      "ru": [
+        "охотно",
+        "с удовольствием"
+      ],
+      "en": [
+        "gladly",
+        "like to"
+      ],
+      "ar": [
+        "بكل سرور",
+        "يحب أن"
+      ]
+    },
+    "id": "gern"
+  },
+  {
+    "dictionaryId": "spät",
+    "type": "other",
+    "word": "spät",
+    "translation": {
+      "ru": [
+        "поздно",
+        "поздний"
+      ],
+      "en": [
+        "late"
+      ],
+      "ar": [
+        "متأخر"
+      ]
+    },
+    "id": "spät"
+  },
+  {
+    "dictionaryId": "schön",
+    "type": "other",
+    "word": "schön",
+    "translation": {
+      "ru": [
+        "красивый",
+        "хороший",
+        "приятный"
+      ],
+      "en": [
+        "beautiful",
+        "nice"
+      ],
+      "ar": [
+        "جميل"
+      ]
+    },
+    "id": "schön"
+  },
+  {
+    "dictionaryId": "schon",
+    "type": "other",
+    "word": "schon",
+    "translation": {
+      "ru": [
+        "уже"
+      ],
+      "en": [
+        "already"
+      ],
+      "ar": [
+        "بالفعل"
+      ]
+    },
+    "id": "schon"
+  },
+  {
+    "dictionaryId": "erst",
+    "type": "other",
+    "word": "erst",
+    "translation": {
+      "ru": [
+        "только",
+        "лишь",
+        "сначала"
+      ],
+      "en": [
+        "only",
+        "not until",
+        "first"
+      ],
+      "ar": [
+        "فقط",
+        "أولًا"
+      ]
+    },
+    "id": "erst"
+  },
+  {
+    "dictionaryId": "viertel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Viertel",
+    "plural": "Viertel",
+    "translation": {
+      "ru": [
+        "четверть",
+        "квартал"
+      ],
+      "en": [
+        "quarter",
+        "district"
+      ],
+      "ar": [
+        "ربع",
+        "حي"
+      ]
+    },
+    "id": "viertel"
+  },
+  {
+    "dictionaryId": "vor",
+    "type": "other",
+    "word": "vor",
+    "translation": {
+      "ru": [
+        "перед",
+        "до",
+        "назад"
+      ],
+      "en": [
+        "before",
+        "in front of",
+        "ago"
+      ],
+      "ar": [
+        "قبل",
+        "أمام"
+      ]
+    },
+    "id": "vor"
+  },
+  {
+    "dictionaryId": "nach",
+    "type": "other",
+    "word": "nach",
+    "translation": {
+      "ru": [
+        "после",
+        "в",
+        "к"
+      ],
+      "en": [
+        "after",
+        "to",
+        "according to"
+      ],
+      "ar": [
+        "بعد",
+        "إلى"
+      ]
+    },
+    "id": "nach"
+  },
+  {
+    "dictionaryId": "halb",
+    "type": "other",
+    "word": "halb",
+    "translation": {
+      "ru": [
+        "половина",
+        "пол-"
+      ],
+      "en": [
+        "half"
+      ],
+      "ar": [
+        "نصف"
+      ]
+    },
+    "id": "halb"
+  },
+  {
+    "dictionaryId": "uhr",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Uhr",
+    "plural": "Uhren",
+    "translation": {
+      "ru": [
+        "часы",
+        "час"
+      ],
+      "en": [
+        "clock",
+        "watch",
+        "o'clock"
+      ],
+      "ar": [
+        "ساعة"
+      ]
+    },
+    "id": "uhr"
+  },
+  {
+    "dictionaryId": "kurz",
+    "type": "other",
+    "word": "kurz",
+    "translation": {
+      "ru": [
+        "короткий",
+        "краткий",
+        "скоро"
+      ],
+      "en": [
+        "short",
+        "brief"
+      ],
+      "ar": [
+        "قصير"
+      ]
+    },
+    "id": "kurz"
+  },
+  {
+    "dictionaryId": "gleich",
+    "type": "other",
+    "word": "gleich",
+    "translation": {
+      "ru": [
+        "одинаковый",
+        "сейчас",
+        "сразу"
+      ],
+      "en": [
+        "same",
+        "right away",
+        "soon"
+      ],
+      "ar": [
+        "نفسه",
+        "حالًا"
+      ]
+    },
+    "id": "gleich"
+  },
+  {
+    "dictionaryId": null,
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Intensivkurs",
+    "plural": "Intensivkurse",
+    "translation": {
+      "ru": [
+        "интенсивный курс"
+      ],
+      "en": [
+        "intensive course"
+      ],
+      "ar": [
+        "دورة مكثفة"
+      ]
+    },
+    "id": "intensivkurs"
+  },
+  {
+    "dictionaryId": "anfangen",
+    "type": "verb",
+    "infinitive": "anfangen",
+    "praeteritum": "fing an",
+    "perfekt": "hat angefangen",
+    "translation": {
+      "ru": [
+        "начинать",
+        "начинаться"
+      ],
+      "en": [
+        "to begin",
+        "to start"
+      ],
+      "ar": [
+        "يبدأ"
+      ]
+    },
+    "id": "anfangen"
+  },
+  {
+    "dictionaryId": "am",
+    "type": "other",
+    "word": "am",
+    "translation": {
+      "ru": [
+        "в",
+        "на",
+        "у"
+      ],
+      "en": [
+        "on",
+        "at"
+      ],
+      "ar": [
+        "في",
+        "على"
+      ]
+    },
+    "comment": "am = an dem; например: am Montag",
+    "id": "am"
+  },
+  {
+    "dictionaryId": "montag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Montag",
+    "plural": "Montage",
+    "translation": {
+      "ru": [
+        "понедельник"
+      ],
+      "en": [
+        "Monday"
+      ],
+      "ar": [
+        "الاثنين"
+      ]
+    },
+    "id": "montag"
+  },
+  {
+    "dictionaryId": "freitag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Freitag",
+    "plural": "Freitage",
+    "translation": {
+      "ru": [
+        "пятница"
+      ],
+      "en": [
+        "Friday"
+      ],
+      "ar": [
+        "الجمعة"
+      ]
+    },
+    "id": "freitag"
+  },
+  {
+    "dictionaryId": "donnerstag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Donnerstag",
+    "plural": "Donnerstage",
+    "translation": {
+      "ru": [
+        "четверг"
+      ],
+      "en": [
+        "Thursday"
+      ],
+      "ar": [
+        "الخميس"
+      ]
+    },
+    "id": "donnerstag"
+  },
+  {
+    "dictionaryId": "mittwoch",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Mittwoch",
+    "plural": "Mittwoche",
+    "translation": {
+      "ru": [
+        "среда"
+      ],
+      "en": [
+        "Wednesday"
+      ],
+      "ar": [
+        "الأربعاء"
+      ]
+    },
+    "id": "mittwoch"
+  },
+  {
+    "dictionaryId": "dienstag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Dienstag",
+    "plural": "Dienstage",
+    "translation": {
+      "ru": [
+        "вторник"
+      ],
+      "en": [
+        "Tuesday"
+      ],
+      "ar": [
+        "الثلاثاء"
+      ]
+    },
+    "id": "dienstag"
+  },
+  {
+    "dictionaryId": "wann",
+    "type": "other",
+    "word": "wann",
+    "translation": {
+      "ru": [
+        "когда"
+      ],
+      "en": [
+        "when"
+      ],
+      "ar": [
+        "متى"
+      ]
+    },
+    "id": "wann"
+  },
+  {
+    "dictionaryId": "um",
+    "type": "other",
+    "word": "um",
+    "translation": {
+      "ru": [
+        "в",
+        "около",
+        "вокруг"
+      ],
+      "en": [
+        "at",
+        "around"
+      ],
+      "ar": [
+        "عند",
+        "حول"
+      ]
+    },
+    "comment": "для времени: um 10 Uhr",
+    "id": "um"
+  },
+  {
+    "dictionaryId": "enden",
+    "type": "verb",
+    "infinitive": "enden",
+    "praeteritum": "endete",
+    "perfekt": "hat geendet",
+    "translation": {
+      "ru": [
+        "заканчиваться",
+        "заканчивать"
+      ],
+      "en": [
+        "to end"
+      ],
+      "ar": [
+        "ينتهي"
+      ]
+    },
+    "id": "enden"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "von ... bis ...",
+    "translation": {
+      "ru": [
+        "от ... до ..."
+      ],
+      "en": [
+        "from ... to ..."
+      ],
+      "ar": [
+        "من ... إلى ..."
+      ]
+    },
+    "id": "von-bis"
+  },
+  {
+    "dictionaryId": "party",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Party",
+    "plural": "Partys",
+    "translation": {
+      "ru": [
+        "вечеринка"
+      ],
+      "en": [
+        "party"
+      ],
+      "ar": [
+        "حفلة"
+      ]
+    },
+    "id": "party"
+  },
+  {
+    "dictionaryId": "zeit",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Zeit",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "время"
+      ],
+      "en": [
+        "time"
+      ],
+      "ar": [
+        "وقت"
+      ]
+    },
+    "id": "zeit"
+  },
+  {
+    "dictionaryId": "fußball",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Fußball",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "футбол",
+        "футбольный мяч"
+      ],
+      "en": [
+        "football",
+        "soccer"
+      ],
+      "ar": [
+        "كرة القدم"
+      ]
+    },
+    "id": "fussball"
+  },
+  {
+    "dictionaryId": "samstag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Samstag",
+    "plural": "Samstage",
+    "translation": {
+      "ru": [
+        "суббота"
+      ],
+      "en": [
+        "Saturday"
+      ],
+      "ar": [
+        "السبت"
+      ]
+    },
+    "id": "samstag"
+  },
+  {
+    "dictionaryId": "sonntag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Sonntag",
+    "plural": "Sonntage",
+    "translation": {
+      "ru": [
+        "воскресенье"
+      ],
+      "en": [
+        "Sunday"
+      ],
+      "ar": [
+        "الأحد"
+      ]
+    },
+    "id": "sonntag"
+  },
+  {
+    "dictionaryId": "hausaufgabe",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Hausaufgabe",
+    "plural": "Hausaufgaben",
+    "translation": {
+      "ru": [
+        "домашнее задание"
+      ],
+      "en": [
+        "homework"
+      ],
+      "ar": [
+        "واجب منزلي"
+      ]
+    },
+    "id": "hausaufgabe"
+  },
+  {
+    "dictionaryId": "mama",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Mama",
+    "plural": "Mamas",
+    "translation": {
+      "ru": [
+        "мама"
+      ],
+      "en": [
+        "mom",
+        "mum",
+        "mother"
+      ],
+      "ar": [
+        "ماما",
+        "أم"
+      ]
+    },
+    "id": "mama"
+  },
+  {
+    "dictionaryId": "schlafen",
+    "type": "verb",
+    "infinitive": "schlafen",
+    "praeteritum": "schlief",
+    "perfekt": "hat geschlafen",
+    "translation": {
+      "ru": [
+        "спать"
+      ],
+      "en": [
+        "to sleep"
+      ],
+      "ar": [
+        "ينام"
+      ]
+    },
+    "id": "schlafen"
+  },
+  {
+    "dictionaryId": "wochenende",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Wochenende",
+    "plural": "Wochenenden",
+    "translation": {
+      "ru": [
+        "выходные",
+        "конец недели"
+      ],
+      "en": [
+        "weekend"
+      ],
+      "ar": [
+        "عطلة نهاية الأسبوع"
+      ]
+    },
+    "id": "wochenende"
+  },
+  {
+    "dictionaryId": "nächst",
+    "type": "other",
+    "word": "nächst-",
+    "translation": {
+      "ru": [
+        "следующий",
+        "ближайший"
+      ],
+      "en": [
+        "next"
+      ],
+      "ar": [
+        "القادم"
+      ]
+    },
+    "id": "nächst"
+  },
+  {
+    "dictionaryId": "woche",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Woche",
+    "plural": "Wochen",
+    "translation": {
+      "ru": [
+        "неделя"
+      ],
+      "en": [
+        "week"
+      ],
+      "ar": [
+        "أسبوع"
+      ]
+    },
+    "id": "woche"
+  },
+  {
+    "dictionaryId": "mittag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Mittag",
+    "plural": "",
+    "comment": "обычно Sg.",
+    "translation": {
+      "ru": [
+        "полдень",
+        "обед"
+      ],
+      "en": [
+        "noon",
+        "midday"
+      ],
+      "ar": [
+        "ظهر"
+      ]
+    },
+    "id": "mittag"
+  },
+  {
+    "dictionaryId": "morgen",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Morgen",
+    "plural": "Morgen",
+    "translation": {
+      "ru": [
+        "утро"
+      ],
+      "en": [
+        "morning"
+      ],
+      "ar": [
+        "صباح"
+      ]
+    },
+    "id": "morgen"
+  },
+  {
+    "dictionaryId": "abend",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Abend",
+    "plural": "Abende",
+    "translation": {
+      "ru": [
+        "вечер"
+      ],
+      "en": [
+        "evening"
+      ],
+      "ar": [
+        "مساء"
+      ]
+    },
+    "id": "abend"
+  },
+  {
+    "dictionaryId": "nachmittag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Nachmittag",
+    "plural": "Nachmittage",
+    "translation": {
+      "ru": [
+        "время после обеда",
+        "послеобеденное время"
+      ],
+      "en": [
+        "afternoon"
+      ],
+      "ar": [
+        "بعد الظهر"
+      ]
+    },
+    "id": "nachmittag"
+  },
+  {
+    "dictionaryId": "vormittag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Vormittag",
+    "plural": "Vormittage",
+    "translation": {
+      "ru": [
+        "время до обеда",
+        "первая половина дня"
+      ],
+      "en": [
+        "morning",
+        "forenoon"
+      ],
+      "ar": [
+        "قبل الظهر"
+      ]
+    },
+    "id": "vormittag"
+  },
+  {
+    "dictionaryId": "nacht",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Nacht",
+    "plural": "Nächte",
+    "translation": {
+      "ru": [
+        "ночь"
+      ],
+      "en": [
+        "night"
+      ],
+      "ar": [
+        "ليل"
+      ]
+    },
+    "id": "nacht"
+  },
+  {
+    "dictionaryId": "kino",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Kino",
+    "plural": "Kinos",
+    "translation": {
+      "ru": [
+        "кино",
+        "кинотеатр"
+      ],
+      "en": [
+        "cinema",
+        "movie theater"
+      ],
+      "ar": [
+        "سينما"
+      ]
+    },
+    "id": "kino"
+  },
+  {
+    "dictionaryId": "sport",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Sport",
+    "plural": "",
+    "comment": "Sg.",
+    "translation": {
+      "ru": [
+        "спорт"
+      ],
+      "en": [
+        "sport"
+      ],
+      "ar": [
+        "رياضة"
+      ]
+    },
+    "id": "sport"
+  },
+  {
+    "dictionaryId": "trinken",
+    "type": "verb",
+    "infinitive": "trinken",
+    "praeteritum": "trank",
+    "perfekt": "hat getrunken",
+    "translation": {
+      "ru": [
+        "пить"
+      ],
+      "en": [
+        "to drink"
+      ],
+      "ar": [
+        "يشرب"
+      ]
+    },
+    "id": "trinken"
+  },
+  {
+    "dictionaryId": "pizza",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Pizza",
+    "plural": "Pizzen",
+    "translation": {
+      "ru": [
+        "пицца"
+      ],
+      "en": [
+        "pizza"
+      ],
+      "ar": [
+        "بيتزا"
+      ]
+    },
+    "id": "pizza"
+  },
+  {
+    "dictionaryId": "chatten",
+    "type": "verb",
+    "infinitive": "chatten",
+    "praeteritum": "chattete",
+    "perfekt": "hat gechattet",
+    "translation": {
+      "ru": [
+        "общаться в чате",
+        "чатиться"
+      ],
+      "en": [
+        "to chat"
+      ],
+      "ar": [
+        "يدردش"
+      ]
+    },
+    "id": "chatten"
+  },
+  {
+    "dictionaryId": "geöffnet",
+    "type": "other",
+    "word": "geöffnet",
+    "translation": {
+      "ru": [
+        "открыто",
+        "открытый"
+      ],
+      "en": [
+        "open",
+        "opened"
+      ],
+      "ar": [
+        "مفتوح"
+      ]
+    },
+    "id": "geöffnet"
+  },
+  {
+    "dictionaryId": "termin",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Termin",
+    "plural": "Termine",
+    "translation": {
+      "ru": [
+        "запись",
+        "приём",
+        "термин",
+        "назначенная встреча"
+      ],
+      "en": [
+        "appointment",
+        "date"
+      ],
+      "ar": [
+        "موعد"
+      ]
+    },
+    "id": "termin"
+  },
+  {
+    "dictionaryId": "kindergarten",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Kindergarten",
+    "plural": "Kindergärten",
+    "translation": {
+      "ru": [
+        "детский сад"
+      ],
+      "en": [
+        "kindergarten",
+        "nursery school"
+      ],
+      "ar": [
+        "روضة أطفال"
+      ]
+    },
+    "id": "kindergarten"
+  },
+  {
+    "dictionaryId": "geschäft",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Geschäft",
+    "plural": "Geschäfte",
+    "translation": {
+      "ru": [
+        "магазин",
+        "дело",
+        "бизнес"
+      ],
+      "en": [
+        "shop",
+        "store",
+        "business"
+      ],
+      "ar": [
+        "متجر",
+        "عمل تجاري"
+      ]
+    },
+    "id": "geschäft"
+  },
+  {
+    "dictionaryId": "bibliothek",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Bibliothek",
+    "plural": "Bibliotheken",
+    "translation": {
+      "ru": [
+        "библиотека"
+      ],
+      "en": [
+        "library"
+      ],
+      "ar": [
+        "مكتبة"
+      ]
+    },
+    "id": "bibliothek"
+  },
+  {
+    "dictionaryId": "geschlossen",
+    "type": "other",
+    "word": "geschlossen",
+    "translation": {
+      "ru": [
+        "закрыто",
+        "закрытый"
+      ],
+      "en": [
+        "closed"
+      ],
+      "ar": [
+        "مغلق"
+      ]
+    },
+    "id": "geschlossen"
+  },
+  {
+    "dictionaryId": "öffnen",
+    "type": "verb",
+    "infinitive": "öffnen",
+    "praeteritum": "öffnete",
+    "perfekt": "hat geöffnet",
+    "translation": {
+      "ru": [
+        "открывать"
+      ],
+      "en": [
+        "to open"
+      ],
+      "ar": [
+        "يفتح"
+      ]
+    },
+    "id": "öffnen"
+  },
+  {
+    "dictionaryId": "schließen",
+    "type": "verb",
+    "infinitive": "schließen",
+    "praeteritum": "schloss",
+    "perfekt": "hat geschlossen",
+    "translation": {
+      "ru": [
+        "закрывать"
+      ],
+      "en": [
+        "to close"
+      ],
+      "ar": [
+        "يغلق"
+      ]
+    },
+    "id": "schliessen"
+  },
+  {
+    "dictionaryId": "praxis",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Praxis",
+    "plural": "Praxen",
+    "translation": {
+      "ru": [
+        "кабинет врача",
+        "практика"
+      ],
+      "en": [
+        "doctor's office",
+        "practice"
+      ],
+      "ar": [
+        "عيادة",
+        "ممارسة"
+      ]
+    },
+    "id": "praxis"
+  },
+  {
+    "dictionaryId": "tag",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Tag",
+    "plural": "Tage",
+    "translation": {
+      "ru": [
+        "день"
+      ],
+      "en": [
+        "day"
+      ],
+      "ar": [
+        "يوم"
+      ]
+    },
+    "id": "tag"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "jed-",
+    "translation": {
+      "ru": [
+        "каждый"
+      ],
+      "en": [
+        "each",
+        "every"
+      ],
+      "ar": [
+        "كل"
+      ]
+    },
+    "id": "jed"
+  },
+  {
+    "dictionaryId": "kita",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kita",
+    "plural": "Kitas",
+    "comment": "Kindertagesstätte",
+    "translation": {
+      "ru": [
+        "детский сад",
+        "дневной детский центр"
+      ],
+      "en": [
+        "daycare center",
+        "childcare center"
+      ],
+      "ar": [
+        "حضانة",
+        "مركز رعاية أطفال"
+      ]
+    },
+    "id": "kita"
+  },
+  {
+    "dictionaryId": "bringen",
+    "type": "verb",
+    "infinitive": "bringen",
+    "praeteritum": "brachte",
+    "perfekt": "hat gebracht",
+    "translation": {
+      "ru": [
+        "приносить",
+        "приводить",
+        "отводить"
+      ],
+      "en": [
+        "to bring",
+        "to take"
+      ],
+      "ar": [
+        "يحضر",
+        "يجلب"
+      ]
+    },
+    "id": "bringen"
+  },
+  {
+    "dictionaryId": "abholen",
+    "type": "verb",
+    "infinitive": "abholen",
+    "praeteritum": "holte ab",
+    "perfekt": "hat abgeholt",
+    "translation": {
+      "ru": [
+        "забирать",
+        "встречать"
+      ],
+      "en": [
+        "to pick up",
+        "to collect"
+      ],
+      "ar": [
+        "يأخذ",
+        "يستلم"
+      ]
+    },
+    "id": "abholen"
+  },
+  {
+    "dictionaryId": "mehr",
+    "type": "other",
+    "word": "mehr",
+    "translation": {
+      "ru": [
+        "больше",
+        "более"
+      ],
+      "en": [
+        "more"
+      ],
+      "ar": [
+        "أكثر"
+      ]
+    },
+    "id": "mehr"
+  },
+  {
+    "dictionaryId": "beispiel",
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Beispiel",
+    "plural": "Beispiele",
+    "translation": {
+      "ru": [
+        "пример"
+      ],
+      "en": [
+        "example"
+      ],
+      "ar": [
+        "مثال"
+      ]
+    },
+    "id": "beispiel"
+  },
+  {
+    "dictionaryId": null,
+    "type": "other",
+    "word": "zum Beispiel",
+    "translation": {
+      "ru": [
+        "например"
+      ],
+      "en": [
+        "for example"
+      ],
+      "ar": [
+        "على سبيل المثال"
+      ]
+    },
+    "id": "zum-beispiel"
+  },
+  {
+    "dictionaryId": "wieder",
+    "type": "other",
+    "word": "wieder",
+    "translation": {
+      "ru": [
+        "снова",
+        "опять"
+      ],
+      "en": [
+        "again"
+      ],
+      "ar": [
+        "مرة أخرى"
+      ]
+    },
+    "id": "wieder"
+  },
+  {
+    "dictionaryId": "freund",
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Freund",
+    "plural": "Freunde",
+    "translation": {
+      "ru": [
+        "друг"
+      ],
+      "en": [
+        "friend",
+        "boyfriend"
+      ],
+      "ar": [
+        "صديق"
+      ]
+    },
+    "id": "freund"
+  },
+  {
+    "dictionaryId": "freundin",
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Freundin",
+    "plural": "Freundinnen",
+    "translation": {
+      "ru": [
+        "подруга",
+        "девушка"
+      ],
+      "en": [
+        "female friend",
+        "girlfriend"
+      ],
+      "ar": [
+        "صديقة"
+      ]
+    },
+    "id": "freundin"
+  },
+  {
+    "dictionaryId": "fragen",
+    "type": "verb",
+    "infinitive": "fragen",
+    "praeteritum": "fragte",
+    "perfekt": "hat gefragt",
+    "translation": {
+      "ru": [
+        "спрашивать"
+      ],
+      "en": [
+        "to ask"
+      ],
+      "ar": [
+        "يسأل"
+      ]
+    },
+    "id": "fragen"
+  },
+  {
+    "dictionaryId": "antworten",
+    "type": "verb",
+    "infinitive": "antworten",
+    "praeteritum": "antwortete",
+    "perfekt": "hat geantwortet",
+    "translation": {
+      "ru": [
+        "отвечать"
+      ],
+      "en": [
+        "to answer",
+        "to reply"
+      ],
+      "ar": [
+        "يجيب"
+      ]
+    },
+    "id": "antworten"
+  },
+  {
+    "dictionaryId": "total",
+    "type": "other",
+    "word": "total",
+    "translation": {
+      "ru": [
+        "полностью",
+        "совсем",
+        "очень"
+      ],
+      "en": [
+        "totally",
+        "completely",
+        "very"
+      ],
+      "ar": [
+        "تمامًا",
+        "كليًا"
+      ]
+    },
+    "id": "total"
+  }
+]

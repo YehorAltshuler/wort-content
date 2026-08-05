@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026-08-05.174207",
+  "id": "schritte-plus-neu-a1-2",
+  "title": "Schritte plus Neu A1.2",
+  "level": "A1.2",
+  "modules": [
+    {
+      "id": "module8",
+      "title": "Modul 8: Beruf und Arbeit",
+      "url": "coursebooks/schritte-plus-neu-a1-2/module8.json",
+      "sha256": "e9d9c08a498766d7b12dd73c4b47e512168c6d0243a27654e6b823fd662c4b10",
+      "count": 110
+    },
+    {
+      "id": "module9",
+      "title": "Modul 9: Ämter und Behörden",
+      "url": "coursebooks/schritte-plus-neu-a1-2/module9.json",
+      "sha256": "731742817a1bfb80b9d431c1e461409a0af6c9355876825a0d806e0a216066b9",
+      "count": 90
+    },
+    {
+      "id": "module10",
+      "title": "Modul 10: Gesundheit und Krankheit",
+      "url": "coursebooks/schritte-plus-neu-a1-2/module10.json",
+      "sha256": "39ff7cbe0ff0c229fe57802a6ce285118aa42f9418e7d13f620b8f7dc3aecca1",
+      "count": 74
+    },
+    {
+      "id": "module11",
+      "title": "Modul 11: In der Stadt unterwegs",
+      "url": "coursebooks/schritte-plus-neu-a1-2/module11.json",
+      "sha256": "16b4db3f83ad63159cdc3f442d645059889f0a8b2a73e5eff027da96dfd0d467",
+      "count": 64
+    },
+    {
+      "id": "module12",
+      "title": "Modul 12: Kundenservice",
+      "url": "coursebooks/schritte-plus-neu-a1-2/module12.json",
+      "sha256": "84a5f4157dc8dd751548c41bb6cffbf5a6cabf866107bbb25e1e2112a6fcadd7",
+      "count": 58
+    },
+    {
+      "id": "module13",
+      "title": "Modul 13: Neue Kleider",
+      "url": "coursebooks/schritte-plus-neu-a1-2/module13.json",
+      "sha256": "0a2c608a95588ae434eccb9e2b2bed3e81c7c65e7a27436e8ccfc90e4e49d450",
+      "count": 76
+    },
+    {
+      "id": "module14",
+      "title": "Modul 14: Feste",
+      "url": "coursebooks/schritte-plus-neu-a1-2/module14.json",
+      "sha256": "eacb5cf18c7c4c0a287d28549b7a5420b5f9fec0d704b56f06aa97123e017e0c",
+      "count": 23
+    }
+  ]
+}

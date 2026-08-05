@@ -1,0 +1,712 @@
+[
+  {
+    "verb": "warten",
+    "preposition": "auf",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "ждать"
+      ],
+      "en": [
+        "to wait for"
+      ],
+      "ar": [
+        "ينتظر"
+      ]
+    },
+    "example": "Ich warte auf den Bus.",
+    "id": "warten-auf-akkusativ"
+  },
+  {
+    "verb": "sich interessieren",
+    "preposition": "für",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "интересоваться"
+      ],
+      "en": [
+        "to be interested in"
+      ],
+      "ar": [
+        "يهتم بـ"
+      ]
+    },
+    "example": "Sie interessiert sich für Musik.",
+    "id": "sich-interessieren-für-akkusativ"
+  },
+  {
+    "verb": "denken",
+    "preposition": "an",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "думать о",
+        "вспоминать о"
+      ],
+      "en": [
+        "to think of"
+      ],
+      "ar": [
+        "يفكر في"
+      ]
+    },
+    "example": "Ich denke an meine Familie.",
+    "id": "denken-an-akkusativ"
+  },
+  {
+    "verb": "denken",
+    "preposition": "über",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "думать о",
+        "иметь мнение о"
+      ],
+      "en": [
+        "to think about"
+      ],
+      "ar": [
+        "يفكر في"
+      ]
+    },
+    "example": "Was denkst du über diesen Plan?",
+    "id": "denken-über-akkusativ"
+  },
+  {
+    "verb": "sich freuen",
+    "preposition": "auf",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "радоваться предстоящему"
+      ],
+      "en": [
+        "to look forward to"
+      ],
+      "ar": [
+        "يتطلع إلى"
+      ]
+    },
+    "example": "Wir freuen uns auf den Urlaub.",
+    "id": "sich-freuen-auf-akkusativ"
+  },
+  {
+    "verb": "sich freuen",
+    "preposition": "über",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "радоваться чему-то произошедшему"
+      ],
+      "en": [
+        "to be happy about"
+      ],
+      "ar": [
+        "يفرح بـ"
+      ]
+    },
+    "example": "Er freut sich über das Geschenk.",
+    "id": "sich-freuen-über-akkusativ"
+  },
+  {
+    "verb": "sprechen",
+    "preposition": "mit",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "говорить с"
+      ],
+      "en": [
+        "to speak with"
+      ],
+      "ar": [
+        "يتحدث مع"
+      ]
+    },
+    "example": "Ich spreche mit meiner Lehrerin.",
+    "id": "sprechen-mit-dativ"
+  },
+  {
+    "verb": "sprechen",
+    "preposition": "über",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "говорить о"
+      ],
+      "en": [
+        "to speak about"
+      ],
+      "ar": [
+        "يتحدث عن"
+      ]
+    },
+    "example": "Wir sprechen über das Problem.",
+    "id": "sprechen-über-akkusativ"
+  },
+  {
+    "verb": "sprechen",
+    "preposition": "von",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "говорить о",
+        "упоминать о"
+      ],
+      "en": [
+        "to speak of"
+      ],
+      "ar": [
+        "يتحدث عن"
+      ]
+    },
+    "example": "Er spricht von seiner Familie.",
+    "id": "sprechen-von-dativ"
+  },
+  {
+    "verb": "teilnehmen",
+    "preposition": "an",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "участвовать в"
+      ],
+      "en": [
+        "to participate in"
+      ],
+      "ar": [
+        "يشارك في"
+      ]
+    },
+    "example": "Sie nimmt an einem Kurs teil.",
+    "id": "teilnehmen-an-dativ"
+  },
+  {
+    "verb": "gehören",
+    "preposition": "zu",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "относиться к",
+        "принадлежать к"
+      ],
+      "en": [
+        "to belong to"
+      ],
+      "ar": [
+        "ينتمي إلى"
+      ]
+    },
+    "example": "Das gehört zu meinem Plan.",
+    "id": "gehören-zu-dativ"
+  },
+  {
+    "verb": "gehören",
+    "preposition": "in",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "место чему-то в"
+      ],
+      "en": [
+        "to belong in"
+      ],
+      "ar": [
+        "مكانه في"
+      ]
+    },
+    "example": "Das gehört in den Schrank.",
+    "id": "gehören-in-akkusativ"
+  },
+  {
+    "verb": "fragen",
+    "preposition": "nach",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "спрашивать о"
+      ],
+      "en": [
+        "to ask about"
+      ],
+      "ar": [
+        "يسأل عن"
+      ]
+    },
+    "example": "Er fragt nach dem Weg.",
+    "id": "fragen-nach-dativ"
+  },
+  {
+    "verb": "fragen",
+    "preposition": "um",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "просить о"
+      ],
+      "en": [
+        "to ask for"
+      ],
+      "ar": [
+        "يطلب"
+      ]
+    },
+    "example": "Sie fragt um Rat.",
+    "id": "fragen-um-akkusativ"
+  },
+  {
+    "verb": "bitten",
+    "preposition": "um",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "просить о"
+      ],
+      "en": [
+        "to ask for"
+      ],
+      "ar": [
+        "يطلب"
+      ]
+    },
+    "example": "Sie bittet um Hilfe.",
+    "id": "bitten-um-akkusativ"
+  },
+  {
+    "verb": "sich kümmern",
+    "preposition": "um",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "заботиться о",
+        "заниматься чем-то"
+      ],
+      "en": [
+        "to take care of",
+        "to handle"
+      ],
+      "ar": [
+        "يعتني بـ"
+      ]
+    },
+    "example": "Ich kümmere mich um die Kinder.",
+    "id": "sich-kümmern-um-akkusativ"
+  },
+  {
+    "verb": "abhängen",
+    "preposition": "von",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "зависеть от"
+      ],
+      "en": [
+        "to depend on"
+      ],
+      "ar": [
+        "يعتمد على"
+      ]
+    },
+    "example": "Das hängt vom Wetter ab.",
+    "id": "abhängen-von-dativ"
+  },
+  {
+    "verb": "bestehen",
+    "preposition": "aus",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "состоять из"
+      ],
+      "en": [
+        "to consist of"
+      ],
+      "ar": [
+        "يتكون من"
+      ]
+    },
+    "example": "Der Kurs besteht aus zehn Lektionen.",
+    "id": "bestehen-aus-dativ"
+  },
+  {
+    "verb": "bestehen",
+    "preposition": "auf",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "настаивать на"
+      ],
+      "en": [
+        "to insist on"
+      ],
+      "ar": [
+        "يصر على"
+      ]
+    },
+    "example": "Er besteht auf seiner Meinung.",
+    "id": "bestehen-auf-dativ"
+  },
+  {
+    "verb": "sich erinnern",
+    "preposition": "an",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "вспоминать о"
+      ],
+      "en": [
+        "to remember"
+      ],
+      "ar": [
+        "يتذكر"
+      ]
+    },
+    "example": "Ich erinnere mich an den Tag.",
+    "id": "sich-erinnern-an-akkusativ"
+  },
+  {
+    "verb": "glauben",
+    "preposition": "an",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "верить в"
+      ],
+      "en": [
+        "to believe in"
+      ],
+      "ar": [
+        "يؤمن بـ"
+      ]
+    },
+    "example": "Sie glaubt an den Erfolg.",
+    "id": "glauben-an-akkusativ"
+  },
+  {
+    "verb": "sich entschuldigen",
+    "preposition": "für",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "извиняться за"
+      ],
+      "en": [
+        "to apologize for"
+      ],
+      "ar": [
+        "يعتذر عن"
+      ]
+    },
+    "example": "Er entschuldigt sich für den Fehler.",
+    "id": "sich-entschuldigen-für-akkusativ"
+  },
+  {
+    "verb": "sich entschuldigen",
+    "preposition": "bei",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "извиняться перед"
+      ],
+      "en": [
+        "to apologize to"
+      ],
+      "ar": [
+        "يعتذر لـ"
+      ]
+    },
+    "example": "Ich entschuldige mich bei dir.",
+    "id": "sich-entschuldigen-bei-dativ"
+  },
+  {
+    "verb": "sich bedanken",
+    "preposition": "bei",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "благодарить кого-то"
+      ],
+      "en": [
+        "to thank someone"
+      ],
+      "ar": [
+        "يشكر شخصًا"
+      ]
+    },
+    "example": "Ich bedanke mich bei dir.",
+    "id": "sich-bedanken-bei-dativ"
+  },
+  {
+    "verb": "sich bedanken",
+    "preposition": "für",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "благодарить за"
+      ],
+      "en": [
+        "to thank for"
+      ],
+      "ar": [
+        "يشكر على"
+      ]
+    },
+    "example": "Wir bedanken uns für die Einladung.",
+    "id": "sich-bedanken-für-akkusativ"
+  },
+  {
+    "verb": "anfangen",
+    "preposition": "mit",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "начинать с"
+      ],
+      "en": [
+        "to start with"
+      ],
+      "ar": [
+        "يبدأ بـ"
+      ]
+    },
+    "example": "Wir fangen mit der Aufgabe an.",
+    "id": "anfangen-mit-dativ"
+  },
+  {
+    "verb": "aufhören",
+    "preposition": "mit",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "прекращать что-то"
+      ],
+      "en": [
+        "to stop doing"
+      ],
+      "ar": [
+        "يتوقف عن"
+      ]
+    },
+    "example": "Er hört mit dem Rauchen auf.",
+    "id": "aufhören-mit-dativ"
+  },
+  {
+    "verb": "sich beschweren",
+    "preposition": "über",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "жаловаться на"
+      ],
+      "en": [
+        "to complain about"
+      ],
+      "ar": [
+        "يشكو من"
+      ]
+    },
+    "example": "Sie beschwert sich über den Lärm.",
+    "id": "sich-beschweren-über-akkusativ"
+  },
+  {
+    "verb": "sich beschweren",
+    "preposition": "bei",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "жаловаться кому-то",
+        "обращаться с жалобой к"
+      ],
+      "en": [
+        "to complain to"
+      ],
+      "ar": [
+        "يشتكي إلى"
+      ]
+    },
+    "example": "Ich beschwere mich beim Chef.",
+    "id": "sich-beschweren-bei-dativ"
+  },
+  {
+    "verb": "reagieren",
+    "preposition": "auf",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "реагировать на"
+      ],
+      "en": [
+        "to react to"
+      ],
+      "ar": [
+        "يتفاعل مع"
+      ]
+    },
+    "example": "Er reagiert auf die Nachricht.",
+    "id": "reagieren-auf-akkusativ"
+  },
+  {
+    "verb": "suchen",
+    "preposition": "nach",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "искать"
+      ],
+      "en": [
+        "to search for"
+      ],
+      "ar": [
+        "يبحث عن"
+      ]
+    },
+    "example": "Ich suche nach meinem Schlüssel.",
+    "id": "suchen-nach-dativ"
+  },
+  {
+    "verb": "sich gewöhnen",
+    "preposition": "an",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "привыкать к"
+      ],
+      "en": [
+        "to get used to"
+      ],
+      "ar": [
+        "يعتاد على"
+      ]
+    },
+    "example": "Wir gewöhnen uns an die neue Wohnung.",
+    "id": "sich-gewöhnen-an-akkusativ"
+  },
+  {
+    "verb": "sich verabreden",
+    "preposition": "mit",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "договариваться о встрече с"
+      ],
+      "en": [
+        "to arrange to meet with"
+      ],
+      "ar": [
+        "يتفق على لقاء مع"
+      ]
+    },
+    "example": "Ich verabrede mich mit meinem Freund.",
+    "id": "sich-verabreden-mit-dativ"
+  },
+  {
+    "verb": "sich verabreden",
+    "preposition": "zu",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "договориться встретиться на/для"
+      ],
+      "en": [
+        "to arrange to meet for"
+      ],
+      "ar": [
+        "يتفق على اللقاء من أجل"
+      ]
+    },
+    "example": "Wir verabreden uns zum Essen.",
+    "id": "sich-verabreden-zu-dativ"
+  },
+  {
+    "verb": "träumen",
+    "preposition": "von",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "мечтать о"
+      ],
+      "en": [
+        "to dream of"
+      ],
+      "ar": [
+        "يحلم بـ"
+      ]
+    },
+    "example": "Sie träumt von einer Reise.",
+    "id": "träumen-von-dativ"
+  },
+  {
+    "verb": "zufrieden sein",
+    "preposition": "mit",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "быть довольным чем-то"
+      ],
+      "en": [
+        "to be satisfied with"
+      ],
+      "ar": [
+        "يكون راضيًا عن"
+      ]
+    },
+    "example": "Ich bin mit dem Ergebnis zufrieden.",
+    "id": "zufrieden-sein-mit-dativ"
+  },
+  {
+    "verb": "sich ärgern",
+    "preposition": "über",
+    "case": "Akkusativ",
+    "translation": {
+      "ru": [
+        "злиться из-за",
+        "сердиться из-за"
+      ],
+      "en": [
+        "to be annoyed about"
+      ],
+      "ar": [
+        "ينزعج من"
+      ]
+    },
+    "example": "Er ärgert sich über den Fehler.",
+    "id": "sich-ärgern-über-akkusativ"
+  },
+  {
+    "verb": "sich treffen",
+    "preposition": "mit",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "встречаться с"
+      ],
+      "en": [
+        "to meet with"
+      ],
+      "ar": [
+        "يلتقي بـ"
+      ]
+    },
+    "example": "Ich treffe mich mit meiner Freundin.",
+    "id": "sich-treffen-mit-dativ"
+  },
+  {
+    "verb": "sich treffen",
+    "preposition": "zu",
+    "case": "Dativ",
+    "translation": {
+      "ru": [
+        "встречаться на/для"
+      ],
+      "en": [
+        "to meet for"
+      ],
+      "ar": [
+        "يلتقي من أجل"
+      ]
+    },
+    "example": "Wir treffen uns zum Kaffee.",
+    "id": "sich-treffen-zu-dativ"
+  }
+]
