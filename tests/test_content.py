@@ -12,24 +12,52 @@ from wort_content.validator import ContentValidationError, validate_published, v
 ROOT = Path(__file__).resolve().parents[1]
 
 
+def _source_counts() -> dict[str, int]:
+    source = ROOT / "data/source"
+    book_paths = sorted((source / "coursebooks").glob("*/book.json"))
+    exercise_paths = sorted((source / "exercises").glob("*/exercise.json"))
+
+    modules = [
+        (book_path.parent / module["file"])
+        for book_path in book_paths
+        for module in json.loads(book_path.read_text(encoding="utf-8"))["modules"]
+    ]
+    exercise_words = [
+        exercise_path.parent
+        / json.loads(exercise_path.read_text(encoding="utf-8")).get(
+            "wordsFile", "words.json"
+        )
+        for exercise_path in exercise_paths
+    ]
+
+    return {
+        "coursebooks": len(book_paths),
+        "modules": len(modules),
+        "words": sum(
+            len(json.loads(path.read_text(encoding="utf-8"))) for path in modules
+        ),
+        "exercises": len(exercise_paths),
+        "exerciseWords": sum(
+            len(json.loads(path.read_text(encoding="utf-8")))
+            for path in exercise_words
+        ),
+    }
+
+
 def test_checked_in_source_is_valid() -> None:
     counts = validate_source(ROOT / "data/source")
-    assert counts == {
-        "coursebooks": 5,
-        "modules": 37,
-        "words": 2759,
-        "exercises": 1,
-        "exerciseWords": 39,
-    }
+    assert counts == _source_counts()
 
 
 def test_build_produces_verified_manifest(tmp_path: Path) -> None:
     output = tmp_path / "published"
+    expected_counts = _source_counts()
     result = build_content(ROOT / "data/source", output)
-    assert result["coursebooks"] == 5
+    assert {key: result[key] for key in expected_counts} == expected_counts
     validate_published(output)
     manifest = json.loads((output / "manifest.json").read_text(encoding="utf-8"))
-    assert manifest["catalog"]["sourceCount"] == 6
+    expected_source_count = result["coursebooks"] + result["exercises"]
+    assert manifest["catalog"]["sourceCount"] == expected_source_count
 
 
 def test_duplicate_word_id_is_rejected(tmp_path: Path) -> None:
