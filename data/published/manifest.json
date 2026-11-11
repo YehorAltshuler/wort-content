@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "datasetVersion": "2026-08-05.174207",
-  "generatedAt": "2026-08-05T17:42:07.121959Z",
+  "datasetVersion": "2026-11-11.115019",
+  "generatedAt": "2026-11-11T11:50:19.664687Z",
   "minimumAppVersion": "1.0.0",
   "catalog": {
     "url": "catalog.json",
-    "sha256": "d9d3cfd6c90c0249d9e662659655856adf2f216dc667d203d7ef272db34302a3",
-    "sourceCount": 6
+    "sha256": "ebd57f6ddc921d6e63750daedea09c762bd3347da18b24dd7ca5d9dace133260",
+    "sourceCount": 7
   },
   "counts": {
-    "coursebooks": 5,
-    "modules": 37,
-    "words": 2759,
+    "coursebooks": 6,
+    "modules": 38,
+    "words": 2839,
     "exercises": 1,
     "exerciseWords": 39
   }

@@ -1,43 +1,49 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-08-05.174207",
-  "generatedAt": "2026-08-05T17:42:07.121959Z",
+  "contentVersion": "2026-11-11.115019",
+  "generatedAt": "2026-11-11T11:50:19.664687Z",
   "sources": [
+    {
+      "id": "aspekte-beruf-b2",
+      "type": "coursebook",
+      "url": "coursebooks/aspekte-beruf-b2/book.json",
+      "sha256": "86f80c2ccec27f3ee16e5d2f7fd8137699bee67fbe5f747e353f498b50921764"
+    },
     {
       "id": "leben-in-deutschland",
       "type": "coursebook",
       "url": "coursebooks/leben-in-deutschland/book.json",
-      "sha256": "136448c9c3693373a90be0ece39756c980926724d8513113f6870c06b65d1bd2"
+      "sha256": "aef515049ae1c5d13644e207de1da15f1de3f3f245883e9b877eeac1621aaf6c"
     },
     {
       "id": "schritt-für-schritt-zum-dtz",
       "type": "coursebook",
       "url": "coursebooks/schritt-für-schritt-zum-dtz/book.json",
-      "sha256": "fa4bc90eae9483a78300d697364d4891b38780735590d7c3d3f1851c8c7dd6a2"
+      "sha256": "ab68f4590e95205e49e93348f3ec2c0cd14da2b19a54dbc08817e9681be3af40"
     },
     {
       "id": "schritte-plus-neu-a1-1",
       "type": "coursebook",
       "url": "coursebooks/schritte-plus-neu-a1-1/book.json",
-      "sha256": "06d6220f86a5a0560eb98ce29961f75bae3ef0988e9edad7ad9240fceb140e32"
+      "sha256": "6965c07af1f3bf89e64e6f0d3d8281a67e6c96cc59dc4f0f6640a26bb6c28a8f"
     },
     {
       "id": "schritte-plus-neu-a1-2",
       "type": "coursebook",
       "url": "coursebooks/schritte-plus-neu-a1-2/book.json",
-      "sha256": "7c2e13bafde0a281430d57e0939925272925c2dfdddb796457fb51e498fdebbe"
+      "sha256": "700c8ef09eb3cf06dadcee383305926dcd89f1590d01a4386ecbcd6e75499ae7"
     },
     {
       "id": "schritte-plus-neu-a2-1",
       "type": "coursebook",
       "url": "coursebooks/schritte-plus-neu-a2-1/book.json",
-      "sha256": "527669204e611b2452c6430cd8b026feb5f97bd7bc1230e26130d0a4b215c25e"
+      "sha256": "64571323afba1c1eabf4bead3bea91012deffa09d105264d6892d4251e83660b"
     },
     {
       "id": "fixed-preposition-verbs",
       "type": "exercise",
       "url": "exercises/fixed-preposition-verbs/exercise.json",
-      "sha256": "3e56edde503058c3bd2fc8b4a4afccba14e55b9357b41ec018d37f85738e23a7"
+      "sha256": "cb864c31ee570fcc1fd086a070d261ef470a128b6f311ae33841dad6d99d61a4"
     }
   ]
 }

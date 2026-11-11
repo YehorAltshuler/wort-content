@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026-11-11.115019",
+  "id": "aspekte-beruf-b2",
+  "title": "Aspekte Beruf B2",
+  "level": "B2",
+  "modules": [
+    {
+      "id": "module1",
+      "title": "Modul 1: Arbeitswelt",
+      "url": "coursebooks/aspekte-beruf-b2/module1.json",
+      "sha256": "06a4de57c9ed218a22040b6ee7fd5864abc8d777241a341b1fbf66b0ee822826",
+      "count": 80
+    }
+  ]
+}

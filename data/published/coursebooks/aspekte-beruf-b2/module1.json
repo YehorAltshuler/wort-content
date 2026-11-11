@@ -1,0 +1,1434 @@
+[
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Hausmeister",
+    "plural": "Hausmeister",
+    "dictionaryId": "hausmeister",
+    "translation": {
+      "ru": [
+        "управляющий зданием",
+        "завхоз"
+      ],
+      "en": [
+        "caretaker",
+        "building manager"
+      ]
+    },
+    "id": "hausmeister"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Hausmeisterin",
+    "plural": "Hausmeisterinnen",
+    "dictionaryId": "hausmeisterin",
+    "translation": {
+      "ru": [
+        "управляющая зданием",
+        "завхоз"
+      ],
+      "en": [
+        "female caretaker",
+        "building manager"
+      ]
+    },
+    "id": "hausmeisterin"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Service",
+    "plural": "Services",
+    "dictionaryId": "service",
+    "translation": {
+      "ru": [
+        "сервис",
+        "обслуживание"
+      ],
+      "en": [
+        "service"
+      ]
+    },
+    "id": "service"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Manager",
+    "plural": "Manager",
+    "dictionaryId": "manager",
+    "translation": {
+      "ru": [
+        "менеджер",
+        "руководитель"
+      ],
+      "en": [
+        "manager"
+      ]
+    },
+    "id": "manager"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Managerin",
+    "plural": "Managerinnen",
+    "dictionaryId": "managerin",
+    "translation": {
+      "ru": [
+        "менеджер",
+        "руководительница"
+      ],
+      "en": [
+        "female manager"
+      ]
+    },
+    "id": "managerin"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Management",
+    "plural": "Managements",
+    "dictionaryId": "management",
+    "translation": {
+      "ru": [
+        "менеджмент",
+        "управление"
+      ],
+      "en": [
+        "management"
+      ]
+    },
+    "id": "management"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Behandlung",
+    "plural": "Behandlungen",
+    "dictionaryId": "behandlung",
+    "translation": {
+      "ru": [
+        "лечение",
+        "обращение"
+      ],
+      "en": [
+        "treatment"
+      ]
+    },
+    "id": "behandlung"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Befund",
+    "plural": "Befunde",
+    "dictionaryId": "befund",
+    "translation": {
+      "ru": [
+        "результат обследования",
+        "заключение"
+      ],
+      "en": [
+        "medical finding",
+        "report"
+      ]
+    },
+    "id": "befund"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Rezeption",
+    "plural": "Rezeptionen",
+    "dictionaryId": "rezeption",
+    "translation": {
+      "ru": [
+        "стойка регистрации",
+        "ресепшен"
+      ],
+      "en": [
+        "reception desk"
+      ]
+    },
+    "id": "rezeption"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Arbeitsort",
+    "plural": "Arbeitsorte",
+    "dictionaryId": "arbeitsort",
+    "translation": {
+      "ru": [
+        "место работы"
+      ],
+      "en": [
+        "workplace",
+        "place of work"
+      ]
+    },
+    "id": "arbeitsort"
+  },
+  {
+    "type": "verb",
+    "infinitive": "pendeln",
+    "dictionaryId": "pendeln",
+    "translation": {
+      "ru": [
+        "ездить на работу из другого города",
+        "совершать регулярные поездки"
+      ],
+      "en": [
+        "to commute"
+      ]
+    },
+    "id": "pendeln"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Entfernung",
+    "plural": "Entfernungen",
+    "dictionaryId": "entfernung",
+    "translation": {
+      "ru": [
+        "расстояние",
+        "удалённость"
+      ],
+      "en": [
+        "distance"
+      ]
+    },
+    "id": "entfernung"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Standort",
+    "plural": "Standorte",
+    "dictionaryId": "standort",
+    "translation": {
+      "ru": [
+        "местоположение",
+        "площадка",
+        "филиал"
+      ],
+      "en": [
+        "location",
+        "site"
+      ]
+    },
+    "id": "standort"
+  },
+  {
+    "type": "verb",
+    "infinitive": "im Homeoffice arbeiten",
+    "translation": {
+      "ru": [
+        "работать из дома",
+        "работать удалённо"
+      ],
+      "en": [
+        "to work from home",
+        "to work remotely"
+      ]
+    },
+    "id": "im homeoffice arbeiten"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Wechsel",
+    "plural": "Wechsel",
+    "dictionaryId": "wechsel",
+    "translation": {
+      "ru": [
+        "смена",
+        "изменение",
+        "переход"
+      ],
+      "en": [
+        "change",
+        "switch"
+      ]
+    },
+    "id": "wechsel"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Aufenthaltserlaubnis",
+    "plural": "Aufenthaltserlaubnisse",
+    "dictionaryId": "aufenthaltserlaubnis",
+    "translation": {
+      "ru": [
+        "вид на жительство",
+        "разрешение на пребывание"
+      ],
+      "en": [
+        "residence permit"
+      ]
+    },
+    "id": "aufenthaltserlaubnis"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Arbeitserlaubnis",
+    "plural": "Arbeitserlaubnisse",
+    "dictionaryId": "arbeitserlaubnis",
+    "translation": {
+      "ru": [
+        "разрешение на работу"
+      ],
+      "en": [
+        "work permit"
+      ]
+    },
+    "id": "arbeitserlaubnis"
+  },
+  {
+    "type": "other",
+    "word": "arbeitssuchend",
+    "dictionaryId": "arbeitssuchend",
+    "translation": {
+      "ru": [
+        "ищущий работу",
+        "находящийся в поиске работы"
+      ],
+      "en": [
+        "seeking work",
+        "job-seeking"
+      ]
+    },
+    "id": "arbeitssuchend"
+  },
+  {
+    "type": "verb",
+    "infinitive": "sich arbeitslos melden",
+    "translation": {
+      "ru": [
+        "зарегистрироваться безработным"
+      ],
+      "en": [
+        "to register as unemployed"
+      ]
+    },
+    "id": "sich arbeitslos melden"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Behörde",
+    "plural": "Behörden",
+    "dictionaryId": "behörde",
+    "translation": {
+      "ru": [
+        "ведомство",
+        "государственный орган"
+      ],
+      "en": [
+        "authority",
+        "government office"
+      ]
+    },
+    "id": "behörde"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Berufsberater",
+    "plural": "Berufsberater",
+    "dictionaryId": "berufsberater",
+    "translation": {
+      "ru": [
+        "консультант по вопросам профессии"
+      ],
+      "en": [
+        "career adviser"
+      ]
+    },
+    "id": "berufsberater"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Berufsberaterin",
+    "plural": "Berufsberaterinnen",
+    "dictionaryId": "berufsberaterin",
+    "translation": {
+      "ru": [
+        "консультантка по вопросам профессии"
+      ],
+      "en": [
+        "career adviser"
+      ]
+    },
+    "id": "berufsberaterin"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Unterlagen",
+    "plural": "Unterlagen",
+    "dictionaryId": "unterlagen",
+    "translation": {
+      "ru": [
+        "документы",
+        "материалы"
+      ],
+      "en": [
+        "documents",
+        "papers"
+      ]
+    },
+    "id": "unterlagen"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Meldebestätigung",
+    "plural": "Meldebestätigungen",
+    "dictionaryId": "meldebestätigung",
+    "translation": {
+      "ru": [
+        "подтверждение регистрации"
+      ],
+      "en": [
+        "registration confirmation"
+      ]
+    },
+    "id": "meldebestätigung"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Sozialversicherungsnummer",
+    "plural": "Sozialversicherungsnummern",
+    "dictionaryId": "sozialversicherungsnummer",
+    "translation": {
+      "ru": [
+        "номер социального страхования"
+      ],
+      "en": [
+        "social security number"
+      ]
+    },
+    "id": "sozialversicherungsnummer"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Arbeitgeber",
+    "plural": "Arbeitgeber",
+    "dictionaryId": "arbeitgeber",
+    "translation": {
+      "ru": [
+        "работодатель"
+      ],
+      "en": [
+        "employer"
+      ]
+    },
+    "id": "arbeitgeber"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Arbeitnehmer",
+    "plural": "Arbeitnehmer",
+    "dictionaryId": "arbeitnehmer",
+    "translation": {
+      "ru": [
+        "работник",
+        "наёмный работник"
+      ],
+      "en": [
+        "employee"
+      ]
+    },
+    "id": "arbeitnehmer"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Arbeitnehmerin",
+    "plural": "Arbeitnehmerinnen",
+    "dictionaryId": "arbeitnehmerin",
+    "translation": {
+      "ru": [
+        "работница",
+        "наёмная работница"
+      ],
+      "en": [
+        "female employee"
+      ]
+    },
+    "id": "arbeitnehmerin"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Arbeitsweise",
+    "plural": "Arbeitsweisen",
+    "dictionaryId": "arbeitsweise",
+    "translation": {
+      "ru": [
+        "метод работы",
+        "способ работы"
+      ],
+      "en": [
+        "way of working",
+        "working method"
+      ]
+    },
+    "id": "arbeitsweise"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Eigenverantwortung",
+    "plural": "Eigenverantwortungen",
+    "dictionaryId": "eigenverantwortung",
+    "translation": {
+      "ru": [
+        "личная ответственность",
+        "самостоятельность"
+      ],
+      "en": [
+        "personal responsibility"
+      ]
+    },
+    "id": "eigenverantwortung"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Fachkenntnisse",
+    "plural": "Fachkenntnisse",
+    "dictionaryId": "fachkenntnisse",
+    "translation": {
+      "ru": [
+        "профессиональные знания",
+        "специальные знания"
+      ],
+      "en": [
+        "specialist knowledge",
+        "professional knowledge"
+      ]
+    },
+    "id": "fachkenntnisse"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kompetenz",
+    "plural": "Kompetenzen",
+    "dictionaryId": "kompetenz",
+    "translation": {
+      "ru": [
+        "компетенция",
+        "навык"
+      ],
+      "en": [
+        "competence",
+        "skill"
+      ]
+    },
+    "id": "kompetenz"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Buchhaltung",
+    "plural": "Buchhaltungen",
+    "dictionaryId": "buchhaltung",
+    "translation": {
+      "ru": [
+        "бухгалтерия",
+        "ведение бухгалтерского учёта"
+      ],
+      "en": [
+        "accounting",
+        "bookkeeping"
+      ]
+    },
+    "id": "buchhaltung"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Finanzen",
+    "plural": "Finanzen",
+    "dictionaryId": "finanzen",
+    "translation": {
+      "ru": [
+        "финансы"
+      ],
+      "en": [
+        "finances"
+      ]
+    },
+    "id": "finanzen"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Ausbildung",
+    "plural": "Ausbildungen",
+    "dictionaryId": "ausbildung",
+    "translation": {
+      "ru": [
+        "профессиональное образование",
+        "обучение"
+      ],
+      "en": [
+        "vocational training",
+        "education"
+      ]
+    },
+    "id": "ausbildung"
+  },
+  {
+    "type": "verb",
+    "infinitive": "das Team verstärken",
+    "translation": {
+      "ru": [
+        "усилить команду",
+        "пополнить команду"
+      ],
+      "en": [
+        "to strengthen the team"
+      ]
+    },
+    "id": "das team verstärken"
+  },
+  {
+    "type": "verb",
+    "infinitive": "sich wenden an",
+    "translation": {
+      "ru": [
+        "обращаться к кому-либо"
+      ],
+      "en": [
+        "to turn to",
+        "to contact"
+      ]
+    },
+    "id": "sich wenden an"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Stelle",
+    "plural": "Stellen",
+    "dictionaryId": "stelle",
+    "translation": {
+      "ru": [
+        "должность",
+        "рабочее место",
+        "вакансия"
+      ],
+      "en": [
+        "position",
+        "job",
+        "vacancy"
+      ]
+    },
+    "id": "stelle"
+  },
+  {
+    "type": "other",
+    "word": "abwechselnd",
+    "dictionaryId": "abwechselnd",
+    "translation": {
+      "ru": [
+        "поочерёдно",
+        "попеременно"
+      ],
+      "en": [
+        "alternately",
+        "in turn"
+      ]
+    },
+    "id": "abwechselnd"
+  },
+  {
+    "type": "verb",
+    "infinitive": "sich gewöhnen an",
+    "translation": {
+      "ru": [
+        "привыкать к чему-либо"
+      ],
+      "en": [
+        "to get used to"
+      ]
+    },
+    "id": "sich gewöhnen an"
+  },
+  {
+    "type": "verb",
+    "infinitive": "stören",
+    "dictionaryId": "stören",
+    "translation": {
+      "ru": [
+        "мешать",
+        "беспокоить"
+      ],
+      "en": [
+        "to disturb",
+        "to bother"
+      ]
+    },
+    "id": "stören"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Netzwerk",
+    "plural": "Netzwerke",
+    "dictionaryId": "netzwerk",
+    "translation": {
+      "ru": [
+        "сеть",
+        "профессиональные связи"
+      ],
+      "en": [
+        "network"
+      ]
+    },
+    "id": "netzwerk"
+  },
+  {
+    "type": "other",
+    "word": "effektiv",
+    "dictionaryId": "effektiv",
+    "translation": {
+      "ru": [
+        "эффективный"
+      ],
+      "en": [
+        "effective"
+      ]
+    },
+    "id": "effektiv"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Bescheid",
+    "plural": "Bescheide",
+    "dictionaryId": "bescheid",
+    "translation": {
+      "ru": [
+        "официальное уведомление",
+        "решение ведомства"
+      ],
+      "en": [
+        "official notice",
+        "decision"
+      ]
+    },
+    "id": "bescheid"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Reisekosten",
+    "plural": "Reisekosten",
+    "dictionaryId": "reisekosten",
+    "translation": {
+      "ru": [
+        "командировочные расходы",
+        "расходы на поездку"
+      ],
+      "en": [
+        "travel expenses"
+      ]
+    },
+    "id": "reisekosten"
+  },
+  {
+    "type": "verb",
+    "infinitive": "jdm. die Fahrtkosten erstatten",
+    "translation": {
+      "ru": [
+        "возмещать кому-либо расходы на проезд"
+      ],
+      "en": [
+        "to reimburse someone for travel costs"
+      ]
+    },
+    "id": "jdm. die fahrtkosten erstatten"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Pflicht",
+    "plural": "Pflichten",
+    "dictionaryId": "pflicht",
+    "translation": {
+      "ru": [
+        "обязанность",
+        "долг"
+      ],
+      "en": [
+        "duty",
+        "obligation"
+      ]
+    },
+    "id": "pflicht"
+  },
+  {
+    "type": "other",
+    "word": "befristet",
+    "dictionaryId": "befristet",
+    "translation": {
+      "ru": [
+        "срочный",
+        "ограниченный по сроку"
+      ],
+      "en": [
+        "fixed-term",
+        "limited in time"
+      ]
+    },
+    "id": "befristet"
+  },
+  {
+    "type": "verb",
+    "infinitive": "sich bemühen um",
+    "translation": {
+      "ru": [
+        "стараться получить",
+        "прилагать усилия ради"
+      ],
+      "en": [
+        "to make an effort to get",
+        "to strive for"
+      ]
+    },
+    "id": "sich bemühen um"
+  },
+  {
+    "type": "verb",
+    "infinitive": "einen Termin wahrnehmen",
+    "translation": {
+      "ru": [
+        "прийти на встречу",
+        "посетить назначенный приём"
+      ],
+      "en": [
+        "to attend an appointment"
+      ]
+    },
+    "id": "einen termin wahrnehmen"
+  },
+  {
+    "type": "other",
+    "word": "verhindert",
+    "dictionaryId": "verhindert",
+    "translation": {
+      "ru": [
+        "занятый",
+        "не имеющий возможности прийти"
+      ],
+      "en": [
+        "unable to attend",
+        "unavailable"
+      ]
+    },
+    "id": "verhindert"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Teamfähigkeit",
+    "plural": "Teamfähigkeiten",
+    "dictionaryId": "teamfähigkeit",
+    "translation": {
+      "ru": [
+        "умение работать в команде"
+      ],
+      "en": [
+        "teamworking ability"
+      ]
+    },
+    "id": "teamfähigkeit"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Selbstvertrauen",
+    "plural": "Selbstvertrauen",
+    "dictionaryId": "selbstvertrauen",
+    "translation": {
+      "ru": [
+        "уверенность в себе"
+      ],
+      "en": [
+        "self-confidence"
+      ]
+    },
+    "id": "selbstvertrauen"
+  },
+  {
+    "type": "other",
+    "word": "strukturiert",
+    "dictionaryId": "strukturiert",
+    "translation": {
+      "ru": [
+        "структурированный",
+        "организованный"
+      ],
+      "en": [
+        "structured",
+        "organized"
+      ]
+    },
+    "id": "strukturiert"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Umgang mit",
+    "plural": "Umgänge",
+    "translation": {
+      "ru": [
+        "обращение с",
+        "взаимодействие с"
+      ],
+      "en": [
+        "dealing with",
+        "interaction with"
+      ]
+    },
+    "id": "umgang mit"
+  },
+  {
+    "type": "verb",
+    "infinitive": "verlangen von",
+    "translation": {
+      "ru": [
+        "требовать от"
+      ],
+      "en": [
+        "to demand from",
+        "to require of"
+      ]
+    },
+    "id": "verlangen von"
+  },
+  {
+    "type": "verb",
+    "infinitive": "vermitteln",
+    "dictionaryId": "vermitteln",
+    "translation": {
+      "ru": [
+        "передавать",
+        "посредничать",
+        "предоставлять"
+      ],
+      "en": [
+        "to convey",
+        "to mediate",
+        "to provide"
+      ]
+    },
+    "id": "vermitteln"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kundenorientierung",
+    "plural": "Kundenorientierungen",
+    "dictionaryId": "kundenorientierung",
+    "translation": {
+      "ru": [
+        "ориентация на клиента"
+      ],
+      "en": [
+        "customer focus"
+      ]
+    },
+    "id": "kundenorientierung"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kundenbetreuung",
+    "plural": "Kundenbetreuungen",
+    "dictionaryId": "kundenbetreuung",
+    "translation": {
+      "ru": [
+        "обслуживание клиентов",
+        "поддержка клиентов"
+      ],
+      "en": [
+        "customer service",
+        "customer support"
+      ]
+    },
+    "id": "kundenbetreuung"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Konflikt",
+    "plural": "Konflikte",
+    "dictionaryId": "konflikt",
+    "translation": {
+      "ru": [
+        "конфликт"
+      ],
+      "en": [
+        "conflict"
+      ]
+    },
+    "id": "konflikt"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Kritikfähigkeit",
+    "plural": "Kritikfähigkeiten",
+    "dictionaryId": "kritikfähigkeit",
+    "translation": {
+      "ru": [
+        "умение воспринимать критику"
+      ],
+      "en": [
+        "ability to accept criticism"
+      ]
+    },
+    "id": "kritikfähigkeit"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Anerkennung",
+    "plural": "Anerkennungen",
+    "dictionaryId": "anerkennung",
+    "translation": {
+      "ru": [
+        "признание",
+        "подтверждение"
+      ],
+      "en": [
+        "recognition",
+        "acknowledgment"
+      ]
+    },
+    "id": "anerkennung"
+  },
+  {
+    "type": "verb",
+    "infinitive": "den Abschluss anerkennen lassen",
+    "translation": {
+      "ru": [
+        "добиться признания диплома",
+        "подтвердить полученное образование"
+      ],
+      "en": [
+        "to have a qualification recognized"
+      ]
+    },
+    "id": "den abschluss anerkennen lassen"
+  },
+  {
+    "type": "verb",
+    "infinitive": "einen Antrag einreichen",
+    "translation": {
+      "ru": [
+        "подать заявление"
+      ],
+      "en": [
+        "to submit an application"
+      ]
+    },
+    "id": "einen antrag einreichen"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Antragsteller",
+    "plural": "Antragsteller",
+    "dictionaryId": "antragsteller",
+    "translation": {
+      "ru": [
+        "заявитель"
+      ],
+      "en": [
+        "applicant"
+      ]
+    },
+    "id": "antragsteller"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Antragstellerin",
+    "plural": "Antragstellerinnen",
+    "dictionaryId": "antragstellerin",
+    "translation": {
+      "ru": [
+        "заявительница"
+      ],
+      "en": [
+        "female applicant"
+      ]
+    },
+    "id": "antragstellerin"
+  },
+  {
+    "type": "verb",
+    "infinitive": "einen Beruf ausüben",
+    "translation": {
+      "ru": [
+        "работать по профессии",
+        "заниматься профессиональной деятельностью"
+      ],
+      "en": [
+        "to practise a profession",
+        "to work in an occupation"
+      ]
+    },
+    "id": "einen beruf ausüben"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "der"
+    ],
+    "word": "Berufsabschluss",
+    "plural": "Berufsabschlüsse",
+    "dictionaryId": "berufsabschluss",
+    "translation": {
+      "ru": [
+        "профессиональная квалификация",
+        "диплом о профессиональном образовании"
+      ],
+      "en": [
+        "vocational qualification"
+      ]
+    },
+    "id": "berufsabschluss"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Berufsqualifikation",
+    "plural": "Berufsqualifikationen",
+    "dictionaryId": "berufsqualifikation",
+    "translation": {
+      "ru": [
+        "профессиональная квалификация"
+      ],
+      "en": [
+        "professional qualification"
+      ]
+    },
+    "id": "berufsqualifikation"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Zeugnis",
+    "plural": "Zeugnisse",
+    "dictionaryId": "zeugnis",
+    "translation": {
+      "ru": [
+        "свидетельство",
+        "аттестат",
+        "характеристика"
+      ],
+      "en": [
+        "certificate",
+        "reference"
+      ]
+    },
+    "id": "zeugnis"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Beurteilung",
+    "plural": "Beurteilungen",
+    "dictionaryId": "beurteilung",
+    "translation": {
+      "ru": [
+        "оценка",
+        "заключение"
+      ],
+      "en": [
+        "assessment",
+        "evaluation"
+      ]
+    },
+    "id": "beurteilung"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Zeitmanagement",
+    "plural": "Zeitmanagements",
+    "dictionaryId": "zeitmanagement",
+    "translation": {
+      "ru": [
+        "управление временем"
+      ],
+      "en": [
+        "time management"
+      ]
+    },
+    "id": "zeitmanagement"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Berufsurkunde",
+    "plural": "Berufsurkunden",
+    "dictionaryId": "berufsurkunde",
+    "translation": {
+      "ru": [
+        "документ о профессиональной квалификации"
+      ],
+      "en": [
+        "professional licence certificate"
+      ]
+    },
+    "id": "berufsurkunde"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Berufszulassung",
+    "plural": "Berufszulassungen",
+    "dictionaryId": "berufszulassung",
+    "translation": {
+      "ru": [
+        "допуск к профессии",
+        "лицензия на профессиональную деятельность"
+      ],
+      "en": [
+        "professional licence",
+        "authorization to practise"
+      ]
+    },
+    "id": "berufszulassung"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Dokument",
+    "plural": "Dokumente",
+    "dictionaryId": "dokument",
+    "translation": {
+      "ru": [
+        "документ"
+      ],
+      "en": [
+        "document"
+      ]
+    },
+    "id": "dokument"
+  },
+  {
+    "type": "other",
+    "word": "erforderlich",
+    "dictionaryId": "erforderlich",
+    "translation": {
+      "ru": [
+        "необходимый",
+        "требуемый"
+      ],
+      "en": [
+        "required",
+        "necessary"
+      ]
+    },
+    "id": "erforderlich"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Herkunftsland",
+    "plural": "Herkunftsländer",
+    "dictionaryId": "herkunftsland",
+    "translation": {
+      "ru": [
+        "страна происхождения"
+      ],
+      "en": [
+        "country of origin"
+      ]
+    },
+    "id": "herkunftsland"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "die"
+    ],
+    "word": "Unterstützung",
+    "plural": "Unterstützungen",
+    "dictionaryId": "unterstützung",
+    "translation": {
+      "ru": [
+        "поддержка",
+        "помощь"
+      ],
+      "en": [
+        "support",
+        "assistance"
+      ]
+    },
+    "id": "unterstützung"
+  },
+  {
+    "type": "noun",
+    "article": [
+      "das"
+    ],
+    "word": "Verfahren",
+    "plural": "Verfahren",
+    "dictionaryId": "verfahren",
+    "translation": {
+      "ru": [
+        "процедура",
+        "порядок"
+      ],
+      "en": [
+        "procedure",
+        "process"
+      ]
+    },
+    "id": "verfahren"
+  },
+  {
+    "type": "verb",
+    "infinitive": "verlängern",
+    "dictionaryId": "verlängern",
+    "translation": {
+      "ru": [
+        "продлевать"
+      ],
+      "en": [
+        "to extend",
+        "to renew"
+      ]
+    },
+    "id": "verlängern"
+  }
+]
